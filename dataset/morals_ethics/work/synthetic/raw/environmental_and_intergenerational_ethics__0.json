@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Coal Plant Closure Versus Mining Town Jobs",
+  "scenario": "Minister Agnieszka Dorsch in Poland must decide whether to close the Wielka Gora coal plant five years early. Early closure would cut emissions meaningfully and meet a binding climate target, but 2,300 workers and a town of 14,000 depend on it, and retraining funds cover only a third of them. Delaying closure keeps wages flowing but locks in emissions that future generations will have to offset at higher cost. The cabinet votes on Friday and the unions have threatened a regional shutdown.",
+  "options": [
+   "Close the plant on the early schedule, accepting hardship for the town to protect the long-term climate trajectory.",
+   "Keep the plant running until its planned retirement date and invest the savings in a larger, slower transition programme.",
+   "Close it early but delay the closure by two years, paired with guaranteed wage support that strains the national budget."
+  ],
+  "tension": [
+   "present livelihoods vs. future climate",
+   "duty to future generations vs. duty to current citizens"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "A Seawall for Whom?",
+  "scenario": "Councillor Tevita Fonua oversees a small budget in a Tongan island district facing rising seas. He can fund a seawall that will protect the coastal village of 400 people for roughly forty years, or relocate residents inland, which preserves lives and safety for the next century but severs graves, fishing grounds and customary land ties. The seawall is cheaper per year now, while relocation costs a great deal upfront. Village elders are split, and a storm season is approaching.",
+  "options": [
+   "Build the seawall now, keeping the community on ancestral land while accepting that a later generation must face relocation anyway.",
+   "Begin a managed relocation immediately, accepting cultural loss now to spare descendants a forced and possibly dangerous retreat.",
+   "Fund a smaller seawall for the most vulnerable homes while planning a phased relocation over twenty years."
+  ],
+  "tension": [
+   "cultural continuity vs. long-term safety",
+   "present cost vs. future risk"
+  ],
+  "region": "Tonga"
+ },
+ {
+  "title": "Divesting a Wealth Fund from Oil",
+  "scenario": "Dr. Ingrid Solheim, a Norwegian sovereign wealth fund adviser, is asked whether the fund should divest fully from oil and gas holdings now. Divestment would signal climate seriousness and reduce exposure to a collapsing sector, but the current returns pay for pensions and health care for an ageing population over the next fifteen years. Holding the assets could slightly slow the energy transition, which affects children born today. She must deliver a recommendation to the parliamentary committee in three weeks.",
+  "options": [
+   "Recommend full divestment on a firm timetable, accepting lower returns and some strain on today's pension commitments.",
+   "Recommend gradual divestment tied to market conditions, preserving returns for current retirees while shifting capital over a decade.",
+   "Recommend retaining the holdings but using shareholder power to press firms toward faster decarbonisation."
+  ],
+  "tension": [
+   "intergenerational fairness vs. current welfare",
+   "moral purity vs. engagement"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "Rice Paddies and Methane",
+  "scenario": "Agricultural extension officer Linh Tran works in Vietnam's Mekong Delta, where an alternate wetting and drying technique could cut paddy methane by about a third. It also lowers yields by roughly 5 percent in dry years for farmers who already borrow against each harvest. A carbon-credit programme would pay part of the difference, but payments arrive late and may vanish if the credit market collapses. Linh must decide how strongly to promote adoption across her district of 3,000 smallholders this season.",
+  "options": [
+   "Promote the technique widely now, trusting that emissions cuts matter more than the risk of income loss for some farmers.",
+   "Offer the technique only to farmers who volunteer after hearing the full risks, accepting slower and smaller emissions cuts.",
+   "Delay promotion until guaranteed payments are secured, protecting household incomes at the cost of another year of emissions."
+  ],
+  "tension": [
+   "climate benefit vs. smallholder security",
+   "paternalism vs. voluntary choice"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "The Carbon Budget of a Cardiac Ward",
+  "scenario": "Hospital director Dr. Amara Okeke in Lagos is offered a donor-funded diesel generator and a solar array, but the donor can afford only one. The generator guarantees power for operating theatres and incubators during frequent grid failures, protecting patients tonight. The solar array with batteries would avoid decades of emissions and fuel costs but would leave gaps in power for at least the first year while financing is finalised. Hospital deaths during outages have occurred before. The donor wants an answer by month's end.",
+  "options": [
+   "Accept the diesel generator to ensure uninterrupted care now, accepting years of emissions and fuel dependency.",
+   "Accept the solar and battery system, tolerating a year of risk for patients to build a cleaner, cheaper system.",
+   "Accept the generator but negotiate a staged solar addition, risking donor withdrawal and a weaker overall package."
+  ],
+  "tension": [
+   "immediate patient safety vs. long-term sustainability",
+   "certainty vs. future benefit"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Geoengineering Trial Over the Sahel",
+  "scenario": "Professor Malik Haddad leads an advisory panel in Morocco on whether to permit a small stratospheric aerosol experiment over uninhabited desert. Modelling suggests it might reveal how to blunt future heatwaves for millions, yet it could alter rainfall patterns in neighbouring countries that have not been consulted, and might create a precedent that undermines emission cuts. The funder wants a decision within a month, and neighbouring states have asked for a delay.",
+  "options": [
+   "Approve the trial under strict monitoring, prioritising knowledge that could protect future populations from extreme heat.",
+   "Delay approval until neighbouring states and affected communities give consent, accepting that a research window may be lost.",
+   "Reject the trial and recommend redirecting funds to emission reductions and adaptation measures that carry fewer unknown risks."
+  ],
+  "tension": [
+   "potential future protection vs. consent of affected neighbours",
+   "precaution vs. innovation"
+  ],
+  "region": "Morocco"
+ },
+ {
+  "title": "Heirloom Orchard in a Warming Valley",
+  "scenario": "Fruit grower Mateo Quispe in Peru's Sacred Valley inherits a family orchard of old apricot varieties that will likely fail within thirty years as temperatures rise. Replanting with heat-tolerant stock would secure income for his children and the eleven workers he employs, but would end a cultivar lineage the community considers part of its identity. Grafting experts say he could preserve a few trees as a living archive, though they would use scarce water. He has one planting season to act.",
+  "options": [
+   "Replant the entire orchard with heat-tolerant stock, prioritising livelihoods for the workers and his children.",
+   "Keep the heirloom trees as long as they are viable, honouring community heritage and risking losses later.",
+   "Replant most of the orchard but keep a small heirloom plot, accepting reduced income and extra water use."
+  ],
+  "tension": [
+   "cultural heritage vs. economic adaptation",
+   "present identity vs. future security"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Discount Rate in a Flood Barrier Study",
+  "scenario": "Economist Helga Brandt in the Netherlands prepares the cost-benefit analysis for a new flood barrier. Using a standard discount rate of 3 percent, the barrier narrowly fails to pay for itself because benefits after 2100 are heavily discounted. A lower rate of 1 percent would justify construction and give more weight to people not yet born. The ministry has not instructed her which rate to use, and the project would take billions from other social programmes now. She must file the report by Monday.",
+  "options": [
+   "Use the standard 3 percent rate, keeping the analysis consistent with other public projects and current social spending priorities.",
+   "Use the lower 1 percent rate, giving future residents' safety greater weight even though it favours this project over others.",
+   "Present both rates prominently with no recommendation, leaving the political choice to ministers and risking misuse of the numbers."
+  ],
+  "tension": [
+   "present vs. future valuation",
+   "methodological consistency vs. fairness to descendants"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "Flight to the Funeral",
+  "scenario": "Climate scientist Dr. Yuki Matsuda in Japan has promised herself no more long-haul flights, having calculated her research group's travel emissions. Her mentor in Brazil, who trained her and shaped her career, is dying and has asked her to come. A video call is possible, but she knows he wanted her in the room. The round trip emits about as much as her whole yearly household. She has days to decide, and her colleagues will notice her choice.",
+  "options": [
+   "Fly to Brazil, honouring a personal debt and weighing one trip as small against a lifetime of low-emission choices.",
+   "Stay home and hold a long video call, keeping her commitment even though it costs her a deeply personal farewell.",
+   "Travel by a slower route combining sea and rail legs, arriving later and perhaps too late for a conversation."
+  ],
+  "tension": [
+   "personal loyalty vs. climate integrity",
+   "symbolic consistency vs. human relationship"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Lithium for Batteries, Water for Herders",
+  "scenario": "Mining company manager Rosalind Cuevas in northern Argentina can begin extracting lithium that supplies electric vehicle batteries for the next two decades. The brine operation will draw on groundwater that nearby Indigenous herding communities rely on, though hydrologists disagree on how much the water table will fall. The community assembly is divided, with younger members wanting jobs and elders fearing for their springs. Rosalind must choose a launch plan before investors withdraw their financing.",
+  "options": [
+   "Proceed with extraction at full scale, valuing the global emissions benefits and jobs while offering monitoring and compensation.",
+   "Proceed at half the planned volume with community-controlled water monitoring, reducing climate benefits and investor returns.",
+   "Postpone until the community gives free, informed consent through a binding vote, risking the project's collapse."
+  ],
+  "tension": [
+   "global decarbonisation vs. local water rights",
+   "consent vs. speed"
+  ],
+  "region": "Argentina"
+ },
+ {
+  "title": "The Teacher's Climate Anxiety Lesson",
+  "scenario": "Primary teacher Rukmini Iyer in Chennai is drafting a unit on climate change for nine-year-olds. Her principal asks her to keep it hopeful, but she knows the science suggests these children will live through serious disruption. Some parents want honest numbers while others fear nightmares. A recent pupil survey showed several children already worry about floods. She must decide how frankly to present projections of what their adult lives may look like.",
+  "options": [
+   "Present the projections candidly, trusting children to handle truth and treating them as future citizens who need to act.",
+   "Focus on solutions and local action with softened projections, protecting children's wellbeing at this age.",
+   "Offer the full facts in a graded way, letting each family opt into a more detailed second session."
+  ],
+  "tension": [
+   "honesty vs. protection",
+   "present wellbeing vs. future preparedness"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Grandmother's Wood Stove",
+  "scenario": "Village health worker Esi Mensah in northern Ghana is running a clean cookstove programme. Households switching to bottled gas would cut black carbon and indoor smoke, but gas costs more than free firewood, and many families will revert to wood when money is short. She can give out a limited number of stoves; distributing widely yields the largest climate gain on paper, while concentrating on households with children under five yields clearer health benefits. A funder will review the numbers next quarter.",
+  "options": [
+   "Distribute the stoves widely across the village, maximising the total reduction in emissions even if many families revert.",
+   "Concentrate stoves on households with young children and respiratory illness, accepting a smaller climate impact.",
+   "Distribute to willing households that commit to buying gas through a savings scheme, excluding the very poorest."
+  ],
+  "tension": [
+   "aggregate climate benefit vs. targeted health need",
+   "equity vs. efficiency"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Rewilding the Pension Forest",
+  "scenario": "Trustee Callum Reid chairs a Scottish community land trust that owns a hill estate of commercial spruce, planted to fund local pensions and a care home. Felling and replanting native woodland would store more carbon over eighty years and restore habitat but eliminate timber income for about twelve years, forcing cuts to the care budget for the elderly. Keeping the spruce yields steady funds but locks in a monoculture. The trust's members will vote next month.",
+  "options": [
+   "Convert to native woodland now, accepting temporary cuts to care in return for long-term ecological and carbon gains.",
+   "Continue the spruce rotation until the next harvest, protecting current residents' care and transitioning later.",
+   "Convert half the estate now and half at the next harvest, with a reduced benefit on both fronts."
+  ],
+  "tension": [
+   "elder care now vs. ecological legacy",
+   "community obligation vs. long-term stewardship"
+  ],
+  "region": "Scotland"
+ },
+ {
+  "title": "Cheap Cement for a School",
+  "scenario": "Civil engineer Bartholomew Adeyemi in Kenya is building a primary school for 600 children. Standard Portland cement is cheap and strong, while low-carbon alternatives cost about 18 percent more, which would mean one fewer classroom within the grant. Rural Kenya has few schools, and children currently study under trees during rains. He believes the emissions difference is modest relative to national totals but sees it as a matter of principle. The donor has not specified materials.",
+  "options": [
+   "Use standard cement and build the full set of classrooms, putting children's immediate learning needs first.",
+   "Use the low-carbon cement and build one fewer classroom, accepting more crowding for a cleaner project.",
+   "Use standard cement and ask the donor for an extra grant to offset emissions elsewhere, risking delay."
+  ],
+  "tension": [
+   "present educational need vs. climate responsibility",
+   "principle vs. proportion"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Glacier Water for the Lower Valley",
+  "scenario": "Water authority head Sanjar Rakhimov in Tajikistan faces melting glaciers that currently provide extra summer flow. Farmers downstream want him to expand irrigation canals now to use the surge while it lasts, raising harvests and incomes. Hydrologists warn that flows will fall sharply in thirty years, leaving the expanded fields and the families on them dependent on water that will not exist. He can build the canals, save the money for storage projects, or split the budget.",
+  "options": [
+   "Expand irrigation now to raise incomes while water is plentiful, accepting that future adjustment will be harder.",
+   "Invest the funds in storage and efficiency, holding down expansion so future communities are less exposed to shortage.",
+   "Expand modestly with a rule that new lands lose water priority first when flows decline."
+  ],
+  "tension": [
+   "present prosperity vs. future scarcity",
+   "growth vs. resilience"
+  ],
+  "region": "Tajikistan"
+ },
+ {
+  "title": "Selling Carbon Rights on Ancestral Forest",
+  "scenario": "Chief Wanjiru Kamau-Ortiz, elected leader of a forest community in Ecuador's Amazon, receives an offer to sell thirty years of carbon rights on 40,000 hectares. The payment would fund a clinic, clean water and scholarships now, but the contract restricts hunting and farming expansion for the next generation, who may want different lives. Some villagers say the forest is not for sale, others say the children deserve schools. She must give an answer to the broker by the dry season.",
+  "options": [
+   "Sign the contract, using the money to improve living conditions today and trusting future generations to renegotiate.",
+   "Refuse the contract, preserving future generations' freedom to use the land as they choose.",
+   "Negotiate a shorter ten-year contract with a smaller payment and a built-in review clause."
+  ],
+  "tension": [
+   "present welfare vs. descendants' autonomy",
+   "sovereignty vs. financial need"
+  ],
+  "region": "Ecuador"
+ },
+ {
+  "title": "Nuclear Waste and a Patient Neighbourhood",
+  "scenario": "Regulator Dr. Ilse Maartens in Finland evaluates a proposal to expand a deep geological repository that will hold spent nuclear fuel safely for 100,000 years. Nuclear power avoids large emissions today, and the repository design is sound by current standards, but it commits distant descendants to a burden they never agreed to and no one can promise institutions will persist. Rejecting expansion would likely mean greater reliance on gas in the interim. Her recommendation goes to government in two months.",
+  "options": [
+   "Approve the expansion, judging that avoiding present emissions and the repository's safety case justify the long-term burden.",
+   "Reject the expansion, refusing to impose a permanent obligation on people far in the future.",
+   "Approve a smaller expansion with a binding requirement to develop reversible storage and public knowledge-preservation plans."
+  ],
+  "tension": [
+   "present climate benefit vs. burden on distant descendants",
+   "consent vs. necessity"
+  ],
+  "region": "Finland"
+ },
+ {
+  "title": "Cattle Herd Reduction Mandate",
+  "scenario": "Rural policy officer Declan Murphy in Ireland is drafting a scheme that pays dairy farmers to cut herds by 20 percent to meet methane targets. Many farms are small, run by ageing families whose land and cows are their savings, and whose children have already left. A cut might hasten the end of rural communities, yet delay raises the risk of sharper, costlier cuts for younger farmers later. He can design the scheme as voluntary, mandatory with compensation, or phased.",
+  "options": [
+   "Make the cuts mandatory with generous compensation, ensuring emissions targets are reached on schedule.",
+   "Keep the scheme voluntary and well funded, accepting that targets may be missed to avoid coercing older farmers.",
+   "Phase cuts over ten years starting with the largest herds, easing the pressure on small farms but delaying results."
+  ],
+  "tension": [
+   "climate targets vs. rural communities",
+   "fairness between generations of farmers"
+  ],
+  "region": "Ireland"
+ },
+ {
+  "title": "Heat Pump Subsidy Lottery",
+  "scenario": "City housing administrator Priyanka Deshmukh-Hall in Toronto has money for 800 heat pump installs in a district of 6,000 homes. Installing in higher-income homes is quick and cheaper per tonne saved, while the poorest homes, often rented, would see bigger comfort and cost benefits but face landlord obstacles and higher installation costs. Funding for the next round is uncertain. She must set the allocation rule before applications open.",
+  "options": [
+   "Prioritise homes with the greatest emissions savings per dollar, maximising total climate benefit from the limited funds.",
+   "Prioritise low-income households first even at higher cost per tonne, favouring fairness for those least able to adapt.",
+   "Split the funds evenly between the two approaches, accepting that neither goal is fully achieved."
+  ],
+  "tension": [
+   "efficiency vs. equity",
+   "aggregate emissions vs. distributive justice"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "The Last Reliable Harvest",
+  "scenario": "Cooperative manager Fatima Zahra El-Idrissi runs an olive cooperative in Tunisia where drought has cut yields for four years. A foreign firm offers to buy the cooperative's groundwater rights and drill deeper, guaranteeing 15 years of wages for members. Hydrologists predict aquifer depletion thereafter, harming the region's next generation of farmers. Members are in debt, and some are considering migrating. A vote is scheduled in ten days.",
+  "options": [
+   "Sell the rights, securing livelihoods and debt relief for current members who face immediate hardship.",
+   "Refuse the sale and pursue slower water-saving practices, protecting the aquifer for future farmers at a risk of collapse.",
+   "Sell only part of the rights with a binding extraction cap, accepting a smaller payment and a longer legal fight."
+  ],
+  "tension": [
+   "current survival vs. future water security",
+   "individual need vs. shared resource"
+  ],
+  "region": "Tunisia"
+ },
+ {
+  "title": "A Child's Birth in the Carbon Ledger",
+  "scenario": "Couple Kasper and Mirela Novak in Slovakia are expecting their first child after years of treatment. Kasper, who works on emissions modelling, has been arguing in his own mind that a child's lifetime emissions, in a rich country, are a serious moral cost. Mirela sees the child as a hope for the future, not a liability, and says that a world worth saving needs people to live in it. They must decide whether to continue with the pregnancy at the stage where termination is still legal.",
+  "options": [
+   "Continue the pregnancy, treating a child as a good in itself and committing to raise them to live sustainably.",
+   "Terminate the pregnancy, giving weight to climate concerns and the risks the child may face in a hotter world.",
+   "Continue the pregnancy but commit to offsetting and lowering the household's lifestyle emissions substantially."
+  ],
+  "tension": [
+   "procreative autonomy vs. climate responsibility",
+   "hope vs. fear for the future"
+  ],
+  "region": "Slovakia"
+ },
+ {
+  "title": "Phasing Out Subsidised Diesel",
+  "scenario": "Finance secretary Gustavo Pereira in Paraguay is preparing a budget that either keeps diesel subsidies or ends them. Subsidies cost 2 percent of the budget and encourage emissions, but small truck drivers, bus operators and farmers depend on cheap fuel, and the last attempt to cut them triggered riots. Ending them would free money for renewable grid investments that serve future households. He must present the budget to Congress on Thursday.",
+  "options": [
+   "End the subsidy fully and reinvest the savings, accepting short-term unrest and hardship for long-term gains.",
+   "Keep the subsidy for this year, preserving social peace and incomes while preparing a longer-term plan.",
+   "Phase the subsidy out over four years with direct cash transfers to affected households, reducing but not eliminating hardship."
+  ],
+  "tension": [
+   "present hardship vs. future investment",
+   "social stability vs. climate policy"
+  ],
+  "region": "Paraguay"
+ },
+ {
+  "title": "Seed Vault Priorities Under Rising Seas",
+  "scenario": "Curator Dr. Sipho Ndlovu directs a seed bank in coastal South Africa that is vulnerable to storm surges. The bank has limited funds to either move to higher ground or to expand its collection of drought-tolerant crop varieties from marginal regions. Moving protects the existing collection for centuries, while expansion captures varieties that may vanish within a decade as farmers abandon them. Both choices have donors, but the funds cannot cover both.",
+  "options": [
+   "Relocate the bank to safer ground, safeguarding the existing irreplaceable collection against long-term loss.",
+   "Expand the collection now, rescuing varieties at imminent risk even though the existing building remains exposed.",
+   "Do a partial move of the most critical seeds while collecting only the most endangered varieties."
+  ],
+  "tension": [
+   "preserving the known vs. rescuing the vanishing",
+   "future security vs. present opportunity"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "The Sheep Farm and the Carbon Buyer",
+  "scenario": "Sheep farmer Bronwen Hughes in Wales receives an offer from a London company to buy her 60-hectare hill farm for planting trees as a carbon offset. The price is far above agricultural value and would secure her retirement and her son's studies. But the farm has been in her family for six generations, supplies the village's last abattoir with lambs, and her nephew hopes to take it over. She has until the end of the month.",
+  "options": [
+   "Sell the farm, securing her family's financial future and contributing to tree-planting that will take up carbon.",
+   "Refuse to sell, protecting the family legacy, the local food chain and her nephew's prospects.",
+   "Lease the land to the company for thirty years, retaining ownership but giving up farming and the nephew's immediate plans."
+  ],
+  "tension": [
+   "family legacy vs. financial security",
+   "local community vs. global offset markets"
+  ],
+  "region": "Wales"
+ },
+ {
+  "title": "Dam Versus Dust in the Highlands",
+  "scenario": "Energy planner Dawit Bekele in Ethiopia must decide whether to prioritise a new hydroelectric dam or fund thousands of small solar mini-grids. The dam would generate cheap electricity for decades and supply industry, but it displaces 9,000 people and floods fertile land. The mini-grids reach fewer people per dollar and slowly, but displace no one and are easier to adjust as the climate shifts. National electricity demand is rising quickly, and the finance window closes soon.",
+  "options": [
+   "Build the dam, supplying large-scale clean power to millions despite the displacement of thousands.",
+   "Fund the mini-grids, avoiding displacement and keeping options open at the cost of slower electrification.",
+   "Build a smaller dam with mini-grids for remote areas, accepting a more limited result on both fronts."
+  ],
+  "tension": [
+   "aggregate benefit vs. displaced communities",
+   "speed vs. flexibility"
+  ],
+  "region": "Ethiopia"
+ }
+]

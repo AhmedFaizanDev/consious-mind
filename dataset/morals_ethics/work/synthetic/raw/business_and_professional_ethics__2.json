@@ -1,0 +1,352 @@
+[
+ {
+  "title": "A Miracle Tonic for Worn-Out Farmers",
+  "scenario": "Bongani Khumalo manages marketing for a small herbal supplement company in KwaZulu-Natal. The founder has asked him to advertise a joint-pain tonic as relieving arthritis, citing traditional use and many customer testimonials, though no clinical trial exists. Sales reps report that older farmers are buying it in place of prescribed medication they find costly. The tonic is harmless in itself and many users sincerely praise it. The company is a year from closing without a hit product. A health regulator has been scrutinising similar claims.",
+  "options": [
+   "Advertise the tonic only as a traditional wellness product, without any claim of treating arthritis, even if sales are weaker.",
+   "Run the arthritis claim as the founder asks, but add a clear notice that it should not replace prescribed medication.",
+   "Refuse to run the campaign and tell the founder he will resign if the arthritis claim is used."
+  ],
+  "tension": [
+   "business survival vs. truthful claims",
+   "traditional knowledge vs. evidence"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Only Two Left, Said Every Day",
+  "scenario": "Fiona MacAllister runs the website for an independent Edinburgh hotel group. Her digital agency suggests a booking banner saying 'Only 2 rooms left at this price' on every page, regardless of real availability, because tests show it raises bookings by a fifth. Many rooms are actually available most days. The hotels have struggled since the pandemic, and staff hours depend on occupancy. Competitors use similar banners. Fiona knows some guests make decisions in a hurry and feel misled on arrival if they compare prices.",
+  "options": [
+   "Show the banner only when the stated number of rooms is truly the last available at that price.",
+   "Use the banner as the agency suggests, changing its wording to 'High demand' so it is vague but not specific.",
+   "Run the banner as designed, since it is common practice and keeps the hotels' staff employed."
+  ],
+  "tension": [
+   "livelihoods vs. honesty with customers",
+   "industry norms vs. truthfulness"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "The Used Car With a Past",
+  "scenario": "Ahmet Kaya sells second-hand cars at a dealership in Izmir. A buyer, a young nurse saving for her first car, loves a hatchback priced well below similar models. Ahmet knows it was flood-damaged two years ago and repaired; the paperwork does not mention it and the buyer has not asked. His employer has told staff not to volunteer history unless asked. The car runs well now, but flood-damaged vehicles can have hidden electrical failures. A sale would earn Ahmet a commission that covers his rent this month.",
+  "options": [
+   "Tell the buyer about the flood history before she decides, even if it loses the sale.",
+   "Offer a one-year warranty with the sale, without volunteering the history unless she asks directly.",
+   "Follow the dealership's policy and answer only the questions she asks, as the car is repaired and priced fairly."
+  ],
+  "tension": [
+   "commission vs. candour",
+   "employer policy vs. buyer's welfare"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "Greener Than It Looks in Kraków",
+  "scenario": "Katarzyna Wójcik is a brand manager for a Polish detergent maker whose product contains biodegradable surfactants but also a petroleum-derived additive and plastic-heavy packaging. The marketing team wants to label it 'eco-friendly' with a picture of a leaf, since customers increasingly demand such products, and a rival has done the same. She suspects the claim would fall foul of European green-claims rules under a strict reading. Switching packaging would take a year and cost more than the company can currently afford.",
+  "options": [
+   "Drop the eco-friendly label and describe only the specific biodegradable ingredient claim that can be substantiated.",
+   "Use the eco-friendly label with small print explaining the additive and packaging, accepting a regulatory risk.",
+   "Delay the launch until the packaging has been redesigned, even though it may mean losing the season."
+  ],
+  "tension": [
+   "market pressure vs. accuracy",
+   "small print vs. impression"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Selling a Course to the Hopeful",
+  "scenario": "Rohan Fernando is a sales consultant for an online academy in Colombo that sells a three-month course promising 'guaranteed' remote jobs in data entry. Graduates' placement rates are around ten percent, a fact buried in the terms. Prospects, often unemployed youth from rural areas, pay in instalments that strain their families. Rohan's targets are tight, and top sellers get bonuses. The academy offers real skills and some students do find work. His manager says every course carries risk, and hope is what customers are buying.",
+  "options": [
+   "Tell each prospect the actual placement rate before taking payment, even if it reduces his sales.",
+   "Sell with the guarantee wording as scripted, but encourage prospects who seem financially fragile to think carefully before paying.",
+   "Speak to management about changing the guarantee wording, and keep selling under the current script in the meantime."
+  ],
+  "tension": [
+   "sales targets vs. truthfulness",
+   "hope vs. informed consent"
+  ],
+  "region": "Sri Lanka"
+ },
+ {
+  "title": "A Fake Countdown for the Festival Sale",
+  "scenario": "Aaliyah Ibrahim is an e-commerce lead for a furniture retailer in Dubai. The marketing director wants a countdown timer for Eid weekend promotions that resets every time a visitor returns, creating the sense that the offer is nearly over. Data from earlier campaigns suggest it doubles conversions. The discounts themselves are real but are offered several times a year. Many customers are families spending a large share of their savings. Aaliyah is aware that consumer authorities in the region have begun to watch for deceptive urgency.",
+  "options": [
+   "Use a timer tied to the real end date of the promotion, accepting lower conversion.",
+   "Use the resetting timer as requested, since the discount is real and competitors use similar tactics.",
+   "Remove timers altogether and focus on communicating the value of the discount."
+  ],
+  "tension": [
+   "conversion vs. fair persuasion",
+   "legal grey zone vs. customer trust"
+  ],
+  "region": "United Arab Emirates"
+ },
+ {
+  "title": "Selling Life Insurance to a Widow",
+  "scenario": "Mwanaisha Juma is an insurance agent in Mombasa. A recently widowed shopkeeper asks about a savings-linked policy. Mwanaisha knows that the policy carries heavy early-exit charges and that a simple term policy plus a savings account would serve the woman better. The savings-linked product pays her a much higher commission, which would help her pay her own children's school fees. The woman trusts her because they attend the same church. She says she wants something 'safe for the children'.",
+  "options": [
+   "Recommend the simpler term policy and savings account, explaining the charges of the other product, even at a lower commission.",
+   "Present both products honestly, including the exit charges, and let the woman choose.",
+   "Recommend the savings-linked policy as the more comprehensive option, mentioning the charges only briefly."
+  ],
+  "tension": [
+   "personal financial need vs. client interest",
+   "trust vs. exploitation"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "The Review Swap Among Friends",
+  "scenario": "Henrik Olsson co-owns a small Gothenburg board-game publisher. A friendly group of rival publishers proposes to swap positive reviews on a retail site: each posts glowing reviews of the others' games. They argue that large publishers manipulate ratings with paid reviews, so small studios must band together or vanish from search results. Henrik likes the games but hasn't played all of them. The platform's rules forbid reviews from people with financial ties. His company has had three unprofitable years, and this launch might decide its survival.",
+  "options": [
+   "Decline the swap and encourage genuine customer reviews through fair means, even if ranking suffers.",
+   "Agree to review only the games he has actually played and honestly enjoyed, within the group's arrangement.",
+   "Join the swap fully, regarding it as a defensive response to a manipulated system."
+  ],
+  "tension": [
+   "survival vs. honest reviews",
+   "collective action vs. platform rules"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "Photographs Taken on a Better Day",
+  "scenario": "Camila Reyes manages a mountain lodge near Cusco. Her brochure photographs show a hot-water spa and views from every room, but the spa has been out of order for two years and only a third of rooms have views. Owners argue the spa will be repaired next season and the photos show the possible. Trekkers pay a premium booking months in advance, and some save for a year to come. A few reviews have complained. Re-photographing the lodge would cost a month of income that Camila does not have.",
+  "options": [
+   "Replace the photos and descriptions now with accurate ones, even if bookings drop.",
+   "Keep the brochure but add a clear note that the spa is closed and only some rooms have views.",
+   "Keep the current photos until the spa is repaired, telling guests about the spa if they ask."
+  ],
+  "tension": [
+   "aspiration vs. accuracy",
+   "cost vs. disclosure"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Doctors' Favourite, Said the Toothpaste Ad",
+  "scenario": "Dr. Mariam Qureshi is a dentist in Lahore who has been offered a fee to appear in a television advertisement for a toothpaste, saying 'most dentists I know recommend it'. She has used it and likes it, but has not surveyed colleagues, and most of those she knows recommend other brands. The fee would equal two months of her clinic's rent. The advertising agency says such wording is customary and nobody expects it to be a survey. Her patients trust her recommendations and often ask her which toothpaste to use.",
+  "options": [
+   "Decline the advertisement, as she cannot honestly say what the script requires.",
+   "Offer to appear if the wording is changed to 'I use it myself and like it', which is true.",
+   "Accept the script as written, because viewers understand such phrases as general endorsement, not statistics."
+  ],
+  "tension": [
+   "income vs. truthfulness",
+   "professional trust vs. commercial convention"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "A Subscription That Is Hard to Leave",
+  "scenario": "Laura Bianchi, a product manager at a Milan-based language app, is told to redesign the cancellation process so users must call a phone line open only three hours a day, a change that earlier tests suggest cuts cancellations by sixty percent. The company's growth investors are watching retention numbers closely. Many users are students on tight budgets who forget to cancel free trials. Laura believes the app is genuinely helpful for some. Italian consumer law may require cancellation to be as easy as sign-up, but enforcement is uneven.",
+  "options": [
+   "Propose a simple one-click cancellation and defend it with data on the long-term reputational benefits.",
+   "Keep the phone line but extend its hours and add an email option, as a compromise.",
+   "Implement the phone-only cancellation as instructed, since retention targets come from the board."
+  ],
+  "tension": [
+   "growth metrics vs. user autonomy",
+   "legal ambiguity vs. fairness"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "Real Wool, Mostly",
+  "scenario": "Anders Berglund works in sales for a Gothenburg-based outdoor clothing label whose supplier in Bulgaria quietly substituted twenty percent synthetic fibre into a 'pure merino' sweater line. The label discovered this after printing thousands of tags. Reprinting would cost a month of profit, and the sweaters still perform well. Anders is about to present the collection to buyers at a trade fair in Munich who specifically ask about fibre content, and some will pass the claim on to customers.",
+  "options": [
+   "Tell buyers the actual fibre composition and have the tags corrected before sale.",
+   "Present the sweaters as 'merino blend' in sales conversations and correct tags later in the season.",
+   "Present the line as pure merino, as printed, and leave the quality issue to be sorted out with the supplier."
+  ],
+  "tension": [
+   "cost vs. truthful labelling",
+   "buyer reliance vs. sales pressure"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "The Pre-Order for a Phone That May Never Ship",
+  "scenario": "Sindhu Narayanan is head of community at a Bengaluru hardware start-up that opened pre-orders for a rugged smartphone. Funding has fallen through, and engineering privately estimates a forty percent chance the phone never ships. Investors urge her not to alert the community, since a slowdown in pre-orders could kill the funding round currently being negotiated. Customers have paid in advance, many of them outdoor workers who saved for it. The refund policy is generous on paper but depends on company cash.",
+  "options": [
+   "Tell the community openly about the funding risk and pause new pre-orders until funding is confirmed.",
+   "Continue taking pre-orders but add a clear notice about the delivery risk and the refund process.",
+   "Stay silent on the risk and keep pre-orders going, since announcing doubts would make the failure self-fulfilling."
+  ],
+  "tension": [
+   "company survival vs. customer protection",
+   "hope vs. transparency"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Imported Honey With a Local Label",
+  "scenario": "Maria Eleni Stavrou manages a food export business in Heraklion. The company blends Greek thyme honey with cheaper imported honey and sells it with a label showing a Cretan village and the words 'Cretan Tradition'. Legally, the small print states the blend, but few customers read it. The cheaper blend allows the company to pay local beekeepers fairly for their share. A pure Greek jar would cost nearly double and sell far less. A tourist shop owner asked her directly whether the honey is entirely Cretan.",
+  "options": [
+   "Relabel clearly as a blend, and drop the village image, accepting the loss of the tradition marketing.",
+   "Keep the label but answer retailers' questions honestly and make the blend statement more visible.",
+   "Keep the label and tell the retailer it is a traditional Cretan product, which is broadly true to the recipe."
+  ],
+  "tension": [
+   "tradition vs. transparency",
+   "fair pay for beekeepers vs. misleading imagery"
+  ],
+  "region": "Greece"
+ },
+ {
+  "title": "A Coach's Income Claims",
+  "scenario": "Gabriel Tshisekedi-Mwamba runs a business coaching programme in Kinshasa for young entrepreneurs. His promotional material features alumni who now earn large sums, which is true for four of them out of two hundred graduates. Applicants pay a fee equivalent to several months of wages. The programme gives practical skills and many alumni report improved confidence. Gabriel knows the success stories are the main reason people enrol. A reporter has asked him for typical outcomes, and he has not yet answered.",
+  "options": [
+   "State openly that most graduates do not earn large sums and describe the typical outcomes in all materials.",
+   "Keep the success stories but add a clear statement of how few graduates achieve such results.",
+   "Continue the current marketing, since the success stories are true and it is for applicants to judge for themselves."
+  ],
+  "tension": [
+   "selective truth vs. fair representation",
+   "aspiration vs. realism"
+  ],
+  "region": "Democratic Republic of the Congo"
+ },
+ {
+  "title": "Cold-Calling the Elderly About Solar Panels",
+  "scenario": "Pieter van Zyl works as a telesales agent for a solar installation firm in Pretoria. The script tells him to say that panels will 'eliminate your electricity bill' and to emphasise that a government subsidy ends soon, which is not exactly true. An elderly pensioner on the line sounds confused and wants to sign up for a financing contract she may not afford. His supervisor listens in on calls and rewards closed sales. Solar panels can save money for many households, though not for all, and Pieter's own mother has made similar calls.",
+  "options": [
+   "End the sale politely, telling the pensioner to discuss it with family before committing, and accept the consequences with his supervisor.",
+   "Continue but correct the script's claims in his own words and slow the process to let her think.",
+   "Follow the script and complete the sale, treating the pensioner as an adult able to decide."
+  ],
+  "tension": [
+   "target pressure vs. vulnerable customer",
+   "scripted claims vs. honest advice"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Before-and-After Photos of Skin Cream",
+  "scenario": "Soo-ah Park is a social media manager at a Seoul cosmetics company launching an anti-ageing cream. The agency's before-and-after images are real photographs, but the 'after' images were taken with different lighting and retouched slightly. Clinical results show modest improvement for most users. Influencers in the campaign have been asked to post the images. Competitors use much more heavily edited images. If Soo-ah insists on unedited images, the launch could be delayed beyond the key shopping season, and her team could face layoffs.",
+  "options": [
+   "Replace the images with unretouched ones taken under identical lighting, even at the cost of the schedule.",
+   "Keep the images but add a clear disclaimer that results vary and the images were retouched.",
+   "Use the images as delivered, since retouching is expected in beauty advertising and results are real."
+  ],
+  "tension": [
+   "competitiveness vs. realism",
+   "team livelihoods vs. honesty"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "What the Sommelier Was Told to Say",
+  "scenario": "Étienne Marchand is a sommelier at a high-end restaurant in Lyon. The owner has asked him to recommend a particular expensive wine to diners as a favourite of the house, because the restaurant bought a large stock that is not selling and risks spoiling. Étienne considers the wine fine but overpriced compared to others on the list. Many diners accept his suggestions without question and spend more than they planned. The restaurant is struggling with high rents, and his tips depend on sales.",
+  "options": [
+   "Recommend the wines he honestly thinks best for each diner's taste and budget, regardless of the owner's stock.",
+   "Present the wine as one option among several with a truthful description, and let diners choose.",
+   "Promote the wine as a house favourite as requested, since it is decent and the restaurant needs the revenue."
+  ],
+  "tension": [
+   "employer's request vs. customer trust",
+   "expertise vs. salesmanship"
+  ],
+  "region": "France"
+ },
+ {
+  "title": "The Charity Raffle That Wasn't Quite Random",
+  "scenario": "Ifeoma Nwosu organises a raffle for a school fundraiser in Enugu, with a car as the grand prize donated by a local dealer. Tickets sell slowly. The dealer suggests announcing that 'only 500 tickets exist', when in fact the printer has made 2,000, to push people to buy fast. Many parents who buy are not wealthy and are drawn by the prize. The school badly needs a new roof before the rains. The dealer is a major donor, and Ifeoma worries that correcting him could cost future support.",
+  "options": [
+   "Advertise the true number of tickets and trust that the cause will carry the sales.",
+   "Cap the print run to 500 tickets so that the claim becomes true, even if the school raises less.",
+   "Use the dealer's wording since it is the donor's prize and the funds go to a good purpose."
+  ],
+  "tension": [
+   "good cause vs. deception",
+   "donor relations vs. truthfulness"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Finance Blogger and the Crypto Referral",
+  "scenario": "Tomasz Zielinski, a Warsaw-based personal finance blogger, is approached by a crypto exchange offering generous commissions on every reader who signs up. His readers are mostly young professionals who trust his cautious, index-fund approach. The exchange is regulated but its products are volatile, and Tomasz has always advised caution with crypto. His income from the blog has been falling, and this deal would cover his costs for a year. He could write a balanced review that discloses the commission.",
+  "options": [
+   "Decline the deal, preserving the blog's reputation for independence.",
+   "Accept it, with a prominent disclosure of the commission and balanced risk warnings in the review.",
+   "Accept it and write a positive review focusing on strengths, with only a short disclosure at the end."
+  ],
+  "tension": [
+   "income vs. trust",
+   "disclosure vs. persuasion"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Promising the Visa Interview Tips",
+  "scenario": "Rania Haddad runs a study-abroad agency in Amman that places students at foreign universities. A competitor advertises '100% visa success'. Rania's own success rate is high but not perfect, and she has been losing clients. A father visits her office, uncertain, and asks whether she can guarantee his daughter's visa. Visa decisions are made by consulates, beyond the agency's control. The agency's fees are paid up front, and Rania has staff to pay. She knows an exaggerated promise would likely close the deal.",
+  "options": [
+   "Explain honestly that no agency can guarantee a visa and describe her actual success rate.",
+   "Say that her agency has a high success rate and offer a partial refund of fees if the visa is refused.",
+   "Match the competitor's guarantee wording in her advertising, as the market now expects."
+  ],
+  "tension": [
+   "market competition vs. honest promises",
+   "agency survival vs. customer expectations"
+  ],
+  "region": "Jordan"
+ },
+ {
+  "title": "The Sustainable Palm Oil Story",
+  "scenario": "Wayan Suryadi works for a palm oil trading company in Medan. The sustainability team's report shows that eighty percent of its supply is certified, while the remaining twenty percent comes from smallholders without certification, whose land history is unclear. A European buyer's questionnaire asks, 'Is all your supply certified sustainable?' The sales director wants Wayan to answer yes, arguing the smallholders are poor families and that certification costs are out of their reach. Losing the buyer would mean cancelling purchases from those same smallholders.",
+  "options": [
+   "Answer accurately that eighty percent is certified and explain the plan to support the remaining smallholders.",
+   "Answer yes, as requested, and work internally to bring all suppliers into certification next year.",
+   "Leave the question unanswered and offer the buyer a call to discuss supply chains in general."
+  ],
+  "tension": [
+   "supporting smallholders vs. accurate reporting",
+   "commercial pressure vs. honesty"
+  ],
+  "region": "Indonesia"
+ },
+ {
+  "title": "Refund Policy Written in Fine Print",
+  "scenario": "Naomi Goldberg is head of customer success at a Tel Aviv software-as-a-service company. Customers on annual plans often discover that refunds are available only within seven days and must be requested through a hidden form. Her team receives angry messages from small business owners who cancelled in good faith. The finance chief, citing the company's cash flow, wants to keep the policy and the small print unchanged. A recent outage cost some customers real losses, though the contract limits liability. Naomi can quietly approve exceptions, but doing so repeatedly may draw rebuke.",
+  "options": [
+   "Make the refund policy and form prominent and extend the refund window, arguing for it with the finance chief.",
+   "Continue to approve refunds case by case for deserving customers while leaving the public policy unchanged.",
+   "Leave the policy as written and apply it consistently, since customers agreed to the terms."
+  ],
+  "tension": [
+   "contract terms vs. fairness",
+   "cash flow vs. customer goodwill"
+  ],
+  "region": "Israel"
+ },
+ {
+  "title": "Making a Retirement Home Sound Like a Hotel",
+  "scenario": "Ingrid Haugen directs marketing for a chain of private retirement homes in Bergen. A new brochure, drafted by an agency, features sunny balconies and active seniors in a spa, though only the premium wing has balconies and the spa is shared by all residents on a weekly schedule. Adult children, who usually make the decisions, rely on the brochure when choosing for their parents. Occupancy has been low, and the chain's owner is pressing for full rooms. Revised photographs would take weeks and delay the autumn intake of residents.",
+  "options": [
+   "Revise the brochure so that images and descriptions match what a typical resident receives, delaying the launch.",
+   "Keep the images but add captions identifying which features belong to the premium wing and the spa schedule.",
+   "Publish the brochure as drafted, since it shows what the home can offer and families will visit before deciding."
+  ],
+  "tension": [
+   "occupancy pressure vs. accurate expectations",
+   "vulnerable decision-makers vs. persuasive imagery"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "A Bestseller Badge Bought With a Giveaway",
+  "scenario": "Takumi Fujita is a self-publishing consultant in Osaka. A client asks him to help make her cookbook a 'bestseller' on an online store by giving away free copies to a large number of friends who will download it on the same day, pushing it to the top of a narrow category for a few hours. The badge can then be used in all future promotion. The cookbook is good and her recipes unusual. She has spent her savings on production, and a badge could draw attention from a publisher.",
+  "options": [
+   "Decline to arrange the giveaway stunt and suggest building a genuine readership slowly instead.",
+   "Arrange the giveaway but describe the badge accurately in promotions, such as 'reached #1 in category during launch'.",
+   "Arrange the giveaway and use the bestseller badge without qualification, as is common in the industry."
+  ],
+  "tension": [
+   "client's livelihood vs. misleading signals",
+   "industry practice vs. honesty"
+  ],
+  "region": "Japan"
+ }
+]

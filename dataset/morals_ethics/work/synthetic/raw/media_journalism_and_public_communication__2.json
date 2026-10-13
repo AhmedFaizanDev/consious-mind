@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Footballer's Estranged Brother",
+  "scenario": "Sports journalist Dimitri Kostas in Thessaloniki learns that a national team striker's estranged brother lives in a shelter, addicted and ill. The striker is expected to lead the team through a decisive qualifier next week. A tabloid is already sniffing. Dimitri's editor says the story shows the cost of fame and has public interest value for addiction awareness. The striker's agent warns that publication will disrupt the player's focus. The brother, when approached, neither consents nor objects, and seems barely to understand the question. Dimitri must decide whether to proceed.",
+  "options": [
+   "Publish after the qualifier, treating the delay as a compromise that respects the player's focus without suppressing the story.",
+   "Decline to publish at all, since the brother is vulnerable and the family matter has no connection to the player's public role.",
+   "Publish now with the brother's consent obtained through a social worker, framing the story around addiction services."
+  ],
+  "tension": [
+   "public interest vs. family privacy",
+   "vulnerability vs. newsworthiness"
+  ],
+  "region": "Greece"
+ },
+ {
+  "title": "The Mayor's Dementia Diagnosis",
+  "scenario": "Reporter Carmen Estrada in Bogotá receives credible word from a hospital employee that a popular mayor has been diagnosed with early dementia, and his aides are quietly preparing to manage his schedule. The mayor remains lucid in public and is mid-way through a vital transport project. Carmen's editor argues that voters deserve to know about fitness for office. Carmen is troubled that the diagnosis came from a breach of medical confidentiality and that disclosure may devastate a man who has served well. The mayor's family begs for time before any announcement.",
+  "options": [
+   "Publish the story now after seeking the mayor's comment, treating fitness for public office as outweighing medical privacy.",
+   "Wait several weeks and keep reporting on his actual performance, publishing only if evidence of impairment affects decisions.",
+   "Approach the mayor privately and offer him the chance to announce the diagnosis himself before a set deadline."
+  ],
+  "tension": [
+   "medical privacy vs. democratic accountability",
+   "dignity vs. disclosure"
+  ],
+  "region": "Colombia"
+ },
+ {
+  "title": "Photographing the Grieving Father",
+  "scenario": "Photojournalist Sipho Nkosi arrives at a mine rescue site near Rustenburg where families wait for news. A father kneels at the fence, utterly broken, as officials announce no survivors. Sipho's agency wants a striking image of grief to carry the story of unsafe mines. He has a long lens and the shot is extraordinary. Nobody has asked the father for permission, and he would probably be recognised by his community. Colleagues photograph nearby. Sipho has seconds to decide whether to press the shutter and, later, whether to submit the picture.",
+  "options": [
+   "Take the photograph and submit it, since the image bears witness to a systemic safety failure and the public place gives no privacy expectation.",
+   "Take it, but ask the father afterwards for permission before submitting, and withhold it if he declines.",
+   "Lower the camera and instead photograph the fence, boots and helmets, conveying grief without a recognisable face."
+  ],
+  "tension": [
+   "witness vs. dignity",
+   "public interest vs. consent"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "The Cabinet Minister's Teen Daughter",
+  "scenario": "A Wellington-based gossip site run by Hemi Walker obtains videos of the finance minister's seventeen-year-old daughter at a party, drinking and dancing. Her father recently led a campaign against youth alcohol use. Hemi's team says the hypocrisy is the story. A senior reporter objects that the daughter is a child who made no public choices. The videos came from a classmate who sold them. Traffic projections are huge and the site faces closure without a lift in revenue. Hemi must decide whether to publish, blur, or drop the footage.",
+  "options": [
+   "Drop the videos entirely and write only about the minister's campaign, leaving the daughter out of any coverage.",
+   "Publish a story about the minister's public messaging, mentioning that his family has been in the news without showing her.",
+   "Publish the videos with her face obscured, arguing that the hypocrisy angle has public value and her identity is protected."
+  ],
+  "tension": [
+   "hypocrisy exposure vs. protection of a minor",
+   "commercial survival vs. harm"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "A Pastor's Hidden Past",
+  "scenario": "Faith correspondent Isabel Moreno in Manila discovers that a respected megachurch pastor served time in his twenties for fraud, a conviction he never mentions while preaching on honesty. The records are public but old. The pastor has since built a charity feeding thousands. He calls Isabel before publication, pleading that exposure would destroy the charity and his family's standing and arguing he has repented. Isabel's editor believes the congregation has a right to know about its leader's history. Isabel sees merit in both views and has two days before the deadline.",
+  "options": [
+   "Publish the history with context about his later charitable work and his response, trusting readers to weigh it.",
+   "Do not publish, judging that old convictions of a reformed person are of limited public interest when no current wrongdoing exists.",
+   "Publish only if she finds evidence the old pattern has recurred, otherwise continue to monitor the charity's finances."
+  ],
+  "tension": [
+   "rehabilitation vs. right to know",
+   "private past vs. public moral authority"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "The Surgeon's Social Media Rant",
+  "scenario": "Haruka Ito, health editor in Osaka, finds that a senior surgeon posted a long private rant on a closed forum, calling certain patients 'deadweight' and describing how he rations his attention. A nurse shared screenshots, concerned about patient care. The surgeon is respected and publicly kind. The forum was private but had hundreds of members. Publishing would humiliate him and might harm his patients' trust, but may reveal a real attitude problem in a hospital where patients are vulnerable. Haruka must weigh the private setting against the professional stakes.",
+  "options": [
+   "Publish the screenshots with the nurse's account, because the attitude may affect patient care and the forum was widely accessible.",
+   "Take the matter to the hospital's patient-safety office and report only if the hospital takes no action.",
+   "Do not publish, treating the posts as private venting and the nurse's sharing as a breach of confidence the paper should not reward."
+  ],
+  "tension": [
+   "professional accountability vs. private speech",
+   "patient welfare vs. fairness"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "The Abuse Survivor's Address",
+  "scenario": "Court reporter Tshepiso Molefe in Gaborone covers the trial of a man accused of domestic violence. In evidence, the victim's new address, a safe house in a village, is read aloud accidentally. A rival outlet has already tweeted a photo of the court exhibit with the address visible. Tshepiso's editor wants to use the exhibit photo because it is already public. The victim has not been contacted. The trial is of high public interest and the defendant has relatives locally who know the village. Tshepiso has minutes to advise her editor.",
+  "options": [
+   "Use the exhibit photo but crop out the address, and contact the victim's lawyer to warn of the leak by the rival.",
+   "Do not use the photo at all and publicly urge the rival to delete theirs, citing safety concerns.",
+   "Report on the trial without any images of exhibits, and alert the court to the accidental disclosure so it can take steps."
+  ],
+  "tension": [
+   "safety of a survivor vs. open justice",
+   "competitive pressure vs. harm"
+  ],
+  "region": "Botswana"
+ },
+ {
+  "title": "The CEO's Rehab Records",
+  "scenario": "Business reporter Andrés Molina in Santiago is leaked a clinic invoice showing a mining-company CEO attended residential treatment for alcohol dependency last year. The company is facing a safety investigation after a tunnel collapse, and Andrés wonders whether the CEO's condition played a role in oversight failures. There is no evidence of that link. The CEO has since been sober and is a vocal advocate for workplace mental health. Andrés's editor sees a scoop. Andrés sees a patient's medical record and a man in recovery. He has to decide what the story is.",
+  "options": [
+   "Publish the treatment fact within the safety story, since leadership capacity is relevant to the investigation.",
+   "Leave the treatment out and focus on documented safety failures, mentioning no health information absent a proven link.",
+   "Ask the CEO directly whether his condition affected his decisions, and publish only the parts he addresses on the record."
+  ],
+  "tension": [
+   "medical privacy vs. corporate accountability",
+   "speculation vs. evidence"
+  ],
+  "region": "Chile"
+ },
+ {
+  "title": "Naming the Witness at the Roadside",
+  "scenario": "Ahmed Hassan, reporter on a Cairo evening paper, speaks to a bystander who filmed police beating a street vendor. The bystander, a young woman, allows him to use the footage but not her name. The editor asks Ahmed to include her first name and neighbourhood, saying anonymous witnesses are discounted by readers and the interior ministry. The footage matters for the vendor's case. Ahmed knows that police are likely to trace the woman anyway through the footage's location data, and he worries about his own role in making that easier.",
+  "options": [
+   "Run the video with metadata stripped and no identifying details of the woman, accepting readers' lower trust.",
+   "Use her first name only, with her written consent, after explaining the risks to her in detail.",
+   "Pass the footage to a human-rights lawyer for use in a complaint, and delay any media use until protections are arranged."
+  ],
+  "tension": [
+   "credibility vs. witness safety",
+   "consent vs. foreseeable risk"
+  ],
+  "region": "Egypt"
+ },
+ {
+  "title": "The Child Prodigy Goes Viral",
+  "scenario": "Radio producer Nanami Aoki in Sapporo covers a ten-year-old violin prodigy whose video has gone viral. Her parents give full permission for interviews. Nanami finds out through a teacher that the girl suffers panic attacks and her parents push her heavily. The teacher shares this concern anonymously. Nanami's producer wants a heartwarming feature, ignoring the tension. If Nanami mentions the stress, the parents may withdraw and the girl may lose a supportive platform. If she ignores it, a child's wellbeing may suffer under growing public attention.",
+  "options": [
+   "Produce the warm feature as the parents wish, and separately share the teacher's concern with a child-welfare service.",
+   "Include the stress in the feature gently, risking the parents' withdrawal, so the public understands the pressures on child performers.",
+   "Decline the feature, explaining to the producer that it risks adding to the girl's pressure and that the story is not worth it."
+  ],
+  "tension": [
+   "parental consent vs. child's welfare",
+   "feel-good story vs. hidden harm"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "The Teacher's Old Photos",
+  "scenario": "Neha Kapoor, editor of a Delhi education site, receives photos from a parent group showing a popular schoolteacher in a bikini on holiday years ago, posted by an ex-partner. The parents demand she be removed, and a rival site wants to publish. The teacher has a clean record, and the images were not made public by her. Neha considers whether the story is the parents' campaign rather than the photos themselves. She could report on the campaign without showing images, or ignore it. The school's board meets Monday to decide whether to dismiss the teacher.",
+  "options": [
+   "Report on the parent campaign and the board meeting without showing the photos, identifying the dispute as about private conduct.",
+   "Decline to cover it, because naming the teacher at all will amplify a privacy violation by the ex-partner.",
+   "Publish the story with the teacher's own response included, and refuse to show the images, trusting readers to see the unfairness."
+  ],
+  "tension": [
+   "covering a controversy vs. amplifying a violation",
+   "gender and privacy"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Celebrity Chef in the Ambulance",
+  "scenario": "Photographer Lucie Benoît in Lyon happens upon an ambulance outside a restaurant and recognises a celebrity chef being carried out, apparently after a collapse. Her agency's picture desk calls for any images immediately, with a premium paid for exclusives. Lucie has taken several frames. The chef's family has not been told; relatives may learn from the news. She can wait to send the images or submit instantly. Other photographers are arriving. She wonders if she should share them, hold them until the family is informed, or delete them.",
+  "options": [
+   "Send the images at once, since the scene was in a public street and the chef is a public figure of legitimate interest.",
+   "Hold the images for a few hours until she learns the family has been told, then submit them.",
+   "Delete the frames and tell the desk she saw nothing, refusing to treat a medical emergency as a commodity."
+  ],
+  "tension": [
+   "news value vs. family notification",
+   "competition vs. compassion"
+  ],
+  "region": "France"
+ },
+ {
+  "title": "The Leaked Baby Scan",
+  "scenario": "Entertainment editor Zainab Okafor in Abuja receives a scan photo from a hospital staffer showing that a famous actress, who has publicly denied rumours, is pregnant with twins. She has also reportedly had a prior miscarriage, a fact the staffer mentions. The actress is in the final weeks of an acclaimed stage run. Zainab's publisher says the pregnancy is a mild, joyful story. Zainab worries about the miscarriage detail and about the staffer's breach. The actress's publicist says to publish would be a betrayal that the actress would never forget.",
+  "options": [
+   "Publish the pregnancy news without the miscarriage detail, treating the pregnancy as harmless celebrity news.",
+   "Do not publish at all, waiting for the actress to announce when she chooses, as the information came from a breach.",
+   "Offer the actress an exclusive announcement on her terms, with the paper agreeing not to publish before her chosen date."
+  ],
+  "tension": [
+   "celebrity news vs. medical privacy",
+   "sourcing from a breach"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "The Politician's Ex-Wife Speaks",
+  "scenario": "Magnus Eriksson, chief reporter at a Helsinki newspaper, interviews a woman who says her ex-husband, an MP now running for party leadership, was emotionally abusive during their marriage fifteen years ago. She has no police record or documents, only messages and a friend's corroboration. She wants to speak out as the party debates women's safety policy. The MP denies it, and says it is a bitter divorce narrative. Magnus must weigh the woman's right to tell her story, the MP's reputation and the party's leadership vote in a week.",
+  "options": [
+   "Publish the account with the corroborating friend and the MP's denial, because the leadership race makes the allegations relevant.",
+   "Hold the story until more evidence or additional accounts emerge, as one disputed account is too thin to risk a career.",
+   "Publish a broader piece about emotional abuse in political life, drawing on her account anonymised and not naming the MP."
+  ],
+  "tension": [
+   "survivor's voice vs. presumption of innocence",
+   "timing vs. fairness"
+  ],
+  "region": "Finland"
+ },
+ {
+  "title": "The Soldier's Mental Health Letter",
+  "scenario": "Defence correspondent Ravi Perera in Colombo is given a letter written by a young soldier to his mother, in which he describes suicidal thoughts and criticises his unit's treatment of recruits. The mother leaked it to Ravi, hoping publicity will force the army to improve. The soldier does not know. The letter details the unit's identity and abuses that would be instantly traceable. Ravi believes the allegations are in the public interest but fears for the soldier, both from his own despair and from army retaliation. He doesn't know whether to publish or alert someone.",
+  "options": [
+   "Contact the soldier before anything else, even though it may tip off the army and complicate the mother's plan.",
+   "Publish the allegations, anonymising the unit, and use the mother's account without quoting the letter.",
+   "Give the mother contact information for a military welfare helpline and an independent lawyer, and hold the story for now."
+  ],
+  "tension": [
+   "soldier's welfare vs. exposing abuse",
+   "parent's consent vs. the subject's"
+  ],
+  "region": "Sri Lanka"
+ },
+ {
+  "title": "Reporting on a Rival's Divorce",
+  "scenario": "Evelina Kowalczyk edits a small business weekly in Wrocław. She learns that the founder of a rival media company is divorcing, and that the settlement could force the sale of the company, affecting forty jobs. This is both a business story and a personal one. The founder has been aggressive in competing against Evelina's weekly. She can already hear her team saying that it would be petty revenge to run it, and just as petty to suppress it for that reason. A trade association has also asked her for a comment. She has to settle on coverage of a competitor.",
+  "options": [
+   "Cover the business impact of the possible sale and employees' risk, leaving out personal details of the divorce.",
+   "Disclose the conflict of interest to readers and publish the story in full as she would for any company.",
+   "Pass the story to a respected outside outlet and avoid covering her competitor herself."
+  ],
+  "tension": [
+   "conflict of interest vs. newsworthiness",
+   "private life vs. business impact"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "The Hotel Guest List",
+  "scenario": "A reporter in Nairobi, Wangari Maina, is shown a hotel guest list indicating that a married opposition leader stayed for three nights with a woman who is a staffer. The hotel's receptionist leaked it for money. The opposition leader has campaigned on family values and is leading a corruption inquiry that threatens ruling-party officials. Wangari suspects the leak is part of a smear campaign and that the woman could face dismissal and social shame. She cannot verify the relationship beyond the list. Her editor pushes to run before others do.",
+  "options": [
+   "Do not publish, treating the story as a probable smear that would harm a staffer without proving any public-interest wrongdoing.",
+   "Publish with both names and the opposition leader's comment, since his campaign messaging on family values makes it relevant.",
+   "Investigate the source of the leak and report on the smear campaign itself, without naming the staffer or confirming the affair."
+  ],
+  "tension": [
+   "smear vs. hypocrisy",
+   "harm to a bystander woman vs. public figure scrutiny"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Neighbourhood Drone Footage",
+  "scenario": "Citizen-journalism curator Bashir Ahmadi in Hargeisa receives drone footage over a walled compound that appears to show a prominent businessman's wives and children in their private garden, along with armed guards moving crates. The crates might hold weapons; the garden is secluded for religious reasons. Bashir's platform could release the footage as evidence of arms smuggling. The family would be seen in a space that they believed was private, which in their community carries real social cost for the women. The uploader wants a response by evening.",
+  "options": [
+   "Publish only the portions showing the crates and guards, blurring the family entirely, and note that the footage's origin is unverified.",
+   "Refuse to publish any of it, because the footage was obtained through an invasive method and the claim cannot be verified.",
+   "Hand the footage to the authorities privately and let them decide whether it merits investigation."
+  ],
+  "tension": [
+   "security concern vs. privacy and honour",
+   "unverified evidence vs. private harm"
+  ],
+  "region": "Somaliland"
+ },
+ {
+  "title": "The Dying Writer's Last Interview",
+  "scenario": "Culture journalist Elodie Fournier in Brussels interviews a celebrated novelist who is terminally ill and who, tired and candid, says things about her estranged daughter and a rival author that she may not have said with a clear head. The writer asked at the start that the interview be published only after her death, but her publisher now wants to release it while she lives to boost sales of her final book. The writer's family is split on the issue. Elodie has the recording and has not heard directly from the writer since.",
+  "options": [
+   "Honour the original agreement and hold the interview until after the writer's death, despite the publisher's pressure.",
+   "Ask the writer directly whether she is willing to have it published now, and follow her answer if she is able to give it.",
+   "Publish an edited version now that omits the remarks about her daughter and the rival, satisfying the publisher partially."
+  ],
+  "tension": [
+   "original consent vs. changed circumstances",
+   "candour vs. harm to third parties"
+  ],
+  "region": "Belgium"
+ },
+ {
+  "title": "Housing Estate Doorstepping",
+  "scenario": "Reporter Shanice Brown in Birmingham is investigating a housing association chief who allegedly ignored mould complaints. She goes to the chief's home to ask questions, but his teenage son answers the door, and begins to cry when she introduces herself. Her camera operator has been filming. The chief's wife later complains, and the son is anxious. The footage of the chief refusing comment is strong. Shanice's editor wants to use the clip with the boy blurred. Shanice reflects on whether the doorstep approach was fair and how to use the footage.",
+  "options": [
+   "Use the footage of the chief refusing comment, with the son fully removed, treating the doorstep as legitimate for an evasive public figure.",
+   "Do not use any of the doorstep footage and instead run the story with written questions and the association's formal response.",
+   "Use the clip and add a note acknowledging the chief's family was affected, and apologise privately to the family."
+  ],
+  "tension": [
+   "accountability vs. family harm",
+   "aggressive method vs. proportionality"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Naming the Rape Defendant Before Trial",
+  "scenario": "News editor Ayesha Siddiqui in Dhaka receives a police statement naming a university lecturer as charged with raping a student. Local custom and law allow naming defendants. The lecturer's family says he is innocent and that being named will ruin him whatever the verdict. The student's lawyer urges the paper to name him to encourage other victims to come forward. International guidance suggests caution until conviction. The lecturer's pending bail hearing is tomorrow. Ayesha has to decide whether to use his name and photo in her report.",
+  "options": [
+   "Name him, citing the public police record, and report faithfully on the charge and his denial.",
+   "Describe him as a university lecturer without naming him until a court has ruled on the charge.",
+   "Name him but only after the bail hearing, when the court record gives clearer public information."
+  ],
+  "tension": [
+   "open justice vs. presumption of innocence",
+   "encouraging victims vs. reputational harm"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "The Funeral Livestream",
+  "scenario": "Social media producer Tomás Aguirre in Montevideo is asked to livestream the funeral of a famous singer, whose family allowed press at the church but not the graveside. A mourner offers Tomás a phone feed from the graveside, showing the singer's elderly mother collapsing with grief. The feed would get enormous engagement. The mourner says the mother would not mind, though she has not been asked. The family spokesperson has asked media to respect the boundary. Tomás has thirty seconds to accept or decline the feed.",
+  "options": [
+   "Decline the graveside feed and keep to the agreed church coverage, respecting the family's explicit boundary.",
+   "Accept the feed but cut away from the mother's collapse, using only wide shots of the ceremony.",
+   "Accept and broadcast the feed, since mourners themselves are sharing it and the audience has a stake in the singer's farewell."
+  ],
+  "tension": [
+   "audience demand vs. family's grief",
+   "agreements with the family vs. competitive coverage"
+  ],
+  "region": "Uruguay"
+ },
+ {
+  "title": "The Tax Records of a Philanthropist",
+  "scenario": "Investigative reporter Dalia Mourad in Casablanca obtains leaked tax records of a retired philanthropist, showing he paid far less tax than his lifestyle suggests, though legally. He funds scholarships and a hospital wing. The leak was illegal, and the philanthropist is in frail health. Dalia's colleagues see a story about tax fairness. Others see only a private man who has done good. The records also reveal his adult children's incomes, which have no public relevance. She needs to decide whether to use the records and in what manner.",
+  "options": [
+   "Publish a story on the tax arrangement without the children's details, as it raises public questions about a legal system favouring the rich.",
+   "Decline to use the leaked tax records, judging that legal tax avoidance by a private individual is not of enough public interest.",
+   "Use the records only as a lead to ask the philanthropist directly and report what he is willing to discuss."
+  ],
+  "tension": [
+   "tax fairness vs. private financial affairs",
+   "illegal leak vs. public interest"
+  ],
+  "region": "Morocco"
+ },
+ {
+  "title": "Leaked Voice Note from a Bereaved Mother",
+  "scenario": "Radio reporter Ioana Dumitru in Cluj receives a voice note forwarded from a group chat in which a mother, hours after losing her son in a road crash, rages at the municipal engineer who ignored warnings about the junction. The note is raw and compelling. Ioana has not met the mother, and the sender cannot say whether she knows it is circulating. The road is dangerous and another crash is likely. Broadcasting the voice might spur repairs, but it would put a private moment of grief on air. Ioana has until the lunchtime bulletin.",
+  "options": [
+   "Broadcast an excerpt after contacting the mother and getting her explicit consent, even if that means missing the bulletin.",
+   "Report the junction's danger using official crash data and do not use the voice note at all.",
+   "Play the excerpt with her voice disguised, reasoning that the public safety issue justifies using it without her knowledge."
+  ],
+  "tension": [
+   "public safety vs. a mourner's privacy",
+   "consent vs. timeliness"
+  ],
+  "region": "Romania"
+ },
+ {
+  "title": "The Councillor's Gambling Receipts",
+  "scenario": "Local reporter Lindiwe Zulu in Maseru is handed receipts from a casino showing that a municipal councillor lost large sums over several months. The councillor sits on the committee that awards the town's tender contracts, and his debts could make him vulnerable to bribes. There is no evidence of wrongdoing. Gambling is legal. The councillor's wife recently left him and he has been seen at counselling services. Lindiwe's editor feels the vulnerability is relevant. Lindiwe sees a man with an addiction. She has to choose what to do with the receipts.",
+  "options": [
+   "Publish the story on the financial vulnerability and the committee's role, after seeking the councillor's comment.",
+   "Ask the committee chair and the municipality's ethics officer whether tenders are monitored, and report on safeguards without naming the councillor.",
+   "Do not publish, since no wrongdoing exists and the story would punish a person for an illness."
+  ],
+  "tension": [
+   "conflict-of-interest risk vs. dignity of a person with addiction",
+   "speculation vs. accountability"
+  ],
+  "region": "Lesotho"
+ }
+]

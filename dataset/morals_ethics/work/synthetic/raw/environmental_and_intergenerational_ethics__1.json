@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Snow Leopard Corridor and Shepherd Pastures",
+  "scenario": "Reserve warden Tsering Dolma in Ladakh is asked to close seasonal pastures that form the only corridor linking two snow leopard populations. Genetic isolation threatens the cats, but the closure would take summer grazing from forty shepherd families whose goats have been hit by drought. Compensation for lost pasture is promised but historically slow. A conservation NGO offers funding only if the closure is enforced from next month, and the families have asked for a year.",
+  "options": [
+   "Enforce the closure on the NGO's timeline, prioritising the survival of the isolated snow leopard population.",
+   "Grant the families a year's delay, accepting increased risk to the cats to preserve livelihoods and trust.",
+   "Close half the corridor now with grazing permits for the rest, under joint monitoring that satisfies neither side fully."
+  ],
+  "tension": [
+   "species survival vs. livelihoods",
+   "enforcement vs. trust"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "The Elephant Raids and the Maize Fields",
+  "scenario": "District officer Joseph Mwale in Zambia receives weekly reports of elephants trampling maize fields near a national park. One farmer was injured last month. The park earns tourism revenue that funds the local school, and the elephant population has only recently recovered from poaching. Joseph can approve an electric fence that diverts elephants but may cut migration routes, authorise a limited cull of habitual raiders, or leave the matter to compensation payments that arrive slowly.",
+  "options": [
+   "Approve the electric fence along the park boundary, protecting crops while accepting restricted elephant movement.",
+   "Authorise a limited removal of the few habitual raiders, protecting farmers while keeping the broader herd free.",
+   "Rely on compensation and community deterrents only, protecting the elephants but leaving farmers exposed for now."
+  ],
+  "tension": [
+   "wildlife protection vs. farmer safety",
+   "individual animals vs. population"
+  ],
+  "region": "Zambia"
+ },
+ {
+  "title": "Mangrove Charcoal for the Winter",
+  "scenario": "Village head Nurul Islam in Bangladesh's Sundarbans knows that families cut mangroves to burn for cooking charcoal and sell the surplus. The mangroves buffer the village from cyclone surges, and a forest officer has told him that continued cutting will leave the coast bare within a decade. Winter is coming, gas is unaffordable, and the next harvest is months away. Nurul can enforce a village ban, tolerate limited cutting, or petition for subsidised fuel.",
+  "options": [
+   "Enforce a strict village ban on cutting, protecting the storm barrier even though some families will struggle through winter.",
+   "Tolerate limited cutting under a village quota system, balancing winter needs with slower mangrove loss.",
+   "Delay enforcement while petitioning authorities for subsidised fuel, risking continued cutting if aid does not arrive."
+  ],
+  "tension": [
+   "livelihood vs. protection from storms",
+   "community cohesion vs. rule enforcement"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "A Marine Park Declared Over Fishing Grounds",
+  "scenario": "Fisheries minister Isabel Montero in Chile is deciding whether to designate a large no-take marine reserve covering the traditional grounds of an artisanal fishing union of 300 boats. Scientists say fish stocks would recover and spill over into neighbouring waters in five to eight years. During recovery, union members would lose most of their income, and larger industrial vessels from other regions would only be restricted indirectly. The union has threatened to blockade ports.",
+  "options": [
+   "Declare the full reserve, accepting several years of hardship for fishers in order to secure long-term ecological recovery.",
+   "Create a smaller reserve with rotating zones open to artisanal fishers, slowing recovery to share the burden.",
+   "Postpone the reserve until alternative incomes are in place, risking further decline of the stocks."
+  ],
+  "tension": [
+   "ecological recovery vs. fishers' income",
+   "conservation vs. traditional rights"
+  ],
+  "region": "Chile"
+ },
+ {
+  "title": "Rare Orchid on a Flood Embankment",
+  "scenario": "Engineer Ayesha Rahman in Pakistan is managing the strengthening of an embankment protecting 12,000 people from river flooding. The soil to be excavated includes a hillside that hosts one of the last populations of a rare orchid, found nowhere else in the district. Moving the alignment would add four months and about 15 percent to the cost, and monsoon floods may arrive before completion. Local botanists have asked for a redesign.",
+  "options": [
+   "Keep the original alignment and build quickly, giving priority to protecting residents from flood.",
+   "Redesign the alignment to spare the orchids, accepting delay and added flood risk for residents.",
+   "Keep the alignment but relocate a sample of the orchids and seeds to a nursery, accepting that the wild population is lost."
+  ],
+  "tension": [
+   "human safety vs. rare species",
+   "time pressure vs. preservation"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "Whale Watching Boats and Quiet Seas",
+  "scenario": "Tourism operator Karin Lindqvist in Iceland runs a family whale-watching business employing eleven seasonal workers. New research suggests that boat noise disturbs feeding humpbacks and that fewer trips would help the whales. The regional board proposes a cap that would halve her daily departures, which would likely close the business. She sits on the board and has to vote on the cap on Tuesday, and her vote could be decisive.",
+  "options": [
+   "Vote for the cap, accepting the loss to her business and employees in order to reduce disturbance to the whales.",
+   "Vote against the cap, arguing that the evidence is not conclusive and that livelihoods and local education about whales matter.",
+   "Vote for a smaller reduction in departures with quieter engine requirements, accepting that her business will need costly retrofits."
+  ],
+  "tension": [
+   "conflict of interest vs. conscientious judgement",
+   "wildlife welfare vs. local livelihoods"
+  ],
+  "region": "Iceland"
+ },
+ {
+  "title": "Protected Forest, Landless Neighbours",
+  "scenario": "Land commissioner Rafael Nunes in Mozambique oversees a forest reserve established thirty years ago, which now borders a settlement of 2,000 families who lost farmland to flooding. They have begun clearing the reserve's edge to plant maize. The reserve shelters rare birds and holds a watershed for a nearby town. Rafael can evict the settlers, formally cede a strip of the reserve, or ignore the encroachment for now while seeking funds for alternatives.",
+  "options": [
+   "Evict the settlers and restore the boundary, defending the reserve's integrity and the watershed that serves the town.",
+   "Cede a strip of the reserve for farming, preventing hardship and conflict while accepting loss of habitat.",
+   "Turn a blind eye while seeking funds for alternative land, risking further encroachment and uncertainty for everyone."
+  ],
+  "tension": [
+   "conservation law vs. displaced families",
+   "rule of law vs. compassion"
+  ],
+  "region": "Mozambique"
+ },
+ {
+  "title": "Wolves Return to the Alpine Pastures",
+  "scenario": "Mountain farmer Giulia Ferrante in the Italian Alps lost eleven sheep to wolves this summer. The returning wolves are legally protected and symbolise the recovery of the region's wildlife, which her tourism-dependent village also markets. Giulia is asked by the farmers' association to sign a petition seeking permission to shoot problem animals. Guard dogs and fences are available but expensive, and not all pastures can be fenced.",
+  "options": [
+   "Sign the petition, prioritising farmers' viability and protection of their herds from continuing predation.",
+   "Refuse and invest in guard dogs and fencing with subsidy, preserving the wolves at greater cost and effort to farmers.",
+   "Sign a petition limited to removing only wolves that breach proven protections, a narrower and slower remedy."
+  ],
+  "tension": [
+   "predator protection vs. pastoral livelihood",
+   "tradition vs. rewilding"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "Selling the Bush Meat Market Stall",
+  "scenario": "Market association leader Adjoa Bonsu in Cameroon is asked by an international conservation group to ban the sale of bushmeat in her market. Many of the 80 stall holders are widows who rely on it, and cheaper protein is not available. Some species sold are endangered, and wildlife loss may eventually destroy the forests that people depend on. The group offers training and microloans but only if a ban is adopted. Adjoa must tell them where she stands at the next meeting.",
+  "options": [
+   "Support the ban on endangered species only, accepting reduced income for some stalls while allowing common species.",
+   "Support a full ban in exchange for training and microloans, prioritising wildlife and trusting the alternatives to work.",
+   "Decline the ban and propose community-managed hunting quotas, risking loss of the funding and ongoing pressure on wildlife."
+  ],
+  "tension": [
+   "biodiversity vs. food and income",
+   "external conditions vs. local autonomy"
+  ],
+  "region": "Cameroon"
+ },
+ {
+  "title": "The Wind Farm and the Eagles",
+  "scenario": "Environmental permitting officer Jens Hartmann in Germany reviews a wind farm proposal that would supply 40,000 homes with clean power. The site lies within the territory of a pair of white-tailed eagles, and modelling estimates that perhaps one eagle would be killed every couple of years. A rejected permit would push the region to rely on lignite power for longer. Local residents are split, and the developer says it will withdraw if conditions are too costly.",
+  "options": [
+   "Approve the permit with minimal conditions, giving priority to the climate and energy benefits of the wind farm.",
+   "Reject the permit, protecting the eagles and requiring the developer to find a safer location.",
+   "Approve with turbine shutdowns during eagle flights, which cuts output and may make the project unviable."
+  ],
+  "tension": [
+   "renewable energy vs. individual species",
+   "local protection vs. global climate"
+  ],
+  "region": "Germany"
+ },
+ {
+  "title": "Reindeer Routes and the Mining Road",
+  "scenario": "Reindeer herder and council member Aslak Nutti in Sweden is asked to consent to a new haul road for a mine that will supply metals for batteries. The road crosses a migration route his Sami community has used for generations, and herd losses are expected in harsh winters. The mine promises 400 jobs, some for young Sami, and funds for community projects. Aslak's consent would carry weight in the permit process, and the company will invest regardless if permits are granted.",
+  "options": [
+   "Give consent in return for binding commitments on herd protection, jobs and funding, accepting changes to the route.",
+   "Withhold consent, defending the migration route and the community's way of life despite the risk the road is built anyway.",
+   "Offer conditional consent only after an independent herd-impact study, delaying the process and straining relations."
+  ],
+  "tension": [
+   "indigenous livelihood vs. economic opportunity",
+   "consent vs. influence"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "Coral Gardeners Without a Permit",
+  "scenario": "Dive instructor Kaito Sanchez in the Philippines has started transplanting heat-resistant coral fragments onto a bleached reef, using a method that has not been formally approved by regulators. Early results are encouraging, and fishers nearby have seen fish return. The marine authority has warned him that unauthorised transplants could introduce disease and set a precedent for unregulated interference. He must decide how to proceed before the next bleaching season.",
+  "options": [
+   "Continue the transplants quietly, trusting local results and the urgency of saving the reef.",
+   "Stop immediately and apply for a permit, respecting oversight even if the reef degrades while waiting.",
+   "Continue under a collaborative arrangement with the authority's scientists, accepting restrictions and the loss of independence."
+  ],
+  "tension": [
+   "urgent action vs. regulatory caution",
+   "initiative vs. accountability"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "Lake Fish for the Hungry, Species for the Lake",
+  "scenario": "Fisheries scientist Dr. Grace Atieno at Lake Victoria in Uganda is evaluating a plan to stock a non-native tilapia that grows fast and could feed thousands of families in lakeside villages with cheap protein. Native cichlids in the lake are already declining, and the new fish may hasten their extinction. Many villagers go to bed hungry, and the government wants the programme started within a year. Her report will be decisive.",
+  "options": [
+   "Recommend the stocking programme, giving priority to feeding people now over species whose decline is already underway.",
+   "Recommend against stocking, protecting what remains of the native fish and proposing other food programmes.",
+   "Recommend stocking only in enclosed ponds, offering less food while limiting risk to the lake."
+  ],
+  "tension": [
+   "human nutrition vs. native biodiversity",
+   "certain harm vs. uncertain benefit"
+  ],
+  "region": "Uganda"
+ },
+ {
+  "title": "Tiger Reserve Buffer and the Honey Gatherers",
+  "scenario": "Forest officer Biswajit Chowdhury in West Bengal must enforce a new rule closing the tiger reserve's buffer zone to honey collectors during breeding season. For three hundred collecting families, spring honey is their main income, and past tiger attacks have killed collectors in the forest. The rule would protect tiger cubs and also reduce human danger, but families say they cannot survive without the harvest. Officials expect strict enforcement from him.",
+  "options": [
+   "Enforce the closure strictly, protecting tiger breeding and collectors' lives while accepting a season of hardship.",
+   "Allow collection in designated safer areas with escorts, reducing both the conservation effect and the income loss.",
+   "Delay enforcement until compensation is arranged, risking disturbance to the cubs this season."
+  ],
+  "tension": [
+   "breeding protection vs. income",
+   "human safety vs. conservation"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Selling the Peatland Drainage Rights",
+  "scenario": "Palm oil smallholder Wayan Sudarta in Indonesia farms two hectares of drained peatland whose soil releases large amounts of carbon and has burned in past fires. A cooperative offers him a restoration scheme to rewet the land and plant native crops, paying a modest stipend but yielding much less income than palm. His neighbours have not joined, so his rewetting could flood their plots. Wayan supports a family of six and has loan repayments due.",
+  "options": [
+   "Join the restoration scheme, accepting lower income to reduce fire risk and carbon release for everyone.",
+   "Keep growing palm oil, prioritising his family's current security until neighbours also commit to rewetting.",
+   "Join the scheme in part, rewetting only the portion of land that will not affect neighbours' plots."
+  ],
+  "tension": [
+   "family income vs. collective environmental benefit",
+   "individual action vs. neighbours' cooperation"
+  ],
+  "region": "Indonesia"
+ },
+ {
+  "title": "Rooftop Beehives and the City Ordinance",
+  "scenario": "Urban planner Camille Rousseau in Montreal is reviewing a proposal to allow beekeeping on apartment rooftops. Supporters say it supports pollinators and reconnects residents with nature, but wild bee specialists argue that honeybee colonies compete with native bees for limited flowers in the city. A community garden coalition has gathered thousands of signatures, while university researchers urge a ban. She must recommend an ordinance to the council.",
+  "options": [
+   "Recommend permitting rooftop hives with licensing, valuing community engagement and public support for nature.",
+   "Recommend a ban on new hives, prioritising native pollinators even though it disappoints many residents.",
+   "Recommend a density cap on hives alongside investment in native flower planting, a compromise that satisfies few."
+  ],
+  "tension": [
+   "public engagement vs. ecological evidence",
+   "symbolic action vs. actual effect"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "Culling Feral Cats on an Island Sanctuary",
+  "scenario": "Island manager Aroha Wihongi in New Zealand runs a bird sanctuary where feral cats prey on endangered petrels. Removing the cats through trapping and euthanasia would likely save the colony, but local children have befriended some of them, and an animal welfare group demands rehoming instead, which is impractical on the island and would take years. Petrel chicks fledge in four months. She must authorise a method.",
+  "options": [
+   "Authorise trapping and humane euthanasia now, prioritising the endangered petrels and the colony's survival.",
+   "Fund a slower rehoming programme, upholding the cats' welfare while accepting petrel losses in the meantime.",
+   "Authorise euthanasia only for cats seen hunting the petrels, accepting an imperfect and harder-to-enforce approach."
+  ],
+  "tension": [
+   "individual animal welfare vs. species survival",
+   "speed vs. compassion"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "Salmon Ladder or Village Mill",
+  "scenario": "Mayor Odette Beaulieu of a small French town in the Pyrenees owns the decision on an old weir that powers a historic mill and a small hydropower turbine providing 20 percent of the town's electricity. Removing the weir would reopen miles of spawning river for salmon and trout but end the mill's operations and its tourism draw. A fish ladder would cost more than the town's yearly budget and only partly restore passage.",
+  "options": [
+   "Remove the weir, reconnecting the river for fish at the cost of the mill, the turbine and some tourist income.",
+   "Keep the weir and the mill, protecting the town's heritage, power and income while fish stocks remain restricted.",
+   "Build the fish ladder with a regional grant, risking debt and an incomplete ecological result."
+  ],
+  "tension": [
+   "river restoration vs. heritage and energy",
+   "local finances vs. ecological repair"
+  ],
+  "region": "France"
+ },
+ {
+  "title": "Trophy Hunting Fees for Anti-Poaching Rangers",
+  "scenario": "Conservancy board chair Thabo Molefe in Botswana receives a request from a safari company to sell five licences for lion hunting. The licences would raise enough money to pay 20 anti-poaching rangers for a year, and community payouts that currently secure local support for wildlife. Critics argue that killing lions for sport is wrong and may reduce a vulnerable population. Without funds, he fears the rangers will be laid off and poaching will rise.",
+  "options": [
+   "Sell the licences with strict age and quota rules, using the income to sustain the rangers and community benefits.",
+   "Refuse the licences and seek donations and photographic tourism income, risking funding gaps and ranger layoffs.",
+   "Sell fewer licences than requested and cut other budget lines, which reduces harm but weakens operations."
+  ],
+  "tension": [
+   "animal life vs. protection funding",
+   "pragmatism vs. principle"
+  ],
+  "region": "Botswana"
+ },
+ {
+  "title": "A Vineyard Beside the Wetland",
+  "scenario": "Winemaker Lucía Andrade in Argentina's Mendoza province wants to expand her vineyard onto a seasonal wetland on her own property. The wetland shelters migratory birds and recharges groundwater, but the land is her family's best chance of financing their ageing parents' care. Regulations are ambiguous, and an inspector has hinted he will not notice if she proceeds. The planting window opens in two weeks.",
+  "options": [
+   "Expand onto the wetland, treating the land as hers and prioritising her family's financial needs.",
+   "Leave the wetland intact and seek income elsewhere, honouring the birds and the shared groundwater.",
+   "Expand onto part of the wetland while restoring another area, a trade she believes balances both concerns."
+  ],
+  "tension": [
+   "property rights vs. ecological commons",
+   "family obligation vs. environmental duty"
+  ],
+  "region": "Argentina"
+ },
+ {
+  "title": "Rangers Who Hunt the Hunters",
+  "scenario": "Anti-poaching unit commander Captain Nia Wekesa in Tanzania receives intelligence that a gang of poachers will cross into the park tonight to kill rhinos. The gang includes teenagers from a nearby village paid a pittance. Her orders allow lethal force if rangers are threatened, but she worries about killing boys who may not be armed, while the rhinos are among the last few dozen of their kind. She must decide how to deploy her team.",
+  "options": [
+   "Deploy an ambush team ready to use lethal force if threatened, protecting the rhinos through a firm presence.",
+   "Deploy a visible patrol to deter the gang from entering, avoiding confrontation but perhaps only displacing the poaching.",
+   "Warn village elders in advance so they can keep the youths away, risking leaks that alert the gang leaders."
+  ],
+  "tension": [
+   "species protection vs. human life",
+   "deterrence vs. proportionality"
+  ],
+  "region": "Tanzania"
+ },
+ {
+  "title": "The Carp Pond and the Old Tradition",
+  "scenario": "Aquaculture extension agent Anh Pham in northern Vietnam is advising rural farmers who raise carp in small ponds, often fed by pesticide-laden run-off and kept until the Tet festival. A new regulation requires reducing stock density to improve fish welfare and water quality, which cuts yields by a quarter. Farmers say the fish suffer no more than usual, and that they can't afford lower yields. The inspections begin next month.",
+  "options": [
+   "Enforce the new density rule fully, prioritising fish welfare and cleaner water over yields.",
+   "Delay enforcement for a year while offering training, respecting farmers' constraints and risking continued crowding.",
+   "Enforce the rule only on the largest farms, leaving smallholders exempt, which is uneven but reduces hardship."
+  ],
+  "tension": [
+   "animal welfare vs. poverty",
+   "regulatory fairness vs. flexibility"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "Camel Milk Dairy and the Fragile Dunes",
+  "scenario": "Cooperative founder Aisha bint Rashid in Oman has built a small camel dairy that employs thirty women from nomadic families, giving them cash incomes for the first time. Expanding to meet orders would double the herd on dune pastures already showing erosion. A wildlife scientist has warned that the dunes shelter rare reptiles and might not recover from overgrazing. Aisha must decide on the next stage of the business.",
+  "options": [
+   "Double the herd as planned, expanding income and independence for more women despite pressure on the dunes.",
+   "Keep the herd at its current size, protecting the dunes and accepting limits on women's earnings.",
+   "Expand the herd by half and rotate grazing areas, accepting some ecological risk and some economic limits."
+  ],
+  "tension": [
+   "women's economic empowerment vs. ecological limits",
+   "growth vs. sustainability"
+  ],
+  "region": "Oman"
+ },
+ {
+  "title": "Bear Sanctuary Funding Crisis",
+  "scenario": "Sanctuary director Mihai Popescu in Romania cares for forty bears rescued from captivity, many with injuries. Funding has fallen, and he can cover costs either by euthanising the oldest, most disabled bears to free resources or by closing the educational centre, which brings in school groups and donations. Euthanasia would be humane but would trouble donors and staff, while closing the centre may cut long-term support for bear conservation.",
+  "options": [
+   "Humanely euthanise the most severely disabled bears, preserving resources for the others and the educational programme.",
+   "Close the educational centre, keeping all bears alive but weakening the sanctuary's future support.",
+   "Appeal publicly for emergency funds and delay decisions, risking a worse crisis if donors fail to respond."
+  ],
+  "tension": [
+   "individual animal welfare vs. institutional sustainability",
+   "care vs. resource limits"
+  ],
+  "region": "Romania"
+ },
+ {
+  "title": "Sea Turtle Eggs and the Egg Collectors",
+  "scenario": "Beach patrol coordinator Kwame Tetteh in Ghana's Volta region guards one of the few remaining sea turtle nesting beaches. Poor families have collected eggs here for generations to eat and sell, and several now depend on the income after a failed fishing season. Hatchery programmes pay a small fee per nest handed over, but the fee is below the market price. Poaching is rising, and the nesting season peaks in three weeks. Kwame can patrol with armed guards, raise the fee, or tolerate limited collection.",
+  "options": [
+   "Deploy armed patrols to stop all collection, prioritising the turtles' survival through the peak nesting weeks.",
+   "Raise the per-nest fee by drawing down other conservation funds, reducing collection while paying families fairly.",
+   "Tolerate limited collection of the later nests only, accepting some losses to the turtles to maintain good relations."
+  ],
+  "tension": [
+   "species survival vs. subsistence income",
+   "enforcement vs. cooperation"
+  ],
+  "region": "Ghana"
+ }
+]

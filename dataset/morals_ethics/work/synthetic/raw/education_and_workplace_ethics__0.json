@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Identical Essays Across Two Sections",
+  "scenario": "Professor Adaeze Okonkwo at a university in Lagos notices that two final essays from different course sections share long passages and an unusual argument structure. One student, Tunde, is on a scholarship that requires a minimum grade; the other, Ifeoma, is a repeat student who has failed this course once already. Neither has a prior integrity record. The department policy allows a warning for first offences or a formal hearing, which would pause both students' enrolment for weeks. Grades must be submitted by Friday, and Adaeze cannot tell who copied from whom. She must decide how to proceed.",
+  "options": [
+   "Refer both students to the formal hearing so an impartial panel can establish who copied, accepting the delay and the risk to both students' standing.",
+   "Issue both a written warning and a rewrite assignment, treating this as a first offence and avoiding a process that may punish the wrong person.",
+   "Interview each student privately before deciding, even if this means requesting an extension on grade submission from the registrar."
+  ],
+  "tension": [
+   "due process vs. leniency",
+   "fairness to individuals vs. institutional consistency"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "The Curve That Rewards Cheating",
+  "scenario": "Mr. Henrik Solberg teaches upper-secondary chemistry in Bergen, and grades on a class curve mandated by his school. After the exam, a student quietly tells him that six classmates shared answers over a messaging app. Without them, the curve would shift and several honest students would earn higher marks that matter for university admission next month. Henrik has no direct proof beyond the tip, which came from a student who fears being labelled a snitch. The school's rules require him to report suspected cheating to the head, but a false accusation could damage reputations.",
+  "options": [
+   "Report the tip to the head teacher as the rules require and let the school investigate, protecting the informant's identity as far as possible.",
+   "Quietly re-administer a different version of the exam to everyone, avoiding accusations while correcting any distortion in the curve.",
+   "Hold the grades unchanged and warn the whole class about the policy, judging that unverified rumour is too weak a basis for sanctions."
+  ],
+  "tension": [
+   "rule-following vs. proportionality",
+   "protecting the informant vs. accountability"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "AI Draft in a Struggling Student's Thesis",
+  "scenario": "Dr. Priya Raghunathan supervises a master's thesis in Chennai. Her student Karthik, the first in his family to attend university, submits a chapter whose prose is suddenly polished and fluent, unlike his earlier work. An AI-detection tool flags it at 70 percent, though Priya knows such tools are unreliable. The university's policy bans undisclosed generative AI but gives no guidance on language editing for non-native English writers. Karthik denies wrongdoing, saying a friend helped him with grammar. His funding depends on completing the degree this year, and Priya must decide how to respond.",
+  "options": [
+   "Treat the chapter as a suspected violation and file a formal report, letting the integrity committee weigh the evidence and the ambiguous policy.",
+   "Ask Karthik to explain and defend the chapter's content orally, and base any action on whether he demonstrates real command of the ideas.",
+   "Accept his explanation, remind him of the policy in writing, and continue supervising without a report, given the weak evidence and unclear rules."
+  ],
+  "tension": [
+   "unreliable evidence vs. academic standards",
+   "trust vs. verification"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "A Perfect Score from a Hacked Gradebook",
+  "scenario": "Teaching assistant Mateo Fuentes in Santiago discovers that a classmate-turned-grader accidentally left the online gradebook open and a student, Lucía, appears to have changed her own midterm mark from 4.1 to 6.0 on a seven-point scale. The audit log is ambiguous, and a technical glitch is possible. Lucía is widely liked and is the main caregiver for a sick parent. Mateo is paid by the course professor, who is travelling and unreachable for several days, and grades feed into a class ranking for exchange placements closing this week.",
+  "options": [
+   "Report the anomaly to the course professor and the university IT office immediately, leaving the determination of fault to them.",
+   "Speak to Lucía privately first, giving her the chance to explain or correct it herself before anything is formally recorded.",
+   "Revert the grade to the original paper record and note the discrepancy in the file, without accusing anyone until the professor returns."
+  ],
+  "tension": [
+   "compassion vs. integrity",
+   "chain of command vs. direct action"
+  ],
+  "region": "Chile"
+ },
+ {
+  "title": "Grading the Brilliant Student You Dislike",
+  "scenario": "Lecturer Yusuf Demir in Ankara realizes while marking blind-submitted exams that the strongest answers come from a student he recognises by handwriting, someone who publicly challenged his teaching and filed a complaint against him last term. The complaint was dismissed. His initial instinct is to award marks slightly below what the rubric implies on two ambiguous essays. A first-class result would qualify the student for a prestigious fellowship. Yusuf is the only marker, and second marking is optional in his department, though available on request.",
+  "options": [
+   "Apply the rubric as written to every script and award the marks it yields, trusting his own consistency despite the history.",
+   "Request an independent second marking of this student's essays and disclose the history to the exam board to remove any doubt.",
+   "Ask a colleague to mark the two ambiguous essays anonymously and average the result with his own."
+  ],
+  "tension": [
+   "impartiality vs. self-knowledge",
+   "transparency vs. privacy"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "The Tutor Who Wrote the Application Essay",
+  "scenario": "Counsellor Sofia Marchetti at an international school in Milan learns from a parent's offhand remark that a student's university application essay, praised in class, was largely written by a paid private tutor. The student, Giacomo, is applying to a competitive programme in the United Kingdom and the deadline is in four days. Sofia has already sent her supportive reference letter, which mentions the essay's originality. Her school's honour code covers coursework but is silent on external applications. Other students submitted their own imperfect essays. She must decide whether to act on secondhand information.",
+  "options": [
+   "Tell Giacomo she knows and urge him to submit a self-written essay or withdraw her reference, offering support to redo it in time.",
+   "Do nothing, since the honour code does not cover applications and the information is secondhand and unconfirmed.",
+   "Contact the admissions office to correct her reference letter's statement about originality, without naming the tutor."
+  ],
+  "tension": [
+   "honesty in recommendations vs. loyalty to student",
+   "hearsay vs. responsibility"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "Grade Inflation Pressure from the Dean",
+  "scenario": "Associate Professor Wei-Lin Chang in Taipei is told at a faculty meeting that her department's average grade is lower than other departments, causing complaints from students and a decline in enrolment. The dean suggests, without making it an order, that she consider 'adjusting expectations'. Her course is a gateway to engineering, and students who pass without mastering the material often struggle later. Three colleagues quietly inflate grades. Her contract renewal is under review this term, and she is the main earner for her family.",
+  "options": [
+   "Keep her current grading standards and explain them transparently to the dean, accepting possible consequences for her renewal.",
+   "Gradually recalibrate difficulty and grading toward the departmental norm, judging that matching peers is fair to her own students.",
+   "Raise the issue formally with the faculty senate, proposing a department-wide review of grading standards instead of acting alone."
+  ],
+  "tension": [
+   "professional integrity vs. job security",
+   "fairness across cohorts vs. rigour"
+  ],
+  "region": "Taiwan"
+ },
+ {
+  "title": "Sharing the Exam with a Cousin",
+  "scenario": "Invigilator Kwame Boateng, a retired headmaster supervising national exams in Kumasi, sees his own nephew, Yaw, glance repeatedly at the paper of the candidate beside him in the final mathematics paper. Under the examination board's rules, suspected malpractice must be recorded and the candidate's results can be annulled across all subjects. Yaw's family sacrificed to pay his school fees, and he hopes to become the first doctor in the village. The neighbouring candidate seems unaware. No other invigilator is nearby, and the exam ends in twenty minutes.",
+  "options": [
+   "Record the incident on the malpractice form exactly as he would for any candidate, despite the family relationship and the cost to Yaw.",
+   "Move Yaw to a different seat without writing a report, ending the behaviour while limiting consequences.",
+   "Hand the matter to the chief supervisor, disclosing the relationship, and let someone without a conflict decide."
+  ],
+  "tension": [
+   "family loyalty vs. duty",
+   "conflict of interest vs. discretion"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Rubric Says Pass, Gut Says Fail",
+  "scenario": "Dr. Ingrid Vasquez-Holm assesses a nursing student's clinical portfolio in Sydney. By every item on the rubric the student, Marlee, meets the minimum standard, yet Ingrid observed her hesitating dangerously during a medication round and covering for a mistake with a colleague. These behaviours are not captured by rubric criteria. Failing her would delay graduation by a year and cost her a job offer in a rural hospital that is desperately short of nurses. Passing her may place patients at risk. The moderation panel meets tomorrow, and Ingrid's notes are informal.",
+  "options": [
+   "Pass her on the rubric as written, noting the concerns in her file so employers and mentors can supervise her closely.",
+   "Fail her on the basis of professional judgement, documenting the observations to justify the departure from the rubric.",
+   "Present the concerns to the moderation panel and let the group decide, even though this could expose Marlee to wider scrutiny."
+  ],
+  "tension": [
+   "patient safety vs. fair assessment",
+   "rubric rigidity vs. professional judgement"
+  ],
+  "region": "Australia"
+ },
+ {
+  "title": "Anonymous Marking Breaks Down in a Small Town",
+  "scenario": "Teacher Beatriz Andrade grades the regional essay competition at a small school on an island in the Azores, where every handwriting is recognizable. The winning essay, a moving account of a grandmother's emigration, is obviously by the principal's daughter. It is also genuinely the best. The prize includes a scholarship to a mainland summer programme that the island's less advantaged children rarely access. The contest rules promise anonymity but nobody has enforced it. Other teachers have already hinted that the principal's daughter 'always wins'.",
+  "options": [
+   "Award the prize to the strongest essay as judged, since quality is the stated criterion, and disclose the likely authorship to the panel.",
+   "Pass the top essays to a judge from another island who does not know the students, delaying the announcement.",
+   "Select the best essay by a student who has never won, reasoning that the opportunity matters more for them."
+  ],
+  "tension": [
+   "merit vs. opportunity",
+   "appearance of fairness vs. actual quality"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "A Retake Offer That Only Some Can Use",
+  "scenario": "Professor Daniyar Seitkali in Almaty offers an optional retake after a physics exam on which the class average was unusually low because of an ambiguous question. The retake is scheduled on Saturday morning, when several students work shifts at family stalls or take care of siblings, and cannot attend. A student representative argues it advantages those who are free. Daniyar could instead drop the question for everyone, which would raise some students' scores while leaving high scorers unchanged. The department head expects a quick decision for the grade sheet.",
+  "options": [
+   "Drop the ambiguous question from the scoring for all students and skip the retake entirely.",
+   "Hold the retake as planned, since attendance is voluntary and students who cannot come keep their original marks.",
+   "Offer multiple retake times, including evenings, even though it increases his workload and the risk of leaked questions."
+  ],
+  "tension": [
+   "equal access vs. practicality",
+   "fairness to high scorers vs. correcting a flawed question"
+  ],
+  "region": "Kazakhstan"
+ },
+ {
+  "title": "Plagiarism by a Famous Colleague's Student",
+  "scenario": "Graduate coordinator Hana Kobayashi in Osaka finds that a doctoral candidate's literature review closely follows a little-known 2009 thesis from another university, with minimal attribution. The candidate is the star advisee of Professor Mori, a powerful figure who sits on the committee that decides Hana's promotion. Mori insists it is a 'matter of sloppy citation, not theft'. The candidate has a paper accepted at a top journal, and the university is eager to publicise it. Hana can submit the findings to the integrity office or settle for corrections.",
+  "options": [
+   "Submit the comparison report to the integrity office with full documentation, accepting the risk to her relationship with Professor Mori.",
+   "Ask the candidate to revise the review with proper attribution under Hana's supervision, treating it as a correctable citation failure.",
+   "Share the evidence confidentially with an independent senior scholar to decide whether it merits a formal complaint."
+  ],
+  "tension": [
+   "integrity vs. career risk",
+   "proportionality vs. accountability"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Group Project, One Passenger",
+  "scenario": "Teacher Lerato Mokoena in Johannesburg assigns a graded group project in grade 11. Four students submit their report, and the group names Sipho as having done almost nothing; the others demand he receive a lower mark. Sipho says his parents' shop was robbed that week and he was working nights there, but he did not tell the group. The school gives all members the same mark by default, and teachers may adjust it with evidence. A university bursary depends on grades for two of the students, who feel they carried him.",
+  "options": [
+   "Give all four the same mark, as the policy defaults to and as the project's purpose was cooperative learning.",
+   "Lower Sipho's mark based on the group's account of contributions, regardless of his reasons, since grades should reflect work done.",
+   "Meet the group, ask Sipho to complete an additional individual task, and weight his mark according to what he then produces."
+  ],
+  "tension": [
+   "effort vs. circumstances",
+   "collective responsibility vs. individual merit"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Reusing Last Year's Exam",
+  "scenario": "Instructor Camille Dubois at a vocational college in Lyon reuses a plumbing certification exam with minor changes because her workload doubled after a colleague left. She then discovers that a fraternity-style student group keeps an archive of old exams and that half the class has seen similar questions. Students who did not have access to the archive feel disadvantaged, though the archive is not strictly forbidden. The results determine who qualifies for apprenticeships with a major employer that picks from the top ten. Grades are about to be published.",
+  "options": [
+   "Publish the grades as they stand, since the archive is not prohibited and opening the archive for everyone in future solves the unfairness.",
+   "Cancel the results and issue a fresh exam, absorbing the extra workload and delaying apprenticeship decisions by two weeks.",
+   "Publish the grades but weight the apprenticeship selection with a practical assessment that cannot be rehearsed from past papers."
+  ],
+  "tension": [
+   "fairness vs. burden",
+   "transparency vs. efficiency"
+  ],
+  "region": "France"
+ },
+ {
+  "title": "The Student Who Confessed Too Late",
+  "scenario": "Registrar's officer Jomo Kariuki in Nairobi receives an email from a graduate, Njeri, three years after she finished her degree. She confesses that she bought her final-year dissertation from an essay service and says the guilt is destroying her. She now works as a public-health officer, widely respected, and her degree is a requirement for her post. University regulations allow revoking degrees for misconduct with no time limit, but no one has ever done it for a self-reported case. Jomo is asked by his director for a recommendation.",
+  "options": [
+   "Recommend following the regulation and revoking the degree, upholding standards equally for those who were caught earlier.",
+   "Recommend a formal hearing that takes her confession, record and service into account before any decision on revocation.",
+   "Recommend acknowledging the confession and taking no action, judging that three years of competent service and honesty show repair."
+  ],
+  "tension": [
+   "justice vs. mercy",
+   "deterrence vs. rehabilitation"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Overhearing the Answer Key Sale",
+  "scenario": "Student council president Ayesha Rahman at a college in Dhaka overhears two older students negotiating the sale of the upcoming physics board exam paper for a price that equals a month of rent. She does not know where the paper came from or whether it is real. If she reports it, the board may cancel the exam for thousands of students who have spent a year preparing, and the two sellers might face police involvement. If she stays silent and the sale is real, honest students will compete against buyers. The exam is in three days.",
+  "options": [
+   "Report what she overheard to the college principal immediately so authorities can verify and respond, accepting the risk of cancelling the exam.",
+   "Confront the two students directly and tell them to stop, avoiding police involvement and large-scale disruption.",
+   "Say nothing for now and instead encourage classmates to avoid anything circulating, judging the information too uncertain to justify the damage."
+  ],
+  "tension": [
+   "honest majority vs. collective harm",
+   "certainty vs. precaution"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "Test Anxiety and the Oral Defence",
+  "scenario": "Professor Elif Schmidt in Vienna must decide on a student, Jonas, whose written work is excellent but who freezes in oral defences and has failed it twice. A medical note mentions an anxiety disorder, though the note does not request any specific adjustment. The programme requires an oral defence to certify that a candidate can communicate research live, a skill crucial for the profession. Other candidates passed with comparable anxiety by using coping strategies. Jonas's visa depends on completing the degree this term, and the third attempt is his last.",
+  "options": [
+   "Hold the oral defence in the standard format, since it tests a core competence and has been applied to everyone equally.",
+   "Allow a modified format, such as a written Q&A or smaller panel, treating the anxiety as a legitimate barrier unrelated to ability.",
+   "Offer him the choice between the standard format and the modified format and let the committee grade them against the same criteria."
+  ],
+  "tension": [
+   "fairness to peers vs. accommodation",
+   "core competence vs. access"
+  ],
+  "region": "Austria"
+ },
+ {
+  "title": "Favouring the Teacher's Pet in Participation Marks",
+  "scenario": "Schoolteacher Diego Paredes in Cusco gives participation marks, 20 percent of the final grade, based on his own impressions. When a parent asks him to justify his daughter's low score, he realises he has consistently rated talkative, confident students higher than quiet ones, including several who speak up only in the indigenous language Quechua among friends. Changing scores now would affect class rankings used for a regional scholarship. Report cards are due in two days, and the principal discourages post-hoc changes that might invite appeals.",
+  "options": [
+   "Leave the marks unchanged, since they reflect his honest assessment at the time, and revise his method from next term.",
+   "Re-evaluate all participation marks using a written rubric and issue corrected report cards, even if it triggers appeals.",
+   "Drop the participation component from this term's final grade for everyone, relying only on written work."
+  ],
+  "tension": [
+   "transparency vs. stability",
+   "correcting bias vs. administrative consistency"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Contract Cheating Ring Among International Students",
+  "scenario": "Integrity officer Callum Ferguson at a university in Glasgow identifies thirty-one essays likely produced by one contract cheating service, evident from shared metadata. Most are from international students paying very high fees who are struggling with language and unfamiliar academic norms. Some may have been deceived by the service into thinking it offered tutoring. A hard line would lead to expulsions and visa cancellations. A softer approach would clear students who did cheat knowingly. The university's reputation committee wants a decisive response and has asked Callum for a plan by Monday.",
+  "options": [
+   "Pursue formal misconduct proceedings against all thirty-one under the standard policy, treating cases individually in hearings.",
+   "Offer an amnesty-style process in which students who come forward and resubmit are treated as education cases, with sanctions only for those who deny.",
+   "Escalate only the cases with strong evidence of knowing purchase and send the rest an educational warning."
+  ],
+  "tension": [
+   "deterrence vs. proportionality",
+   "institutional reputation vs. individual welfare"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Teaching to a Test That Is Rigged",
+  "scenario": "Maths teacher Rosario Villanueva in Manila learns that her school's principal quietly gives advance questions of the national assessment to a few teachers so that school results look good and funding continues. She has been offered the same. Her class includes several children from informal settlements whose families depend on the school's feeding programme, which is tied to funding. If she declines, her students' results may look worse than neighbouring classes. If she reports it, the school's funding and the programme could be cut.",
+  "options": [
+   "Decline the questions and quietly teach honestly, accepting that her students' scores may look worse than peers'.",
+   "Report the practice to the education authority's anonymous line, accepting the possible loss of funding and meals.",
+   "Use the questions as the principal suggests, reasoning that the children's immediate welfare outweighs the distortion of the test."
+  ],
+  "tension": [
+   "integrity vs. children's welfare",
+   "complicity vs. consequences"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "A Mark Dispute Over a Single Point",
+  "scenario": "Examiner Olga Petrenko in Kyiv, working through disrupted electricity and an evacuation, marks a high-school final exam where one point separates a student, Taras, from the threshold for a state-funded university place. On re-reading, she finds his proof is correct but uses an unconventional method not listed in the marking guide. Awarding the point would be defensible but could prompt complaints from other students whose similar methods were marked down earlier. Re-checking all scripts would take days that the process does not allow. The ranking list closes tonight.",
+  "options": [
+   "Award the point to Taras as the method is mathematically valid, and note the decision for the appeals committee.",
+   "Keep the marking consistent with the guide for all scripts, leaving unconventional methods to be decided on appeal.",
+   "Award the point and quickly re-review the other scripts with unconventional methods that she can find before the deadline."
+  ],
+  "tension": [
+   "consistency vs. accuracy",
+   "time pressure vs. fairness"
+  ],
+  "region": "Ukraine"
+ },
+ {
+  "title": "Telling a Parent Their Child Was Graded by a Machine",
+  "scenario": "Department head Fatima Zahra Benali in Casablanca introduced an automated essay-scoring tool to cope with the volume of the baccalaureate mock exams. A parent, a lawyer, requests a manual re-mark of her son's essay and finds that the tool penalised his use of Darija expressions and a regional idiom. The tool is accurate overall and saves teachers hundreds of hours, which have been redirected to tutoring. Disclosure to all families would reveal that the mock scores were machine-generated, which the school never announced. Fatima must decide how to respond.",
+  "options": [
+   "Re-mark the one essay manually and quietly correct the score, keeping the system in place for everyone else.",
+   "Disclose the use of automated scoring to all families and offer manual re-marks on request, accepting a backlash.",
+   "Suspend the tool for the remaining mock exams and revert to teacher marking despite the extra workload."
+  ],
+  "tension": [
+   "transparency vs. efficiency",
+   "individual redress vs. systemic reform"
+  ],
+  "region": "Morocco"
+ },
+ {
+  "title": "The Grade That Decides a Custody Hearing",
+  "scenario": "Lecturer Stefan Kowalczyk in Gdańsk is approached by a part-time student, Marta, who asks him to reconsider a failing course mark. She explains that a family court will soon decide on custody of her daughter, and her ex-partner's lawyer is using the failed course as evidence of instability. Her exam performance was objectively below the pass mark by three points. She does not ask him to change the grade, only to consider whether a resit could be arranged early. The department normally schedules resits only in September, and special arrangements would set a precedent.",
+  "options": [
+   "Decline an early resit, explaining that the standard schedule applies equally to everyone regardless of outside circumstances.",
+   "Arrange an early resit under the existing rule for exceptional circumstances, and document her situation for transparency.",
+   "Offer to write a factual letter about the situation to the court, without altering any academic decision or schedule."
+  ],
+  "tension": [
+   "compassion vs. precedent",
+   "equal rules vs. exceptional need"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Whistleblowing on a Respected Examiner",
+  "scenario": "Junior marker Tomás Oliveira in São Paulo notices that senior examiner Dr. Ribeiro consistently gives students from a particular prestigious private school scores several points higher than comparable scripts from public schools. Tomás double-marked a sample and found a clear pattern, though Dr. Ribeiro is known as a generous mentor who helped Tomás get his position. Raising the issue could end Tomás's contract with the exam board and jeopardise the careers of other markers he supervises. Admission to federal universities depends on these scores, and results are released in ten days.",
+  "options": [
+   "File a confidential complaint with the exam board's oversight unit along with his double-marking data.",
+   "Speak to Dr. Ribeiro directly, share the data and ask him to review the scripts himself before results are released.",
+   "Keep the data and wait to see whether anyone else notices, judging that his evidence is a small sample and his position too weak."
+  ],
+  "tension": [
+   "loyalty vs. equity",
+   "personal risk vs. public interest"
+  ],
+  "region": "Brazil"
+ },
+ {
+  "title": "Open-Book Exam, Closed-Book Conscience",
+  "scenario": "After an online open-book economics exam in Colombo, teaching fellow Nimali Wickramasinghe notices a student, Dinesh, finished a ninety-minute exam in twenty-five minutes with every answer correct and phrased in the same way as the lecturer's own lecture notes, which are not public. Dinesh has the best attendance and tutored others voluntarily. The lecturer, who is overseas, asks Nimali to 'use judgement'. There is no proctoring log, and any accusation rests on speed and phrasing. A false accusation could end Dinesh's chance at a Commonwealth scholarship.",
+  "options": [
+   "Request a short viva with Dinesh to check understanding of his answers before deciding whether to raise a concern.",
+   "Take no action since the exam rules allowed open resources and the evidence is circumstantial.",
+   "Report the pattern to the lecturer and the integrity office with a note about uncertainty, and let them decide."
+  ],
+  "tension": [
+   "suspicion vs. presumption of innocence",
+   "speed of response vs. evidence"
+  ],
+  "region": "Sri Lanka"
+ }
+]

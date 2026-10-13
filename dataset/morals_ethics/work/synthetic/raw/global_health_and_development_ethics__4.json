@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Checkpoint Demands a Passenger List",
+  "scenario": "Convoy leader Hamza Qureshi is driving medical supplies for a relief agency through a contested area of northern Syria. At a checkpoint, a local commander offers passage on one condition: he must carry two of the commander's wounded fighters to a hospital and share the names of the clinic's staff. Refusing means turning around, leaving a hospital treating 200 civilian patients without supplies for at least a week. Agreeing contradicts the agency's neutrality rules and risks staff safety. He has radio contact with headquarters but little time.",
+  "options": [
+   "Refuse the demands and turn around, upholding neutrality and protecting staff even though civilians will go without supplies.",
+   "Carry the wounded fighters, treating them as patients in need, but refuse to share staff names.",
+   "Accept both conditions to ensure the supplies arrive, prioritising the patients in the hospital over the agency's rules."
+  ],
+  "tension": [
+   "neutrality vs. immediate relief",
+   "principle vs. consequences"
+  ],
+  "region": "Syria"
+ },
+ {
+  "title": "Registering With the Authorities",
+  "scenario": "Country representative Odile Marchand of an international NGO in Eritrea's neighbour Ethiopia must decide whether to accept a new government registration requirement that gives officials the right to approve the NGO's beneficiary lists and staffing. Compliance would let the organisation continue feeding 60,000 displaced people, but officials could exclude communities seen as supporting opposition groups. Refusing means closure of operations. Other agencies are split, and the headquarters leaves the call to her.",
+  "options": [
+   "Comply with registration to keep serving the 60,000 people, and try to limit exclusions through quiet negotiation.",
+   "Refuse the terms and suspend operations, preserving independence in selecting beneficiaries by need alone.",
+   "Comply and report any exclusion publicly to donors, risking expulsion but keeping some accountability."
+  ],
+  "tension": [
+   "access vs. impartiality",
+   "staying vs. complicity"
+  ],
+  "region": "Ethiopia"
+ },
+ {
+  "title": "The Besieged Town and the Two Sides",
+  "scenario": "Field coordinator Idris Okello in South Kordofan Sudan can deliver food to two towns. One is held by the government and can be reached by a safe road. The other, under rebel control, is besieged and facing acute hunger but can only be reached through territory where the government refuses to grant permission. Crossing without permission may lead to attack on convoys and expulsion of the agency from the entire region. His deputy wants to wait for approval.",
+  "options": [
+   "Deliver only to the government-held town, keeping access and avoiding risk to staff and wider operations.",
+   "Cross without permission to reach the besieged town, putting the most desperate people first despite the risks.",
+   "Continue seeking permission through diplomatic channels while delivering to the accessible town, accepting that the besieged people may starve first."
+  ],
+  "tension": [
+   "impartiality vs. access",
+   "risk to staff vs. urgent need"
+  ],
+  "region": "Sudan"
+ },
+ {
+  "title": "Aid That Feeds the Gunmen",
+  "scenario": "Logistics manager Samira Boukhari has learned that, in a central Somalia district, an armed faction is taxing relief convoys by taking about a fifth of each food shipment at roadblocks. Sending convoys anyway still feeds 15,000 hungry people, but strengthens the faction. Stopping deliveries denies those people food and may be read by the faction as hostile. Counter-terrorism laws in the donors' countries prohibit material support to the group, creating legal exposure for the agency's leaders.",
+  "options": [
+   "Continue deliveries accepting the tax, because the primary duty is to people facing hunger.",
+   "Suspend deliveries to comply with the law and avoid strengthening the faction, even though civilians will suffer.",
+   "Switch to cash through local mobile money, reducing physical roadblocks while accepting uncertain diversion and legal ambiguity."
+  ],
+  "tension": [
+   "relief vs. complicity",
+   "legal compliance vs. humanitarian duty"
+  ],
+  "region": "Somalia"
+ },
+ {
+  "title": "Speaking Out or Staying",
+  "scenario": "Country director Dr. Pieter van Dijk of a medical charity in Myanmar's Rakhine State has documented that local authorities are denying care to a minority group. Publishing the evidence could pressure authorities but would very likely cause the government to expel his organisation, ending care for 80,000 people of all communities, including the minority. Staying silent keeps clinics open but, he fears, makes the organisation complicit. Headquarters supports whichever decision he reaches.",
+  "options": [
+   "Publish the evidence, accepting expulsion, because silence about serious abuse undermines the organisation's purpose.",
+   "Stay silent publicly and continue care, using quiet diplomacy to press for change and protecting current patients.",
+   "Share the evidence confidentially with UN bodies and donors, avoiding public exposure while creating a record."
+  ],
+  "tension": [
+   "witnessing vs. access",
+   "principle vs. continued care"
+  ],
+  "region": "Myanmar"
+ },
+ {
+  "title": "Soldiers in the Ward",
+  "scenario": "Hospital manager Dr. Beatrice Ndayisenga in Burundi's border area receives a group of armed soldiers carrying a wounded comrade into her maternity ward. They demand that the surgeon operate immediately, ahead of a labouring woman who needs a caesarean. The hospital is run by a neutral humanitarian agency. The soldiers are agitated and say nothing about leaving their weapons outside. She has seconds to decide whom the surgeon should treat first and under what conditions.",
+  "options": [
+   "Treat the soldier first, prioritising safety of the ward and avoiding violence, and then the woman.",
+   "Treat the woman first, based on medical triage, and negotiate with the soldiers about their weapons.",
+   "Operate on both at once using two surgical teams if possible, and ask soldiers to disarm, accepting stretched resources."
+  ],
+  "tension": [
+   "medical impartiality vs. safety",
+   "triage vs. security"
+  ],
+  "region": "Burundi"
+ },
+ {
+  "title": "A List of Names for the Ministry",
+  "scenario": "Data officer Kalinda Mukherjee in a cash-assistance programme for displaced families in Mozambique's Cabo Delgado is asked by a provincial government to hand over the full beneficiary list, including phone numbers and locations, 'for coordination.' The agency suspects the list may be used to identify and pressure people suspected of supporting insurgents, or equally to avoid duplication of aid. Refusing may result in suspension of the agency's permit, halting payments to 25,000 families.",
+  "options": [
+   "Hand over the full list to maintain permission and the continuity of payments to families.",
+   "Refuse to share personal data and accept the possible suspension, protecting beneficiaries from potential misuse.",
+   "Share only anonymised summaries by area for coordination, accepting that officials may regard this as obstruction."
+  ],
+  "tension": [
+   "protection of data vs. access",
+   "trust vs. state authority"
+  ],
+  "region": "Mozambique"
+ },
+ {
+  "title": "Negotiating With the Group Next Door",
+  "scenario": "Security adviser Carmen Delgado, working for a Colombian-based humanitarian team in Cauca, is told that reaching an isolated indigenous community requires approval from an illegal armed group that controls the road. Contacting the group openly could stain the agency's reputation and endanger its relationship with the government, but without approval, the 3,000 residents will go without a long-planned vaccination and food distribution. The community's own leaders have urged the agency to talk to the group.",
+  "options": [
+   "Negotiate directly with the group for safe passage, treating access to the community as the overriding priority.",
+   "Refuse contact with the armed group and wait for the community's authorities to broker access, risking long delays.",
+   "Allow the community leaders to arrange the passage and keep the agency's role limited to delivery, accepting ambiguity about its own involvement."
+  ],
+  "tension": [
+   "access vs. reputation",
+   "engagement vs. distance"
+  ],
+  "region": "Colombia"
+ },
+ {
+  "title": "The Dual-Use Ambulance",
+  "scenario": "Fleet manager Abdi Warsame discovers that an ambulance donated by his Kenyan-based charity to a clinic in Gaza-adjacent Egyptian Sinai is occasionally being used by a local security force to transport personnel. This puts the ambulance and the clinic at risk of being treated as a military target. The clinic's doctor insists the ambulance is also saving civilian lives every day and that taking it away would end emergency transport for a large area. The donor requires strict neutrality compliance.",
+  "options": [
+   "Withdraw the ambulance to preserve neutrality and prevent harm to the clinic, even though emergency transport will end.",
+   "Leave the ambulance in place and rely on the doctor's assurances, since civilian lives are saved daily.",
+   "Keep it only if the clinic signs a written agreement and accepts monitoring, understanding enforcement will be hard."
+  ],
+  "tension": [
+   "neutrality vs. life-saving",
+   "risk to civilians vs. benefit"
+  ],
+  "region": "Egypt"
+ },
+ {
+  "title": "Evacuate the Staff or Stay With the Patients",
+  "scenario": "Hospital director Dr. Yuki Tanabe in an eastern Ukrainian oblast learns that shelling is approaching and the staff have been warned to evacuate. Her hospital has forty bedbound patients who cannot be moved safely, and the road is under threat. Her staff are mostly local and have families fleeing. Some insist on staying with patients, others wish to leave. She is a foreign delegate whose organisation can order evacuation of expatriates but not of local staff, and it expects a decision within hours.",
+  "options": [
+   "Order all non-essential staff to leave and keep a minimal volunteer team, accepting the risk to those who stay.",
+   "Evacuate everyone including patients where possible, accepting that moving the sickest patients could harm or kill some.",
+   "Keep the hospital fully open with those who choose to stay, leaving each staff member to decide for themselves."
+  ],
+  "tension": [
+   "duty to patients vs. staff safety",
+   "autonomy vs. protection"
+  ],
+  "region": "Ukraine"
+ },
+ {
+  "title": "Aid Diverted to a Rival Clan",
+  "scenario": "Programme officer Wangari Kinyua, assessing a food distribution in a northern Kenyan county, finds that the committee of local elders has been allocating most of the food to their own clan, while a smaller, poorer clan receives little. Elders are the traditional authority, and the agency depends on them for security and access. Confronting them might get the agency expelled from the area. Bypassing the elders means setting up a parallel system that may be seen as a hostile act.",
+  "options": [
+   "Confront the elders, insisting on needs-based allocation, even at the risk of losing access and security.",
+   "Continue working through the elders, since their cooperation permits delivery to the whole area, and supplement the smaller clan quietly.",
+   "Set up a mixed committee with representatives of both clans, accepting that elders may see this as an affront."
+  ],
+  "tension": [
+   "impartiality vs. local authority",
+   "access vs. fairness"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Cholera Camp Next to a Military Base",
+  "scenario": "Water engineer Tomasz Wrona wants to build a water treatment plant in a camp of 20,000 displaced people in northeastern Nigeria, where cholera is spreading. The only secure site is adjacent to a military post. The military insists on using the plant's water for its soldiers and supplying its own guards, which the agency fears will mark the camp as a target of insurgents and blur the line between civilians and combatants. Other sites are exposed to attack or flooding.",
+  "options": [
+   "Build the plant beside the military post and share water, prioritising speed and security against the cholera outbreak.",
+   "Build at a site away from the military, accepting higher exposure to attack and flooding but preserving the camp's civilian character.",
+   "Build beside the post but refuse to supply the military and rely on separate guards, risking confrontation."
+  ],
+  "tension": [
+   "civilian character vs. security",
+   "speed vs. neutrality"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Humanitarian Pause or Pressure Campaign",
+  "scenario": "Advocacy lead Joanna Mbeki, whose NGO operates in Yemen's Hodeidah region, can join a public campaign calling on warring parties to open a port for supply ships. Joining would add pressure, but one of the parties has warned that any agency taking sides publicly will lose permission to operate in territory it controls. Her organisation delivers nutrition support for 40,000 children there. Other agencies have joined the campaign, and the coalition wants her answer today.",
+  "options": [
+   "Join the public campaign, believing that pressure for open access could help far more people than her programme reaches.",
+   "Decline to join and continue quiet programming, protecting access for the children in the programme.",
+   "Support the campaign's goals privately through donor briefings without signing, risking criticism from allies."
+  ],
+  "tension": [
+   "advocacy vs. operational access",
+   "speaking out vs. staying"
+  ],
+  "region": "Yemen"
+ },
+ {
+  "title": "Treating the Prisoner",
+  "scenario": "Prison health visitor Dr. Anselmo Ribeiro in an Angolan detention centre finds a detainee with signs of beating and untreated infection. The warden refuses to allow him to be moved to a hospital, and hints that reporting injuries will end the agency's access to all the prison's 900 inmates, many of whom depend on its TB programme. The detainee asks that nothing be said, fearing retaliation. Dr. Ribeiro must decide what to do on this visit.",
+  "options": [
+   "Report the injuries to authorities and international monitors, even if access to the prison ends.",
+   "Treat the infection on site and document the injuries confidentially, keeping access for the broader TB programme.",
+   "Respect the detainee's wishes by saying nothing, treating him quietly and avoiding any retaliation he fears."
+  ],
+  "tension": [
+   "protecting the individual vs. protecting access",
+   "witness vs. confidentiality"
+  ],
+  "region": "Angola"
+ },
+ {
+  "title": "One Truck, Two Frontlines",
+  "scenario": "Operations chief Farid Naseri has one remaining truck of emergency supplies for Afghanistan's Panjshir region, where two valleys have been cut off by conflict. The first valley, held by one authority, has a small number of severely malnourished children and has asked for help. The second, held by a rival authority, contains more people but less acute need. Delivering to one but not the other will be read as favouritism and could jeopardise the agency's standing with both.",
+  "options": [
+   "Deliver to the first valley, where need is most acute, regardless of how either authority reacts.",
+   "Deliver to the second valley, where more people will be reached, and explain the rationale to both authorities.",
+   "Divide the cargo equally between the valleys to preserve even-handedness, with less for each than needed."
+  ],
+  "tension": [
+   "need vs. numbers",
+   "perceived neutrality vs. effectiveness"
+  ],
+  "region": "Afghanistan"
+ },
+ {
+  "title": "Armed Escort for the Vaccinators",
+  "scenario": "Polio programme supervisor Naledi Dube is deploying vaccination teams in a restive district of Pakistan's Khyber Pakhtunkhwa, where several health workers have been killed. Local police offer armed escorts, but villagers say seeing police alongside vaccinators makes them suspect the programme is a government instrument. Without escorts, her teams are at greater risk but may find more acceptance. Some team members refuse to go without protection, and the campaign window is short.",
+  "options": [
+   "Accept the armed escorts to protect staff, even if it reduces acceptance among some communities.",
+   "Send teams unescorted with community elders, maintaining trust but exposing staff to higher personal risk.",
+   "Use escorts only on roads and send teams to villages on foot with local volunteers, accepting that some areas remain unvisited."
+  ],
+  "tension": [
+   "staff safety vs. community trust",
+   "coverage vs. neutrality"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "Mixing Aid With Politics at the Election",
+  "scenario": "Country manager Isaac Odhiambo is running a food programme in South Sudan, where a local governor has asked for a distribution to be held in a market town two weeks before an election, with his office present on stage to hand out the sacks. The governor says it will only be possible with his office's logistical support. Giving in will help him electorally; refusing could lead to blocking of road access to remote needy areas. Distribution schedules are otherwise ready.",
+  "options": [
+   "Allow the governor's participation to preserve access and ensure the food reaches its recipients.",
+   "Delay the distribution until after the election, avoiding political use even though people wait longer.",
+   "Hold the distribution on schedule without the governor on stage and publicly state that aid is impartial, risking access."
+  ],
+  "tension": [
+   "access vs. impartiality",
+   "timing vs. political use"
+  ],
+  "region": "South Sudan"
+ },
+ {
+  "title": "Dealing With the Rebel Health Bureau",
+  "scenario": "Health coordinator Dr. Solange Mbuyi in eastern Congo is asked by a rebel-run health authority to sign a memorandum of understanding recognising it as the governing body in territory it holds. Signing would allow the agency to run clinics, a move the national ministry might condemn as legitimising the rebels. Refusing means the 45,000 people in the territory lose the clinics the agency runs. The ministry has said informally that it would look the other way, but not in writing.",
+  "options": [
+   "Sign the memorandum, prioritising the continuation of clinics over concerns about legitimacy.",
+   "Refuse and withdraw, respecting the national ministry's authority even though the clinics close.",
+   "Sign a technical agreement that avoids language recognising governance, hoping both sides will accept it."
+  ],
+  "tension": [
+   "service continuity vs. legitimacy",
+   "principle vs. practicality"
+  ],
+  "region": "Democratic Republic of the Congo"
+ },
+ {
+  "title": "Naming the Perpetrator",
+  "scenario": "Protection officer Leilani Kahale, interviewing survivors at a refugee site in Bangladesh's Cox's Bazar area, has heard multiple credible accounts of abuses by a camp security volunteer. The volunteer is employed by an authority that controls the agency's access to the camp. Reporting him through official channels risks reprisal against witnesses and the agency's access. Not reporting leaves the abuse unchecked. The survivors have given varying degrees of consent to their stories being shared.",
+  "options": [
+   "Report through official channels, prioritising accountability despite the risk to access and to witnesses.",
+   "Report only to a confidential international mechanism, protecting witnesses but with slower, uncertain outcomes.",
+   "Hold off reporting until survivors give clear consent and safer relocation arrangements can be made, accepting continued exposure meanwhile."
+  ],
+  "tension": [
+   "accountability vs. protection",
+   "access vs. witness safety"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "Payment for Passage",
+  "scenario": "Negotiator Cheikh Diop is leading a team delivering water tanks to a Malian desert town that is blockaded by armed men demanding a fee of 10,000 dollars to let the convoy through. Paying would be a violation of the agency's policies and possibly of law. Not paying leaves the town's 12,000 residents with a limited water supply in extreme heat. A local business owner offers to pay the fee himself and ask no questions, in exchange for nothing but goodwill.",
+  "options": [
+   "Accept the business owner's offer, letting a private person pay while the agency's hands stay technically clean.",
+   "Refuse any payment and return, upholding policy and refusing to enable the blockade.",
+   "Seek help from local authorities and elders to negotiate removal of the blockade at no cost, delaying the delivery."
+  ],
+  "tension": [
+   "policy vs. urgent need",
+   "complicity vs. effect"
+  ],
+  "region": "Mali"
+ },
+ {
+  "title": "Using the Army's Helicopters",
+  "scenario": "Emergency coordinator Roxanne Dubois needs to reach flooded villages in Mozambique's Zambezi valley, cut off for days. Only the national army has helicopters available. Using them identifies the humanitarian operation with a military that, in other parts of the country, has been accused of abuses and that some communities fear. Without helicopters, villagers will wait for boats that may be several days away. Rescue guidelines recommend using military assets only as a last resort.",
+  "options": [
+   "Use the army's helicopters, since waiting could cost lives and the situation is urgent.",
+   "Wait for boats and civilian options, maintaining the agency's separation from the military.",
+   "Use the helicopters for evacuating the sick and injured only, keeping relief supplies on civilian transport."
+  ],
+  "tension": [
+   "speed vs. perceived neutrality",
+   "last resort vs. urgency"
+  ],
+  "region": "Mozambique"
+ },
+ {
+  "title": "Recording a Crime on a Neutral Platform",
+  "scenario": "Communications manager Svea Lindqvist of a relief agency in Iraq's Nineveh Governorate has footage taken by a staff member showing a local militia stealing aid trucks. Publishing it would add pressure for an investigation but would reveal that her staff member was present, putting him and his family at risk, and the militia controls the roads her teams use. The donor has asked for a report on diversion within the week and has not specified how detailed it must be.",
+  "options": [
+   "Publish the footage to expose the theft, accepting risks to staff and operations in the name of accountability.",
+   "Report to the donor in general terms only, protecting the staff member and keeping routes open.",
+   "Share the footage only with a trusted investigative body under confidentiality, accepting little public accountability."
+  ],
+  "tension": [
+   "transparency vs. staff safety",
+   "accountability vs. operational continuity"
+  ],
+  "region": "Iraq"
+ },
+ {
+  "title": "A Border Closed to the Wounded",
+  "scenario": "Medical coordinator Dr. Zainab Hussain runs a field clinic near the Jordanian border where border guards have started refusing to let seriously wounded people cross for hospital care, claiming security concerns. Her clinic lacks surgical capacity. Public protest could end the agency's cooperation with Jordanian authorities, which provide supplies. Quietly pleading has not worked, and each day a few patients die. A donor-state diplomat has offered to raise the issue privately.",
+  "options": [
+   "Go public with the border refusals to pressure the authorities, accepting a possible cut in cooperation.",
+   "Rely on the diplomat's private intervention, preserving the working relationship while patients wait.",
+   "Attempt to bring surgical capacity to the clinic, which is costly and risky, to reduce reliance on the border."
+  ],
+  "tension": [
+   "public pressure vs. quiet diplomacy",
+   "cooperation vs. confrontation"
+  ],
+  "region": "Jordan"
+ },
+ {
+  "title": "Keeping Faith With Both Sides of a Divided City",
+  "scenario": "Programme manager Dr. Mirela Hoxha runs health services in a divided Balkan-style city, where residents of the two main communities distrust each other's clinics. Funding would allow her to open one new clinic, in a neutral district between them. Both communities want it on their side. A site on the border risks being attacked by extremists from either side, while a safer site in one community means the other would not use it. A local politician offers to help with security if she chooses a site favouring his community.",
+  "options": [
+   "Place the clinic at the safer site in one community, ensuring staff safety and a working service for those who can reach it.",
+   "Place the clinic at the borderline site, serving both communities but accepting greater security risk.",
+   "Decline the politician's offer and open two small satellite clinics, one on each side, with lower capacity at each."
+  ],
+  "tension": [
+   "inclusion vs. security",
+   "neutrality vs. political help"
+  ],
+  "region": "Kosovo"
+ },
+ {
+  "title": "Aid Workers and a Ransom",
+  "scenario": "Security chief Julian Okafor learns that one of his organisation's Kenyan nurses has been abducted in northern Mozambique by a group demanding ransom. The agency's headquarters has a no-ransom policy, to avoid encouraging further kidnappings, but the nurse's family has begged for help and says they will raise funds themselves, which would take weeks. Negotiation attempts through elders are slow, and the nurse is reportedly ill. Julian has discretion about whether to involve intermediaries who might pay.",
+  "options": [
+   "Hold to the no-ransom policy and rely on negotiation, protecting all staff from future kidnappings.",
+   "Allow intermediaries to facilitate a payment quietly, saving the nurse's life even though it may encourage kidnappings.",
+   "Support the family in raising private funds, with the agency providing logistical help but no money."
+  ],
+  "tension": [
+   "protecting one life vs. many",
+   "policy vs. compassion"
+  ],
+  "region": "Mozambique"
+ }
+]

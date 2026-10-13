@@ -1,2 +1,8 @@
 .DS_Store
 **/.DS_Store
+
+# Morals/Ethics raw downloads (re-fetchable via dataset/morals_ethics/scripts/fetch_sources.py)
+data/raw_sources/
+__pycache__/
+*.pyc
+dataset/morals_ethics/work/staged/

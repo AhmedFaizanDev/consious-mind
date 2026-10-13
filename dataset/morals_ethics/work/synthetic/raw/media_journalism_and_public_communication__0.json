@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Customs Clerk's Spreadsheet",
+  "scenario": "Ngozi Adeyemi, an investigations editor at a Lagos daily, has a spreadsheet from a customs clerk showing that a port official waved through expired medicines. The clerk's name is not on the file, but metadata could narrow the leak to four people. A court has ordered the paper to hand over its copy so police can find the leaker. The medicines may already be in clinics, and publishing the story first would trigger a worse hunt for the source. The editor must decide what to do before the hearing on Friday.",
+  "options": [
+   "Refuse the order, publish the story at once, and accept contempt penalties to keep the clerk's identity protected from any tracing.",
+   "Strip the metadata, hand over a sanitized copy, and publish after the hearing so the court sees the paper cooperating in good faith.",
+   "Delay publication and warn health regulators privately about the medicines while negotiating narrower terms with the court."
+  ],
+  "tension": [
+   "source confidentiality vs. rule of law",
+   "public health vs. source safety"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Pensioner's Tip About the Dam",
+  "scenario": "Retired engineer Tomasz Wrona phones the small-town radio station in southern Poland, saying the new reservoir dam was built with cheaper concrete than contracted. He demands anonymity because his pension is paid by the contractor's parent firm. Reporter Alicja Kern cannot verify his claim without his documents, and he will only share them if she signs a written promise never to reveal him, even under legal compulsion. The dam sits upstream of two villages, and the spring thaw is six weeks away. She must decide whether to make the promise.",
+  "options": [
+   "Sign the unconditional promise, since the documents may be the only route to checking a structural risk to the villages.",
+   "Offer a conditional promise that she will protect him unless a court orders otherwise, and let him choose whether to proceed.",
+   "Decline the promise and instead send the claim to an independent engineer and the safety regulator without his documents."
+  ],
+  "tension": [
+   "promise-keeping vs. legal obligation",
+   "public safety vs. source trust"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Whistleblower Wants Her Name Used",
+  "scenario": "Priya Raman, a nurse in a Chennai private hospital, gives reporter Dev Anand records showing that bed-capacity figures were falsified to win government subsidies. She insists on being named, saying hiding feels like confessing guilt. Dev knows two former colleagues who spoke out were blacklisted from nursing jobs across the state, and that her husband works at a related firm. Priya is an adult and fully informed of the risks. Dev's editor leaves the call to him: print the name, or keep her anonymous against her stated wishes.",
+  "options": [
+   "Print her name as she requests, respecting her autonomy and the added credibility an on-the-record account brings.",
+   "Keep her anonymous despite her wishes, since the foreseeable retaliation is severe and she may not grasp its full scale.",
+   "Run the story anonymously first, then revisit naming her after she has consulted a lawyer and a labour union."
+  ],
+  "tension": [
+   "autonomy vs. protection from harm",
+   "credibility vs. safety"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Leaked Minutes from the Ministry",
+  "scenario": "Hana Sørensen, a political correspondent in Copenhagen, receives leaked cabinet minutes showing that a minister privately doubted a flagship welfare reform she publicly defends. Hana suspects the leaker is a junior civil servant, since only eleven people had the document. The ministry's press officer calls, offering an exclusive interview with the minister if the paper agrees not to publish the minutes, saying the leak endangers a vulnerable official. The reform vote is tomorrow. Hana must choose how to use the document and the offer.",
+  "options": [
+   "Publish the minutes before the vote, since voters and legislators deserve to know what the minister privately believes.",
+   "Take the interview, ask the minister about the doubts directly, and hold the minutes unless the answers appear evasive.",
+   "Publish only the substance of the doubts, without quoting the minutes or details that could point to the eleven-person circle."
+  ],
+  "tension": [
+   "public interest vs. source exposure",
+   "transparency vs. access"
+  ],
+  "region": "Denmark"
+ },
+ {
+  "title": "The Fixer in Kandahar Province",
+  "scenario": "Freelance journalist Marguerite Duval is filing a report from Afghanistan on reprisals against former interpreters. Her local fixer, Gul Mohammad, arranged interviews with three men hiding in a rural compound. Her editor in Paris wants real names and compound locations for a verifiable, high-impact piece. Gul Mohammad says naming them will bring armed men to his own family's door. The men themselves agreed to be named, believing publicity may speed up their visa applications. Marguerite has to settle the level of identification before she files tonight.",
+  "options": [
+   "Name the three men as they consented, and relocate or insulate Gul Mohammad's family from the consequences if possible.",
+   "Use first names and blurred locations only, accepting a weaker story to protect the fixer, whose consent was never sought.",
+   "Withhold the story until the men's visa cases move forward, even though this risks losing the news moment and the editor's patience."
+  ],
+  "tension": [
+   "consent vs. third-party risk",
+   "impact vs. safety"
+  ],
+  "region": "Afghanistan"
+ },
+ {
+  "title": "Subpoena at the Student Newspaper",
+  "scenario": "Kofi Mensah, twenty-year-old editor-in-chief of a university paper in Accra, published a story on exam-paper sales based on a source who is an invigilator. University authorities have summoned him before a disciplinary board and threaten to expel him unless he names the invigilator. His faculty adviser says the paper could be shut down, ending the jobs of fifteen student staff. The invigilator has a newborn child and no savings. Kofi must prepare his answer for the board.",
+  "options": [
+   "Refuse to name the source and accept personal expulsion, preserving the promise made to the invigilator.",
+   "Name the invigilator after secretly warning them, on the view that the paper's survival and the staff's futures weigh more.",
+   "Offer the board the evidence of the exam-paper racket in full but not the person, arguing the problem is the system rather than one invigilator."
+  ],
+  "tension": [
+   "loyalty to a source vs. duty to colleagues",
+   "principle vs. institutional survival"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "The Tip That Might Be a Trap",
+  "scenario": "At a business magazine in São Paulo, reporter Lucas Teixeira is contacted by an anonymous person offering bank statements that implicate a congressman in money laundering. The source wants a promise of confidentiality but refuses video calls. Lucas suspects the congressman's rivals could be feeding him material, or even that the documents were doctored to burn the source's own enemy. If authentic, they expose serious crime; if fake, the magazine faces a defamation case and the congressman's staff face threats. His editor wants a decision on whether to extend confidentiality at all.",
+  "options": [
+   "Grant confidentiality and invest weeks verifying the documents independently before deciding whether to publish.",
+   "Decline a blanket promise, offering instead to protect the source only after Lucas can confirm the person's identity and motive privately.",
+   "Pass the tip to a collaborative investigative network with legal resources, accepting some loss of control over the story."
+  ],
+  "tension": [
+   "source protection vs. verification",
+   "public interest vs. harm to the accused"
+  ],
+  "region": "Brazil"
+ },
+ {
+  "title": "Whose Hard Drive Is It?",
+  "scenario": "A policy researcher, Dr. Ilse Kronberger, passes Vienna weekly paper journalist Matthias Roth an encrypted drive with emails from a defence contractor, proving bribes to a procurement officer. She says she copied them while consulting there and now fears prosecution under a trade-secrets law. Roth discovers the emails also contain private medical correspondence of a junior employee who is unrelated to the bribery. Publishing the full set would help other outlets confirm the story. Roth must choose how much of the material to release.",
+  "options": [
+   "Release the full archive to a secure platform for peer journalists, trusting them to redact the unrelated medical content.",
+   "Publish only the redacted excerpts that prove the bribery and destroy the unrelated medical emails permanently.",
+   "Keep the whole archive private, report only what he can corroborate independently, and give the researcher time to seek legal advice."
+  ],
+  "tension": [
+   "transparency vs. privacy of bystanders",
+   "public interest vs. legal exposure of the source"
+  ],
+  "region": "Austria"
+ },
+ {
+  "title": "Informant Inside a Fishing Cooperative",
+  "scenario": "Radio journalist Tevita Fonua in Tonga hears from a boat captain that his cooperative secretly dumps catch below legal size and falsifies logs, harming reef stocks that villages rely on. The captain agrees to talk only if Tevita never records him and never uses details that only the cooperative's crew would know. Without those details the story is just a rumour that the fisheries office will dismiss. Tevita could also verify with a hidden microphone on the pier, which would breach the cooperative's trust and perhaps a law on recording. He must pick how to build the report.",
+  "options": [
+   "Honour the captain's limits and publish a thinner, general story about declining reef stocks that implies but does not prove the practice.",
+   "Record covertly on the pier to corroborate the claims, arguing that the reef's survival justifies the legal and ethical risk.",
+   "Seek a separate, on-the-record fisheries inspector willing to audit the logs so the story no longer depends on the captain at all."
+  ],
+  "tension": [
+   "honouring terms vs. getting the evidence",
+   "environmental interest vs. legal and ethical limits"
+  ],
+  "region": "Tonga"
+ },
+ {
+  "title": "The Spouse Who Leaked",
+  "scenario": "Dalia Haddad, a Beirut investigative reporter, learns that her main source, a banking regulator's analyst, is being questioned after documents appeared on her outlet's site. The analyst's wife privately tells Dalia that she, not her husband, copied the files, and begs her to stay silent so he is not blamed incorrectly. But if the husband is convicted, he faces years in prison for something he didn't do; if Dalia reveals the wife as the true source, the wife faces the harsher consequences. Dalia's promise was made to the husband, not the wife. She has two days before the next hearing.",
+  "options": [
+   "Keep both confidences and urge the couple to retain a lawyer, even though an innocent man may stay under suspicion.",
+   "Quietly tell the husband's lawyer that the files did not come from him, without naming the real source.",
+   "Publicly state the husband was not her source, which narrows the field to the wife in practice."
+  ],
+  "tension": [
+   "confidentiality vs. preventing wrongful punishment",
+   "competing duties to two sources"
+  ],
+  "region": "Lebanon"
+ },
+ {
+  "title": "A Judge's Anonymous Letter",
+  "scenario": "Fiona MacAskill, a legal affairs reporter in Edinburgh, receives a typed letter alleging that a sheriff routinely sentences defendants differently depending on their postcodes. The writer, apparently a court clerk, supplies case numbers but nothing else, and no way to reply. Fiona could check the court's public records and build her own analysis, but the figures would only hint at bias and might cast an honest judge as a villain. Her desk wants to run a short item soon to stay ahead of a rival. She decides how, and whether, to use the letter.",
+  "options": [
+   "Do the data analysis independently, treating the letter only as a lead, and publish only if the numbers stand on their own.",
+   "Run a brief news item reporting that allegations exist and that the court has been asked to respond.",
+   "Hold the matter and instead ask the judiciary's complaints body whether it has received similar concerns before writing anything."
+  ],
+  "tension": [
+   "fairness to the accused vs. speed",
+   "anonymous allegation vs. public accountability"
+  ],
+  "region": "Scotland, United Kingdom"
+ },
+ {
+  "title": "The Teacher Who Texted the Reporter",
+  "scenario": "Rajesh Thapa, an editor of an online outlet in Kathmandu, is told by a primary school teacher that the local headmaster is diverting a government meals grant, leaving children with one meal a day. The teacher shares photographs of ledgers and asks him not to publish until she transfers districts next month. Rajesh knows the children are hungry now, and that delay will mean roughly thirty more school days of reduced meals. He also knows that if he publishes now, the staff list is so small that she will be identified immediately.",
+  "options": [
+   "Wait the month as promised, because her safety and job security cannot be traded for the children's sooner relief.",
+   "Publish now but conceal the ledgers' source details, accepting that identification is likely and letting her decide if she consents.",
+   "Alert the district education office anonymously about the ledgers now and hold publication until she has moved."
+  ],
+  "tension": [
+   "source safety vs. urgency of harm",
+   "promise vs. consequences for others"
+  ],
+  "region": "Nepal"
+ },
+ {
+  "title": "Naming the Informant to Win the Libel Case",
+  "scenario": "Eun-ji Park, senior reporter at a Seoul broadcaster, faces a defamation suit from a hospital chain over a report about unsafe staffing. Her lawyer says the case is winnable only if she reveals her confidential source, a ward manager, whose testimony would show the report was made in good faith. If the network loses, it must pay damages that could end its health desk and cost eight jobs. The ward manager has said she would rather stay hidden but understands the stakes. Eun-ji must decide with the network's counsel waiting.",
+  "options": [
+   "Refuse to disclose and accept the risk of losing, upholding the confidentiality promised in advance.",
+   "Ask the ward manager again for explicit consent to testify, and disclose only if she agrees freely and with legal support.",
+   "Disclose the source's identity under court protective seal, relying on the court to limit further exposure."
+  ],
+  "tension": [
+   "source protection vs. colleagues' livelihoods",
+   "institutional survival vs. promise-keeping"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "The Anonymous Mayor's Aide",
+  "scenario": "Samira Qureshi, a reporter on a regional newspaper in Karachi, is given audio of a mayor's aide discussing how contracts for flood-relief tents were steered to relatives. The aide, Imran, gave it hoping to quit his post quietly, and made her swear to secrecy. Two days later he is found to have been dismissed, and a colleague tells Samira that he has been receiving threats. Imran now begs her to publish immediately so that exposure will protect him from retaliation, reversing his original wish. Samira still has not verified two of the contract figures.",
+  "options": [
+   "Publish promptly with the verified material, because exposure might shield Imran and the flood victims are waiting.",
+   "Finish verifying the two disputed figures first, since publishing wrong numbers could discredit the entire story and endanger Imran more.",
+   "Help Imran contact a human-rights lawyer and a protective organisation before any publication, even if it delays the story by weeks."
+  ],
+  "tension": [
+   "changed consent vs. accuracy",
+   "protecting the source vs. completeness"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "When the Source Is a Minor",
+  "scenario": "At a Mexico City digital outlet, reporter Camila Rojas is contacted by a sixteen-year-old who says older cousins pay him to move packages for a police commander, and he has photos of the packages. He wants to tell his story but fears his family. Camila's editor believes the minor's account would break open a corruption network. Mexican press ethics guides advise caution with minors, and Camila suspects his parents have not been told. The teenager says he will contact another outlet if she refuses, and that outlet is known for careless handling of sources.",
+  "options": [
+   "Interview him with protections such as disguised identity and a trusted adult advocate, even without his parents' knowledge.",
+   "Decline to interview him until a guardian or youth advocate is involved, even if he goes to the careless outlet.",
+   "Refer him to a child-protection organisation and use only his photos for background reporting if he later consents."
+  ],
+  "tension": [
+   "protecting a minor vs. exposing corruption",
+   "autonomy vs. paternalism"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "The Sacred Grove Surveyor",
+  "scenario": "Wanjiru Kamau, a freelance photojournalist in Kenya, meets a land surveyor who admits altering boundary maps to let a developer clear part of a forest that local elders regard as sacred. The surveyor wants to confess to someone and trusts her, but only if she promises not to publish his name or the developer's. Wanjiru can document the forest clearing itself without him. The elders, whose community stands to lose the grove, have asked her directly to find who was responsible. She must decide what she owes to whom.",
+  "options": [
+   "Keep the surveyor's confidence entirely and document only the visible clearing, letting the elders pursue accountability by other means.",
+   "Tell the elders about the map alteration without naming him, so they can seek legal review of the boundaries.",
+   "Persuade the surveyor to go on the record by explaining the damage, and publish only with his eventual agreement."
+  ],
+  "tension": [
+   "confidentiality vs. community justice",
+   "confession vs. collective harm"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Phone Records in a Small Newsroom",
+  "scenario": "Ingrid Halvorsen edits a three-person newsroom in Tromsø. A police prosecutor has obtained a warrant for the call logs on the newsroom's phones to identify who in the coast guard told reporter Leif about a delayed rescue after a trawler sank. Handing over the logs would reveal Leif's contact list, including unrelated sources in the fishing industry and city hall. Fighting the warrant would cost the newsroom more in legal fees than it earns in a year. Ingrid has to answer the prosecutor by noon.",
+  "options": [
+   "Contest the warrant in court with a crowdfunding appeal, risking the outlet's finances to protect all sources.",
+   "Negotiate a narrow disclosure limited to the date window and the coast guard numbers, protecting unrelated contacts.",
+   "Comply fully, on the grounds that the rescue delay raised a legitimate matter of public safety that the law wants examined."
+  ],
+  "tension": [
+   "source protection vs. financial survival",
+   "press freedom vs. legal accountability"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "A Tip About a Rival's Source",
+  "scenario": "Rashid Karimov, a political reporter in Tashkent, learns by accident that a respected colleague at another paper has been sharing a leaked police memo that appears to contain false claims about an opposition group. Rashid knows the colleague's source is a police officer who may be manipulating the press. If Rashid reveals this, it would expose the colleague's confidential relationship, and the officer, and could harm the colleague's career. If he stays silent, the false claims keep circulating. He has no promise made to either party, only his own knowledge.",
+  "options": [
+   "Say nothing publicly but warn the colleague directly that the memo looks planted, leaving the choice to them.",
+   "Publish a story noting the memo's claims are contradicted by public records, without naming the colleague or the source.",
+   "Report the suspicion of a manipulative source to the press council, trusting its confidential process."
+  ],
+  "tension": [
+   "professional solidarity vs. truthful public record",
+   "non-interference vs. responsibility to prevent deception"
+  ],
+  "region": "Uzbekistan"
+ },
+ {
+  "title": "The Retired Spy's Memoir Pages",
+  "scenario": "Beatriz Santos, a Lisbon book editor and part-time columnist, is given pages from a retired intelligence officer's unpublished memoir that describe unlawful surveillance of journalists in the 1990s. The officer is ill and says he wishes the truth known after he dies, but a state secrets law likely applies. Beatriz could pass the pages to a newspaper colleague as a source-protected tip. Doing so would mean the colleague must build on documents of uncertain legality, and the dying man's family has not been consulted. The surveilled journalists, some still alive, have never been told.",
+  "options": [
+   "Pass the pages to the colleague now, so the surveilled journalists learn what happened while witnesses are alive.",
+   "Wait until after the officer's death as he wished, keeping the pages safe in the interim with legal counsel.",
+   "Contact the surveilled journalists directly and privately, letting them decide whether to pursue the matter."
+  ],
+  "tension": [
+   "truth for victims vs. legal and family obligations",
+   "timing of disclosure"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "The Taxi Dispatcher's Confession",
+  "scenario": "Reporter Aigerim Sadykova in Almaty is told by a taxi dispatcher that a ride-hailing company shares passenger trip data with a local security agency without warrants. The dispatcher believes this is how a dissident was tracked. He wants no mention of his role and no mention of specific routes. Aigerim finds that the only way to prove the claim is to publish a sample dataset that includes a few passengers' real trips, which are anonymous but could be identified by those who know them. Her editor is eager to run the proof. She must decide how much to publish.",
+  "options": [
+   "Publish the dataset sample with the passengers' trips lightly altered, to demonstrate the practice while limiting identification.",
+   "Publish the claim without any trip data, relying on the dispatcher's account and a company response, and accept lower credibility.",
+   "Share the sample privately with a digital-rights lawyer who can file a formal complaint, and delay the story."
+  ],
+  "tension": [
+   "proof vs. privacy of bystanders",
+   "public interest vs. source protection"
+  ],
+  "region": "Kazakhstan"
+ },
+ {
+  "title": "Sexual Harassment Tip, Unverified",
+  "scenario": "Cecilia Ortiz, features editor at a Buenos Aires magazine, receives a long anonymous email accusing a celebrated orchestra conductor of coercing young musicians. It lists dates but no names. Cecilia has met two former students who hint it is true but will not go on record. A single anonymous email is not enough to publish, yet two musicians are in his ensemble now and are described as at risk. The conductor's lawyers have a record of suing outlets. Cecilia has to decide how to proceed with limited material and real stakes for everyone.",
+  "options": [
+   "Keep reporting for months, seeking sources who will speak openly, and publish nothing until the case is sturdy.",
+   "Publish a general piece about power imbalances in classical music institutions, with no names, and invite other victims to come forward.",
+   "Share the tip with the orchestra's independent ethics body without naming the conductor publicly, so that protective steps can start sooner."
+  ],
+  "tension": [
+   "protecting possible victims vs. fairness to the accused",
+   "evidence standards vs. urgency"
+  ],
+  "region": "Argentina"
+ },
+ {
+  "title": "The Source Who Lied to Her",
+  "scenario": "Magdalena Novak, a Prague journalist, has relied on a trusted official for two years. She now discovers he gave her a false figure about hospital deaths in order to damage a rival health minister, and her story using it has been widely quoted. Her promise of anonymity was unconditional. Correcting the record without explaining why would make her look careless; explaining would expose the official. Some colleagues argue that a source who lies to a journalist forfeits protection. The minister is calling for her paper to retract.",
+  "options": [
+   "Publish a correction that acknowledges the figure was wrong, but protect the official's identity as originally promised.",
+   "Reveal the official's role in the deception, treating his lie as a breach that ends the protection.",
+   "Confront the official privately first and demand he go public with the truth, deciding about disclosure depending on his response."
+  ],
+  "tension": [
+   "promise vs. truth",
+   "source protection vs. accountability for deception"
+  ],
+  "region": "Czech Republic"
+ },
+ {
+  "title": "The Sheikh's Driver Speaks",
+  "scenario": "Yousef Al-Sayed, an editor at a Gulf-based English-language outlet, is approached by the driver of a wealthy family who says the household withholds domestic workers' passports. The driver offers photos and a list of names, but those domestic workers have not agreed to be involved, and some are likely to be deported if the story prompts raids. Yousef's outlet depends on advertising from firms owned by that family's circle. The driver is willing to be named but his own residency permit is sponsored by the same family. Yousef must decide what to publish and what to risk.",
+  "options": [
+   "Run the story with the driver named at his insistence, and brace for consequences to him and the outlet's finances.",
+   "Run it anonymously and without the workers' names, relying on photos with faces obscured, accepting weaker proof.",
+   "Pass the evidence to an international labour-rights group and let them publish, leaving Yousef's outlet out of direct exposure."
+  ],
+  "tension": [
+   "exposing abuse vs. protecting the abused",
+   "courage vs. outlet survival"
+  ],
+  "region": "United Arab Emirates"
+ },
+ {
+  "title": "Recording the Phone Call Without Asking",
+  "scenario": "Abigail Stroud, a radio investigator in Wellington, is told by a retired councillor that the council chair promised a developer rezoning favours. The councillor will not testify but suggests Abigail call the chair and secretly record the conversation, which is legal in New Zealand if one party consents. Abigail has done this before but never against a sitting elected official on a private line. The recording might confirm or clear the chair. The chair has a history of heart trouble, which the councillor mentioned cruelly. Abigail must decide whether to place the call.",
+  "options": [
+   "Make the covert recorded call, since it may be the only way to obtain direct evidence about an official's conduct.",
+   "Request an open, on-the-record interview and put the allegations to the chair, accepting that he may simply deny them.",
+   "Drop the matter until a second independent source appears, rather than rely on one retired councillor's suggestion."
+  ],
+  "tension": [
+   "deception in reporting vs. evidence",
+   "public office vs. personal vulnerability"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "The Church Archivist's Boxes",
+  "scenario": "Father Bartholomew Achebe's former assistant, Chidi, delivers to Haitian journalist Odile Pierre three boxes of diocesan records showing a pattern of moving accused clergy between parishes. Chidi will speak only if his name is never shared with the diocese or with the survivors' lawyers, who might call him as a witness. Odile believes survivors deserve to see the records, and that lawyers would want Chidi's testimony to authenticate them. Without authentication, the documents may be dismissed in court as forgeries. She has to determine whether to extend the secrecy fully.",
+  "options": [
+   "Honour Chidi's secrecy completely and publish excerpts, accepting that the documents may be harder to use in legal cases.",
+   "Give the records to survivors' lawyers while withholding Chidi's identity, letting them seek a court-supervised authentication.",
+   "Tell Chidi plainly that his testimony may be necessary for justice, and release the records only if he agrees to some form of protected testimony."
+  ],
+  "tension": [
+   "source secrecy vs. survivors' access to justice",
+   "authenticity vs. confidentiality"
+  ],
+  "region": "Haiti"
+ }
+]

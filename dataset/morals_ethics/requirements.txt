@@ -1,0 +1,4 @@
+pandas>=2.2
+openpyxl>=3.1
+datasketch==2.0.0
+anthropic>=0.40   # only needed for `scripts/synthetic.py generate`

@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Wrong Kidney Marked on the Chart",
+  "scenario": "Dr. Oluwaseun Adebayo, a urology registrar in Ibadan, realises after an operation that he removed a patient's healthy kidney's cyst-free upper pole instead of the diseased lower segment, because the imaging was reversed. The patient, Mr. Bello, is recovering well and may have no lasting problem, but he will need another operation within months. The consultant suggests describing the surgery as 'partial nephrectomy completed with additional resection.' Dr. Adebayo must decide what to tell Mr. Bello.",
+  "options": [
+   "Tell Mr. Bello plainly that an error occurred, what the consequence is, and what will be done to fix it.",
+   "Follow the consultant's wording, explaining the need for a second operation as a planned stage of treatment.",
+   "Raise the matter with the consultant and the hospital's patient-safety lead first, then disclose together to Mr. Bello with an agreed plan."
+  ],
+  "tension": [
+   "honesty vs. loyalty to the team",
+   "patient's right to know vs. fear of blame"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Cancer Screening Result Lost for Eight Months",
+  "scenario": "Practice manager Ewa Baranowska in Wrocław finds that a mammogram report suggesting a suspicious mass, for a patient called Halina, was filed unread eight months ago. Halina has been attending the surgery for unrelated problems and feels well. A new scan might show nothing or a cancer that has advanced. The senior GP, Dr. Zieliński, asks Ewa to arrange a repeat 'routine' mammogram without explaining why. Ewa must decide what to tell Halina when she calls.",
+  "options": [
+   "Tell Halina directly that her earlier result was missed, that a repeat scan is needed urgently, and that the practice apologises.",
+   "Invite her for a repeat scan as Dr. Zieliński asked, without mentioning the earlier report until the results are known.",
+   "Ask Dr. Zieliński to call Halina and make the disclosure himself the same day, and press the matter if he refuses."
+  ],
+  "tension": [
+   "disclosure vs. avoiding needless alarm",
+   "institutional reputation vs. patient trust"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Telling a Family the Truth About a Delayed Diagnosis",
+  "scenario": "Paediatrician Dr. Tsegaye Abebe in Addis Ababa realises he dismissed a mother's repeated concerns about her toddler's limp as a minor injury. Two weeks later, the child was found to have osteomyelitis and needed surgery. The infection was serious but is now responding. The mother, Alem, thanks him warmly and says she is grateful he eventually 'listened'. The hospital's lawyer advises against volunteering that earlier review may have been inadequate. Dr. Abebe must decide how candid to be.",
+  "options": [
+   "Acknowledge to Alem that the earlier assessment should have been more thorough and that the delay may have made things worse.",
+   "Stay with the warm tone, express sympathy for the child's illness, and avoid commenting on the timing of diagnosis.",
+   "Report the delay internally for review and let the hospital decide what to tell the family."
+  ],
+  "tension": [
+   "candour vs. legal caution",
+   "patient trust vs. self-protection"
+  ],
+  "region": "Ethiopia"
+ },
+ {
+  "title": "Uncertain Prognosis After a Premature Birth",
+  "scenario": "Neonatologist Dr. Lucía Fernández in Montevideo must meet the parents of baby Joaquín, born at 24 weeks. Scans show brain bleeds whose significance is truly uncertain; some children recover almost normally while others suffer severe disability. The parents ask, 'Will he be all right?' and clearly want a yes or no. Dr. Fernández worries that offering hope will fail them, and that bleak statements may lead them to withdraw care too early. She must decide how to speak to them.",
+  "options": [
+   "Describe the range of possible outcomes plainly, including the real uncertainty, and avoid offering a single prediction.",
+   "Emphasise the more hopeful scenarios, since the evidence is genuinely mixed and parents need hope to cope.",
+   "Give a more cautious, pessimistic estimate, so that no one is misled and the parents can prepare for the worst."
+  ],
+  "tension": [
+   "honesty about uncertainty vs. hope",
+   "parental coping vs. realistic planning"
+  ],
+  "region": "Uruguay"
+ },
+ {
+  "title": "A Dosing Error Discovered by the Pharmacist",
+  "scenario": "Hospital pharmacist Daniel Osei in Kumasi finds that a ten-fold overdose of a diuretic was dispensed to an elderly man, Mr. Yeboah, two days ago because of a decimal error on the prescription that he had overlooked. Mr. Yeboah has shown mild weakness, which the ward attributes to age. A disclosure would implicate Daniel and a junior doctor who is already under heavy strain. A blood test could quickly reveal electrolyte problems. Daniel must decide what to do next.",
+  "options": [
+   "Inform the ward doctor immediately, arrange tests, and make sure Mr. Yeboah and his family are told about the error.",
+   "Alert the ward doctor and suggest checks without mentioning the dispensing mistake, to avoid blaming the junior doctor.",
+   "Report the error through the formal incident system, and let the hospital manage disclosure to the patient and family."
+  ],
+  "tension": [
+   "patient safety vs. protecting colleagues",
+   "personal accountability vs. institutional process"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "An Experimental Drug Results the Sponsor Wants Unmentioned",
+  "scenario": "Clinical trial coordinator Dr. Mariam Yusuf in Abuja notices that three participants in a diabetes drug study have developed liver enzyme elevations that the sponsor classes as 'not clearly related'. The consent forms promise to tell participants about any new risks. The sponsor asks for patience until the data safety board meets in six weeks. Participants continue taking the drug. Dr. Yusuf must decide what to tell the people currently enrolled.",
+  "options": [
+   "Inform all participants now of the liver signal and offer them the choice to continue or withdraw.",
+   "Wait for the data safety board, since the signal is unclear and premature disclosure might cause people to abandon helpful treatment.",
+   "Increase liver monitoring for all participants immediately, and tell them it is a precaution, without detailing the three cases."
+  ],
+  "tension": [
+   "transparency vs. scientific process",
+   "participant protection vs. uncertainty"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Mislabelled Sample and a Wrong Cancer Diagnosis",
+  "scenario": "Pathology technician Hyun-woo Choi in Daejeon realises that two biopsy samples may have been swapped during labelling. One patient, Mrs. Jang, was told she has cancer and has started chemotherapy; the other, Mr. Seo, was told his biopsy was benign. Hyun-woo is not certain, perhaps 70% sure of the swap. Retesting would take two days. His supervisor tells him not to raise an alarm over a probability. Hyun-woo must decide what to do.",
+  "options": [
+   "Tell the head of pathology immediately about the possible swap and request urgent retesting, even though he is not certain.",
+   "Quietly re-run the tests himself over the weekend before telling anyone, to confirm the error and avoid false alarms.",
+   "Follow his supervisor's advice and wait, reasoning that unnecessary alarm could harm patients and the department's standing."
+  ],
+  "tension": [
+   "uncertainty vs. urgency",
+   "hierarchy vs. patient safety"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "The Resident Who Overstated the Success of Surgery",
+  "scenario": "Cardiac surgery fellow Dr. Samira Haddad in Casablanca explained to the family of Mr. Tazi, 70, after his bypass that the operation 'went perfectly'. She now learns that a graft was technically difficult and may fail within months, which her supervisor omitted from the chart. Mr. Tazi has since been discharged and is cheerful. Mentioning it might cause anxiety, yet failure of the graft could be fatal without monitoring. Dr. Haddad must decide whether to correct her earlier statement.",
+  "options": [
+   "Contact Mr. Tazi, correct her earlier statement, and arrange follow-up tests to watch the graft.",
+   "Arrange extra follow-up visits for routine monitoring without telling him the real reason, to avoid alarming him.",
+   "Raise the matter with her supervisor and let him decide how much to disclose, since he led the operation."
+  ],
+  "tension": [
+   "correcting past reassurance vs. causing anxiety",
+   "junior duty vs. senior authority"
+  ],
+  "region": "Morocco"
+ },
+ {
+  "title": "Equipment Failure During a Birth, Disclosed or Not",
+  "scenario": "Midwife Charlotte Beaumont in Christchurch, New Zealand, notices that the fetal monitor used during a long labour for Priya had been showing a faulty trace for forty minutes before it was replaced. The baby was born with a low Apgar score but recovered after resuscitation and appears well. The hospital has a policy to disclose adverse events but the head of department says nothing happened that harmed the child. Charlotte must decide how to proceed.",
+  "options": [
+   "Tell Priya and her partner about the faulty monitor, even though the baby appears healthy and the harm was avoided.",
+   "Follow the head of department's view, since no harm occurred and disclosure would only cause needless worry.",
+   "Lodge an incident report about the equipment and let the formal review decide whether the family should be informed."
+  ],
+  "tension": [
+   "near-miss disclosure vs. unnecessary worry",
+   "reporting culture vs. institutional pressure"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "Surgeon's Complication Rate Questioned by a Patient",
+  "scenario": "Surgeon Dr. Ivan Petrov in Sofia is asked directly by a patient, Mr. Dimitrov, before a hernia repair, 'How many of your patients have had complications from this operation?' Dr. Petrov's personal rate is somewhat above the national average because he takes on harder cases, but the raw numbers look worse than the colleague down the corridor. Giving the numbers might push Mr. Dimitrov to another surgeon. Dr. Petrov must decide how to answer.",
+  "options": [
+   "Give the exact numbers, with an explanation of the case mix, and let Mr. Dimitrov decide.",
+   "Quote the national average, which is accurate for the procedure in general, and say he has done many such operations.",
+   "Say his results are good, reflecting that he considers the difference small, and invite further questions about the procedure."
+  ],
+  "tension": [
+   "transparency vs. self-interest",
+   "patient choice vs. fair presentation of data"
+  ],
+  "region": "Bulgaria"
+ },
+ {
+  "title": "An Algorithm That Was Wrong About a Patient",
+  "scenario": "Emergency physician Dr. Naledi Sithole in Pretoria followed a hospital sepsis algorithm that assigned Mr. Dube, 55, a low risk score, and discharged him. He returned the next day in septic shock and is now in intensive care. Dr. Sithole knows the algorithm often underestimates risk in patients with his condition, but the hospital adopted it enthusiastically and has told staff to follow it. Mr. Dube's wife asks, 'Did you do something wrong?' Dr. Sithole must decide what to say.",
+  "options": [
+   "Explain honestly that the tool used to judge his risk gave a misleading result, and that she relied on it.",
+   "Say she followed hospital protocol and that this illness can be very hard to predict, without mentioning algorithm limits.",
+   "Tell the wife she will review everything carefully with the team and share the findings, then bring the algorithm's flaws to the hospital's attention."
+  ],
+  "tension": [
+   "honesty vs. institutional protocol",
+   "personal responsibility vs. systemic fault"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "A Child's Allergy Missed in the Records",
+  "scenario": "Triage nurse Aigerim Nurlanova in Almaty administered an antibiotic to a five-year-old, Daulet, whose record, which she did not scroll fully, listed a penicillin allergy. Daulet developed hives and mild breathing difficulty, was treated promptly, and is now recovering. His father, a physician himself, asks the nurse what happened. Aigerim's manager says an incident report will be made, but the father's questions come now, in the corridor. She must decide what she says.",
+  "options": [
+   "Admit directly that she gave the antibiotic without noting the allergy entry and explain what has been done to treat him.",
+   "Say that he had an unexpected reaction to the drug and that the team is investigating, without detailing her own part.",
+   "Ask her manager to join the conversation so that the explanation is agreed and made together and with proper support."
+  ],
+  "tension": [
+   "candour vs. fear of discipline",
+   "immediate honesty vs. coordinated response"
+  ],
+  "region": "Kazakhstan"
+ },
+ {
+  "title": "When the Test Says 'Probably Normal'",
+  "scenario": "Radiologist Dr. Henrik Larsen in Aarhus reports a lung nodule as 'probably benign, 3mm' for a heavy smoker, Karen, 62. He is about 90% sure, but the remaining 10% is cancer. Guidelines suggest no follow-up for nodules of that size, though patients and her GP rarely hear the uncertainty. Karen will receive a note saying 'no significant abnormality'. Dr. Larsen must decide how to word the report and whether to recommend a follow-up scan.",
+  "options": [
+   "Report it as a probable benign nodule and recommend a follow-up scan in a year, accepting additional cost and worry.",
+   "Follow the guideline, report as no significant abnormality, and avoid adding anxiety and workload for a low-risk finding.",
+   "Describe the nodule and its uncertainty openly in the report, and leave the decision about follow-up to Karen's GP and Karen."
+  ],
+  "tension": [
+   "transparency about uncertainty vs. overtreatment",
+   "guideline adherence vs. individual risk"
+  ],
+  "region": "Denmark"
+ },
+ {
+  "title": "The Name Mix-Up on a Death Certificate",
+  "scenario": "Registrar Dr. Mwajuma Hassan in Zanzibar discovers that a death certificate she signed last year listed 'natural causes' for a man, Said, who actually died after receiving the wrong dose of an anaesthetic during a minor procedure. His widow received compensation from an insurer for natural death, which is lower than for medical accident. Correcting the record would reopen the case, shame colleagues, and might reduce what the widow receives. Dr. Hassan must decide whether to correct it.",
+  "options": [
+   "Correct the certificate and report the error, accepting the consequences for colleagues and the widow's current arrangements.",
+   "Leave the record unchanged, since the widow has accepted the settlement and further disclosure will bring only distress.",
+   "Tell the widow privately what happened and let her decide whether she wants the record corrected."
+  ],
+  "tension": [
+   "truth-telling vs. avoiding harm",
+   "institutional reputation vs. justice for the widow"
+  ],
+  "region": "Tanzania"
+ },
+ {
+  "title": "A Student Nurse Sees a Missed Fall",
+  "scenario": "Student nurse Mia Johansson in Gothenburg sees an elderly patient, Mr. Lindgren, fall from his bed during the night shift while the registered nurse is away. The nurse returns, helps him up, and asks Mia not to mention it, saying he seems fine and it would trigger paperwork and a lengthy neurological observation routine. Next morning Mr. Lindgren is slightly drowsy. Mia is on placement and will be assessed by that nurse. She must decide what to do.",
+  "options": [
+   "Report the fall to the doctor on the ward round, since Mr. Lindgren's drowsiness might indicate a head injury.",
+   "Say nothing and trust the nurse's judgment, as she is the responsible professional and Mia is only a student.",
+   "Tell the nurse she is worried and ask her to report the fall, giving her the chance to correct it herself before Mia escalates."
+  ],
+  "tension": [
+   "patient safety vs. student vulnerability",
+   "loyalty vs. honesty"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "Misleading a Patient About an Unlicensed Drug",
+  "scenario": "Hospital pharmacist Isabel Fonseca in Lisbon supplies an unlicensed imported drug for a child with a rare metabolic disorder when the usual drug is out of stock for months. The doctor tells the parents that 'it is the same medicine from another maker'. Isabel knows it differs in formulation and has limited safety data. The parents are relieved and trusting. Isabel must decide whether to correct the doctor's description when she meets the parents at the pharmacy counter.",
+  "options": [
+   "Tell the parents that the drug is imported, unlicensed, and has less safety data, and invite questions.",
+   "Let the doctor's explanation stand, because the drug is the best available option and the parents need reassurance.",
+   "Phone the doctor first to ask that they jointly correct the description, then talk with the parents together."
+  ],
+  "tension": [
+   "informed consent vs. reassurance",
+   "professional hierarchy vs. truthfulness"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "A Disputed Diagnosis Revealed by a Second Opinion",
+  "scenario": "Rheumatologist Dr. Ximena Rojas in Santiago reviews a patient, Ricardo, 48, who has been told for three years that he has an autoimmune disease and takes heavy immunosuppressants. On reviewing the records for a second opinion, she thinks the original diagnosis was probably wrong, and his symptoms fit a milder condition. The earlier specialist is her mentor. Ricardo trusts him completely and asks her if he is on the right path. Dr. Rojas must decide what to tell him.",
+  "options": [
+   "Tell Ricardo that she has doubts about the diagnosis and recommend further tests and a gradual review of his medication.",
+   "Say the treatment seems reasonable for now, and quietly discuss the diagnosis with her mentor before saying anything to Ricardo.",
+   "Advise him that diagnoses sometimes change and that she wants to repeat some investigations, without voicing her suspicion yet."
+  ],
+  "tension": [
+   "disclosure of diagnostic doubt vs. collegial loyalty",
+   "patient safety vs. trust in a specialist"
+  ],
+  "region": "Chile"
+ },
+ {
+  "title": "A Delayed Ambulance Hidden From the Family",
+  "scenario": "Ambulance crew leader Jovan Petrović in Belgrade arrived forty minutes late to a collapsed man, Mr. Marković, because a vehicle broke down and dispatch sent the wrong address. Mr. Marković died in hospital the next day of a stroke. His daughter asks the crew leader at the funeral whether earlier arrival could have helped. The service's director has instructed crews to say only that they came as quickly as possible. Jovan must decide how to answer her.",
+  "options": [
+   "Tell her honestly that the ambulance was delayed by a breakdown and an address mistake, and that earlier care might have helped.",
+   "Say they arrived as quickly as possible, as the director instructed, since the cause of death is uncertain.",
+   "Tell her that there were delays, that the service will review them, and that she can request a formal explanation."
+  ],
+  "tension": [
+   "honesty vs. employer instruction",
+   "consolation vs. truth"
+  ],
+  "region": "Serbia"
+ },
+ {
+  "title": "Telling Parents About an Unexpected Chromosomal Finding",
+  "scenario": "Prenatal sonographer Dr. Svetlana Morozova in Tbilisi sees signs on a routine scan that suggest Down syndrome in a pregnancy at 21 weeks. The finding is a soft marker with real uncertainty, and the couple, Nino and Giorgi, came for what they expected to be a joyful picture. Georgian law allows termination only up to 22 weeks. She has an hour of the appointment left and one week before the legal limit. Dr. Morozova must decide how to disclose.",
+  "options": [
+   "Tell them at once what she sees, explain its uncertainty, and outline the options and time limits for further testing.",
+   "Complete the scan, say it requires a follow-up, and give the full explanation at a scheduled counselling appointment with a geneticist.",
+   "Share the finding but emphasise that many such markers resolve normally, so the couple are not pushed into a rushed decision."
+  ],
+  "tension": [
+   "timely disclosure vs. emotional readiness",
+   "uncertainty vs. time-limited choices"
+  ],
+  "region": "Georgia"
+ },
+ {
+  "title": "Wrong-Site Injection Revealed Only by the Patient",
+  "scenario": "Pain specialist Dr. Alan Whitfield in Perth, Australia, injected the left knee of Mrs. Hartley when her notes indicated the right. She hasn't noticed, as both are arthritic and she is groggy. The injected steroid would not be dangerous, but the correct knee remains untreated. Dr. Whitfield's colleague saw the error and quietly suggests simply injecting the other knee next week 'as a staged treatment'. Dr. Whitfield must decide how to proceed.",
+  "options": [
+   "Tell Mrs. Hartley immediately that the wrong knee was injected, apologise, and offer to treat the correct one.",
+   "Take the colleague's suggestion and schedule the other knee as a staged plan, without drawing attention to the error.",
+   "Record the error in the incident system and discuss it with Mrs. Hartley at her follow-up when she is fully alert."
+  ],
+  "tension": [
+   "immediate disclosure vs. timing and context",
+   "professional reputation vs. honesty"
+  ],
+  "region": "Australia"
+ },
+ {
+  "title": "Uncertain Evidence on a New Surgical Mesh",
+  "scenario": "Orthopaedic surgeon Dr. Katarina Horvat in Zagreb has been using a new spinal implant that the hospital adopted under a promotional deal. Recently she read preliminary conference data suggesting a higher revision rate than the older implant, though the numbers are small and unpublished. Her patient this week, Mr. Perić, 44, a carpenter, is scheduled for surgery. Hospital management does not want her to raise unpublished concerns. Dr. Horvat must decide what to say to him.",
+  "options": [
+   "Tell Mr. Perić about the preliminary data and offer him the older implant if he prefers.",
+   "Use the new implant without mentioning the unpublished data, since it is unreliable and might needlessly alarm him.",
+   "Use the older implant for him without explanation and raise her concerns with the hospital's device committee."
+  ],
+  "tension": [
+   "candour about uncertain evidence vs. institutional pressure",
+   "patient choice vs. clinician judgment"
+  ],
+  "region": "Croatia"
+ },
+ {
+  "title": "A Mother Asks Whether the Hospital Is Hiding Something",
+  "scenario": "Nurse Lakshmi Pillai in Kuala Lumpur cares for a stable post-operative child, Aiman, 7, whose mother senses staff are anxious. In truth, the hospital found that the operating theatre used for his surgery had a sterilisation lapse affecting about twenty patients, and officials have not yet decided on public disclosure. Lakshmi is not authorised to speak about it. The mother asks, 'Is there something you are not telling me?' Lakshmi must decide how to answer.",
+  "options": [
+   "Tell the mother about the sterilisation lapse and encourage her to ask the doctors about tests for her son.",
+   "Say she is not authorised to discuss it, but urge the mother to ask the consultant directly and to insist on a full answer.",
+   "Reassure the mother that Aiman is doing well and say nothing about the lapse, as management has asked staff to wait."
+  ],
+  "tension": [
+   "transparency vs. authorisation",
+   "patient's right to know vs. institutional process"
+  ],
+  "region": "Malaysia"
+ },
+ {
+  "title": "Reporting Research Misconduct That Harms Patients",
+  "scenario": "Clinical research nurse Fatemeh Karimi in Shiraz notices that the principal investigator, Dr. Ghasemi, has been adjusting the dates of patients' blood tests in a heart failure trial so they fit protocol windows. The trial may influence national guidelines. Dr. Ghasemi is her mentor and helped her train. Participants are safe, but the results will be distorted. She worries about retaliation and about her own future in a small research community. Fatemeh must decide what to do.",
+  "options": [
+   "Report the data manipulation to the research ethics committee, even though it will damage her mentor and perhaps her own career.",
+   "Confront Dr. Ghasemi directly, urging him to correct the records, and report only if he refuses.",
+   "Keep quiet but quietly keep copies of the original records, in case the matter arises in future."
+  ],
+  "tension": [
+   "scientific integrity vs. loyalty",
+   "personal risk vs. public interest"
+  ],
+  "region": "Iran"
+ },
+ {
+  "title": "A Bereaved Father Asks About Alternatives",
+  "scenario": "Cardiothoracic surgeon Dr. Manuel Diaz in Quito operated on an infant, Mateo, who died on the table from a complication known to occur in about 8% of cases. Afterward, he realises that a less invasive option, available in another city, might have offered a lower risk for this particular anatomy, and that he did not mention it. The father asks him gently, 'Was this the best choice we could have made?' Dr. Diaz must decide how to answer.",
+  "options": [
+   "Tell the father that another option existed that might have had lower risk, and explain why it wasn't discussed.",
+   "Answer that the operation was a reasonable and standard choice, and the complication was a recognised risk.",
+   "Say that he will review the case with colleagues and meet again to share an honest account of the options that were available."
+  ],
+  "tension": [
+   "full candour vs. compassion in grief",
+   "professional standard vs. missed alternative"
+  ],
+  "region": "Ecuador"
+ },
+ {
+  "title": "Trainee's Mistake in a Blood Draw",
+  "scenario": "Phlebotomy trainer Marguerite Dupont in Dakar supervises a trainee who accidentally took a blood sample from the wrong patient and then reused the label from another bed. Two patients' results may now be crossed: one is a pregnant woman whose haemoglobin appears normal, the other an elderly man whose reading looks alarmingly low. Nobody has yet acted on the results. The trainee, in tears, begs Marguerite not to report it because she may lose her placement. Marguerite must decide what to do.",
+  "options": [
+   "Report the mix-up at once to the ward doctors so both patients are re-sampled and informed, accepting the trainee's likely dismissal.",
+   "Quietly re-draw both patients herself under a routine pretext, correcting the records without a formal report to protect the trainee.",
+   "Re-draw both patients immediately, then file a formal report that frames it as a training failure of supervision, taking responsibility herself."
+  ],
+  "tension": [
+   "patient safety vs. compassion for a trainee",
+   "transparency vs. quiet correction"
+  ],
+  "region": "Senegal"
+ }
+]

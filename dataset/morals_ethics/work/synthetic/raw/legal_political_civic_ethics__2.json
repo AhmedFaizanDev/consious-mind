@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Unlicensed Street Vendor",
+  "scenario": "Constable Jabu Ndlovu-Peterson, patrolling a township in Durban at dawn, finds a woman selling vegetables without a trading permit, violating a municipal bylaw. Her three children sit beside her. Permit applications take months and cost more than she earns in a week. Her stall has been confiscated twice. Ndlovu-Peterson's sergeant expects a monthly quota of citations, and a shopkeeper nearby has complained about unfair competition. He must decide how to respond now.",
+  "options": [
+   "Issue the citation and confiscate the produce, applying the bylaw evenly and fulfilling his duty to the complaining shopkeeper.",
+   "Give a verbal warning and information on how to apply for a permit, using discretion to avoid compounding her hardship.",
+   "Ignore the infraction entirely and report to his sergeant that no violations were found, protecting her livelihood."
+  ],
+  "tension": [
+   "equal enforcement vs. compassion",
+   "quota pressure vs. discretion"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "A Teenager's Fake ID at the Festival",
+  "scenario": "Officer Mei-Ling Tsai-Hargreaves, working security liaison at a Taipei music festival, stops a sixteen-year-old holding a forged ID to buy alcohol. The boy is calm but pale, and mentions that older friends pushed him to try it. A formal charge would create a juvenile record that affects his scholarship to a prestigious high school. Other officers are watching her handling of the case. She has a few minutes before the crowd surge begins.",
+  "options": [
+   "Charge him formally for using a forged document, applying the law consistently with other offenders.",
+   "Confiscate the ID, call his parents, and release him with a stern warning but no charge.",
+   "Confiscate the ID and refer him to a youth diversion programme, a middle path with some accountability."
+  ],
+  "tension": [
+   "consistent enforcement vs. proportionate mercy",
+   "accountability vs. future opportunity"
+  ],
+  "region": "Taiwan"
+ },
+ {
+  "title": "Following the Van That Crossed the Line",
+  "scenario": "Late at night on a Kazakh steppe road, traffic patrol officer Arman Seitkali-Ruiz sees a delivery van speeding well beyond the limit. When he halts it, the driver, a middle-aged man, explains he is rushing a feverish toddler to a clinic eighty kilometres away because the ambulance did not come. The child is in the back seat, flushed and quiet. A ticket would take ten minutes; an escort would take Arman off his beat. He needs to decide in seconds.",
+  "options": [
+   "Issue a citation after confirming the child's condition, assuming that the driver could have found a safer route.",
+   "Waive the ticket and let the driver continue immediately, trusting his account and the visible signs of illness.",
+   "Escort the van with lights on to the clinic, leaving his beat for a while to ensure the child arrives safely."
+  ],
+  "tension": [
+   "law enforcement vs. urgent need",
+   "officer's duties vs. humanitarian aid"
+  ],
+  "region": "Kazakhstan"
+ },
+ {
+  "title": "The Informant and the Cold Case",
+  "scenario": "Detective Sergeant Padraig Fitzmaurice-Alvarez in Cork has a long-standing informant, Declan, who gives reliable tips about drug distribution. Declan now confides that he was present at a decade-old unsolved assault, minimally involved and deeply remorseful. The victim's family still seeks answers. If the detective pursues the case, Declan will stop cooperating and could face retaliation; if he does not, the family is denied closure. He must decide how to use what he's been told.",
+  "options": [
+   "Open the old case and pursue Declan's statement, giving priority to the victim's family and the duty to investigate.",
+   "Protect the informant for now and continue to receive information on current drug distribution that may prevent greater harm.",
+   "Encourage Declan to come forward voluntarily with legal advice, aiming to serve both justice and his safety."
+  ],
+  "tension": [
+   "duty to victims vs. protection of informants",
+   "past harm vs. prevention of future harm"
+  ],
+  "region": "Ireland"
+ },
+ {
+  "title": "Rounding Up the Night Market",
+  "scenario": "Inspector Rangi Kaihau-Moreno receives an order to clear a Fijian night market of unlicensed stalls ahead of a visiting dignitary's convoy tomorrow. The vendors, mostly women supporting families, have paid informal fees to a local fixer for years. Using force would cause injuries and heavy losses of stock. The order is lawful but timed purely for appearances. Superiors want the market empty by midnight, and Rangi commands twelve officers.",
+  "options": [
+   "Carry out the clearance as ordered, using the least force possible, because the order is lawful and he is accountable to his chain of command.",
+   "Negotiate with the vendors to relocate temporarily to a nearby lot, risking partial non-compliance but avoiding conflict.",
+   "Report to his superiors that the clearance is unsafe and decline to execute it as ordered, accepting the disciplinary risk."
+  ],
+  "tension": [
+   "obedience vs. proportionality",
+   "public image vs. livelihoods"
+  ],
+  "region": "Fiji"
+ },
+ {
+  "title": "The Body Camera That Wasn't Running",
+  "scenario": "Officer Valentina Cruz-Ostrowski in Chicago arrives to find her partner mid-arrest, with a handcuffed man bleeding from the mouth. Her partner says the man resisted; the man says he was struck after being cuffed. Her partner's camera was off, and hers began recording only on arrival. Reporting inconsistency could end her partner's career and fracture the squad's trust. The man has an arrest record. A supervisor is asking for her statement.",
+  "options": [
+   "Give a complete and accurate account of what she saw, including any uncertainty, regardless of consequences to her partner.",
+   "Support her partner's account in her statement, since she did not see the beginning and cannot contradict it.",
+   "State exactly what she saw and did not see, and ask that the case be reviewed by an independent unit."
+  ],
+  "tension": [
+   "loyalty to colleagues vs. honesty",
+   "institutional trust vs. accountability"
+  ],
+  "region": "United States"
+ },
+ {
+  "title": "A Raid Warrant With the Wrong Address",
+  "scenario": "Team leader Captain Olumide Strand-Kapoor, heading a drug raid in Johannesburg, realises minutes before entry that the warrant lists a building number that differs from the address on his intelligence map. The suspect is dangerous and may flee or destroy evidence if delayed. Entering the wrong home could terrorise an innocent family. Verification requires reaching an on-call magistrate, which could take an hour. The team is positioned, and the window of surprise is closing.",
+  "options": [
+   "Proceed with the raid based on his intelligence, trusting the warrant's intent and the risk the suspect poses.",
+   "Halt the operation until the warrant is corrected, protecting the legal safeguards and the potentially innocent household.",
+   "Establish a perimeter and observe the building while pursuing an urgent verification, preserving both options if possible."
+  ],
+  "tension": [
+   "operational effectiveness vs. rights of the innocent",
+   "legal technicality vs. substance"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Overtime Demonstration Policing",
+  "scenario": "Police commander Ingeborg Lundqvist-Abara in Stockholm is told that a nationalist march and a counter-demonstration will converge in the city centre on Saturday. The permit for the march is valid, but she has intelligence suggesting that a few armed provocateurs may infiltrate the counter-demonstration. Banning the counter-demonstration may protect public order but restricts lawful assembly. Her superiors give her wide discretion. Plans must be set by Thursday morning.",
+  "options": [
+   "Allow both demonstrations on separate routes with heavy presence, accepting the risk of clashes and a costly deployment.",
+   "Restrict the counter-demonstration to a single location far from the march, limiting its visibility to reduce risk.",
+   "Cancel the counter-demonstration's permit citing the intelligence, prioritising prevention of violence over assembly rights."
+  ],
+  "tension": [
+   "freedom of assembly vs. public safety",
+   "preventive action vs. proportionality"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "The Taxi Driver's Unpaid Fines",
+  "scenario": "Traffic warden Hamid Rezaei-Johansson in Tehran stops a taxi driver, Davood, whose licence is suspended for unpaid fines. Davood explains that the fines accumulated while his wife was in hospital and that his taxi is the family's only income. The regulations require confiscation of the car. His passengers, a pair of university students, sympathise. The car would be impounded for at least a month, which Davood says will leave his family without food. Hamid must decide.",
+  "options": [
+   "Impound the vehicle as regulations require, treating the law's application as impartial regardless of circumstances.",
+   "Allow Davood to drive home and urge him to pay the fines, using discretion given the circumstances.",
+   "Impound the vehicle but connect Davood with a fine-payment instalment programme to shorten the impoundment period."
+  ],
+  "tension": [
+   "impartial enforcement vs. compassion",
+   "livelihood vs. legal order"
+  ],
+  "region": "Iran"
+ },
+ {
+  "title": "Kneeling Beside a Distraught Father",
+  "scenario": "Late in the evening in Manila, patrolman Rodrigo Villanueva-Haas comes across a man holding a kitchen knife on a footbridge, shouting that he will jump. Protocol demands that he secure the scene and wait for a crisis negotiator, thirty minutes away. The man has begun to climb the railing. Approaching might provoke him; waiting might be too late. A small crowd is filming. Rodrigo has no training in negotiation, only a few seconds to choose.",
+  "options": [
+   "Remain back and wait for the specialist as protocol requires, preserving safety procedures for everyone present.",
+   "Approach slowly and speak with the man, disregarding protocol because immediate contact might save his life.",
+   "Use the crowd's attention, asking an onlooker who knows the man to speak with him while Rodrigo stays near for safety."
+  ],
+  "tension": [
+   "protocol vs. immediate intervention",
+   "risk to self and others vs. saving a life"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "Searching the Backpack at the Mosque",
+  "scenario": "Officer Karim Benali-Whitfield in Lyon stops a young man leaving a mosque with a heavy backpack after receiving an unconfirmed tip about a possible threat. Legally he has limited grounds to search without consent. The young man refuses politely and says that he is carrying books for a study group. Bystanders watch, some filming. If the tip is real, delay could be catastrophic; if false, the search could inflame community distrust. Karim must decide quickly.",
+  "options": [
+   "Search the bag using his emergency powers, giving priority to public safety based on the tip.",
+   "Respect the refusal and instead monitor the young man discreetly while verifying the tip.",
+   "Ask the young man again to consent, explaining the reasons openly, and search only if he agrees."
+  ],
+  "tension": [
+   "public safety vs. community trust",
+   "legal limits vs. precaution"
+  ],
+  "region": "France"
+ },
+ {
+  "title": "Discretion on the Cattle Raid",
+  "scenario": "Inspector Naserian Lekishon-Duarte in Kenya's Turkana region learns that young herders have stolen cattle from a neighbouring community in retaliation for a previous raid that killed two of their kin. Elders from both sides prefer traditional mediation, which has historically ended raids without bloodshed. Official procedure is to arrest the herders and recover the cattle by force. Using the formal route risks escalation. The aggrieved neighbours expect action by sunrise.",
+  "options": [
+   "Follow the formal procedure and arrest the herders, upholding the law equally and reinforcing the state's authority.",
+   "Support traditional mediation led by elders, delaying arrests to avoid escalation, and monitor the situation closely.",
+   "Combine both by securing the cattle with police and conducting mediation, deferring arrests pending its outcome."
+  ],
+  "tension": [
+   "state law vs. customary justice",
+   "short-term order vs. long-term peace"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Strip-Search at the Youth Hostel",
+  "scenario": "Sergeant Ludmila Horvat-Nkemelu in Zagreb is told that a seventeen-year-old runaway at a youth hostel may be carrying drugs for a trafficking ring. A strip search of a minor is allowed under certain conditions but is traumatic. The girl denies everything and appears frightened. Waiting for a social worker could allow evidence to disappear. The hostel manager is uneasy about police presence. Ludmila must decide how to proceed.",
+  "options": [
+   "Conduct the search promptly with a female officer and a witness, treating the potential trafficking harm as serious.",
+   "Wait for the social worker and appropriate adult before any search, protecting the girl's dignity despite the risk to evidence.",
+   "Decline a physical search and instead ask the girl to hand over her belongings voluntarily, building trust that might yield information."
+  ],
+  "tension": [
+   "investigation vs. dignity of a minor",
+   "evidence preservation vs. child welfare"
+  ],
+  "region": "Croatia"
+ },
+ {
+  "title": "The Fraud Victim Who Fled the Station",
+  "scenario": "Officer Jun-seo Baek-Ferreira in Busan takes a statement from an elderly man who lost his savings to a phone scam. In the course of the conversation, the man admits that he used money from an unreported, illegal gambling debt to make the transfer. Formally recording this would expose him to charges and probably discourage other victims from coming forward. The investigation of the scam ring depends on his cooperation. Jun-seo must decide how to record the statement.",
+  "options": [
+   "Record everything accurately, including the gambling, because an incomplete record could compromise the case and the law.",
+   "Record the statement without the gambling reference as irrelevant to the scam, prioritising the victim's cooperation.",
+   "Explain to the man that his statement may expose the gambling, and let him decide whether to include it."
+  ],
+  "tension": [
+   "complete record vs. victim's cooperation",
+   "law enforcement vs. fairness to victims"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "The Hunting Rifle in the Pickup",
+  "scenario": "Tribal police officer Wapiti Running Bear-Costa stops a pickup on a Montana reservation and notices a hunting rifle in plain view, but the driver, a seventeen-year-old, lacks a hunting licence outside the permitted season. Tribal custom allows subsistence hunting for family food, but state law, which also applies, does not. The boy says his grandfather is ill and needs venison. The state ranger monitors the radio frequency and expects a report. The decision is Wapiti's.",
+  "options": [
+   "Cite the boy and seize the rifle, applying state law uniformly and avoiding conflict with state authorities.",
+   "Allow him to proceed under tribal subsistence custom and report nothing to the state ranger.",
+   "Warn the boy, let him go with the rifle, and report the stop to the ranger without any citation, noting the cultural context."
+  ],
+  "tension": [
+   "tribal sovereignty vs. state law",
+   "custom vs. uniform enforcement"
+  ],
+  "region": "United States (tribal land)"
+ },
+ {
+  "title": "The Silent Witness at the Domestic Call",
+  "scenario": "Officer Adaeze Chukwu-Lindberg answers a neighbour's report of shouting at a flat in Nairobi. A woman opens the door with a bruise, says she fell, and asks the officer to leave. Her husband stands behind her, calm. Without her complaint, arrest requires evidence of an offence; the officer has only suspicion. Arresting him could inflame the situation; leaving could mean future harm. A community women's shelter is a fifteen-minute walk away.",
+  "options": [
+   "Arrest the husband on reasonable suspicion, prioritising the woman's possible danger over her stated denial.",
+   "Leave after discreetly giving the woman a shelter contact and returning for a follow-up check next day.",
+   "Insist on speaking to the woman separately away from her husband before deciding, even if this causes friction."
+  ],
+  "tension": [
+   "protection from harm vs. respect for stated wishes",
+   "suspicion vs. evidence"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Camera Footage of the Colleague's Mistake",
+  "scenario": "Rookie officer Tadeusz Nowak-Imani in Warsaw reviews dashcam footage of a pursuit and notices that his training officer, Zofia, ran a red light and nearly hit a cyclist. The pursuit ended in a good arrest, and Zofia has mentored him well. The incident was not reported, and the cyclist was unharmed. The report system flags this type of event, and his review is mandatory. Tadeusz must decide what to enter in the field marked 'safety concerns'.",
+  "options": [
+   "Enter the red-light violation honestly in the report, supporting accountability even though it implicates his mentor.",
+   "Leave the field blank given that no one was hurt and the arrest was lawful, preserving the relationship.",
+   "Speak with Zofia first, encouraging her to self-report, and then record that the incident was reported voluntarily."
+  ],
+  "tension": [
+   "loyalty vs. honesty",
+   "accountability vs. mentorship"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Stop-and-Question in a Gated Community",
+  "scenario": "Security-liaison officer Phindile Mazibuko-Ahn in Singapore is asked by residents of a condominium to question a delivery rider who has been seen lingering near the building. The rider appears to be waiting for an order. The residents' association chair, a prominent donor to police charities, insists. Questioning him could embarrass or frighten him without cause. Declining could antagonise a powerful community. The rider has not committed any offence that she can see. She has to respond.",
+  "options": [
+   "Question the rider as requested, keeping the interaction brief and polite, to maintain good relations with residents.",
+   "Politely decline, explaining that there is no basis for questioning, and risk annoying the association's chair.",
+   "Approach the rider only to check he needs assistance, asking nothing intrusive, and explain this to the residents."
+  ],
+  "tension": [
+   "community relations vs. equal treatment",
+   "influence vs. impartiality"
+  ],
+  "region": "Singapore"
+ },
+ {
+  "title": "Planting Evidence for a Known Offender",
+  "scenario": "Narcotics detective Emiliano Ortega-Blackwood in Medellín is certain that a local trafficker, Rubén, is responsible for the deaths of several teenagers, but cannot produce admissible evidence. A colleague suggests adding a small quantity of drugs to Rubén's car during a routine stop to secure at least a conviction. The colleague stresses that Rubén is guilty and that others will die if he remains free. Emiliano holds the deciding vote on how the team proceeds.",
+  "options": [
+   "Refuse to plant evidence and continue building a lawful case, even if it takes longer and Rubén remains free.",
+   "Agree to the plan, reasoning that the greater good outweighs a minor procedural violation against a guilty man.",
+   "Refuse and report the colleague's proposal to internal affairs, to stop any similar conduct in the unit."
+  ],
+  "tension": [
+   "ends vs. means",
+   "loyalty to team vs. rule of law"
+  ],
+  "region": "Colombia"
+ },
+ {
+  "title": "The Refugee Camp Curfew",
+  "scenario": "Camp security chief Abdi Warsame-Kowalski, a police officer seconded to a refugee settlement in Uganda, enforces a night curfew meant to reduce thefts. A young mother approaches the gate at midnight, her baby in her arms, seeking the clinic on the other side of the camp. Violating curfew carries a fine and a night in a holding cell, but the clinic's night nurse is the only help. Another guard says she should be turned back.",
+  "options": [
+   "Turn her back according to the curfew, treating the rule as necessary for the camp's overall safety.",
+   "Allow her to pass and escort her to the clinic, using discretion on the basis of apparent medical need.",
+   "Call the clinic to send the nurse to the gate, avoiding both a rule breach and a long walk in the dark."
+  ],
+  "tension": [
+   "rule uniformity vs. urgent need",
+   "collective security vs. individual welfare"
+  ],
+  "region": "Uganda"
+ },
+ {
+  "title": "Reading Rights to the Frightened Teen",
+  "scenario": "Detective Marguerite Oyelaran-Fischer in Edinburgh finds a fourteen-year-old at a police post claiming knowledge of a stabbing. He is eager to speak but his guardian is absent and no appropriate adult is available for hours. Procedural rules say questioning should not begin until a guardian is present. If she waits, the boy may lose courage or be influenced by others, and a suspect may flee. She is alone with him in the interview room.",
+  "options": [
+   "Wait for the appropriate adult before any questioning, protecting the boy's rights and the admissibility of his evidence.",
+   "Listen informally to what he says now without recording, treating it as intelligence and not formal evidence.",
+   "Begin a recorded interview now with his voluntary consent, accepting procedural risk because of the urgency."
+  ],
+  "tension": [
+   "child's rights vs. urgent investigation",
+   "procedure vs. opportunity"
+  ],
+  "region": "United Kingdom (Scotland)"
+ },
+ {
+  "title": "A Cop's Cousin at the Checkpoint",
+  "scenario": "Sub-inspector Ravindra Chatterjee-Obi, manning a Kolkata checkpoint for drunk driving, stops a car and finds that the driver is his own cousin Sumit, who is just over the legal limit and driving his pregnant wife home from a family wedding. Sumit asks him to let it go and promises to take a taxi tomorrow. Other officers and a few motorists have seen the stop. Breath test records are logged automatically. Ravindra must decide how to act.",
+  "options": [
+   "Arrest and process Sumit like any other driver, applying the law equally to relatives.",
+   "Let Sumit's wife drive instead if she is sober, arranging for the car to be moved safely and recording the stop.",
+   "Release Sumit with a private warning and omit the record, since no accident occurred and family ties matter."
+  ],
+  "tension": [
+   "impartiality vs. family loyalty",
+   "equal enforcement vs. leniency"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Facial Recognition Match at the Station",
+  "scenario": "Intelligence analyst Greta Thorsen-Alvi, working with police in Copenhagen, receives a facial recognition match linking a man at a train station to a violent robbery. The software has a known error rate, particularly for darker-skinned individuals, and the man appears to match only partly. Officers are ready to detain him as he boards a train in five minutes. If she approves, he may be wrongly held; if she waits, a suspect may escape.",
+  "options": [
+   "Approve detention immediately, trusting the system and prioritising the possibility of a violent offender escaping.",
+   "Decline to approve until a human analyst can cross-check the images, accepting the risk of losing the suspect.",
+   "Approve a brief identity check only, without arrest, allowing officers to verify while minimising intrusion."
+  ],
+  "tension": [
+   "efficiency vs. risk of wrongful detention",
+   "technology reliability vs. bias"
+  ],
+  "region": "Denmark"
+ },
+ {
+  "title": "The Witness Who Could Be Deported",
+  "scenario": "Detective Inés Carrasco-Mbeki in Madrid finds that the only witness to a serious workplace assault is an undocumented cleaner, Lidia, who is willing to talk but fears deportation. Protocol directs that officers inform immigration authorities of any irregular status they encounter. Doing so would silence Lidia and likely let the attacker go free. Her superior has not given a direction either way. Inés has to decide how to handle the statement.",
+  "options": [
+   "Follow protocol and report the witness's status, treating the legal obligation as binding irrespective of the case's outcome.",
+   "Take Lidia's statement without noting her status, prioritising the prosecution of a violent offender.",
+   "Tell Lidia of the reporting protocol, and seek her superior's guidance on a protected-witness route before proceeding."
+  ],
+  "tension": [
+   "legal duty vs. effective justice",
+   "protecting a witness vs. reporting obligations"
+  ],
+  "region": "Spain"
+ },
+ {
+  "title": "Noise Complaint at the Funeral Vigil",
+  "scenario": "Community constable Bongani Mhlanga-Vestergaard answers a noise complaint in a Gaborone suburb at midnight and finds a family holding a traditional all-night funeral vigil with singing. The bylaw sets a ten o'clock curfew on amplified sound, and the complaining neighbour is elderly and ill. The mourners promise to quieten but say stopping the singing would dishonour the dead. His shift partner is waiting in the car. Bongani must decide what to tell the family.",
+  "options": [
+   "Order the singing to stop and issue a warning, applying the bylaw evenly and honouring the neighbour's complaint.",
+   "Allow the vigil to continue, noting the cultural significance and the single complaint.",
+   "Ask the family to move the singing indoors with the windows shut and visit the neighbour to explain."
+  ],
+  "tension": [
+   "cultural practice vs. neighbour's wellbeing",
+   "rules vs. discretion"
+  ],
+  "region": "Botswana"
+ }
+]

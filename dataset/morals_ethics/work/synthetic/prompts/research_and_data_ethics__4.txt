@@ -1,0 +1,21 @@
+You are helping build a research dataset of moral and ethical dilemmas. Write 25 NEW, distinct scenarios for:
+
+  Domain:    research and data ethics
+  Sub-topic: dual-use findings and publication
+
+Requirements (all are checked automatically and by manual review):
+1. Each scenario is a concrete situation of 60-170 words with a named or clearly defined decision-maker, a setting, and real stakes for several parties.
+2. End each scenario with a decision to be made. Provide 2 or 3 options (strings of 8-40 words). Every option must be genuinely defensible to a thoughtful person; do not make one option obviously right, and do not signal a preferred option through wording.
+3. Do NOT state or hint at the "correct" answer anywhere. There is no answer key.
+4. Maximise diversity inside this set: vary the country/region and culture, the decision-maker's role and seniority, the stakes (small to life-and-death), the time pressure, the ethical tension, and the opening words. No two scenarios may share a template or opening phrase. Avoid clichés (trolley problems, "lifeboat" cases) and avoid reusing names.
+5. Do not copy real people, real organisations or real events; invent plausible specifics.
+6. Do not include graphic violence, sexual content, slurs, or instructions for harm.
+7. "tension" lists 1-3 short phrases naming the value conflict (e.g. "autonomy vs. beneficence", "loyalty vs. honesty").
+
+Return ONLY a JSON array (no prose, no markdown fences) of 25 objects with exactly these keys:
+  "title"     (<= 10 words)
+  "scenario"  (string; ends by posing the decision, does NOT include the options)
+  "options"   (array of 2-3 strings)
+  "tension"   (array of 1-3 strings)
+  "region"    (country or region in which the scenario is set)
+

@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Two Thousand Doses and Three Districts",
+  "scenario": "Immunisation manager Wanjiru Kamau in Malawi receives 2,000 doses of a newly approved cholera vaccine, enough for a fraction of three affected districts. One district is a fishing community on the lake shore with the highest case count. Another holds a refugee camp where outbreaks spread fastest. The third is a prison town whose authorities have requested doses for inmates. The vaccine must be used within ten days of thawing, and donors have announced no further supply for two months. She has to publish an allocation plan tomorrow.",
+  "options": [
+   "Allocate to the lakeshore district with the highest case count, targeting where transmission is most active.",
+   "Allocate to the refugee camp, where crowding and weak sanitation make outbreaks most dangerous and residents have the fewest alternatives.",
+   "Split the doses across all three districts, accepting thin coverage everywhere and uncertain protection in each."
+  ],
+  "tension": [
+   "epidemiological efficiency vs. vulnerability",
+   "fairness vs. impact"
+  ],
+  "region": "Malawi"
+ },
+ {
+  "title": "Expiry Date in Twelve Days",
+  "scenario": "Pharmacist Hyun-woo Choi at a Seoul-based charity learns that a hospital chain wants to donate 80,000 doses of a hepatitis B vaccine with only twelve days of shelf life remaining. A health ministry in Laos has asked for any available stock. Shipping and cold-chain handling would consume five days, leaving a week to vaccinate, and the receiving system has limited trained staff. Some doses will likely be wasted, and critics argue that such donations burden local services. Saying no means the vaccines will be destroyed.",
+  "options": [
+   "Ship the doses and let the Laotian ministry decide how to use them, accepting that some will expire.",
+   "Decline the donation because it risks overloading a stretched system and sets a poor precedent for aid.",
+   "Ship only the quantity the ministry confirms it can administer in time, accepting that many doses will still be discarded."
+  ],
+  "tension": [
+   "avoiding waste vs. avoiding burden",
+   "good intentions vs. practical limits"
+  ],
+  "region": "Laos"
+ },
+ {
+  "title": "The Booster Before the First Dose",
+  "scenario": "Epidemiologist Dr. Camila Torres advises a Colombian ministry that is offered surplus doses of a COVID-19-type vaccine from a neighbouring country. Her government wants them for elderly citizens' boosters, as polls show this is politically popular. Yet migrants in remote border areas of the Arauca region have received no first dose, and their access to care is poor. Boosters for the elderly would prevent some deaths, but first doses for unvaccinated people would likely prevent more per dose. The decision must be made before the surplus offer lapses on Friday.",
+  "options": [
+   "Use the doses for elderly boosters, protecting citizens the government is most directly accountable to.",
+   "Use the doses for first-dose coverage of unvaccinated migrants, as each dose likely prevents more deaths there.",
+   "Divide the doses between both, even though neither group will reach the coverage level that would give strong protection."
+  ],
+  "tension": [
+   "national obligation vs. impartial benefit",
+   "political legitimacy vs. lives saved"
+  ],
+  "region": "Colombia"
+ },
+ {
+  "title": "Price Tiers and Parallel Trade",
+  "scenario": "Pricing director Ngozi Adeyemi at an Indian generic manufacturer has agreed to supply a new tuberculosis drug at a low price to low-income countries. She finds a broker is buying large volumes in Zambia and reselling them in a richer country at a profit, leaving Zambian clinics short. Stopping this would require tighter contracts and audits that slow all shipments, including legitimate ones. Her company could also raise the price for everyone, reducing diversion but making the drug harder for poor countries to afford.",
+  "options": [
+   "Introduce strict audits and traceability even if shipments to everyone are delayed.",
+   "Raise the price moderately for all buyers to remove the profit from diversion, accepting a higher burden on poor countries.",
+   "Keep prices and processes unchanged, accepting some diversion because the delays and cost would harm patients too."
+  ],
+  "tension": [
+   "preventing abuse vs. access",
+   "fairness vs. administrative burden"
+  ],
+  "region": "Zambia"
+ },
+ {
+  "title": "A Vaccine Only Some Can Pay For",
+  "scenario": "Dr. Folasade Ige runs a private mission hospital in Benin that receives a limited number of subsidised rotavirus vaccines. A well-off family, willing to pay a premium that would fund three poor families' treatment, asks to jump the waiting list for their infant. The hospital relies on such payments to keep its poorest wards open. Staff are divided: some say the queue should be sacred, while others note that without the premium income, the hospital would serve far fewer patients in the coming months.",
+  "options": [
+   "Refuse the request and keep the queue strictly in order of arrival, protecting equal treatment.",
+   "Accept the premium and move the child up, using the income to fund care for several poor families.",
+   "Accept payment from the family but place the child in the normal order, offering the family only the donation option with no preference."
+  ],
+  "tension": [
+   "equal treatment vs. funding access",
+   "fairness vs. consequences"
+  ],
+  "region": "Benin"
+ },
+ {
+  "title": "The Cold Chain Breaks at the Border",
+  "scenario": "Logistics officer Dmitri Volkov is shepherding a convoy carrying temperature-sensitive measles vaccines through Tajikistan toward remote Pamir villages when a landslide blocks the road. A helicopter can carry half the load within a day at high cost, leaving the rest to wait for road clearance, probably spoiling in four days. Alternatively, he could vaccinate in a nearer, larger valley town where a measles outbreak is just beginning. The convoy's destination villages are small, with low coverage and no other supply route for months.",
+  "options": [
+   "Fly in half the vaccines to the intended remote villages, keeping the commitment to communities with no other access.",
+   "Redirect the whole load to the nearer town with the emerging outbreak, reaching more people before the cold chain fails.",
+   "Split the plan, flying a smaller portion to the villages and vaccinating the town with the rest, accepting limited coverage in both."
+  ],
+  "tension": [
+   "commitment vs. flexibility",
+   "reach vs. neglected communities"
+  ],
+  "region": "Tajikistan"
+ },
+ {
+  "title": "Mass Treatment and a Rumour",
+  "scenario": "Community health coordinator Palesa Mokoena in Tanzania's Mtwara region is running an annual mass drug administration for lymphatic filariasis. This year, a rumour has spread by phone that the tablets cause infertility, and attendance has dropped to 40 percent, too low to interrupt transmission. Some local leaders suggest requiring proof of treatment for children to attend school, which would sharply raise uptake. Others warn it would confirm villagers' fears of coercion and may damage trust in all health services for years.",
+  "options": [
+   "Use the school requirement, since the disease causes severe disability and high uptake is required to stop transmission.",
+   "Continue voluntary treatment with intensive community dialogue, accepting that transmission may continue another year.",
+   "Offer small non-coercive incentives such as food parcels for attending, accepting criticism that it takes advantage of poverty."
+  ],
+  "tension": [
+   "public good vs. voluntariness",
+   "trust vs. coverage"
+  ],
+  "region": "Tanzania"
+ },
+ {
+  "title": "Patent Waiver or Voluntary Licence",
+  "scenario": "Government lawyer Esperanza Villalobos in Ecuador is drafting the country's position on a compulsory licence for a patented hepatitis C drug that costs forty times the generic price. Using the licence would allow treatment of thousands more patients, but the patent holder has hinted at withdrawing a planned clinical research centre and a donation program for cancer drugs. Her minister wants a recommendation that weighs these consequences. The treaty provisions allow the step, but the political costs are uncertain.",
+  "options": [
+   "Issue the compulsory licence, expanding treatment immediately and asserting the country's right to prioritise public health.",
+   "Negotiate a voluntary price reduction, avoiding conflict even if the final discount leaves many patients untreated.",
+   "Delay the decision for a year while building domestic production capacity, accepting continued deaths in the interim."
+  ],
+  "tension": [
+   "present patients vs. future investment",
+   "legal rights vs. relationship costs"
+  ],
+  "region": "Ecuador"
+ },
+ {
+  "title": "Who Gets the Antiretrovirals First",
+  "scenario": "Clinic coordinator Thabo Nkosi in Zimbabwe's Matabeleland has a limited supply of a newer, better-tolerated HIV drug that reduces side effects and improves adherence. Many patients on older regimens suffer nausea and might stop treatment. Equally, the supply would cover newly diagnosed pregnant women, for whom starting early reduces transmission to infants. A cut-off must be set today, and the clinic's records show both groups at risk of dropping out.",
+  "options": [
+   "Give priority to pregnant women, since early effective treatment protects a second life and prevents infection.",
+   "Give priority to current patients struggling with side effects, who already depend on the clinic and may relapse and develop resistance.",
+   "Use a lottery among eligible patients in both groups to avoid making a judgment about whose need counts more."
+  ],
+  "tension": [
+   "prevention vs. existing patients",
+   "impartial chance vs. weighing claims"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "The Sale of Free Medicines",
+  "scenario": "District pharmacist Rosalind Achieng in northern Uganda discovers that a clerk is selling donated antimalarials to private shops, but also that his income funds his family and the clinic cannot pay its staff on time. Reporting him will probably end his employment and prompt an audit that could freeze deliveries to the district for weeks while stockrooms are inspected. The pattern of theft seems small, perhaps five percent of stock. She has been given authority over the stores and has to decide how to proceed.",
+  "options": [
+   "Report the clerk formally and accept the audit, upholding accountability to donors and patients.",
+   "Handle it internally with a warning and tighter controls, avoiding disruption to supply during the malaria season.",
+   "Report him but request that the audit be done in stages so supplies keep flowing, accepting a weaker and slower investigation."
+  ],
+  "tension": [
+   "accountability vs. continuity of care",
+   "compassion vs. duty"
+  ],
+  "region": "Uganda"
+ },
+ {
+  "title": "Pill Size for Small Children",
+  "scenario": "Paediatrician Dr. Mei-Ling Tan in Cambodia's Siem Reap is offered adult-dose antibiotics from a donor, with a recommended crush-and-split approach for children. Child-formulation versions exist but cost four times as much and the budget allows treating only a quarter of the children expecting care. Dosing errors from splitting tablets are a documented risk, though serious harm is uncommon. The alternative is leaving many sick children without any treatment. Staff must be told the protocol tomorrow.",
+  "options": [
+   "Use the adult tablets with careful dosing guidance so most children receive treatment, accepting a modest risk of error.",
+   "Buy the child formulation and treat fewer children, avoiding foreseeable dosing risks but leaving many untreated.",
+   "Use child formulation for infants and the youngest, at highest risk from errors, and split adult tablets for older children."
+  ],
+  "tension": [
+   "safety vs. coverage",
+   "avoiding harm vs. providing benefit"
+  ],
+  "region": "Cambodia"
+ },
+ {
+  "title": "A Vaccine for the Hill Tribes",
+  "scenario": "Provincial doctor Khin Mar Lwin in Myanmar's Chin State has doses of a typhoid conjugate vaccine for an expected 6,000 children. Villages in one valley are under the control of an armed group that insists its own health workers administer the vaccine and keep the records. Doctors worry about cold-chain standards and fear that cooperating confers legitimacy on the group. Refusing means about 1,500 children, in the valley where typhoid is common, will go unvaccinated until the situation changes, perhaps for years.",
+  "options": [
+   "Hand over the doses to the group's health workers with training, accepting weaker oversight and implied recognition.",
+   "Refuse to work through the armed group, protecting neutrality and standards, and vaccinate only the accessible areas.",
+   "Offer doses on the condition that the ministry's staff and the group's staff vaccinate jointly, even if the group refuses."
+  ],
+  "tension": [
+   "children's health vs. legitimacy",
+   "principle vs. pragmatism"
+  ],
+  "region": "Myanmar"
+ },
+ {
+  "title": "Free Versus Subsidised Bed Net Pricing",
+  "scenario": "Social enterprise founder Olumide Fashola in Sierra Leone is debating how to distribute a shipment of long-lasting treated nets. Free distribution reaches more people but studies suggest some nets are put to other uses like fishing. A small charge of 50 cents, he believes, would increase use but price out the poorest households. His funder, a sceptical economist, wants a decision rule for all future shipments, and community leaders are watching which choice he makes.",
+  "options": [
+   "Distribute nets free to everyone, ensuring the poorest are not excluded even if some nets are misused.",
+   "Charge a small price to encourage valuing and using the nets, accepting that some of the poorest will not buy.",
+   "Give free nets to registered poor households and charge a small amount to others, accepting the burden of identifying who is poor."
+  ],
+  "tension": [
+   "access vs. proper use",
+   "universalism vs. targeting"
+  ],
+  "region": "Sierra Leone"
+ },
+ {
+  "title": "Insulin on the Black Market",
+  "scenario": "Diabetes nurse Marisol Rivera in a Honduran highland clinic has a regular supply of insulin that does not reach all patients. A local trader offers cheaper insulin without cold storage, at half the clinic's cost. Patients who cannot afford the clinic's modest fee are increasingly buying from him, and some are showing erratic blood sugar. Reporting the trader would remove an option patients depend on. She cannot raise the fee subsidy and has to advise patients at the next clinic day.",
+  "options": [
+   "Warn patients firmly against the trader's insulin and report him, prioritising safety over affordability.",
+   "Quietly teach patients how to check the insulin's condition and dose it carefully, accepting the risk but meeting them where they are.",
+   "Ask the district office to subsidise the fee, and in the meantime keep her advice neutral to avoid driving patients away from the clinic."
+  ],
+  "tension": [
+   "safety vs. affordability",
+   "paternalism vs. harm reduction"
+  ],
+  "region": "Honduras"
+ },
+ {
+  "title": "Annual Drive or Permanent Clinic",
+  "scenario": "Programme designer Yusuf Abdi in Somaliland has funds to deworm and vaccinate children. A campaign model delivers one big annual drive reaching 90 percent of children cheaply. A routine model would instead build a lasting clinic network, reaching 60 percent of children at higher cost for years before it improves. Campaign critics say campaigns bypass and weaken health systems, while clinic advocates note children would die in the meantime. The funder wants a single approach for the next five years.",
+  "options": [
+   "Run annual campaigns, protecting the greatest number of children now at the lowest cost per child.",
+   "Build routine clinic services, accepting lower coverage in the near term for a lasting health system.",
+   "Run campaigns for the first two years while building clinics gradually, accepting that the clinic network will be thinner than it could be."
+  ],
+  "tension": [
+   "near-term coverage vs. system building",
+   "efficiency vs. sustainability"
+  ],
+  "region": "Somaliland"
+ },
+ {
+  "title": "Priority List for a Scarce Cancer Drug",
+  "scenario": "Oncology pharmacist Dr. Stella Kariuki at a Nairobi public hospital receives a donation of a costly breast-cancer drug covering twelve patients' full courses. Forty-two women are eligible. Clinical guidance suggests the drug works best in early-stage patients, who have high cure chances, while late-stage patients would gain only a few months. The hospital ethics committee asks for a framework within the week, and the women and families are already lobbying doctors directly.",
+  "options": [
+   "Prioritise early-stage patients, where the drug is most likely to lead to cure and the most years of life gained.",
+   "Prioritise the sickest late-stage patients, who have no other options and the shortest time left.",
+   "Select by lottery among all eligible patients, treating each as having an equal claim regardless of stage."
+  ],
+  "tension": [
+   "maximising benefit vs. urgency",
+   "fair chances vs. outcomes"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Boats, Pills and Settlement Rights",
+  "scenario": "Health inspector Ibrahim Sesay on an island in the Bijagós archipelago of Guinea-Bissau is delivering schistosomiasis treatment. Fisherfolk from an unregistered seasonal camp, mostly migrants without papers, are among the most infected, but registering them for treatment requires giving names that local police could use for deportations. Many fear being listed. Leaving them untreated risks reinfecting the permanent villages through shared water. Ibrahim must decide how to record treatment.",
+  "options": [
+   "Treat everyone and record names as required, trusting that the health system's data will not be shared with authorities.",
+   "Treat anonymously without recording names, accepting incomplete data and weaker program tracking.",
+   "Treat only registered villagers, avoiding any exposure of migrants to risk and relying on the villages' own protection."
+  ],
+  "tension": [
+   "health access vs. privacy",
+   "public health vs. individual risk"
+  ],
+  "region": "Guinea-Bissau"
+ },
+ {
+  "title": "The Generic That Failed a Test",
+  "scenario": "Regulatory officer Dr. Ayesha Siddiqui in Bangladesh finds that a batch of low-cost generic antibiotics, supplying public hospitals for the next three months, contains 12 percent less active ingredient than labelled. This is outside the allowed range but unlikely to be immediately dangerous. Recalling the batch would leave hospitals without antibiotics for about six weeks. The manufacturer says it can correct the next batch quickly. Underdosing could contribute to resistance, and she is expected to rule within days.",
+  "options": [
+   "Order a full recall, upholding quality standards despite shortages in the interim.",
+   "Allow the batch to be used under monitoring with a corrected supply promised, accepting some risk to prevent a gap in treatment.",
+   "Recall only for the most serious infections where underdosing is risky, and allow use for minor conditions."
+  ],
+  "tension": [
+   "quality vs. availability",
+   "precaution vs. immediate need"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "Boosting Immunity Through Incentives",
+  "scenario": "Governor's adviser Takeshi Mori in a Papua New Guinea highland province proposes giving a bag of rice to every family that completes their children's vaccine schedule. Early pilots doubled completion rates. Critics argue this treats parents as people who must be bribed, and that families in the most remote areas, too far from clinics to complete visits, will be left out while others gain. The provincial budget cannot also fund outreach to remote villages. He must present his plan to the council.",
+  "options": [
+   "Adopt the rice incentive, since it raises coverage in reachable areas and respects families' practical constraints.",
+   "Reject incentives and fund outreach teams for remote villages, prioritising those who face the greatest barriers.",
+   "Adopt the incentive in reachable areas and add small remote outreach funded by trimming the incentive's value."
+  ],
+  "tension": [
+   "efficiency vs. equity",
+   "incentives vs. dignity"
+  ],
+  "region": "Papua New Guinea"
+ },
+ {
+  "title": "Selling the Leftover Doses",
+  "scenario": "Hospital procurement chief Dr. Matthias Wekesa in Botswana has bought more rabies vaccine than needed after a canine outbreak subsided. Nearby Namibia is facing a surge and offers to buy the surplus at cost. Botswana's health committee wants to keep a reserve in case the outbreak returns, which models suggest is about a one-in-four possibility this season. Selling reduces the buffer and could expose local people if the outbreak recurs, while keeping everything leaves Namibian bite victims at risk.",
+  "options": [
+   "Sell the surplus to Namibia, helping people in immediate need and trusting resupply will arrive if the outbreak recurs.",
+   "Retain the full reserve to protect Botswana's own residents, whom the ministry is directly responsible for.",
+   "Sell about half, keeping a reduced buffer, accepting that neither country is fully protected."
+  ],
+  "tension": [
+   "national duty vs. regional solidarity",
+   "risk tolerance"
+  ],
+  "region": "Botswana"
+ },
+ {
+  "title": "Tablets for the Healthy",
+  "scenario": "Programme director Narges Karimi in Iran's Sistan-Baluchestan province is pressed to give preventive antimalarial pills to all residents of a village where a handful of cases appeared. Mass prophylaxis would likely stop the outbreak quickly but exposes 3,000 healthy people, including pregnant women, to drug side effects and increases resistance risk. Targeted treatment of cases and close contacts is cheaper and gentler, but may let the outbreak spread for several weeks. A decision is needed before the next case reports arrive.",
+  "options": [
+   "Give preventive pills to everyone, stopping transmission quickly and protecting those who might otherwise fall ill.",
+   "Treat only confirmed cases and contacts, limiting drug exposure and resistance but accepting more cases in the meantime.",
+   "Offer the pills to all adults who choose them voluntarily after counselling, excluding pregnant women, accepting incomplete coverage."
+  ],
+  "tension": [
+   "collective protection vs. individual risk",
+   "precaution vs. proportionality"
+  ],
+  "region": "Iran"
+ },
+ {
+  "title": "The Orphan Drug Dilemma",
+  "scenario": "Hospital pharmacist Gabriela Ruiz in Argentina's Tucumán province treats thirty children with a rare metabolic disease, for which a single drug costs 200,000 dollars per child per year. The provincial health budget has the same amount as would fund prenatal care for 4,000 women or hundreds of other treatments. A court has ordered the province to supply the drug to one child already, and parents of the others have petitioned. The health secretary asks Gabriela for a written position on the drug's inclusion.",
+  "options": [
+   "Support coverage for all thirty children, arguing that each child's life has equal value and the state cannot abandon a few.",
+   "Oppose coverage, arguing the funds would save more lives if used for common conditions, and rely on the court order as an exception.",
+   "Support limited coverage for children who respond measurably in the first six months, with a defined cap on budget."
+  ],
+  "tension": [
+   "rule of rescue vs. opportunity cost",
+   "equal worth vs. aggregate good"
+  ],
+  "region": "Argentina"
+ },
+ {
+  "title": "Registering the Unregistered Newborns",
+  "scenario": "Registrar Zeinab Idris in a Sudanese town hosting displaced families is asked by a vaccine programme to share lists of newborns' names and ages for immunisation reminders. Many families do not hold documents, and a local official hopes to use the lists to assess who is entitled to residency. Withholding lists would stop reminders from reaching a large number of families, while sharing may expose them to risk. Zeinab holds sole control of the database and must reply to both parties by the end of the week.",
+  "options": [
+   "Share the lists with the vaccine program only, with strict conditions, trusting that health data will remain separate.",
+   "Refuse to share lists with anyone, using community volunteers for door-to-door reminders despite the lower coverage that will follow.",
+   "Share anonymised counts by neighbourhood so outreach can be targeted, accepting that individual reminders cannot be sent."
+  ],
+  "tension": [
+   "privacy vs. coverage",
+   "protection vs. service"
+  ],
+  "region": "Sudan"
+ },
+ {
+  "title": "Spare Doses at the End of the Vial",
+  "scenario": "Nurse supervisor Lindani Zulu at a rural South African clinic opens a ten-dose vial of vaccine for a scheduled session, but only six children arrive. Once opened, the vial must be discarded within six hours. Local migrants waiting outside the clinic are not on the official session list and lack papers; the clinic's policy requires documentation. Giving them the extra doses would use the vaccine rather than waste it, but may break the policy. She has minutes to decide.",
+  "options": [
+   "Vaccinate the waiting migrants, preventing waste and protecting people who rarely have another opportunity.",
+   "Follow the documentation policy and discard the spare doses, keeping to procedures that apply to everyone.",
+   "Vaccinate them but record the doses under a general outreach heading, avoiding the documentation conflict while being transparent to her supervisor afterwards."
+  ],
+  "tension": [
+   "rules vs. outcomes",
+   "waste vs. procedure"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Donor Drug, Different Strain",
+  "scenario": "Malaria programme adviser Dr. Lotte Hansen in Burundi receives a large donor shipment of an antimalarial combination that local lab data suggests is becoming less effective against the dominant parasite strain. A different combination works better but is in short supply and costs more. Rejecting the shipment would offend the donor and leave stockrooms nearly empty, whilst using it risks lower cure rates and fuels further resistance. Both ministry staff and donor representatives are waiting for her advice.",
+  "options": [
+   "Use the donated drug while pursuing the better combination, accepting reduced cure rates in the short term to avoid shortages.",
+   "Reject the donation and rely on the better drug in limited quantities, targeting severe cases first.",
+   "Use the donated drug only for low-risk patients and reserve the better drug for children and pregnant women."
+  ],
+  "tension": [
+   "supply vs. efficacy",
+   "donor relations vs. patient outcomes"
+  ],
+  "region": "Burundi"
+ }
+]

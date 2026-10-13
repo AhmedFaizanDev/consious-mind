@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Placebo Arm for a Treatable Infection",
+  "scenario": "Principal investigator Dr. Nomvula Sithole in Mpumalanga plans a trial of a new low-cost vaginal gel for preventing HIV in young women. The ethics board in her sponsor's country wants all participants offered the best proven prevention, including daily oral pills, while the local board argues that this makes the trial too large and expensive to finish, so the gel might never be tested. Without the trial, there is no evidence for a cheap, woman-controlled method. Enrolment is due to open next month.",
+  "options": [
+   "Offer all participants the proven oral pills alongside the gel or placebo, accepting a larger, slower trial that might not be funded.",
+   "Run a smaller trial comparing gel to placebo with counselling and condoms, accepting less protection than the best proven method.",
+   "Offer pills to all participants and run an adaptive trial with a smaller sample, accepting weaker conclusions."
+  ],
+  "tension": [
+   "participant protection vs. generating knowledge",
+   "universal standards vs. local feasibility"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Consent Through a Village Chief",
+  "scenario": "Research coordinator Bakary Camara is enrolling families in a Gambian village in a malaria vaccine trial. Custom requires the chief's permission before anyone is approached, and the chief has given it, urging his people to join. Bakary notices that some women appear uneasy and say they feel they cannot decline. Insisting on separate individual consent conversations in private may offend the chief and could end the village's participation, while the trial needs the numbers from this location.",
+  "options": [
+   "Proceed with the chief's blessing and standard individual consent forms, respecting local authority structures.",
+   "Hold private consent sessions for each woman away from the chief, risking offence and loss of the site.",
+   "Hold consent sessions in small women-only groups first, then individually, accepting delays and possible chief disapproval."
+  ],
+  "tension": [
+   "cultural respect vs. individual autonomy",
+   "research needs vs. voluntariness"
+  ],
+  "region": "The Gambia"
+ },
+ {
+  "title": "Continuing Treatment After the Trial",
+  "scenario": "Trial manager Dr. Iryna Kovalenko is closing a study of a new drug for visceral leishmaniasis in Bihar. The drug worked dramatically well, but the sponsor has no plan to supply it after the study ends, and the national regulator has not yet approved it. Forty participants still need follow-up doses. The contract does not require post-trial access. Staff are worried that participants who were cured may relapse without ongoing care, and the sponsor's reps are ready to lock down drug stocks next week.",
+  "options": [
+   "Honour only the contract and close the study, avoiding commitments the sponsor has not agreed to.",
+   "Publicly pressure the sponsor to continue supply, risking the relationship and perhaps jeopardising the broader programme.",
+   "Quietly negotiate a compassionate-use arrangement for these forty, accepting it sets a precedent and may delay approvals."
+  ],
+  "tension": [
+   "contractual limits vs. moral obligation",
+   "individual duty vs. institutional constraints"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Payment That Might Pressure",
+  "scenario": "Ethics committee chair Dr. Moses Lubega in Kampala is reviewing a trial that offers participants 40,000 shillings per visit, roughly two days' wages for casual labourers. A member argues that the payment is unduly influential: poor people might join to earn money, ignoring risks. Another says that unpaid participation exploits their time and travel costs, and that lower payment means a failed recruitment. The sponsor says it will relocate the study if the committee reduces the compensation.",
+  "options": [
+   "Approve the payment as proposed, treating participants as adults capable of weighing risks and entitled to fair compensation.",
+   "Reduce the payment to cover costs only, reducing the risk of financial pressure even if recruitment slows.",
+   "Approve the payment but require enhanced consent checks, including a test of understanding and a cooling-off period."
+  ],
+  "tension": [
+   "fair compensation vs. undue inducement",
+   "autonomy vs. protection"
+  ],
+  "region": "Uganda"
+ },
+ {
+  "title": "Stopping Early for Benefit",
+  "scenario": "Data monitoring board member Dr. Helena Vasquez reviews interim results from a Peruvian trial of a new regimen for drug-resistant tuberculosis. The regimen shows a strong survival advantage, but only 60 percent of planned participants have enrolled, so results may be due to chance. Stopping the trial now would let the control group switch to the better treatment and allow rapid rollout, but it could leave regulators unconvinced and lead to withholding from thousands of patients later. The board meets in two days.",
+  "options": [
+   "Recommend stopping now, giving control patients the better treatment and enabling earlier use for everyone.",
+   "Recommend continuing to full enrolment, obtaining stronger evidence even if some control patients do worse in the meantime.",
+   "Recommend continuing but offering control patients access to the new regimen on compassionate grounds, which will weaken the comparison."
+  ],
+  "tension": [
+   "present patients vs. future evidence",
+   "certainty vs. urgency"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Samples Leaving the Country",
+  "scenario": "Biobank manager Dr. Femi Adesanya in Ibadan has been asked by a European university to ship 10,000 blood samples, collected for a malaria study, for genetic analysis for a different purpose: studying sickle cell and heart disease. The original consent forms mention only malaria. The university offers equipment, training for local staff, and coauthorship. Participants cannot practically be recontacted, since many have moved. Local scientists want capacity but worry about exploitation of their communities' genetic data.",
+  "options": [
+   "Approve the transfer with the capacity-building package, judging that the scientific and local benefits justify reuse.",
+   "Refuse the transfer without fresh consent, upholding the original agreement with the participants.",
+   "Allow analysis only within Nigeria, with European collaborators visiting, accepting slower science and extra cost."
+  ],
+  "tension": [
+   "scientific benefit vs. consent limits",
+   "capacity vs. data sovereignty"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "The Mother Who Cannot Read",
+  "scenario": "Study nurse Rosa Mamani in rural Bolivia is obtaining consent from an Aymara-speaking mother for her newborn to join a trial of a new sepsis treatment. The mother cannot read the Spanish form, and speaks limited Spanish. Her husband, who is away, usually decides such matters. Time is short, since the infant's infection is worsening and the trial's treatment window is six hours. The nurse's translator is a young relative with no medical background who may not convey risks precisely.",
+  "options": [
+   "Proceed with consent explained through the relative and signed by the mother, given the urgency of the infant's condition.",
+   "Delay enrolment until a qualified interpreter and the father can be reached, risking the infant's worsening and loss of the trial window.",
+   "Treat the infant with standard care outside the trial now, keeping the infant's welfare first even though the trial loses a participant."
+  ],
+  "tension": [
+   "informed consent vs. urgency",
+   "autonomy vs. family authority"
+  ],
+  "region": "Bolivia"
+ },
+ {
+  "title": "Different Standards of Care by Site",
+  "scenario": "Sponsor representative Dr. Katarina Novak oversees a multinational diabetes trial where participants in Germany receive an insulin pump while participants in Malawi use syringes, because pumps cannot be maintained there. The Malawian group will therefore have worse glucose control, which could skew results and make the drug seem less effective. Some on her team propose providing pumps in Malawi anyway, which would double site costs and require imported supplies that will not last beyond the trial.",
+  "options": [
+   "Keep local standard of care at each site, ensuring the trial reflects realities participants will face after it ends.",
+   "Provide pumps at all sites for equal treatment, even though the benefit disappears when the trial ends.",
+   "Exclude the Malawian site, avoiding both the inequity and the complications, at the cost of losing representation of African patients."
+  ],
+  "tension": [
+   "equal treatment vs. relevance",
+   "inclusion vs. consistency"
+  ],
+  "region": "Malawi"
+ },
+ {
+  "title": "A Teenager's Own Choice",
+  "scenario": "Counsellor Ayumi Sato in a Thai youth clinic is enrolling adolescents in a trial of long-acting PrEP. Sixteen-year-old Pim wants to join but does not want her parents to know, because she fears being judged. National rules require parental consent for those under eighteen. An ethics waiver is possible but slow, and the trial has a recruitment window closing in ten days. Pim is at real risk of infection, and refusing her may mean she gets no protection.",
+  "options": [
+   "Insist on parental consent as the rules require, accepting that Pim may decline to participate and remain unprotected.",
+   "Seek the waiver quickly and enrol Pim if it is granted, respecting her maturity and the rules' own exceptions.",
+   "Enrol Pim now on her own consent with counsellor support, then seek retrospective approval, accepting regulatory consequences."
+  ],
+  "tension": [
+   "adolescent autonomy vs. parental authority",
+   "rules vs. protection from harm"
+  ],
+  "region": "Thailand"
+ },
+ {
+  "title": "Publishing a Troubling Result",
+  "scenario": "Epidemiologist Dr. Joseph Banda has finished a Zambian cluster trial showing that a widely used community nutrition supplement has no effect on child growth. The organisation that funded the trial, and that employs staff who have distributed the supplement for a decade, asks him to delay publication a year while it prepares a response. Millions of dollars are still being spent annually on the supplement, and the delay would allow that to continue. His career and future funding depend partly on the organisation.",
+  "options": [
+   "Publish promptly, informing the public and funders so resources can move to approaches that work.",
+   "Agree to the delay to maintain the relationship and allow the organisation to prepare an orderly transition.",
+   "Share the findings with major funders confidentially now and publish on the original timeline, balancing urgency and courtesy."
+  ],
+  "tension": [
+   "scientific honesty vs. relationships",
+   "public interest vs. institutional loyalty"
+  ],
+  "region": "Zambia"
+ },
+ {
+  "title": "Cluster Trial With No Individual Opt-Out",
+  "scenario": "Statistician Dr. Rukmini Iyer designs a trial in Odisha to test adding chlorine to village water supplies. Randomisation is by village, so individuals cannot opt out of treated water without leaving the system. Some residents object on religious or taste grounds. Excluding them from the water would defeat the purpose, and providing separate untreated water for them would double costs. Without the trial, regional authorities will make water decisions with no evidence.",
+  "options": [
+   "Proceed with village-level assignment and transparent community consent processes, treating the intervention as a public health measure.",
+   "Provide separate untreated water to objectors, respecting individual choices at greater cost and risk of contaminating results.",
+   "Seek individual agreement and exclude villages with significant objections, which weakens the study and its generalisability."
+  ],
+  "tension": [
+   "community consent vs. individual choice",
+   "validity vs. autonomy"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Rescue Treatment for the Placebo Group",
+  "scenario": "Clinician-investigator Dr. Sipho Ncube, running a Zimbabwean trial of a new drug for cryptococcal meningitis, sees a placebo-group patient deteriorating rapidly. The protocol forbids unblinding or giving the experimental drug to anyone except the treated arm until the study ends. If he breaks protocol, the patient's data will be excluded and the trial may be compromised. The patient's family does not know which arm she is in. Her chances without the drug appear low, but nobody knows if the drug truly works.",
+  "options": [
+   "Follow the protocol and continue standard care, preserving the trial's ability to find out whether the drug works.",
+   "Unblind and give the experimental drug as rescue treatment, putting this patient's chance of survival first.",
+   "Ask the safety board for an urgent emergency decision, accepting hours of delay that may cost the patient her chance."
+  ],
+  "tension": [
+   "patient welfare vs. scientific integrity",
+   "duty of care vs. protocol"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "A Sponsor's Choice of Site",
+  "scenario": "Contract research manager Elena Petrova must choose a country for a late-stage trial of a drug whose main market will be in wealthy countries. Cambodia offers faster approvals, cheaper costs, and lots of eligible patients, though the drug is unlikely to be affordable there afterwards. A European site would cost 40 percent more and delay launch, but patients there would likely access the drug afterwards. Her company is not obliged to supply the drug in Cambodia once it is approved. She must provide a recommendation to the executive team.",
+  "options": [
+   "Select Cambodia, which offers lower costs and faster development, and may help bring a useful drug to market sooner.",
+   "Select the European site, where trial participants are likely to benefit from the results afterwards, even though it costs more.",
+   "Select Cambodia but negotiate a binding access commitment for local patients, which could make the deal commercially unattractive."
+  ],
+  "tension": [
+   "efficiency vs. fair benefit-sharing",
+   "exploitation concerns"
+  ],
+  "region": "Cambodia"
+ },
+ {
+  "title": "Incidental Finding in a Village Survey",
+  "scenario": "Field researcher Aroha Tane, working on a survey of anaemia among pregnant women in Fiji's Western Division, discovers through point-of-care tests that eleven women have dangerously low haemoglobin levels. The study protocol says participants should receive no clinical advice and that results remain confidential, to keep the data uniform. The nearest clinic is two hours away and charges fees. Informing the women could invalidate some comparisons, but staying silent means they may go on without treatment.",
+  "options": [
+   "Follow the protocol strictly and say nothing, maintaining consistency for the benefit of future research.",
+   "Tell the women their results and advise a clinic visit, accepting changes to the study's design.",
+   "Alert the local nurse to visit these women, without passing results directly, and note the departure in the study report."
+  ],
+  "tension": [
+   "research validity vs. duty to help",
+   "confidentiality vs. beneficence"
+  ],
+  "region": "Fiji"
+ },
+ {
+  "title": "Local Researchers, Foreign Authorship",
+  "scenario": "Senior scientist Prof. Anan Wongsawat in Chiang Mai leads fieldwork for a large dengue vaccine trial run by a foreign consortium. Foreign partners plan to list their senior researchers first and last in the main paper, with the Thai team in the middle, though the Thai team did most of the hard recruitment and follow-up. Pushing back could trigger the consortium to withdraw funding for the next phase, which supports eight Thai junior researchers' salaries. The manuscript is due soon.",
+  "options": [
+   "Accept the authorship arrangement to protect the funding and junior researchers' livelihoods.",
+   "Insist on fair authorship reflecting the team's contribution, accepting risks to the next phase.",
+   "Accept the order for this paper but secure a written agreement on lead roles for subsequent publications."
+  ],
+  "tension": [
+   "credit vs. security",
+   "power imbalance"
+  ],
+  "region": "Thailand"
+ },
+ {
+  "title": "Women Excluded Because of Pregnancy Risk",
+  "scenario": "Protocol designer Dr. Brigitte Lefèvre, preparing a trial of a new tuberculosis drug regimen in Senegal, has been advised to exclude women who could become pregnant because of possible fetal risk. That would mean excluding most women of reproductive age, who account for a large share of patients, and the resulting evidence would be of limited use to them. Including them requires intensive contraception counselling and monitoring that the budget barely covers. Regulators have not stated a requirement either way.",
+  "options": [
+   "Exclude women of childbearing potential, minimising possible fetal risk and simplifying the study.",
+   "Include women with contraception counselling and monitoring, ensuring that the findings apply to them.",
+   "Include only women who are not pregnant and who choose long-acting contraception, accepting that this imposes conditions on their participation."
+  ],
+  "tension": [
+   "protection vs. inclusion",
+   "avoiding harm vs. equitable evidence"
+  ],
+  "region": "Senegal"
+ },
+ {
+  "title": "The Post-Trial Price",
+  "scenario": "Government negotiator Gustavo Peña in Paraguay learns that a company ran a successful trial of a dengue vaccine in his country but now plans to price it at 90 dollars per dose, beyond the government's budget. Public statements at the trial's launch spoke of the community benefiting from the research. No contract promises affordability. He can threaten to restrict the company's future trials, but his ministry's research agenda depends on foreign sponsors, and retaliation could drive them away.",
+  "options": [
+   "Use leverage to demand a lower price for Paraguay, even if foreign research sponsors become more wary.",
+   "Accept the price and look for donor assistance, preserving the research relationships that bring other benefits.",
+   "Seek a middle path by negotiating a tiered price and a local manufacturing partnership, likely a long process with no assured result."
+  ],
+  "tension": [
+   "reciprocity vs. relationship",
+   "fair benefits vs. pragmatism"
+  ],
+  "region": "Paraguay"
+ },
+ {
+  "title": "A Trial in a Conflict Zone",
+  "scenario": "Humanitarian doctor Dr. Rahel Tesfaye proposes testing a rapid diagnostic test for visceral leishmaniasis in a South Sudanese displacement camp where patients otherwise get no accurate diagnosis. Security is poor, follow-up is difficult, and patients may be moved or lost, so the data will be imperfect. The alternative is to test the device only in a stable country where it is less needed. Delay means patients in the camp continue to die undiagnosed, but poor data could lead to a flawed rollout elsewhere.",
+  "options": [
+   "Conduct the trial in the camp, giving patients access to diagnosis now and accepting imperfect data.",
+   "Conduct the trial in a stable setting and roll out later, protecting data quality at the cost of delay for camp patients.",
+   "Run both a small camp deployment for care and a rigorous trial elsewhere, doubling the burden on a small team."
+  ],
+  "tension": [
+   "immediate care vs. data quality",
+   "need vs. rigor"
+  ],
+  "region": "South Sudan"
+ },
+ {
+  "title": "The Control Group Who Asked for the Drug",
+  "scenario": "Community liaison Yaw Boateng sits in a meeting in northern Ghana where villagers in the comparison arm of a deworming study ask why their neighbours across the river receive treatment while they do not. The trial design requires them to wait two years. Elders threaten to withdraw their cooperation, which would end the study. Yaw knows the drug is inexpensive and thought to be mildly beneficial, though evidence of effect on school performance is exactly what the trial seeks to establish.",
+  "options": [
+   "Hold firm to the design, explaining the reasons for the wait and the value of the answer for many other communities.",
+   "Offer treatment to the comparison villages now, ending the trial's ability to answer its question.",
+   "Shorten the waiting period to one year and provide other health benefits to the comparison villages in the meantime."
+  ],
+  "tension": [
+   "equal treatment vs. knowledge",
+   "trust vs. design integrity"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "A Whistle About Falsified Data",
+  "scenario": "Junior data manager Chinwe Obi at a trial site in Enugu notices that a senior coordinator is filling in missing follow-up visit forms from memory. If the trial is reported accurately, a drug that might help thousands of patients could be delayed or rejected for data problems. The coordinator is her mentor and has supported her career. Reporting would likely halt the site and cost forty local staff their jobs. The audit is due in a month and she is the only one who has noticed.",
+  "options": [
+   "Report the data problems to the sponsor and regulators, protecting the integrity of the evidence regardless of the personal cost.",
+   "Raise it privately with the coordinator and give a chance to correct the records before anyone external learns.",
+   "Quietly flag the affected records for verification during the audit without naming anyone, letting the process determine responsibility."
+  ],
+  "tension": [
+   "honesty vs. loyalty",
+   "integrity vs. livelihoods"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Vaccine Trial Among Orphans",
+  "scenario": "Research director Dr. Jocelyn Mukamana in Kigali is asked by a sponsor to include children from a residential home for orphans in a pneumococcal vaccine trial, since they are easy to follow and carers can give consent. Critics say institutionalised children are vulnerable and that carers face conflicts of interest because the home benefits from trial funding. The institution also gives the children excellent health monitoring that community children lack. Recruitment elsewhere would take far longer.",
+  "options": [
+   "Include the children, with independent guardians overseeing consent, taking advantage of reliable follow-up.",
+   "Exclude the children, recognising their special vulnerability and recruiting more slowly in the community.",
+   "Include them only for observational arms with minimal risk, not for the arm testing the new vaccine."
+  ],
+  "tension": [
+   "vulnerability vs. feasibility",
+   "protection vs. participation"
+  ],
+  "region": "Rwanda"
+ },
+ {
+  "title": "Open Data and Small Villages",
+  "scenario": "Data steward Dr. Kalani Akana, supporting a trial in remote Marshall Islands atolls, must decide whether to make participant-level data public, as the journal requires. With populations of a few hundred, individuals could be identified from age, sex, and island. Some participants disclosed sensitive health conditions. Withholding data may bar publication and limit verification by other scientists, but sharing could expose residents to stigma. Islanders' council asks for a say, but members disagree among themselves.",
+  "options": [
+   "Share the data openly with minimal changes, prioritising scientific transparency and reproducibility.",
+   "Withhold the individual-level data and share only aggregates, protecting participants even if the journal refuses publication.",
+   "Share through a controlled-access system requiring approval by a committee including island representatives, which slows down researchers."
+  ],
+  "tension": [
+   "transparency vs. privacy",
+   "open science vs. community protection"
+  ],
+  "region": "Marshall Islands"
+ },
+ {
+  "title": "Placebo for a Painful Procedure",
+  "scenario": "Anaesthetist Dr. Vusi Mthembu in Eswatini is invited to a trial testing a cheap nerve-block technique for post-surgical pain that could replace costly drugs across district hospitals. The control group would receive standard care, which in his hospital means little pain relief, because opioids are rarely stocked. Some colleagues object that the control group suffers needlessly. Others note that the standard care is exactly what patients would get otherwise, and the trial might change that for thousands.",
+  "options": [
+   "Join the trial as designed, since control patients get what is currently available and the findings could benefit many.",
+   "Insist the control group receive adequate pain relief from imported supplies, protecting them even if the comparison becomes harder to interpret.",
+   "Join the trial and offer rescue analgesia to anyone in severe pain, with their data analysed separately."
+  ],
+  "tension": [
+   "local standard vs. ideal care",
+   "individual welfare vs. systemic improvement"
+  ],
+  "region": "Eswatini"
+ },
+ {
+  "title": "Free Care Only for Participants",
+  "scenario": "Trial site lead Dr. Mariam Diallo in Bamako runs a malaria study that provides free care for all conditions to participants. Neighbouring families are noticing that participants' children are being treated for every illness while theirs go unseen at a poorly stocked clinic, and tension is building. Extending free care to non-participants would triple costs. The sponsor says its responsibility ends with participants, but community leaders say the study is taking advantage of local hospitality.",
+  "options": [
+   "Limit care to participants as specified, since the sponsor funds only what the protocol covers.",
+   "Open a modest free clinic day for the wider community funded by the site budget, reducing the trial's own services.",
+   "Ask the sponsor and ministry for a separate community health fund, continuing as is until a response arrives."
+  ],
+  "tension": [
+   "obligation to participants vs. neighbours",
+   "fairness vs. budget constraints"
+  ],
+  "region": "Mali"
+ },
+ {
+  "title": "Genetic Ancestry Findings",
+  "scenario": "Geneticist Dr. Tuan Anh Le in Hanoi has found that an ethnic minority community studied for a heart-disease gene shows a mutation associated with an inherited condition affecting one in forty of its members. A journal wants the community named, which would strengthen the study. Community leaders fear stigma in marriages and employment, and some do not wish to hear about genetic risk at all. Anonymising the group reduces the paper's value for public health planning and for other scientists.",
+  "options": [
+   "Publish naming the community, in the interest of transparency and to let health services plan for it.",
+   "Publish without naming the group, protecting it from stigma even though it reduces the usefulness of the finding.",
+   "Return to the community for deliberation and let them decide, accepting that it may delay or prevent publication."
+  ],
+  "tension": [
+   "scientific value vs. group harm",
+   "collective consent vs. individual benefit"
+  ],
+  "region": "Vietnam"
+ }
+]

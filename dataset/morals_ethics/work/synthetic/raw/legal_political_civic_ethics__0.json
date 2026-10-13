@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Unlicensed Midwife Network",
+  "scenario": "In the mountain state of Velmark, a new statute bans home births attended by anyone without a hospital credential, though the nearest maternity ward is four hours away over mountain roads. Ilse Brandtner, a retired nurse, has quietly attended births for neighbors for decades. A woman in labor calls her at midnight during a snowstorm; an ambulance cannot arrive in time. Police have warned that attendants will be prosecuted. Ilse knows a conviction would end her pension and her ability to help anyone again. She must decide whether to go.",
+  "options": [
+   "Go to the woman's home and attend the birth, accepting any prosecution as the price of helping someone who has no safe alternative tonight.",
+   "Stay home, keep phoning the ambulance service and guide the family by phone, preserving her ability to serve the community in future years.",
+   "Go, but openly notify the district health office afterward and invite a test case, turning the act into a deliberate challenge to the statute."
+  ],
+  "tension": [
+   "obedience to law vs. immediate welfare",
+   "personal sacrifice vs. long-term service"
+  ],
+  "region": "Central Europe (fictional state of Velmark)"
+ },
+ {
+  "title": "Sit-In at the Land Registry",
+  "scenario": "Kofi Mensah-Adjei leads a farmers' cooperative in northern Ghana whose members' ancestral grazing land was reassigned by a new decree to a private agribusiness. Courts will take years. The cooperative plans to occupy the district land registry office until the transfer is suspended, which is technically trespass and will halt all other citizens' property filings, including those of poor widows seeking inheritance papers. The occupation vote is tomorrow morning, and the transfer takes effect in nine days. Kofi must decide what position to take to the members.",
+  "options": [
+   "Advocate the occupation, arguing that the decree is unjust enough to justify disrupting the registry despite the inconvenience to unrelated filers.",
+   "Propose a limited occupation that exempts inheritance and hardship filings, accepting a weaker pressure tactic in exchange for fewer innocent people harmed.",
+   "Argue against occupation and for a petition plus a legal challenge, accepting the risk that the land is lost before the courts act."
+  ],
+  "tension": [
+   "justice for a group vs. harm to bystanders",
+   "effectiveness vs. restraint"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Hiding the Banned Textbooks",
+  "scenario": "Principal Yasmin Qureshi-Dale runs a secondary school in a province where a new curriculum law prohibits teaching evolutionary biology and requires confiscating existing textbooks that contain it. Inspectors arrive in two weeks. Her biology teacher, Tomas, proposes moving the textbooks to a locked cupboard and continuing lessons quietly. If discovered, the school could lose its funding, putting forty staff jobs and three hundred students' places at risk. Principal Qureshi-Dale must decide how her school will respond before the inspection.",
+  "options": [
+   "Comply with the law, hand over the textbooks, and campaign publicly and legally against the curriculum change from within the rules.",
+   "Quietly hide the books and keep teaching the material, accepting the risk to the school to protect students' education.",
+   "Keep the books but teach only with the inspectors' prior knowledge, openly declaring the school's objection and inviting the consequences."
+  ],
+  "tension": [
+   "rule of law vs. educational integrity",
+   "institutional survival vs. conscience"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "Refusing the Registry of Believers",
+  "scenario": "A government in the Kyrgyz highlands orders every community organiser to submit lists of members of unregistered religious study circles. Aigerim Toktogulova coordinates a village mutual-aid society that happens to host such a circle in its hall, though most attendees are also its aid recipients. Failure to submit the list carries a fine and possible loss of the society's registration, which would cut off the winter fuel distribution for two hundred households. The deadline is Friday. Aigerim must decide what to submit.",
+  "options": [
+   "Submit the list as required, preserving the fuel distribution and trusting that the law will not be enforced harshly against the attendees.",
+   "Refuse to submit any names and accept the penalty, protecting attendees from possible persecution even at the cost of the aid program.",
+   "Submit a list of the society's general members only, omitting the circle, and risk perjury charges to keep both the program and the privacy intact."
+  ],
+  "tension": [
+   "privacy and conscience vs. community welfare",
+   "honesty vs. protection"
+  ],
+  "region": "Kyrgyzstan"
+ },
+ {
+  "title": "Blocking the Demolition Crane",
+  "scenario": "Overnight, Ramona Echeverría hears that the city of Santa Isidra will demolish a settlement of eighty informal homes at dawn under an eviction order that residents claim was issued without proper notice. A court hearing is scheduled for next week. Ramona, a schoolteacher and neighbor, has been asked to join a human chain across the access road. Participants face arrest and fines, and her teaching post requires a clean record. The families have nowhere else to go. She has a few hours to decide.",
+  "options": [
+   "Join the human chain, risking arrest to physically delay the demolition until the court can hear the case.",
+   "Stay out of the chain but document the demolition and provide shelter in her school hall, working within the law to support the families.",
+   "Persuade the organisers to hold a symbolic blockade of a few volunteers who accept arrest, while the rest remain protected."
+  ],
+  "tension": [
+   "personal risk vs. solidarity",
+   "legality vs. urgent harm prevention"
+  ],
+  "region": "Argentina"
+ },
+ {
+  "title": "The Tax Strike Over Cuts",
+  "scenario": "In a small Indian municipality in Kerala, Dr. Anand Pillai chairs a residents' association angry that a state ordinance has redirected the local water tariff into a distant project while their own taps run dry four days a week. Some members propose withholding tariff payments as a collective act of protest, which is illegal and would risk service disconnection for the poorest households first. The next payment cycle opens in a week. Anand must choose what to recommend at the meeting.",
+  "options": [
+   "Recommend the collective withholding, arguing that economic pressure is the only language the authorities respond to.",
+   "Recommend paying into an escrow account held by the association, demonstrating willingness to pay while showing the money is conditional on reform.",
+   "Recommend continuing to pay and filing a joint public-interest petition, protecting the poorest from disconnection."
+  ],
+  "tension": [
+   "collective leverage vs. harm to the vulnerable",
+   "legality vs. justice"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Smuggling Insulin Across the Line",
+  "scenario": "Where Arvid Solheim lives, a trade embargo bars importing a medication unavailable domestically; the imposed shortage has left diabetic patients rationing. Arvid, a long-haul driver in a northern border zone, is offered a modest payment by a patients' association to carry a cooler of insulin across the frontier without declaring it. Customs penalties include loss of his professional license. The medication is genuine and approved elsewhere. His daughter, who is diabetic, also benefits indirectly. He must answer the association by this evening.",
+  "options": [
+   "Carry the insulin, judging that an embargo causing preventable medical suffering does not command obedience.",
+   "Decline to smuggle, but donate his time to help the association file for a humanitarian import exemption through the legal channel.",
+   "Carry the insulin only after declaring it openly at customs, accepting seizure as a risk but forcing the authorities to rule publicly."
+  ],
+  "tension": [
+   "law vs. medical need",
+   "personal risk vs. compassion"
+  ],
+  "region": "Northern Europe"
+ },
+ {
+  "title": "The Journalist's Forbidden Footage",
+  "scenario": "Under a new emergency decree in the island nation of Tavari, filming security forces at public gatherings is punishable by two years' imprisonment. Keala Nohea, a freelance videographer, captured footage of officers beating a handcuffed protester. Her editor says the clip could provoke an inquiry; her lawyer warns that publishing it exposes her and the protester who consented to be filmed. She also has a young child. The footage may lose newsworthiness within days. She needs to decide whether to publish.",
+  "options": [
+   "Publish the footage under her own name, accepting prosecution as the cost of exposing abuse.",
+   "Send the footage anonymously to an overseas outlet, protecting herself while still enabling the public to see it.",
+   "Hold the footage and pursue a confidential complaint to an oversight body, avoiding legal exposure but risking that nothing happens."
+  ],
+  "tension": [
+   "transparency vs. personal safety",
+   "law vs. accountability"
+  ],
+  "region": "Pacific islands (fictional state of Tavari)"
+ },
+ {
+  "title": "Sanctuary in the Parish Hall",
+  "scenario": "Father Emeka Obiora serves a parish in a Nigerian city where a state law criminalizes sheltering migrants without papers who have fled conflict across the border. Three families, including a pregnant woman, arrive at the church. Authorities tell him the penalty is up to a year in jail for harbouring. The families' return could put them at risk of reprisals, though no one can prove it. A parish council member fears the whole congregation will be targeted. The families need a decision tonight.",
+  "options": [
+   "Shelter the families openly, treating the duty of hospitality as superior to the statute and accepting prosecution.",
+   "Refuse shelter but help the families reach a recognised refugee agency, keeping the parish out of legal danger.",
+   "Shelter them discreetly for a few nights while contacting the agency, accepting the risk of exposure to buy time."
+  ],
+  "tension": [
+   "hospitality vs. legal obedience",
+   "protecting a congregation vs. protecting strangers"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Unmarked Ballots in the Back Room",
+  "scenario": "In a country where an election law requires voters to present a card only issued to those registered at their ancestral village, municipal clerk Dagmar Wieczorek-Hale notices that many seasonal migrants who work in the city cannot vote. A civic group asks her to quietly issue provisional ballots to them anyway, bypassing the card rule, which is a disciplinary offence. The election is in six days and the court will not rule in time. Dagmar is the only clerk with the necessary access.",
+  "options": [
+   "Issue the provisional ballots, believing the card rule disenfranchises people unjustly and that the offence is minor compared to exclusion.",
+   "Refuse and instead publicly file a formal objection with the electoral commission, keeping the vote's legality intact even if migrants are left out.",
+   "Issue ballots but record every one transparently in a log submitted to the commission, making the act an open challenge rather than a concealed one."
+  ],
+  "tension": [
+   "procedural legitimacy vs. inclusion",
+   "official duty vs. conscience"
+  ],
+  "region": "Eastern Europe"
+ },
+ {
+  "title": "A Pharmacist and the Banned Pill",
+  "scenario": "Pharmacist Lucía Barrientos-Quispe works in a Bolivian town where a new law bans dispensing emergency contraception without a physician's note, but the only doctor visits the town on Thursdays. A seventeen-year-old arrives on Saturday morning, frightened, within the window when the pill works. Lucía could face license suspension, which would close the only pharmacy for fifty kilometers. The girl's family is conservative and the girl asks that nobody be told. Lucía must decide quickly.",
+  "options": [
+   "Dispense the pill, treating the time-limited need and the girl's circumstances as outweighing the note requirement.",
+   "Decline, explain the law, and phone the regional hospital to arrange urgent transport, protecting the pharmacy but risking the time window.",
+   "Dispense and then self-report to the licensing board with a written account, owning the act openly."
+  ],
+  "tension": [
+   "professional licence vs. patient need",
+   "community access vs. individual crisis"
+  ],
+  "region": "Bolivia"
+ },
+ {
+  "title": "The Fisherman and the Quota",
+  "scenario": "A government in Sri Lanka's eastern coast has imposed a catch quota so low that Sivakumar Rajaratnam's fishing co-operative of sixty households cannot cover boat loans. Officials say the quotas protect depleted stocks, though co-op members dispute the data. Some want to exceed the quota openly and fill their nets together, forcing a confrontation. Others will fish quietly at night. Sivakumar, the elected spokesman, must decide what the co-operative announces before the season opens.",
+  "options": [
+   "Declare a collective decision to exceed the quota openly, defending it as a protest against flawed data and unsurvivable limits.",
+   "Respect the quota while petitioning for an independent stock survey, accepting hardship in the meantime to protect the fishery.",
+   "Exceed the quota modestly and transparently log all catches so authorities can assess the real numbers, an act of protest and data collection."
+  ],
+  "tension": [
+   "livelihood vs. sustainability",
+   "civil disobedience vs. shared resource stewardship"
+  ],
+  "region": "Sri Lanka"
+ },
+ {
+  "title": "The Mayor's Defiance of the Deportation Order",
+  "scenario": "Mayor Beatriz Okonkwo-Lang governs a mid-sized Brazilian city where a federal order requires municipal police to assist in rounding up undocumented workers at a textile factory, many of whom have lived there for years and have children in local schools. Refusing risks the mayor's removal from office by the governor and withholding of federal funds that pay for a hospital extension. Cooperating would break trust with communities she serves. The operation is scheduled for Tuesday.",
+  "options": [
+   "Publicly refuse to assist, accepting removal and funding loss as the consequence of defying an order she considers unjust.",
+   "Comply minimally, supplying only traffic support, while quietly alerting legal aid groups so workers can prepare.",
+   "Comply fully, preserving the hospital funding and her office, and use her position afterward to lobby against the order."
+  ],
+  "tension": [
+   "office duty vs. conscience",
+   "community trust vs. public goods"
+  ],
+  "region": "Brazil"
+ },
+ {
+  "title": "The Student Who Won't Register for the Draft",
+  "scenario": "Nineteen-year-old Taavi Kallas lives in the fictional Baltic state of Narvia, which has begun conscripting men into a border campaign he considers an unjust war of annexation. The law offers no conscientious-objector status. Refusing registration means up to three years in prison; fleeing abroad would separate him from his ailing mother, whom he supports. His friends are divided. The registration deadline is in two days, and Taavi must decide.",
+  "options": [
+   "Refuse to register and accept imprisonment, treating participation in an unjust war as impossible regardless of the legal penalty.",
+   "Leave the country before the deadline, avoiding both the war and prison, but abandoning his mother's care.",
+   "Register, serve in a non-combat role if possible, and campaign from within for conscientious-objector rights."
+  ],
+  "tension": [
+   "conscience vs. family obligation",
+   "legal duty vs. complicity in injustice"
+  ],
+  "region": "Baltic region (fictional state of Narvia)"
+ },
+ {
+  "title": "Planting on Protected Ground",
+  "scenario": "In Kenya's Rift Valley, a community forestry leader named Wanjiru Kamau finds that a ban on planting trees within a government-designated 'conservation corridor' also blocks her village's long-standing replanting program, which prevents landslides above their homes. Heavy rains are due in six weeks, and the permitting office says it needs a year. Rangers have fined planters before. Wanjiru must choose whether to lead the planting this weekend.",
+  "options": [
+   "Lead the planting without permits, reasoning that the landslide risk makes obeying the ban more dangerous than breaking it.",
+   "Wait for the permit while building temporary barriers that are not covered by the ban, accepting reduced protection.",
+   "Plant, but invite the rangers and press to watch, framing the action as a transparent appeal for a legal exception."
+  ],
+  "tension": [
+   "environmental law vs. safety of residents",
+   "patience vs. urgency"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "The Notary and the Forged Silence",
+  "scenario": "Notary Henrik Vasquez-Lindgren in a small Chilean-Swedish expatriate district is asked by a dissident couple to certify a document which, under a recent security law, he is required to report to authorities because it names an exile group as a beneficiary of their estate. Reporting would likely lead to harassment of the couple's relatives still abroad. Failing to report is punishable by suspension and fine. The couple wait in his office, aware of what he is bound to do. Henrik must decide. The couple sit across his desk, aware of what he is bound to do, and the stamp is in his hand.",
+  "options": [
+   "Report the document as the law requires, maintaining professional integrity and the legitimacy of the notarial system.",
+   "Certify the document and omit the report, shielding the couple and relatives even though it violates the statute.",
+   "Tell the couple frankly about his obligation before certifying anything, letting them withdraw the document, then proceed as they choose."
+  ],
+  "tension": [
+   "professional duty vs. protection of clients",
+   "honesty vs. discretion"
+  ],
+  "region": "Sweden / Chilean diaspora"
+ },
+ {
+  "title": "Burning the Census Forms",
+  "scenario": "Census enumerator Ngoc Lan Pham in a Vietnamese highland district discovers that the new census form requires recording each household's ethnicity and religion, data she suspects will be used to relocate minority villages near a planned dam. Her supervisor insists on complete forms. The villagers trust her. She could record 'unspecified' for these questions, which is falsification, or refuse the job and be replaced by someone less careful. Submission is due by month's end.",
+  "options": [
+   "Complete the forms accurately, as the law and her duty require, and push for safeguards on how the data is used.",
+   "Record 'unspecified' for those questions, deliberately falsifying the data to protect the villages.",
+   "Resign from the assignment and warn the villagers directly about what the form is for, so they can decide how to respond."
+  ],
+  "tension": [
+   "honesty in official work vs. protection of vulnerable people",
+   "duty vs. conscience"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "Parking Lot Prayer Meetings",
+  "scenario": "A mid-sized Turkish city's municipal council has banned any gathering of more than ten people in public car parks, aimed at suppressing opposition rallies. Councillor Selin Aksoy-Berg discovers that her own mother's weekly women's prayer meeting, held in a car park because it has no hall, falls under the ban. The police chief privately asks the councillors to endorse strict enforcement. Selin could vote to repeal or to support a quiet, selective non-enforcement policy. The vote is Thursday.",
+  "options": [
+   "Vote to repeal the ban outright, accepting the political fight and the risk that opposition rallies resume.",
+   "Support selective non-enforcement for religious and community gatherings, accepting that unequal enforcement undermines the rule of law.",
+   "Vote to keep the ban and press the council to fund a community hall, prioritising consistent law over immediate relief."
+  ],
+  "tension": [
+   "equal application of law vs. fairness in context",
+   "political order vs. freedom of assembly"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "The Hunger Strike at the Cell Door",
+  "scenario": "Dr. Priya Venkataraghavan is a prison physician in South Africa. A detained activist, Mandla Zwane, arrested under a vaguely worded sedition law, has begun a hunger strike to protest his detention. He has signed a clear advance directive refusing force-feeding. After three weeks his kidneys are failing. The prison director demands that she intervene medically against his will, arguing the state is liable for his death. Mandla's family begs for a different course. Dr. Venkataraghavan must decide what she will do tomorrow.",
+  "options": [
+   "Respect his directive and provide only comfort and monitoring, honouring his autonomy even if he dies.",
+   "Force-feed or give treatment against his will once he loses capacity, prioritising preservation of life.",
+   "Respect his refusal, but publicly report that his detention is the cause and press the court for an urgent bail hearing."
+  ],
+  "tension": [
+   "autonomy vs. preservation of life",
+   "medical ethics vs. state demands"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Refusing to Count the Votes",
+  "scenario": "Election-commission polling officer Radmila Ostojić in the fictional Balkan state of Dravia is told by her superior to discard ballots from three districts that favored the opposition, citing a 'procedural irregularity' she believes is invented. She could comply and keep her post; refuse and face dismissal and possible charges of insubordination; or leak the ballot counts to observers. The final tally must be certified by noon tomorrow, and she is the senior official on site.",
+  "options": [
+   "Refuse to discard the ballots and certify the full count herself, accepting dismissal and legal consequences.",
+   "Comply under protest, recording her objection formally, to preserve her position for later whistleblowing.",
+   "Leak the actual counts to independent observers before certification, circumventing her superior while avoiding open insubordination."
+  ],
+  "tension": [
+   "duty to superiors vs. duty to the public",
+   "personal risk vs. institutional integrity"
+  ],
+  "region": "Balkans (fictional state of Dravia)"
+ },
+ {
+  "title": "Teaching in the Forbidden Language",
+  "scenario": "Teacher Sarngerel Dorj runs a small private school in Inner Mongolia where a policy now requires all instruction to be delivered in the national majority language, with penalties including school closure for non-compliance. Her pupils are the children of herders, many of whom speak Mongolian at home and would struggle in the new language. An official visit is expected in ten days. She must decide how to conduct lessons.",
+  "options": [
+   "Continue teaching in the pupils' mother tongue, accepting closure risk to protect their learning and cultural identity.",
+   "Switch to the required language and offer unofficial after-hours mother-tongue lessons, keeping the school open while preserving culture.",
+   "Teach bilingually in the open and document the pupils' progress as evidence to petition for an exemption."
+  ],
+  "tension": [
+   "cultural identity vs. institutional survival",
+   "educational quality vs. compliance"
+  ],
+  "region": "China (Inner Mongolia)"
+ },
+ {
+  "title": "A Surgeon's Unauthorised Transfusion",
+  "scenario": "In rural Japan, trauma surgeon Dr. Haruka Matsuda is bound by a new regional ordinance that bans using blood stocks from an unlicensed community donor registry, created after a shortage. The hospital's official supplies are exhausted after a bus crash, and four patients need transfusions within the hour. The community registry's blood is properly tested but legally unrecognised. Using it could end her licence and expose the hospital to lawsuits. She must decide now.",
+  "options": [
+   "Use the registry blood immediately, judging that the lives at stake outweigh the ordinance's technicalities.",
+   "Wait while requesting an emergency exception from the regional office, risking patient lives to maintain legal compliance.",
+   "Use the blood for the most critical two patients only, documenting the decision and reporting it to the board at once."
+  ],
+  "tension": [
+   "law vs. life",
+   "professional accountability vs. urgency"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Petition Signatures from the Dead Village",
+  "scenario": "Organiser Itzel Ramírez-Sorensen in rural Guatemala is collecting signatures for a citizens' referendum on a mining concession. The law demands notarised signatures in person, but a recent landslide cut off two villages whose residents overwhelmingly oppose the mine. The deadline is in three days, and the notary cannot reach them. A volunteer suggests collecting signatures by phone and filling the forms on villagers' behalf. Itzel must decide whether to submit such forms.",
+  "options": [
+   "Submit the forms completed on villagers' behalf, trusting their genuine consent and viewing the formality as unjust under the circumstances.",
+   "Submit only the signatures gathered properly and ask the commission to extend the deadline for the cut-off villages.",
+   "Submit all forms with a sworn statement explaining which signatures were collected by phone and why, leaving the decision to the commission."
+  ],
+  "tension": [
+   "formal legality vs. substantive democracy",
+   "honesty vs. effectiveness"
+  ],
+  "region": "Guatemala"
+ },
+ {
+  "title": "The Library That Would Not Remove Its Books",
+  "scenario": "Head librarian Marguerite Dubois-Tanaka at a municipal library in Quebec receives a ministerial directive to remove thirty titles judged 'harmful to national cohesion'. Many are literary works and histories of minority communities. Compliance is required under a funding agreement covering half the library's budget. Staff and patrons are split. A reading group suggests hiding the books in a private members' collection. Marguerite must decide what to do before the audit next month.",
+  "options": [
+   "Remove the books to comply, preserving the library's funding and the other services it provides.",
+   "Refuse the directive openly, risking budget cuts, and call for public support for intellectual freedom.",
+   "Move the books to a private members' collection outside the funded stock, formally complying while preserving access."
+  ],
+  "tension": [
+   "intellectual freedom vs. institutional funding",
+   "compliance vs. conscience"
+  ],
+  "region": "Canada (Quebec)"
+ },
+ {
+  "title": "The Interpreter's Silence at the Border Post",
+  "scenario": "Interpreter Joseph Mwangi-Hassan works at a border post in Tanzania where a decree requires him to report any asylum seeker who mentions political affiliations in conversation with officers, on the grounds that these may indicate security threats. Today, a young man mentions membership in a banned student union and begs the interpreter not to include it. Omitting it would breach the decree; including it may trigger deportation to danger. Joseph must choose how to translate for the next question.",
+  "options": [
+   "Translate faithfully and completely, adhering to his professional duty of accuracy and the decree.",
+   "Omit the mention, protecting the young man even though it breaks both the decree and professional accuracy.",
+   "Alert the young man to the consequences of what he says and allow him to decide what to disclose, translating accurately thereafter."
+  ],
+  "tension": [
+   "professional accuracy vs. protection",
+   "law vs. humanitarian concern"
+  ],
+  "region": "Tanzania"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Loan model penalises village postcodes",
+  "scenario": "Amara Okonkwo leads credit risk at a mid-sized Nigerian microfinance bank. An audit shows her new scoring model rejects applicants from rural postcodes at twice the rate of urban ones with similar repayment histories, because mobile-money data is thinner there. Removing the location feature would raise overall defaults by about three percent, which her board says could threaten the bank's thin margins and its ability to lend to anyone. Regulators have not yet issued guidance. Several loan officers say the village applicants are among their most reliable borrowers. Amara must decide how to proceed before the quarterly lending cycle opens on Monday.",
+  "options": [
+   "Remove the location feature now and accept the higher default rate, treating fairness to rural applicants as a priority over short-term financial safety.",
+   "Keep the model but add a manual review lane for rural rejections, accepting slower decisions and some inconsistency in outcomes.",
+   "Keep the model unchanged this cycle, document the disparity, and commission a longer study before altering a system that currently keeps the bank solvent."
+  ],
+  "tension": [
+   "fairness vs. institutional survival",
+   "group parity vs. predictive accuracy"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Resume screener and the career gap",
+  "scenario": "Tomasz Wrona, a hiring manager at a Polish logistics firm, notices that the resume-ranking tool his company adopted consistently ranks candidates with employment gaps near the bottom. Many of those candidates are women returning from parental leave, but others are people who cared for sick relatives or recovered from illness. The vendor says the gap signal genuinely predicts first-year attrition in the company's data. Tomasz has forty warehouse supervisor openings and two hundred applicants to review by Friday, and no staff to read them all by hand. He can change how the tool is used, but not how it was trained.",
+  "options": [
+   "Disable the gap feature in the tool's settings and accept that the shortlist may include more people who leave early, costing training money.",
+   "Use the ranking as is for this round, since it reflects measured outcomes, and flag the issue to the vendor for later correction.",
+   "Read every gap-flagged resume personally, working overtime and delaying other duties, so no candidate is excluded only by the score."
+  ],
+  "tension": [
+   "efficiency vs. equal opportunity",
+   "statistical accuracy vs. individual dignity"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Skin tone and the diabetic eye scanner",
+  "scenario": "Dr. Priya Raman runs a rural eye-health program in Tamil Nadu that screens thousands of farmers for diabetic retinopathy using an AI camera system. A validation study she ran herself reveals the system misses early disease more often in patients with heavily pigmented retinas, which describes many of her community's elderly patients. The tool still catches most cases and has doubled the number of people screened since specialists are scarce. Pulling it would send patients back to a two-year waiting list for a visiting ophthalmologist. A donor review is next week and the funding depends on the program's reported performance.",
+  "options": [
+   "Continue using the scanner while telling patients and donors about the weaker accuracy and adding specialist re-checks for high-risk groups where possible.",
+   "Suspend the scanner until the vendor retrains it, accepting that many more people will go unscreened in the interim.",
+   "Continue the program and report the aggregate results to donors, raising the subgroup finding privately with the vendor first to avoid jeopardising funding."
+  ],
+  "tension": [
+   "benefit to many vs. harm to a subgroup",
+   "transparency vs. program continuity"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Predictive policing map for Rotterdam wards",
+  "scenario": "Inspector Lieke van der Meer must decide whether her district will renew a contract for software that predicts burglary hotspots. Neighbourhood groups point out that the predicted zones overlap heavily with districts where immigrant families live, and that more patrols there produce more recorded incidents, which feed the next predictions. Her own analysts note that burglary in those blocks did fall by a fifth last year, and shopkeepers there asked for more police presence. The contract renewal closes tomorrow and renegotiating later would cost more and leave a gap in coverage.",
+  "options": [
+   "Renew for one year, with an independent audit and a community board that can veto specific patrol deployments.",
+   "Let the contract lapse and return to officer-judgement patrol planning, accepting less data-driven coverage and a possible short-term rise in burglaries.",
+   "Renew the contract but strip location-based predictions of any neighbourhood demographic correlations, accepting that the tool may become much less effective."
+  ],
+  "tension": [
+   "public safety vs. feedback-loop discrimination",
+   "community voice vs. expert judgement"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "Grading by algorithm during the storm closure",
+  "scenario": "A cyclone has closed schools in Queensland for six weeks, and Principal Dale Whitcombe has to submit final-year predicted grades before university offers go out. The state's tool adjusts each student's grade using the school's historical results, which would pull down students at his small, previously low-performing regional school even though this cohort has performed far better. Teachers' own estimates are generous but individually documented. If he overrides the tool's output, the education department may flag his school for audit, delaying every student's results. He has one afternoon to submit the grades.",
+  "options": [
+   "Submit the tool's adjusted grades as required, then lodge individual appeals for students who were clearly downgraded relative to their evidence.",
+   "Submit teacher-estimated grades in place of the adjusted ones, accepting the audit risk and the possibility of delay for the whole cohort.",
+   "Submit the adjusted grades unchanged and tell students honestly that the system treats all schools by the same rule, even if the result feels unjust."
+  ],
+  "tension": [
+   "rule consistency vs. individual merit",
+   "personal risk vs. students' interests"
+  ],
+  "region": "Australia"
+ },
+ {
+  "title": "Disability benefits triage in Ontario",
+  "scenario": "Naveen Gill is a senior caseworker supervisor at a provincial disability support office. A new triage system sorts claims into fast approval, standard review and fraud check. Naveen's own team has noticed that claimants with mental-health diagnoses and those who write in languages other than English are disproportionately sent to fraud check, delaying payment by months, sometimes while rent goes unpaid. The ministry attributes this to genuine patterns in past fraud cases. Naveen has authority to override routing for his own caseload but doing so would breach protocol and could draw a disciplinary note.",
+  "options": [
+   "Quietly override the routing for affected claimants on his own caseload, accepting the disciplinary risk to avoid delay and hardship.",
+   "Follow the protocol but escalate documented examples to the ministry in writing, accepting that claimants wait while the review plays out.",
+   "Stay within protocol and escalate nothing yet, collecting a larger data sample first so any complaint cannot be dismissed as anecdotal."
+  ],
+  "tension": [
+   "rule-following vs. preventing hardship",
+   "individual action vs. institutional process"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "A voice assistant that mishears accents",
+  "scenario": "Lucía Fernández leads product at a Chilean startup that sells a voice-controlled banking assistant. Internal logs show the speech model fails far more often on speakers from southern rural regions and on older users, prompting them to abandon transactions or hand their card to a younger relative. A fix requires collecting thousands of hours of new recordings, which means paying participants and delaying the launch in neighbouring countries by about six months. Investors expect the expansion this quarter. A competitor is close to launching a similar service and might capture the market.",
+  "options": [
+   "Delay the expansion to collect representative voice data, accepting competitive and investor pressure.",
+   "Launch on schedule with an in-app warning about reduced accuracy and a human phone-support fallback for affected users.",
+   "Launch on schedule and gather the new data from live usage afterwards, improving the model gradually as real users reveal the problems."
+  ],
+  "tension": [
+   "market timing vs. inclusive design",
+   "informed consent vs. product development speed"
+  ],
+  "region": "Chile"
+ },
+ {
+  "title": "Recidivism score and the sentencing memo",
+  "scenario": "Judge Halima Yusuf sits in a district court in Kenya's pilot program that supplies judges with a risk score for bail and sentencing recommendations. She has reviewed a study showing the score assigns higher risk to defendants from poorer neighbourhoods who have the same record as wealthier ones. A young defendant before her has a score marked high, yet his file shows stable family support and a job offer. Ignoring the score could be criticised by her superiors as undermining a modernisation scheme, while following it may keep him in custody for months awaiting trial. The hearing is today.",
+  "options": [
+   "Set the score aside for this defendant, explain her reasoning on the record, and accept possible criticism from court administrators.",
+   "Follow the score's recommendation as the pilot requires, but note her concerns in the written decision to create a record for later review.",
+   "Treat the score as only one input, weigh it modestly alongside the defendant's circumstances, and release him with strict reporting conditions."
+  ],
+  "tension": [
+   "judicial independence vs. institutional policy",
+   "consistency vs. individualised justice"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Insurance premiums and the smartwatch discount",
+  "scenario": "At a Japanese insurer, actuary Kenji Morimoto is asked to approve a pricing model that gives lower premiums to customers who share smartwatch data. Early results show the discount mostly goes to younger, healthier, wealthier customers, while older people and those with chronic conditions, who often cannot wear or afford such devices, see relatively higher prices for the same coverage. The firm argues participation is voluntary and rewards healthy behaviour. Regulators are silent. Kenji's sign-off is needed before the marketing campaign begins in two weeks, and his manager hints that hesitation would be noticed.",
+  "options": [
+   "Approve the model as designed, since participation is voluntary and the discount reflects measurable risk differences.",
+   "Approve it only if the insurer caps the premium difference so non-participants never pay much more than today's rates.",
+   "Decline to sign off until an independent fairness review examines who benefits, accepting a delayed launch and a strained working relationship."
+  ],
+  "tension": [
+   "risk-based pricing vs. solidarity",
+   "voluntary choice vs. structural inequality"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Face matching at the Brazilian stadium gate",
+  "scenario": "Rafael Teixeira, security director for a Brazilian football club, has been offered a face-recognition entry system to remove banned hooligans and cut queues. In trials, the system wrongly flagged Black fans roughly three times as often as white fans, producing humiliating public stops, though staff quickly cleared each one. The system did catch two genuinely banned individuals. Match-day crowds of forty thousand strain the old ticket checks, and after a recent crush injury the club faces pressure from the league to modernise entry. The decision is needed before the season opens in ten days.",
+  "options": [
+   "Deploy the system with a rapid, discreet secondary check lane and publish the mismatch rates openly to fans.",
+   "Delay deployment until the error gap is closed, relying on manual checks and tolerating queues for now.",
+   "Deploy only for bans on violent offenders flagged by police, rather than for general entry, narrowing use while keeping the technology."
+  ],
+  "tension": [
+   "safety vs. equal treatment",
+   "dignity vs. efficiency"
+  ],
+  "region": "Brazil"
+ },
+ {
+  "title": "The university admissions ranker in Seoul",
+  "scenario": "Professor Ji-woo Han chairs an admissions committee at a Korean university that trialled a machine-learning tool to predict which applicants will graduate. The tool tends to rank students from specialised prep academies higher, which reflects family income more than potential. Meanwhile, a rival university has dropped such a tool and saw a drop in graduation rates. The committee is split. Some members argue that admitting students unlikely to finish does them harm through debt and wasted years. Others say the tool entrenches advantage. A vote is scheduled for tomorrow and Ji-woo holds the deciding voice.",
+  "options": [
+   "Adopt the tool only as a secondary tie-breaker, never the main ranking, so it cannot decisively exclude any applicant.",
+   "Reject the tool and rely on holistic human review, accepting more inconsistency and possibly lower graduation rates.",
+   "Adopt the tool fully for this cycle with a mandatory fairness report afterwards, prioritising student success rates over applicants' backgrounds."
+  ],
+  "tension": [
+   "student success vs. socioeconomic fairness",
+   "predictive efficiency vs. opportunity"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "Dynamic rent pricing in Berlin",
+  "scenario": "Katharina Brandt is a product owner at a Berlin property-management firm whose pricing software recommends rents based on tenant demand signals. She finds it suggests higher rents for flats advertised in neighbourhoods where applicants tend to have foreign-sounding names, because those applicants historically accepted higher offers when discrimination limited their choices. The firm's profit from the feature is substantial, and no law clearly forbids it as written. She can raise the issue with her director, who has made clear that profit targets are non-negotiable this year, or work on modifications herself without telling anyone.",
+  "options": [
+   "Formally raise the issue with her director and legal team, accepting a risk to her career if leadership resists.",
+   "Quietly adjust the model to remove the demographic proxy signals, accepting that she acts beyond her remit and may be reprimanded.",
+   "Continue shipping the feature while collecting evidence, planning to go to the regulator only if the company declines to act later."
+  ],
+  "tension": [
+   "employee loyalty vs. conscience",
+   "legality vs. fairness"
+  ],
+  "region": "Germany"
+ },
+ {
+  "title": "Maternal-risk model in a Peruvian clinic",
+  "scenario": "Dr. Inés Quispe uses a hospital risk model that predicts which pregnant women need referral to a high-level facility four hours away. The model was built on data from coastal clinics, and she suspects it underestimates risk for Quechua-speaking highland women, whose records often lack the laboratory fields the model expects. Referral spends scarce ambulance fuel and families lose income and farm labour for days. A woman arrives now with a low score but symptoms Inés finds worrying; the model says wait. Overriding the model has resource consequences for other patients, and her director audits override rates monthly.",
+  "options": [
+   "Override the score and refer her, trusting clinical judgement and accepting the audit scrutiny and resource cost.",
+   "Keep her under close observation at the local clinic for a few hours, then re-score before deciding on referral.",
+   "Follow the model's guidance given its overall track record, but document her concerns so the highland data gap can be investigated."
+  ],
+  "tension": [
+   "clinical judgement vs. algorithmic guidance",
+   "scarce resources vs. individual risk"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Ride-hailing ratings and driver deactivation",
+  "scenario": "Fatima Al-Mansouri manages driver operations for a ride-hailing company in the United Arab Emirates. Drivers whose rating falls below a threshold are automatically deactivated. A data analyst shows drivers from certain South Asian countries receive lower ratings from passengers for identical service quality, and are deactivated more often, losing their income and sometimes their visa sponsorship. Removing ratings-based deactivation would reduce customer-perceived safety standards, and the company advertises its quality guarantee. Fatima can adjust thresholds by region and nationality-blind factors but any change needs executive approval she may or may not win.",
+  "options": [
+   "Lower the deactivation threshold company-wide, accepting some quality decline for riders to protect drivers from biased ratings.",
+   "Replace automatic deactivation with human review for borderline cases, accepting higher operating costs and slower response to real complaints.",
+   "Keep the current system and add rating-bias statements to driver appeals, relying on individual appeals rather than altering the rule."
+  ],
+  "tension": [
+   "customer trust vs. worker livelihood",
+   "procedural fairness vs. cost"
+  ],
+  "region": "United Arab Emirates"
+ },
+ {
+  "title": "Matching refugees to resettlement cities",
+  "scenario": "Sven Lindqvist coordinates an algorithm used by a Nordic resettlement agency to assign refugee families to municipalities. The algorithm maximises predicted employment within two years, which sends families with higher education to larger cities while placing those with less schooling in small towns with fewer services, language classes and community. Employment outcomes have improved overall. Critics say the system sorts people by perceived worth, and some families have asked to be placed near relatives, which the algorithm ignores. Sven can revise the objective function but cannot easily test its effects before the next intake of three hundred people.",
+  "options": [
+   "Keep the employment-maximising approach for this intake, since it measurably helps most families get work and independence.",
+   "Add family-reunification and service-access as weighted goals even though employment outcomes may fall and results cannot be validated in advance.",
+   "Let families rank their preferences and use the algorithm only to resolve conflicts, accepting less efficiency and more administrative workload."
+  ],
+  "tension": [
+   "aggregate outcomes vs. family autonomy",
+   "efficiency vs. equal dignity"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "Facial filters on a wedding photo app",
+  "scenario": "Wanjiru Kamau, a designer at a Nairobi photo app company, notices the app's auto-enhance feature lightens darker skin and narrows noses when users take wedding portraits. Customers rarely complain, and many say they like the result. Sales in the wedding market have grown fast, and the product team calls the feature a driver of loyalty. Wanjiru believes it quietly encodes a preference for lighter features. She can present her concerns at the product review on Thursday, where she has five minutes and a junior role, or propose a toggle that would be off by default only after a lengthy approval process.",
+  "options": [
+   "Argue to remove the auto-lightening entirely, risking her standing and customer satisfaction on the strength of her principle.",
+   "Propose making the enhancement an explicit opt-in choice, preserving user preference while ending the silent default.",
+   "Leave the feature, since customers seem happy and choose the app voluntarily, and focus her energy on other product improvements."
+  ],
+  "tension": [
+   "customer preference vs. harmful norms",
+   "junior voice vs. institutional power"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Tenant screening report with a common surname",
+  "scenario": "Marisol Vega runs a small apartment-rental business in Texas and relies on a tenant-screening service that returns criminal and eviction flags. An applicant, a nurse's aide with a common Hispanic surname, has been flagged for a felony that Marisol suspects belongs to a different person with the same name. Three other qualified applicants are waiting, and the unit has been empty for a month, costing her money she cannot easily spare. Contacting the screening company for a correction can take weeks. The applicant says the record is not hers and has offered documents, though Marisol cannot independently verify them.",
+  "options": [
+   "Rent to another qualified applicant now, since she cannot absorb more vacancy and the screening process is standard practice.",
+   "Hold the unit for a week while the applicant tries to correct the record, accepting additional lost rent.",
+   "Accept the applicant's documents and personal references as sufficient and rent to her, taking on the risk that she is mistaken."
+  ],
+  "tension": [
+   "business survival vs. fairness to an individual",
+   "reliance on automated data vs. personal judgement"
+  ],
+  "region": "United States"
+ },
+ {
+  "title": "Language test for visa applicants",
+  "scenario": "Ingrid Haugen is a policy officer at an immigration agency that wants to use automated speech scoring for spoken-language requirements, to cut a backlog of fourteen months. Pilot data shows applicants with speech impairments, strong regional accents, or who are older score systematically lower than human examiners rate them. Human examiners are costly and inconsistent in their own ways, with notable variation between individuals. Ministers want a decision this month so announcements can be made. Ingrid drafts the recommendation, and whichever she writes will probably be followed.",
+  "options": [
+   "Recommend the automated system with a human re-examination right for any applicant who scores below the pass mark.",
+   "Recommend continued human examination, with additional examiners hired, accepting a longer backlog in the short term.",
+   "Recommend automated scoring for clear passes only, with all borderline and failing results going to human examiners."
+  ],
+  "tension": [
+   "speed of service vs. equal access",
+   "consistency vs. accommodation"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "Crop subsidy allocator and smallholder farmers",
+  "scenario": "Dr. Ahmed Khalil oversees a government agriculture program in Egypt that distributes fertiliser subsidies using a model trained on satellite imagery and past yields. He discovers it favours larger, well-documented farms because small plots are hard to detect from the images, and female farmers who work informally on family land do not appear in registries at all. Distribution begins before the planting season in nine days. A manual survey would take months. If he suspends the model, subsidies could reach no one on time, worsening hunger risk in already poor districts.",
+  "options": [
+   "Run the model for most subsidies but reserve a fixed share for a quickly organised local-leader nomination process for farmers the model misses.",
+   "Suspend the model and distribute equally per registered household, accepting that large farms get more than they need.",
+   "Run the model as built for this season, and carry out the survey afterwards to correct the next cycle's allocation."
+  ],
+  "tension": [
+   "timeliness vs. inclusion",
+   "precision vs. equal access"
+  ],
+  "region": "Egypt"
+ },
+ {
+  "title": "Performance scores for call-centre agents",
+  "scenario": "Gabriela Ionescu is a team lead at a Romanian customer-service centre where an AI scores agents on tone and empathy from call recordings. She finds that agents with Roma accents or speech patterns are scored lower on warmth, even when customers praise them in surveys. Bonuses and promotions depend on these scores. Her employer is a multinational and rejected earlier complaints as unscientific. Gabriela can adjust how she uses the scores in her team's reviews, but doing so means her team's metrics won't match company standards, and her own performance rating is tied to compliance.",
+  "options": [
+   "Weight customer survey results above AI scores in her team's reviews, accepting that she departs from company standards and risks her own rating.",
+   "Apply company standards unchanged while documenting the accent disparity and sending it to HR and an ethics hotline.",
+   "Apply the standards and offer coaching to the affected agents on how to improve their scores, working within the system as it stands."
+  ],
+  "tension": [
+   "compliance vs. fairness",
+   "systemic change vs. immediate help"
+  ],
+  "region": "Romania"
+ },
+ {
+  "title": "Neighbourhood trust scores in a housing co-op",
+  "scenario": "The board of a housing cooperative in Mexico City, led by treasurer Arturo Salinas, is considering software that assigns members a reliability score from payment history, meeting attendance and complaints from neighbours. Supporters say it will fairly allocate the few repair slots and sublet permissions. Arturo notices that elderly residents and those who work night shifts score poorly because they miss evening meetings. Others worry that neighbour complaints will reflect personal grudges. The vote is at next Tuesday's assembly, where Arturo can present the proposal in whatever form he thinks best.",
+  "options": [
+   "Present the system as designed, since transparent scoring is fairer than the current favouritism by board members.",
+   "Present it with attendance removed and complaints excluded, leaving payment history alone, even though that makes the score far less informative.",
+   "Recommend against any scoring and propose a rotating lottery for repair slots, accepting that urgent needs may be treated no differently from minor ones."
+  ],
+  "tension": [
+   "transparency vs. proxy discrimination",
+   "merit vs. need"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "Hospital bed allocator and language barriers",
+  "scenario": "Dr. Chidi Eze, chief of operations at a Manchester hospital, reviews an algorithm that prioritises patients for scarce post-surgery intensive care beds. It uses recorded pain scores and prior-visit completeness. He sees that patients needing interpreters have sparser records and lower recorded pain, so they are consistently ranked lower, though their outcomes are worse. Adding interpreter-time for documentation would take staff hours from other wards. Winter pressure is rising and beds are full. He must decide how the algorithm will run over the coming month before the pressure peaks.",
+  "options": [
+   "Adjust the ranking to treat missing record fields as neutral rather than low priority, accepting that the model's tested accuracy may drop.",
+   "Keep the algorithm as it is and instead fund interpreters for documentation, accepting the cost to other wards.",
+   "Add a clinician-overseen override for patients flagged as needing interpreters, so doctors rank them manually in borderline cases."
+  ],
+  "tension": [
+   "resource scarcity vs. equitable access",
+   "data quality vs. patient need"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Auto-moderated parenting group and adoptive families",
+  "scenario": "Sibusiso Dlamini, community lead for a South African parenting platform, sees that the algorithm recommending support groups and expert articles rarely shows single fathers, kinship carers raising grandchildren, or same-sex parents the content most relevant to them. It learned from clicks, which were dominated by married mothers. Retraining it on balanced data would cause a temporary drop in engagement of about eight percent, which his director measures closely. Several users have written asking why the site feels not meant for them. A quarterly engagement review is in two weeks.",
+  "options": [
+   "Retrain on balanced data now and explain the temporary engagement dip to the director as a deliberate inclusion investment.",
+   "Add a manual curated section for under-served family types and leave the recommendation engine unchanged until after the review.",
+   "Let users pick their family type during signup to personalise content, accepting privacy concerns and a possibly unpopular extra step."
+  ],
+  "tension": [
+   "engagement metrics vs. inclusion",
+   "personalisation vs. privacy"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Teacher evaluation scores in Chicago-style districts",
+  "scenario": "Superintendent Dolores Whitfield is asked by her school board to continue using a value-added model that rates teachers by student test-score growth. A union study shows teachers in high-poverty schools receive lower ratings no matter their methods, and some veteran teachers have quit after being labelled ineffective. The model has also identified a handful of genuinely weak teachers that principals had ignored. A state grant tied to using such evaluations is worth four million dollars, which would fund much-needed counsellors. The board votes in ten days and wants her recommendation.",
+  "options": [
+   "Recommend continuing the model for the grant, but not for dismissals, using results only to target coaching support.",
+   "Recommend ending the model and forgoing the grant, relying on classroom observation and peer review instead.",
+   "Recommend a revised model that adjusts for poverty levels, accepting that the state may judge the adjustment non-compliant and withhold funds."
+  ],
+  "tension": [
+   "funding vs. fairness to teachers",
+   "accountability vs. context"
+  ],
+  "region": "United States"
+ },
+ {
+  "title": "Matching tool for a Thai legal-aid clinic",
+  "scenario": "Narong Chaiyasit coordinates volunteers at a legal-aid clinic in Bangkok that has begun using a triage tool to decide which of many callers get a lawyer's time. The tool prioritises cases it predicts are winnable. Narong notices that migrant workers from Myanmar and women reporting domestic abuse are rated less winnable, in part because of weaker documentation, yet their need is acute. Winning cases increases donations and the clinic's standing with its funders. The clinic has capacity for about thirty cases this month out of more than two hundred requests, and Narong approves the list.",
+  "options": [
+   "Prioritise by predicted winnability as the tool suggests, maximising the number of clients actually helped with limited volunteer time.",
+   "Reserve half the slots for the most vulnerable callers regardless of predicted winnability, accepting a lower success rate and donor risk.",
+   "Select cases by lottery among all callers who meet a basic eligibility test, giving everyone an equal chance."
+  ],
+  "tension": [
+   "effectiveness vs. justice for the vulnerable",
+   "scarce resources vs. equal chance"
+  ],
+  "region": "Thailand"
+ }
+]

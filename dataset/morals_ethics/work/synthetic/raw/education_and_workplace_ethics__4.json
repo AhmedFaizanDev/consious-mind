@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Extra Time on a Licensing Exam",
+  "scenario": "Exam coordinator Bernadette Okoro at a nursing council in Port Harcourt receives a request for fifty percent extra time from a candidate, Chinedu, who has a documented reading disorder. Other candidates have been refused similar requests because their documentation was weaker. The council's rules permit accommodations if they do not alter what the exam measures, and speed of reading and charting is part of safe nursing. Chinedu's documentation is strong. Candidates who have no formal diagnosis but struggle with timing have complained that it is unfair when exceptions are made. The exam is in two weeks.",
+  "options": [
+   "Grant the extra time as requested, treating the documented disorder as a legitimate barrier unrelated to nursing competence.",
+   "Grant a smaller extension, such as twenty-five percent, balancing access with the exam's role in assessing speed.",
+   "Deny the extension but allow a quiet room and a reader, since timing is integral to what the exam measures."
+  ],
+  "tension": [
+   "accommodation vs. test validity",
+   "fairness among candidates vs. individual need"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Colleague's Early Departures Every Afternoon",
+  "scenario": "Team leader Annelise Moreau in Geneva has allowed engineer Vusi Mthembu to leave daily at 3 p.m. to collect his autistic son from a specialist school, with work made up in the evenings. Other teammates, who also have children, have started asking for similar arrangements and complain of 'inequality'. Some of them have no formal reason to leave early but say they would use the time for family. Annelise worries that formalising the arrangement for everyone will create coverage gaps and that removing Vusi's arrangement will harm a family who has few options.",
+  "options": [
+   "Keep Vusi's arrangement and explain to the team that it is based on a specific documented need.",
+   "Open flexible hours to everyone, on a first-come basis, and make scheduling coverage the team's shared responsibility.",
+   "Withdraw the special arrangement and apply a uniform schedule to all, offering Vusi unpaid leave as needed."
+  ],
+  "tension": [
+   "need vs. equal treatment",
+   "individual flexibility vs. team coverage"
+  ],
+  "region": "Switzerland"
+ },
+ {
+  "title": "Prayer Breaks on a Production Line",
+  "scenario": "Factory supervisor Ibrahim Yakubu in Kano manages a line where continuous operation matters. Five Muslim workers have requested short breaks for midday prayer, which would stop the line for ten minutes unless backfilled. Non-Muslim workers have noted that they are not allowed extra breaks for smoking or personal needs. Ibrahim himself prays and is sympathetic, though he knows the plant's output targets are tight. The owner has left the matter to his discretion and said he does not want complaints from either side.",
+  "options": [
+   "Allow prayer breaks with line cover arranged, and offer other workers an equivalent short break for personal needs.",
+   "Allow prayer breaks only during the existing scheduled break times, making no additional stoppages.",
+   "Rotate prayer breaks so that the line never stops, hiring a temporary worker to provide continuous cover."
+  ],
+  "tension": [
+   "religious accommodation vs. equal treatment",
+   "productivity vs. inclusion"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Dyslexia and the Coding Test",
+  "scenario": "Technical recruiter Ximena Duarte at a fintech in Montevideo uses a timed coding screening for all applicants. A candidate, Facundo, discloses dyslexia and asks for untimed completion. His résumé is impressive. Ximena worries that a untimed test will not be comparable to the others' scores and that other candidates who passed under time pressure will see this as unfair. The engineering director says speed under pressure is relevant to on-call duties. Ximena would need to decide how to treat Facundo's request without slowing the pipeline.",
+  "options": [
+   "Let Facundo take the test untimed and compare his results by quality of solutions instead of speed.",
+   "Keep the same time limit for all candidates and offer reading support tools such as a screen reader.",
+   "Replace the timed test with a take-home project for any candidate who requests it, scored on the same rubric."
+  ],
+  "tension": [
+   "accommodation vs. comparability",
+   "job requirements vs. access"
+  ],
+  "region": "Uruguay"
+ },
+ {
+  "title": "Priority Parking for a Colleague With Chronic Pain",
+  "scenario": "Facilities manager Gwenllian Pryce at a council office in Cardiff has a limited number of parking spaces near the entrance. Colleague Rhodri has fibromyalgia, a condition with fluctuating symptoms, and requests a permanent space. Without a visible disability, others have questioned whether he really needs it, and two employees with temporary injuries have asked for spaces too. The spaces are already allocated to staff with registered disabilities and to senior managers. Gwenllian can reassign a manager's space, but this will create resentment, or tell Rhodri to rely on the general lottery.",
+  "options": [
+   "Assign Rhodri a permanent space on the basis of medical documentation, even if it means reassigning a manager's space.",
+   "Create a flexible system in which anyone with documented health needs can reserve spaces day by day.",
+   "Keep Rhodri in the general lottery but grant him priority access on days when he reports high symptoms."
+  ],
+  "tension": [
+   "invisible disability vs. perceived fairness",
+   "scarce resources vs. need"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "A Classmate Gets a Laptop, Others Do Not",
+  "scenario": "Teacher Fernanda Lopes in Recife teaches a class of thirty-four at a public school. A student, Davi, with cerebral palsy, receives a donated laptop for writing, which the school approves. Other students from poor households who struggle with handwriting also ask for devices, saying that they should not be punished for not having a diagnosis. The school has only one donated laptop and no funds for more. Fernanda sees that Davi truly needs the device, but she also sees a classmate whose homework is repeatedly unreadable because of poor motor skills and no resources.",
+  "options": [
+   "Allow Davi exclusive use of the laptop, since his need is medically documented and the donation was for him.",
+   "Create a shared pool of the laptop for the class, with Davi having priority use during writing tasks.",
+   "Seek donations from local businesses for more devices, while Davi continues to use the laptop alone."
+  ],
+  "tension": [
+   "documented need vs. broader hardship",
+   "scarcity vs. equity"
+  ],
+  "region": "Brazil"
+ },
+ {
+  "title": "The Service Dog in the Open Office",
+  "scenario": "Office manager Pushpa Adhikari at a consultancy in Kathmandu has received a request from an analyst, Roshan, to bring a trained psychiatric service dog to work. Two colleagues have severe allergies, one fears dogs because of a childhood bite, and a fourth says dogs are culturally impure. The office is a single open room. Roshan's therapist says the dog significantly reduces his panic attacks. Pushpa has the option of designating spaces, redesigning the seating or declining the request, but must communicate a decision within the week.",
+  "options": [
+   "Approve the request and move the affected colleagues to quieter or separate areas, even though they did not choose to move.",
+   "Approve the request for Roshan to bring the dog on a trial basis with a separate room for the colleagues to use.",
+   "Decline the request and offer Roshan remote work and a quiet private room as alternatives."
+  ],
+  "tension": [
+   "accommodating one vs. burdening others",
+   "health vs. cultural belief"
+  ],
+  "region": "Nepal"
+ },
+ {
+  "title": "Deferred Deadlines for a Grieving Student",
+  "scenario": "Course coordinator Dr. Eilidh Murray in Aberdeen grants a two-week extension to a student, Piotr, whose father died suddenly. A classmate, Ravneet, then requests the same for an ongoing and less visible situation: caring for a mother with dementia, which leaves her exhausted every week. The module's policy gives extensions for acute events but not for chronic caring, though the policy's wording is ambiguous. Granting Ravneet's request would effectively mean extensions for any student with ongoing difficulties, potentially a large number in the class.",
+  "options": [
+   "Grant Ravneet an extension, reading the policy in light of its purpose of fairness in demanding circumstances.",
+   "Decline, explaining that the policy distinguishes acute events from chronic circumstances, and refer her to the carers' support service.",
+   "Offer Ravneet a flexible deadline plan for the term, and ask the department to revise the policy for all students in similar situations."
+  ],
+  "tension": [
+   "acute vs. chronic hardship",
+   "policy consistency vs. compassion"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Language Accommodation for a Visiting Researcher",
+  "scenario": "Conference organiser Magdalena Kowal in Prague is asked by a senior researcher from Seoul, Dr. Min-Jae Shin, for permission to present in Korean with interpretation, because of limited English. The conference language is English and interpretation would cost a quarter of the remaining budget. Other non-native speakers from Africa and Latin America have presented in English with difficulty and received no support. Some have signalled that they will feel discriminated against if Min-Jae is treated differently. The programme is due to be printed in a week.",
+  "options": [
+   "Provide interpretation for Min-Jae, treating language access as part of inclusive scholarship, and offer to arrange the same for others who ask.",
+   "Decline, keeping English as the common language for all, and offer language-editing help for slides and abstracts.",
+   "Offer all non-native speakers a choice of a pre-recorded talk with subtitles, or a live talk in English."
+  ],
+  "tension": [
+   "linguistic access vs. equal treatment",
+   "limited budget vs. inclusion"
+  ],
+  "region": "Czech Republic"
+ },
+ {
+  "title": "A Wheelchair User and the Emergency Drill",
+  "scenario": "Safety officer Hasan Oztürk at a call centre in Istanbul revises the evacuation plan. Employee Gül, a wheelchair user, works on the fourth floor. The elevator cannot be used in a fire, and the plan relies on two colleagues carrying her downstairs, which she has said is undignified and unsafe. Staff members chosen for the task are anxious about injuring her or themselves. A ground-floor desk would be the safest solution, but the best-performing team, with higher bonuses, is on the fourth floor and Gül does not want to leave it.",
+  "options": [
+   "Move Gül to the ground floor even though she resists, because safety in an emergency outweighs her preference.",
+   "Keep her on the fourth floor with specialised evacuation chairs and trained volunteers, honouring her choice.",
+   "Offer her the ground-floor option with equal bonus eligibility, and let her choose while explaining the risks."
+  ],
+  "tension": [
+   "safety vs. autonomy",
+   "inclusion vs. protection"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "Exam Hall Noise and the Sensory Sensitivity Request",
+  "scenario": "Invigilator-in-chief Mónica Salazar in Lima has an examinee, Joaquín, with sensory processing differences who requests a private room for a three-hour entrance exam. Only two private rooms exist and both are reserved for candidates with physical disabilities. Several other candidates with anxiety disorders have been placed in a shared smaller hall. If she gives Joaquín a private room, she must displace another candidate. The admission exam determines places at a public university with a very competitive entry. Rooms must be assigned tonight.",
+  "options": [
+   "Give Joaquín a private room and place the displaced candidate in the small hall, since his documentation shows sensory disability.",
+   "Place Joaquín in the small hall with noise-cancelling headphones and a seat near the door, keeping private rooms for physical disabilities.",
+   "Create an additional private space by using a staff office, with extra invigilators at some inconvenience to the exam schedule."
+  ],
+  "tension": [
+   "limited resources vs. varied needs",
+   "type of disability vs. equal consideration"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Compassionate Leave That Others Never Got",
+  "scenario": "HR coordinator Farida Karimova in Tashkent approved fifteen days of paid compassionate leave for engineer Bekzod after the sudden death of his wife. Some colleagues now recall that when their own parents died, they were granted only three days. The company policy says up to five days, but leaves discretion for exceptional circumstances. A few employees demand explanations; Bekzod is on the edge of resigning and needs support. Farida is asked by the director to draft a clearer policy that will govern similar cases in the future.",
+  "options": [
+   "Draft a policy with fixed, graded entitlements by relationship so every future case is treated the same.",
+   "Keep the discretion and establish a review panel that decides by weighing the severity and circumstances each time.",
+   "Draft a policy with a generous basic entitlement and an application route for additional leave with documentation."
+  ],
+  "tension": [
+   "consistency vs. discretion",
+   "transparency vs. privacy of grief"
+  ],
+  "region": "Uzbekistan"
+ },
+ {
+  "title": "A Quiet Desk for the Colleague With a Hearing Aid",
+  "scenario": "Lab manager Odalys Ferrer in Havana is rearranging benches. Technician Julio, who uses a hearing aid that amplifies background noise painfully, asks for a bench in the back corner near the door, which is the best-lit and least busy spot and which a more senior technician, Dr. Marisela, has used for twenty years and values for her fieldwork notes. Marisela says seniority should count and that she doesn't understand why her workspace should be sacrificed. Julio's request was documented by an audiologist's note. Odalys is unable to create a new bench without major costs.",
+  "options": [
+   "Give the corner bench to Julio, since the medical need outweighs seniority, and offer Marisela the next best bench.",
+   "Keep the corner bench for Marisela and install acoustic panels around another bench for Julio.",
+   "Rotate the bench by month between them, accepting that neither will be fully satisfied."
+  ],
+  "tension": [
+   "medical need vs. seniority",
+   "fairness vs. long-standing expectation"
+  ],
+  "region": "Cuba"
+ },
+ {
+  "title": "Lactation Space Versus the Meeting Room",
+  "scenario": "Facilities lead Njambi Kamau at a bank headquarters in Nairobi has one small room that can serve either as a lactation room for nursing mothers or as a booking-only meeting room for client confidentiality discussions. Four nursing employees want the room for the next six months. The sales team claims it loses clients if it cannot host private conversations. Constructing another room is not budgeted for this year. Some senior staff say that the bank has treated parents as a priority for too long, and others say the bank's policies on parents are inadequate.",
+  "options": [
+   "Designate the room for nursing mothers, as lactation needs are time-bound and health-related, and ask sales to use other spaces.",
+   "Share the room, with nursing mothers having guaranteed morning and afternoon slots and meetings at other times.",
+   "Rent a nearby private room for the sales team's confidential meetings, at a cost to the facilities budget."
+  ],
+  "tension": [
+   "family needs vs. business interests",
+   "shared resources vs. priority claims"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Recording Lectures for One Student",
+  "scenario": "Professor Alejandro Navarro in Zaragoza has been asked by a disability office to allow student Irene, who has chronic fatigue syndrome and misses classes, to record lectures. Other students are also asking for recordings because they work part-time, and some complain that if recordings are available, attendance will decline. Alejandro's lectures include unpublished research and group discussions in which students expect privacy. He is happy to help Irene but worried about the wider consequences. The semester starts on Monday.",
+  "options": [
+   "Allow Irene to record under a written agreement that restricts sharing, but not others, since hers is a documented need.",
+   "Record and release lectures to everyone enrolled, treating it as a universal design measure for all.",
+   "Provide Irene with notes and a peer note-taker, and decline recording to protect the privacy of discussions."
+  ],
+  "tension": [
+   "individual accommodation vs. universal policy",
+   "privacy vs. access"
+  ],
+  "region": "Spain"
+ },
+ {
+  "title": "Promotion Process and a Colleague's Stuttering",
+  "scenario": "Panel chair Aurelio Bianchi, a manager at a municipal agency in Turin, reviews the final-round interview of a candidate, Silvia, who has a pronounced stutter. Her written work and references are outstanding, but she took longer to answer, and the panel's scoring rubric rewards 'fluent and confident delivery' at twenty percent. Another candidate scored slightly higher overall, largely due to speaking performance. Aurelio believes the job rarely requires public speaking. A panel member says that the rubric was agreed in advance and must not be changed in the middle of the process.",
+  "options": [
+   "Apply the rubric as agreed, since changing criteria after seeing candidates would be unfair to the other candidate.",
+   "Disregard the fluency criterion for Silvia as an unjustified barrier, and score her on content alone.",
+   "Suspend the process and revise the rubric for both candidates to reflect actual job requirements before rescoring."
+  ],
+  "tension": [
+   "procedural consistency vs. disability discrimination",
+   "rubric validity vs. fairness to all"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "Flexible Fasting-Season Hours",
+  "scenario": "Bank branch manager Layla Qasim in Muscat adjusts working hours during Ramadan, ending the day earlier for all staff. A few non-Muslim expatriate employees complain that they must still serve a full schedule's worth of work in fewer hours, while some Muslim colleagues leave even earlier for family reasons. Customers also complain about shorter hours. Layla's regional head says that cultural sensitivity matters, but also that targets remain unchanged. Several employees have started to quietly keep track of one another's hours and resentment is growing.",
+  "options": [
+   "Maintain the reduced hours for all staff during the month and adjust targets downward accordingly, accepting a drop in performance figures.",
+   "Offer all staff a choice of shift pattern during the month, regardless of religion, within coverage requirements.",
+   "Keep reduced hours only for those fasting and ask others to cover the gap, with compensatory time off after the month."
+  ],
+  "tension": [
+   "religious observance vs. equitable workload",
+   "cultural sensitivity vs. targets"
+  ],
+  "region": "Oman"
+ },
+ {
+  "title": "Scholarship Quotas and the Rural Student",
+  "scenario": "Scholarship officer Takudzwa Moyo in Bulawayo allocates ten places at a technical college. Seven must go to the top scorers, and three are reserved for applicants from remote rural districts. A rural applicant, Rudo, scored slightly lower than an urban applicant, Farai, who attended a school with qualified science teachers and a good lab. Farai's parents argue that the quota amounts to discrimination against him, and that scores should decide. Rudo studied by candlelight and walked eight kilometres to school. The panel meets on Thursday.",
+  "options": [
+   "Allocate the places strictly according to the existing quota policy, giving Rudo one of the reserved places.",
+   "Allocate all ten places to the top scorers regardless of origin, assuming that the exam was a fair measure for everyone.",
+   "Allocate places by a combined score that weights test results with indicators of educational disadvantage for every applicant."
+  ],
+  "tension": [
+   "merit vs. disadvantage",
+   "quotas vs. individual claims"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "The Interpreter for One Meeting Becomes a Permanent Cost",
+  "scenario": "Director Tadeusz Wrona at a research institute in Wrocław has hired a sign-language interpreter for a Deaf researcher, Agnieszka, at meetings and seminars. The cost has grown as her role expanded, and now represents ten percent of the institute's discretionary budget. Colleagues have noticed that their requests for conference travel are being cut. Agnieszka is among the institute's best researchers, and the national funding body only partly reimburses interpretation. Tadeusz must deliver a budget plan and is under pressure to treat everyone equally.",
+  "options": [
+   "Continue to fund the interpreter in full as a basic access cost and absorb it into the institute's regular budget.",
+   "Cap interpretation hours and ask Agnieszka to prioritise which meetings require interpretation, sharing the burden.",
+   "Raise the matter with the funding body and the university for dedicated access funding, continuing support in the meantime."
+  ],
+  "tension": [
+   "access vs. shared budgets",
+   "equal opportunity vs. resource limits"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "A Teammate With Diabetes and the Sports Day Rules",
+  "scenario": "Physical education teacher Chantal Dupuis in Dakar's international school runs a competitive cross-country event. Student Aminata has type 1 diabetes and needs to check her glucose and eat during the race, which costs her minutes and is not allowed under the event's rules. Other runners have noted that she may gain an advantage if she eats mid-race, and that her times will be slower if she follows the rules. Her parents ask for a rule exception. The event decides which students represent the school at the regional championship next month.",
+  "options": [
+   "Allow Aminata to stop for her medical needs and have her time adjusted by a fixed amount for each stop.",
+   "Allow her to stop for medical needs without adjustment, and let the results stand as raw times.",
+   "Keep the rules unchanged and offer her an alternative qualification route through a separate time trial."
+  ],
+  "tension": [
+   "medical necessity vs. competitive equity",
+   "rules vs. adjustment"
+  ],
+  "region": "Senegal"
+ },
+ {
+  "title": "Remote Work for the Colleague Who Cannot Commute",
+  "scenario": "Department head Ingvild Rasmussen in Tromsø approves full remote work for statistician Eirik, who has a spinal condition that makes the daily commute painful. Several colleagues then ask for the same, citing long drives and childcare. The department's work benefits from in-person collaboration, and junior staff rely on informal learning near seniors. Ingvild can extend remote work to everyone on a trial basis, restrict it to documented medical needs, or require everyone to return. The union is watching and some colleagues say they will go to the media.",
+  "options": [
+   "Restrict remote work to documented medical needs, and set out a transparent process for assessing them.",
+   "Extend remote work to everyone for two days a week, balancing flexibility with in-person collaboration.",
+   "Require everyone to attend in person except by approval from a panel, which weighs the circumstances of each individual."
+  ],
+  "tension": [
+   "medical need vs. general flexibility",
+   "collaboration vs. individual circumstances"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "Granting Extra Credit to the Hurricane-Affected Class",
+  "scenario": "Teacher Wilfrid Jean-Baptiste in Port-au-Prince teaches two sections of the same algebra course. After a storm closed the school for two weeks, section A, whose students live in a flooded neighbourhood, lost much more instruction than section B. He considers giving section A bonus credit, or lowering the pass mark for their final exam. Section B students would then feel penalised for having struggled to keep up. The national exam for both sections is the same. Wilfrid has some discretion over internal marks but not over the national exam.",
+  "options": [
+   "Apply the same marking standard to both sections and offer section A extra after-school tutoring instead of grade changes.",
+   "Add bonus credit to section A's internal marks to reflect lost instruction, and explain this openly to both sections.",
+   "Adjust internal marks for all students on an individual basis, according to how much instruction each lost."
+  ],
+  "tension": [
+   "compensating loss vs. equal standards",
+   "group fairness vs. individual fairness"
+  ],
+  "region": "Haiti"
+ },
+ {
+  "title": "The Sabbath and the Rotating Weekend Roster",
+  "scenario": "Nurse manager Rivka Ben-David in Haifa builds a weekend duty roster for a hospital ward. Two nurses, Orthodox Jews, cannot work Saturdays on religious grounds, and have for years been rostered for Sundays and holidays, including Christmas. Other staff say they are left with more Saturday shifts and fewer family weekends than they would like. One nurse, a single parent, says she is permanently disadvantaged because her only free days come with no childcare. Rivka has little scope to hire additional staff and must publish the roster on Friday.",
+  "options": [
+   "Keep the arrangement as it is, in which observant nurses cover Sundays and holidays in exchange for freedom from Saturdays.",
+   "Introduce a points system in which every shift type has a value and all staff accumulate equal totals over the year.",
+   "Ask staff to bid for shifts according to their circumstances, with a panel arbitrating conflicts."
+  ],
+  "tension": [
+   "religious observance vs. burden-sharing",
+   "predictability vs. equal loads"
+  ],
+  "region": "Israel"
+ },
+ {
+  "title": "Outstanding Athlete, Failing Maths",
+  "scenario": "Vice-principal Tavita Faleolo at a school in Apia must decide whether star rugby player Sione, who has failed maths twice because of dyscalculia that was diagnosed late, should be allowed to compete in the national schools final. School policy bars students failing a subject from competing. Teammates will lose their best player, and a town has invested its hopes in the team. Other students who failed subjects due to difficult home lives were excluded from teams last year without exceptions. The final is in ten days.",
+  "options": [
+   "Allow Sione to play, treating the late diagnosis as a documented reason for an exception and arranging support in maths.",
+   "Apply the policy as written, excluding Sione, to be consistent with the students who were excluded last year.",
+   "Allow Sione to play on condition that he completes an adapted maths assessment that accommodates his dyscalculia before the final."
+  ],
+  "tension": [
+   "consistency vs. special circumstance",
+   "team success vs. rule integrity"
+  ],
+  "region": "Samoa"
+ },
+ {
+  "title": "Peanut Allergy and the Shared Kitchen",
+  "scenario": "Office administrator Valeria Costa in Lisbon manages the shared kitchen at a small design agency. New hire Tiago has a severe peanut allergy and asks that no peanut products be brought in or stored. Colleagues object, some saying that their snacks and lunches are a personal matter, and one, a nutritionist, says a ban is excessive. Tiago carries an adrenaline pen but has had a serious reaction before. Valeria cannot compel anything but can set kitchen rules. She must weigh his safety against colleagues' freedom and decide before the lunch break on Monday.",
+  "options": [
+   "Ban peanut products from the kitchen entirely, treating the risk of a severe reaction as more important than convenience.",
+   "Create a peanut-free zone and cleaning protocol, allowing peanuts elsewhere in the office, while Tiago takes his own precautions.",
+   "Leave the kitchen unrestricted and provide Tiago with a separate storage area and a personal eating space."
+  ],
+  "tension": [
+   "safety vs. personal freedom",
+   "accommodation vs. burden on colleagues"
+  ],
+  "region": "Portugal"
+ }
+]

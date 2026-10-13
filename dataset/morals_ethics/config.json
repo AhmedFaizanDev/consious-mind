@@ -1,0 +1,29 @@
+{
+  "seed": 20261013,
+  "target_total": 25000,
+  "scruples_anecdotes": {
+    "min_votes": 5,
+    "min_chars": 200,
+    "max_chars": 2500
+  },
+  "social_chem": {
+    "min_situation_chars": 20,
+    "require_char_involved": true
+  },
+  "near_dup": {
+    "jaccard": 0.8,
+    "num_perm": 128,
+    "shingle_words": 3,
+    "min_words": 6,
+    "max_per_cluster": 2
+  },
+  "splits": {
+    "train": 0.7,
+    "dev": 0.1,
+    "test": 0.2
+  },
+  "quotas": {},
+  "bigbench": {
+    "include_moral_permissibility": false
+  }
+}

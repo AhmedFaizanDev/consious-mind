@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Cash Transfers Versus a Clinic Roof",
+  "scenario": "Amara Okonkwo directs a small foundation in Lagos with a final grant of 400,000 dollars to give before it winds down. Her board is split between two proposals. One would send unconditional cash to 1,800 rural households in Benue State, with strong evidence of improved nutrition and school attendance. The other would rebuild and equip a clinic that serves 30,000 people but has no reliable evidence base for its particular model. The clinic's community has lobbied her personally for months, while cash recipients have never heard of the foundation. She must submit her recommendation to the board on Friday.",
+  "options": [
+   "Recommend the cash transfers, since the evidence of benefit per dollar is strongest and recipients themselves choose how to use the money.",
+   "Recommend the clinic rebuild, since it serves far more people over many years and responds to a need the community itself has named.",
+   "Recommend splitting the grant evenly, accepting less impact from each but hedging against uncertainty about which approach really helps more."
+  ],
+  "tension": [
+   "measurable impact vs. community voice",
+   "certainty vs. scale"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "The Bed Net Shortfall",
+  "scenario": "During the pre-rains campaign in Mozambique's Zambezia province, district health officer Tomás Baptista learns that only 70 percent of the promised insecticide-treated nets have arrived. Two zones remain: a peri-urban area with high density, where each net covers many people and transmission is moderate, and a remote riverine area with fewer residents but higher malaria mortality and almost no clinic access. Trucks leave tomorrow, and the next delivery is not expected for five months, after peak season. He cannot split the nets without leaving both zones partly uncovered.",
+  "options": [
+   "Send all nets to the peri-urban zone to protect the largest number of people at the lowest delivery cost.",
+   "Send all nets to the riverine zone, where each case is more likely to be fatal and people have the fewest alternatives.",
+   "Divide the nets in proportion to population, giving partial coverage to both zones and accepting reduced protection everywhere."
+  ],
+  "tension": [
+   "efficiency vs. equity",
+   "utility vs. priority to the worst off"
+  ],
+  "region": "Mozambique"
+ },
+ {
+  "title": "Donor Dashboard Pressure",
+  "scenario": "Priya Raman manages a nutrition program in Bihar funded by a European government agency that now requires quarterly proof of reduced child stunting. Stunting changes slowly, and the most reliable gains come from supporting adolescent girls and pregnant mothers, whose results appear only after years. Quicker improvements can be shown by concentrating on villages that are already easy to reach and close to the target. Her renewal depends on the next report, and her team of forty field workers would lose their jobs if funding lapses.",
+  "options": [
+   "Focus on easier villages to meet the reporting targets and secure the jobs and long-term continuity of the program.",
+   "Keep investing in the harder, slower-return groups and disclose honestly that near-term numbers will look weak.",
+   "Negotiate with the donor for a longer measurement window, and if refused, accept the funding loss rather than change the program design."
+  ],
+  "tension": [
+   "honest measurement vs. organisational survival",
+   "short-term metrics vs. long-term need"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "A Well That Reaches Fewer People",
+  "scenario": "Engineer Kofi Mensah is planning water points for a 2 million dollar program in northern Ghana. A drilling plan would place 40 boreholes in dense market towns, serving about 60,000 people at modest cost. The alternative would drill 25 deeper boreholes in scattered pastoral settlements where women currently walk four hours daily for water and where no previous program has worked, reaching about 14,000 people. Maintenance in remote areas is far harder, and past remote wells have often failed within three years. Funds must be committed this quarter.",
+  "options": [
+   "Build in the market towns, where more people benefit and pumps are likely to be maintained and remain working.",
+   "Build in the remote settlements, where the burden is greatest and people have been consistently passed over by earlier programs.",
+   "Build in the towns now and reserve a smaller share for a pilot with community-managed maintenance in two remote settlements."
+  ],
+  "tension": [
+   "scale vs. neglected communities",
+   "sustainability vs. need"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Overhead and the Honest Ask",
+  "scenario": "Lucía Fernández runs fundraising for a Bolivian maternal health charity. A major peer charity advertises 'ninety-five cents of every dollar reaches the field,' a figure achieved by classifying monitoring, audit, and training staff as program costs. Her organisation spends sixteen percent on administration, which includes careful evaluations that have repeatedly improved results. Individual donors are comparing the two on a ratings site that rewards low overhead. She is writing next year's appeal and fears a plain accounting will cost donations that would save lives.",
+  "options": [
+   "Adopt similar cost classifications, which are permitted under accounting rules, so the organisation competes on equal footing and keeps funding its work.",
+   "Publish the true figures prominently and explain the value of evaluation, accepting the risk of losing some donors.",
+   "Keep current practice but quietly reduce evaluation spending to bring overhead down, preserving the rating without altering the reported categories."
+  ],
+  "tension": [
+   "transparency vs. fundraising success",
+   "integrity vs. beneficiaries' needs"
+  ],
+  "region": "Bolivia"
+ },
+ {
+  "title": "The Dependable Warehouse",
+  "scenario": "Tariq Hussain, a procurement lead at a Pakistani flood-response consortium, can buy food parcels from a regional supplier at a price twenty percent below a local cooperative of women farmers in Sindh. The supplier would deliver within days, while the cooperative needs three weeks to scale up. Displaced families currently rely on irregular distributions. Buying locally would inject cash into a devastated farming economy and build a lasting supply network, but would delay relief, and the cooperative has never handled an order this large. His budget leaves no room for both choices.",
+  "options": [
+   "Buy from the regional supplier to feed more people sooner and at lower cost.",
+   "Buy from the women's cooperative to rebuild the local economy, accepting slower delivery and a higher price.",
+   "Place a small first order with the cooperative and the remainder with the supplier, accepting a less efficient mix of both."
+  ],
+  "tension": [
+   "speed vs. local development",
+   "cost-effectiveness vs. long-term resilience"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "Mobile Clinic Versus Fixed Post",
+  "scenario": "Dr. Ingrid Solheim advises the health ministry of a Pacific island nation that has been offered a mobile ship clinic worth 3 million dollars by a bilateral donor. Island leaders say the ship would reach eleven outer atolls once every two months. The ministry could instead spend the same sum training and posting resident nurses on six of those atolls permanently, while leaving five without any service. The donor insists on a decision at the next meeting, and has hinted that refusing the ship would end the relationship.",
+  "options": [
+   "Accept the ship, reaching every atoll periodically even though visits will be infrequent and emergencies will go unserved between them.",
+   "Choose resident nurses on six atolls, providing continuous care to some communities while the remaining five get nothing new.",
+   "Accept the ship and ask the donor to later fund nurses, even though that may never happen and the ship's running costs will drain the ministry."
+  ],
+  "tension": [
+   "breadth vs. depth of care",
+   "fairness vs. effectiveness"
+  ],
+  "region": "Pacific Islands"
+ },
+ {
+  "title": "Funding the Failing Pilot",
+  "scenario": "Dev Malhotra, a program officer at a large philanthropy, has spent four years championing a school-feeding pilot in Madagascar's Androy region. An independent evaluation just shows it improved attendance but not learning, and costs three times as much per child as a rival program. Yet parents describe the meals as the reason their children survive the lean season, and the local government has built plans around it. Dev must decide whether to renew for three years or redirect the money to the better-evidenced rival in a different region.",
+  "options": [
+   "Renew, because families depend on it and sudden withdrawal would cause identifiable harm to children who currently eat there.",
+   "Redirect the funds to the rival program, which delivers greater benefits per dollar to a larger number of children elsewhere.",
+   "Renew for one final year with a transition plan, then redirect, giving the community time while still moving funds toward higher impact."
+  ],
+  "tension": [
+   "identified vs. statistical beneficiaries",
+   "commitment vs. effectiveness"
+  ],
+  "region": "Madagascar"
+ },
+ {
+  "title": "Rationing Oxygen Plants",
+  "scenario": "Minister's aide Sofia Marchetti in Peru's Ministry of Health has funds for four oxygen-generating plants, and sixteen hospitals have applied. A formula based on severity of past shortages favours Amazonian hospitals that serve few patients but lose many lives when supply fails. A formula based on caseload favours hospitals in the crowded Lima periphery. Political pressure is heavy from legislators in both areas, and the next respiratory season begins in eight weeks. She must propose the criteria the ministry will apply and live with the ranking that results.",
+  "options": [
+   "Rank by caseload so the plants serve the greatest number of patients across the system.",
+   "Rank by risk of fatal shortage per patient, prioritising isolated hospitals even though fewer patients will gain.",
+   "Use a weighted blend of both, accepting that the criteria will be contested and neither group of hospitals will be fully satisfied."
+  ],
+  "tension": [
+   "aggregate benefit vs. priority to the worst off",
+   "transparency vs. political pressure"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "The Anonymous Million",
+  "scenario": "Hye-jin Park, a Korean tech entrepreneur, offers a Nepali NGO director named Sunita Gurung one million dollars with one condition: all of it must go to a single cause Hye-jin chose, cleft-lip surgery camps, which Sunita knows are valuable but not her region's top need. Her organisation's own needs assessment ranks clean cookstoves and maternal care much higher in lives affected. Declining means the money goes to another country. Accepting means her staff do work that fits less well with community priorities, and she cannot persuade the donor to change.",
+  "options": [
+   "Accept the gift and run the surgery camps well, since real children benefit and the money would otherwise help nobody in Nepal.",
+   "Decline the restricted gift and keep her organisation's independence and priorities, even though the surgeries would not happen.",
+   "Accept it but negotiate to spend a portion of the funds on maternal care, risking the donor withdrawing altogether."
+  ],
+  "tension": [
+   "donor autonomy vs. community priorities",
+   "pragmatism vs. integrity"
+  ],
+  "region": "Nepal"
+ },
+ {
+  "title": "Training Without Jobs",
+  "scenario": "Rwandan official Jean-Claude Habimana oversees a donor-funded program training 5,000 community health workers. Donor funds cover training and a stipend for two years, and the government has not budgeted to continue paying them. Evidence from comparable countries shows that unpaid or abruptly unpaid workers often drop out, wasting the training. A newly offered grant could instead pay stipends to 2,000 workers indefinitely, from a smaller donor, if the larger program is cut back. He has to choose which design to commit his ministry to.",
+  "options": [
+   "Proceed with training all 5,000, trusting that government budgets will eventually follow and that skills are valuable even if some workers leave.",
+   "Cut to 2,000 workers with guaranteed ongoing pay, giving fewer communities service but making it dependable.",
+   "Train 5,000 but sign a binding agreement with finance officials first, delaying the program by a year while communities wait."
+  ],
+  "tension": [
+   "reach vs. reliability",
+   "present benefit vs. future sustainability"
+  ],
+  "region": "Rwanda"
+ },
+ {
+  "title": "The Last Slot in the Program",
+  "scenario": "Social worker Adaeze Nwosu in Ethiopia's Tigray region administers a graduation program that gives ultra-poor households a productive asset, such as goats, plus coaching. Evidence shows it works best for households with an able-bodied adult. One slot remains. Two families qualify: a widow with three young children and no adult help, who is statistically likelier to fail the program but needs it most, and a couple with one healthy adult who is very likely to succeed and begin supporting neighbours. The program's reported success rate affects future funding for dozens of families.",
+  "options": [
+   "Select the couple, whose probable success protects the program's track record and the future of the dozens relying on it.",
+   "Select the widow, since her need is the greatest and the program exists for exactly the people hardest to help.",
+   "Hold a transparent lottery between the two, accepting the result so that neither need nor expected success is treated as decisive."
+  ],
+  "tension": [
+   "need vs. expected success",
+   "individual vs. program-level consequences"
+  ],
+  "region": "Ethiopia"
+ },
+ {
+  "title": "Corruption Tax on Relief",
+  "scenario": "Logistics coordinator Beatriz Almeida moves emergency medical supplies through a port in Guinea-Bissau. Local customs officials demand a facilitation payment of about eight percent of cargo value to release containers promptly, a demand the organisation's policy prohibits and its home country's law criminalises. Without release, insulin and antibiotics will sit in heat for weeks, and the nearest hospitals will run out. Reporting the demand to authorities might trigger retaliation or longer delays, and she has authority to decide for her organisation today.",
+  "options": [
+   "Refuse payment and follow policy, seeking release through formal complaint even if the cargo spoils and patients go without.",
+   "Pay the facilitation fee to release the supplies quickly, accepting the legal risk and that it sustains a corrupt practice.",
+   "Pay quietly this once, but document it fully to leadership and donors, accepting they may sanction the organisation afterward."
+  ],
+  "tension": [
+   "rule integrity vs. urgent harm",
+   "complicity vs. consequences"
+  ],
+  "region": "Guinea-Bissau"
+ },
+ {
+  "title": "A Randomised Delay",
+  "scenario": "Evaluation lead Joon-ho Kim wants to learn whether a new conditional cash program in the Philippines reduces teenage dropout. The cleanest way is to randomly delay half of eligible barangays by eighteen months, giving credible evidence that could shape national policy affecting millions. Local mayors object that children in the delayed group will leave school in the meantime. The agency has enough money to cover everyone immediately, though without good evidence the national scale-up might stall or be built on weak assumptions.",
+  "options": [
+   "Randomise as planned, since reliable evidence could improve the lives of far more children in the long run.",
+   "Roll out to everyone at once and rely on weaker, observational comparisons, protecting children now at the expense of certainty.",
+   "Randomise only the order within a six-month window, giving shorter delay and weaker, though still useful, evidence."
+  ],
+  "tension": [
+   "knowledge for the future vs. present harm",
+   "fairness vs. evidence"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "Aid to a Regime's Favourite Province",
+  "scenario": "Swedish-trained economist Lena Ostrom advises a multilateral bank on a rural roads loan in Cambodia. The government has proposed that most roads be built in its ruling party's strongholds, which are also among poorer areas, though not the poorest. The poorest districts are in opposition areas where building costs more and officials are less cooperative. Rejecting the government's plan could delay the whole loan, hurting everyone, while accepting it reinforces political patronage. Her written recommendation shapes the bank's negotiating stance next week.",
+  "options": [
+   "Accept the government's priority areas to keep the project moving, since those districts are genuinely poor and benefit.",
+   "Insist on poverty-based targeting even if it delays the loan and strains the relationship with government.",
+   "Accept the plan for phase one but make phase two funding conditional on opposition-area roads, relying on a future commitment that may not hold."
+  ],
+  "tension": [
+   "political realism vs. needs-based targeting",
+   "sovereignty vs. impartiality"
+  ],
+  "region": "Cambodia"
+ },
+ {
+  "title": "Choosing the Bursary Students",
+  "scenario": "Headmistress Nokuthula Dlamini in rural Eswatini manages a donor-funded scholarship pool that can cover secondary fees for twelve of the 140 children who finished primary school. Donor guidelines emphasise academic merit to maximise graduates who go on to university. Local elders argue that orphans and children from the poorest homes should come first, while the strongest students might find other funding. She needs to publish selection criteria before the school year, and any scheme will leave deserving children out.",
+  "options": [
+   "Select by exam merit alone, which is easy to defend as impartial and aligns with the donor's aims.",
+   "Select the twelve poorest and orphaned children regardless of grades, based on need and the elders' sense of fairness.",
+   "Reserve half for top scorers and half for the neediest, accepting that each group will feel the other group took places."
+  ],
+  "tension": [
+   "merit vs. need",
+   "donor intent vs. community norms"
+  ],
+  "region": "Eswatini"
+ },
+ {
+  "title": "The Disappearing Beneficiary List",
+  "scenario": "Auditor Mehmet Aydin finds that a refugee cash assistance program in southeastern Turkey may be paying about nine percent of its recipients twice, owing to duplicate registrations in the database. Cleaning the list could take two months and temporarily suspend payments to everyone flagged, including genuine families with similar names who rely on the money for rent in winter. Leaving it alone costs the donor money that could help the waitlisted 3,000 families. His report goes to both donor and operating agency on Monday.",
+  "options": [
+   "Recommend immediate suspension of all flagged accounts until verified, protecting funds that could assist waitlisted families.",
+   "Recommend continuing payments during verification, accepting some ongoing duplication to avoid cutting off genuine families in winter.",
+   "Recommend verification in stages, starting with the highest-probability duplicates, accepting a slower correction and some wrongful interruptions."
+  ],
+  "tension": [
+   "stewardship vs. protecting the vulnerable",
+   "accuracy vs. continuity"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "Eradication or Control",
+  "scenario": "Dr. Chidi Eze, advising a West African health ministry, must choose between two strategies for a parasitic disease. Elimination would require ten years of expensive, intensive effort, ending the disease for good in his country, but diverting resources from other conditions that kill more people now. Control would cost far less per year, keep deaths low, and leave the disease endemic. The ministry's budget is fixed, and international prestige attaches to eradication. Donors are willing to fund either, but not both.",
+  "options": [
+   "Pursue elimination, accepting short-term opportunity costs for a permanent end to the disease for future generations.",
+   "Pursue control and spend savings on conditions causing more deaths today, accepting the disease will persist.",
+   "Pursue control now with a defined review in five years to reconsider elimination, accepting that the opportunity may be harder later."
+  ],
+  "tension": [
+   "present vs. future generations",
+   "prestige vs. utility"
+  ],
+  "region": "Burkina Faso"
+ },
+ {
+  "title": "Funding the Famous Orphanage",
+  "scenario": "Grace Whitfield, a program manager for a New Zealand church network, has funds to support either a well-known residential orphanage in Cambodia that appears in many sponsor brochures, or a family-strengthening program that keeps children with relatives through small grants. Research shows institutional care tends to harm development, and most 'orphans' have living parents. But the orphanage houses 80 children today who would have nowhere else immediately, and congregants love the personal photos and letters. Sudden defunding could displace them. She must decide this year's allocation.",
+  "options": [
+   "Continue funding the orphanage for the children already there, honouring the relationships and avoiding sudden disruption.",
+   "Move all funding to family strengthening, since evidence suggests it benefits children more and prevents unnecessary separation.",
+   "Fund both, shifting a rising share each year toward family strengthening while the orphanage gradually reintegrates children."
+  ],
+  "tension": [
+   "evidence vs. donor sentiment",
+   "current children vs. future children"
+  ],
+  "region": "Cambodia"
+ },
+ {
+  "title": "Where to Place the Surgeons",
+  "scenario": "Hospital director Dr. Yetunde Bakare in Sierra Leone has secured a rotating team of volunteer surgeons for six months. Capital-city patients need elective hernia and cataract operations that are cheap and transform livelihoods. Upcountry, women with obstetric fistula suffer severe lifelong consequences, but the operations are lengthy and costly, require follow-up, and yield fewer cases. Travel to the north costs a third of the team's time. A single deployment plan has to be set before the volunteers arrive in two weeks.",
+  "options": [
+   "Concentrate the team in the capital, completing many cheaper operations that restore working ability for hundreds of people.",
+   "Send the team north for fistula repair, which benefits fewer women but relieves some of the most devastating and neglected suffering.",
+   "Divide the six months, three in each place, accepting that both programs will treat fewer patients than a full commitment would."
+  ],
+  "tension": [
+   "number treated vs. severity of suffering",
+   "efficiency vs. neglected conditions"
+  ],
+  "region": "Sierra Leone"
+ },
+ {
+  "title": "The Spreadsheet and the Village",
+  "scenario": "Analyst Rafael Quispe works for a Chilean philanthropic fund that uses a cost-per-outcome model to select grantees. A community in the Atacama desert has asked for support for an elders' memory and storytelling program that the model cannot score and that serves only 200 people. A scored alternative, a vision-screening program, clears the funding bar easily. The fund's founder has told Rafael to use judgment where the model is silent, but trustees will look closely at any decision the model did not support.",
+  "options": [
+   "Fund the vision screening, which has measurable results and can be defended to trustees with clear numbers.",
+   "Fund the storytelling program, since the model is incomplete and the community has defined this as its own priority.",
+   "Fund the vision screening and propose a separate small discretionary pool for community-defined projects, though it may not be approved."
+  ],
+  "tension": [
+   "quantification vs. unmeasured values",
+   "accountability vs. community priorities"
+  ],
+  "region": "Chile"
+ },
+ {
+  "title": "Matching Funds and a Dying Clinic",
+  "scenario": "Eun-seo Lee, treasurer of a diaspora association in Seoul, learns that a Ugandan clinic they support has run out of funding for staff salaries. A large foundation will match any donation to a different, bigger Ugandan hospital, doubling the impact per dollar, but only until the end of the month. The clinic is small, long supported by the association's members, and the nurses there will leave if unpaid. The association's savings can cover only one of the options, and members must vote this week.",
+  "options": [
+   "Donate to the larger hospital with the match, doubling the benefit and serving more patients overall.",
+   "Pay the clinic's salaries, honouring a long relationship and preventing a small community from losing all care.",
+   "Split the money between both, losing some of the match benefit and leaving the clinic only partly secure."
+  ],
+  "tension": [
+   "loyalty vs. leverage",
+   "impact vs. relational obligation"
+  ],
+  "region": "Uganda"
+ },
+ {
+  "title": "A Parachute Into the Wrong Season",
+  "scenario": "Aid worker Tshepo Molefe in Lesotho is told by headquarters that a donor wants a visible distribution of winter blankets and food before an official visit on Tuesday. His team's own assessment says the most urgent need in the district is seed and fertiliser support before planting next month, which is not photogenic and gets funded far less often. The same budget cannot cover both. Skipping the blanket distribution risks angering the donor, whose goodwill supports several other projects in the country.",
+  "options": [
+   "Do the blanket and food distribution as requested, keeping the donor's goodwill that sustains other projects.",
+   "Spend the funds on seed and fertiliser, following the needs assessment and accepting the donor's displeasure.",
+   "Distribute blankets with part of the budget and seed with the remainder, and explain the trade-off honestly to the donor afterwards."
+  ],
+  "tension": [
+   "donor relations vs. real needs",
+   "visibility vs. effectiveness"
+  ],
+  "region": "Lesotho"
+ },
+ {
+  "title": "Microloans and the Over-Indebted",
+  "scenario": "Credit officer Anh Nguyen at a Vietnamese microfinance institution notices that in two Mekong Delta communes, repayment rates are excellent, partly because borrowers take new loans from other lenders to repay the first. Many women are now carrying three or four loans. Her institution's board prizes the high repayment, and its donors report on the number of borrowers served. Tightening lending rules would reduce growth and exclude some women who use credit productively. She is invited to present proposals at the next board meeting.",
+  "options": [
+   "Keep lending criteria as they are, trusting borrowers' judgment about their own finances and the institution's growth in outreach.",
+   "Tighten rules with strict limits tied to total household debt, protecting borrowers while reducing access to credit.",
+   "Keep access but require every borrower to attend financial counselling and disclose other loans, accepting added burdens and imperfect compliance."
+  ],
+  "tension": [
+   "autonomy vs. protection",
+   "growth vs. borrower welfare"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "Eighteen Dollars a Day",
+  "scenario": "Hospital administrator Dr. Samuel Oduya in western Kenya has a donor-funded neonatal unit where one premature infant needs a ventilator for an uncertain length of time. The cost per day equals what the unit spends on feeding six healthy newborns' mothers, vaccines, and basic supplies in the ward. Funding runs out in three weeks, and the infant has maybe a thirty percent chance of survival. The parents beg him to continue. The board asks him for a rule about spending priorities that can apply to similar cases later.",
+  "options": [
+   "Continue full ventilation for as long as funds allow, giving priority to a child with an immediate, identifiable need.",
+   "Cap spending per patient at a set limit, redirecting resources to the larger number of newborns who benefit from basic care.",
+   "Continue for a fixed period, say ten days, with a clear review point, and explain the limit candidly to the family."
+  ],
+  "tension": [
+   "identified patient vs. many others",
+   "compassion vs. fair resource use"
+  ],
+  "region": "Kenya"
+ }
+]

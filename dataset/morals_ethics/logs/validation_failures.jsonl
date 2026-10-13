@@ -1,0 +1,26 @@
+{"adapter": "daily_dilemmas", "source_item_id": "idx20195", "failures": ["encoding_replacement_char"]}
+{"adapter": "daily_dilemmas", "source_item_id": "idx21173", "failures": ["encoding_replacement_char"]}
+{"adapter": "daily_dilemmas", "source_item_id": "idx38245", "failures": ["encoding_replacement_char"]}
+{"adapter": "daily_dilemmas", "source_item_id": "idx38773", "failures": ["encoding_replacement_char"]}
+{"adapter": "daily_dilemmas", "source_item_id": "idx3912", "failures": ["encoding_replacement_char"]}
+{"adapter": "daily_dilemmas", "source_item_id": "idx42520", "failures": ["encoding_replacement_char"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 939]", "failures": ["scenario_too_short"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 2020]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 2152]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 2813]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 2836]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 3099]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 3241]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 3628]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 3737]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 3834]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 4062]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 4759]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 4852]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 4865]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 5519]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 5564]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 5604]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 9059]", "failures": ["scenario_too_long"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_train[row 11932]", "failures": ["scenario_too_short"]}
+{"adapter": "ethics_commonsense", "source_item_id": "cm_test_hard[row 3461]", "failures": ["scenario_too_long"]}

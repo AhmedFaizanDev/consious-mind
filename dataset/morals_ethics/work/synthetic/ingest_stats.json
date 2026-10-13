@@ -1,0 +1,8 @@
+{
+  "files": 60,
+  "raw_items": 1500,
+  "accepted": 1498,
+  "rejected": {
+    "answer_leak_phrase": 2
+  }
+}

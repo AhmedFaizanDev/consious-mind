@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Authorship Order on a Postdoc's Discovery",
+  "scenario": "Principal investigator Dr. Obinna Eze runs a genetics lab in Edinburgh. His postdoc, Valentina Cruz, made the key observation behind a paper that could secure the lab's next grant, but the idea grew from a project Obinna outlined years ago. The journal asks for the author order today. Valentina is on a visa that expires in eight months and needs a first-author paper to land a faculty post. Obinna's funding renewal strongly favours a senior first author. He knows junior scientists in his field often lose credit and wants to behave honestly.",
+  "options": [
+   "Place Valentina as first author and Obinna as last, reflecting who did the work and following common field norms.",
+   "Place Obinna first for the grant's sake, promising Valentina first authorship on the next paper and a strong letter.",
+   "Discuss credit openly with Valentina and agree on joint first authorship with a footnote describing each contribution."
+  ],
+  "tension": [
+   "credit vs. funding security",
+   "power vs. fairness"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "The Mentor Asks for a Personal Favour",
+  "scenario": "Senior partner Hiroshi Tanabe, who has guided junior consultant Mirela Popescu in Bucharest for three years, asks her to spend a weekend helping his teenage son with university application essays. He frames it as a small favour among friends. Mirela is up for a promotion decided partly by Hiroshi's evaluation, and she is already working long hours on a client deadline. Declining might strain the mentorship. Agreeing might blur the line between mentoring and personal service, and she knows two other juniors who have done similar favours without any apparent consequence.",
+  "options": [
+   "Agree to help, treating it as part of a reciprocal relationship and a way to maintain goodwill.",
+   "Politely decline, explaining that she needs her weekends to meet the client deadline, and accept any tension.",
+   "Offer to share a list of vetted essay resources and a single hour of her time, setting a limit."
+  ],
+  "tension": [
+   "reciprocity vs. exploitation",
+   "career dependence vs. boundaries"
+  ],
+  "region": "Romania"
+ },
+ {
+  "title": "A Protégé Wants to Leave for a Rival",
+  "scenario": "Head chef Marguerite Okafor in Montreal has trained sous-chef Théo for six years, covering his culinary courses and introducing him to suppliers. Théo tells her in confidence he has an offer from a competing restaurant with better pay and his own menu. Marguerite is about to expand and had planned Théo as head of the new kitchen. She could match the offer but at the expense of other staff raises, or she could encourage him to go. She also knows details of the rival's weak finances that Théo may not.",
+  "options": [
+   "Encourage Théo to take the opportunity and offer a glowing reference, without sharing her knowledge of the rival's finances.",
+   "Tell Théo what she knows about the rival's finances so that he can decide with full information, even though it serves her interests.",
+   "Match the offer with a formal promotion to head of the new kitchen, accepting the effect on other staff pay."
+  ],
+  "tension": [
+   "mentor's self-interest vs. protégé's autonomy",
+   "honesty vs. rumour"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "Reading a Student's Private Journal Entry",
+  "scenario": "Teacher and club mentor Tendai Chirwa in Lusaka supervises a school debating team. A shared document left open on the school computer includes a team member's private reflections, in which fifteen-year-old Chipo writes that her uncle, who pays her fees, has been coming to her room at night and that she feels she must keep quiet to keep her schooling. The writing is ambiguous in places. Chipo has not told anyone and has begged him in other contexts to stay out of her family business. School policy requires reporting concerns about abuse, but the family is powerful.",
+  "options": [
+   "Report the entry to the school's designated child protection officer immediately, as policy requires, even if Chipo objects.",
+   "Speak to Chipo privately first, to learn what she means and offer support, before deciding whether to make a formal report.",
+   "Contact a trusted counsellor outside the school and ask for advice, without naming the child, before taking any action."
+  ],
+  "tension": [
+   "child protection vs. trust",
+   "confidentiality vs. duty to act"
+  ],
+  "region": "Zambia"
+ },
+ {
+  "title": "The Advisor Who Wants a Say in Her Marriage",
+  "scenario": "Dr. Rukmini Sethi, a professor in Hyderabad, advises doctoral student Arjun. Arjun tells her that he plans to marry a classmate from a different community and may relocate to his partner's city, abandoning the field project that Rukmini needs for her next grant. Rukmini likes Arjun and sees potential, but feels the move would waste his training. His family disapproves of the marriage and he is anxious. Rukmini is the only person in whom he has confided, and she must decide how much she should say about his plans.",
+  "options": [
+   "Offer her view that the move would harm his career but make clear that the decision is his, and keep supporting either path.",
+   "Say nothing about the personal choice and talk only about practical ways to continue the project remotely if he moves.",
+   "Encourage him to stay and finish the project first, stressing the unusual opportunity and leaning on her influence over his funding."
+  ],
+  "tension": [
+   "professional advice vs. personal autonomy",
+   "mentor's interests vs. student's welfare"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Late-Night Messages from the Supervisor",
+  "scenario": "Graduate student Camila Restrepo in Medellín has a close relationship with her supervisor, Dr. Alvaro Cifuentes, who offers detailed feedback and personally funds her conference travel. Recently his late-night messages have become frequent, mixing academic comments with personal remarks and requests to meet for coffee. Nothing explicit has been said. Camila is unsure whether she is misreading kindness. Her scholarship renewal needs his signature in two months, and she is aware that a previous student left the lab quietly. She must decide how to respond to the next message.",
+  "options": [
+   "Reply politely but redirect to work, suggest meetings during office hours only, and keep a record of the messages.",
+   "Speak with the university's ombudsperson in confidence to understand her options before she responds again.",
+   "Continue as before and avoid any confrontation until the scholarship is signed, then reconsider her position."
+  ],
+  "tension": [
+   "self-protection vs. academic advancement",
+   "ambiguity vs. action"
+  ],
+  "region": "Colombia"
+ },
+ {
+  "title": "Taking Over a Mentee's Client",
+  "scenario": "Senior architect Ewa Lindholm in Helsinki has been mentoring junior architect Kasper Virtanen, who recently won a client with a promising community-centre project. The client now says they would prefer working with Ewa, because of her name. The firm will earn more if she leads, and Kasper's role would diminish to assisting. Kasper has not been told. Ewa knows he has a young family and needs the project credit to progress. The managing partner has left the decision about leadership to Ewa, and the client is waiting for a reply.",
+  "options": [
+   "Decline the client's request and tell them Kasper will remain the project lead with her as an advisor.",
+   "Accept the lead role, reasoning that the firm's interest and the client's preference outweigh one junior's credit.",
+   "Tell Kasper about the request and propose co-leading the project with equal public credit."
+  ],
+  "tension": [
+   "mentor's duty vs. firm profit",
+   "client preference vs. junior's advancement"
+  ],
+  "region": "Finland"
+ },
+ {
+  "title": "Grant Funding Tied to the Mentor's Pet Theory",
+  "scenario": "Early-career researcher Ifeanyi Chukwu in Pretoria is mentored by Professor Hendrik Botha, whose reputation rests on a theory in soil microbiology. Ifeanyi's data increasingly contradict the theory. Hendrik's grant, which pays Ifeanyi's salary and three technicians' salaries, depends on the theory being supported. Hendrik says the data might be an artifact and suggests rerunning the analysis 'with more careful exclusions'. Ifeanyi cannot tell whether this is legitimate refinement or selective filtering. The grant report is due in four weeks.",
+  "options": [
+   "Report the contradictory data transparently in the grant report, accepting that this might endanger funding.",
+   "Rerun the analysis as the professor suggests, with the exclusion criteria written down and justified before the new run.",
+   "Seek an independent statistician's review of both analyses before agreeing on what to report."
+  ],
+  "tension": [
+   "scientific honesty vs. loyalty",
+   "livelihoods vs. truth-telling"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Writing the Reference for a Mentee You Doubt",
+  "scenario": "Executive director Gabriela Sandoval in Quito mentored a young manager, Esteban, who has since asked her to be a referee for a leadership programme in Madrid. She likes him personally and he has grown a great deal. But in his last role he exaggerated results to donors on one occasion, which she handled internally without a formal record. The programme asks referees to confirm integrity. Telling the truth could end a chance that he deeply wants and that his struggling family is counting on. Declining to be a referee would signal the problem anyway.",
+  "options": [
+   "Write a supportive reference that highlights his growth, and omit the incident that was resolved internally.",
+   "Decline to serve as a referee, telling Esteban honestly that she has reservations.",
+   "Write a candid reference describing both his development and the earlier incident, and share it with Esteban beforehand."
+  ],
+  "tension": [
+   "honesty vs. kindness",
+   "mentor's loyalty vs. duty to third parties"
+  ],
+  "region": "Ecuador"
+ },
+ {
+  "title": "The Intern Who Is Asked to Cover for a Boss",
+  "scenario": "Intern Dae-Jung Park at an advertising agency in Seoul is asked by his mentor, Creative Director Soo-Ah Han, to tell a client that a missing deliverable is 'with the printer', when in truth Soo-Ah missed the deadline after taking a long lunch with a rival firm's recruiter. A false statement would buy her two days. Dae-Jung has been told repeatedly that following Soo-Ah's lead is how one makes it in the industry, and she has promised to recommend him for a full-time role. The client call begins in ten minutes.",
+  "options": [
+   "Tell the client the truth as best he knows it, that the deliverable is delayed, even if this displeases Soo-Ah.",
+   "Say what Soo-Ah asked, trusting his mentor's judgement and valuing the full-time recommendation.",
+   "Tell Soo-Ah he will not lie but offer to propose a new delivery time to the client on her behalf."
+  ],
+  "tension": [
+   "deference vs. honesty",
+   "career prospects vs. integrity"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "Is the Coach Too Close to the Young Athlete?",
+  "scenario": "Assistant coach Mbali Ndlovu in Durban notices that head coach Willem Cronje spends hours privately with seventeen-year-old sprinter Zanele, giving gifts, driving her home and adjusting her diet and sleep. Zanele is improving rapidly and credits him with changing her life, and her single mother is grateful. Nothing inappropriate has been seen, yet the pattern matches what safeguarding training identifies as risk factors. Mbali is junior, on a short contract, and Willem controls selection for the national junior team. A regional meet is in two weeks.",
+  "options": [
+   "Raise her concerns with the federation's safeguarding officer, describing what she has observed without accusation.",
+   "Talk to Willem informally about maintaining professional boundaries and suggest including a second adult in sessions.",
+   "Take no action but quietly keep notes, waiting to see whether anything more concrete emerges."
+  ],
+  "tension": [
+   "child safeguarding vs. unfounded accusation",
+   "junior's risk vs. protective duty"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "The Mentee Who Outgrew the Mentor",
+  "scenario": "Veteran newspaper editor Leila Haddad in Beirut has coached junior reporter Karim for five years. Karim's recent investigations into a local contractor are brilliant but legally risky, and he has begun to ignore Leila's cautions. The newspaper's owner is nervous about lawsuits. Leila could take Karim off the story to protect the paper, or support him against pressure. He credits her for everything, which makes her reluctance feel like betrayal. The next instalment is due for print tonight, and she must decide how to use her authority.",
+  "options": [
+   "Hold the story until lawyers review it, using her authority as editor despite Karim's objections.",
+   "Publish the story as Karim has written it, trusting his work and backing him against the owner's anxieties.",
+   "Publish a trimmed version limited to claims supported by documents, and explain her edits to Karim line by line."
+  ],
+  "tension": [
+   "protecting the protégé vs. respecting his judgement",
+   "press freedom vs. legal exposure"
+  ],
+  "region": "Lebanon"
+ },
+ {
+  "title": "Doctoral Student Asked to Ghostwrite a Grant",
+  "scenario": "Doctoral student Ruth Abebe in Addis Ababa is asked by her supervisor, Professor Tesfaye, to write most of a major grant proposal that he will submit as sole applicant. In return he promises a postdoctoral position in the funded project. Ruth knows this is a common practice in her department but has also read that funders expect the named applicant to author the work. Her thesis is delayed, and her funding runs out in six months. Tesfaye's proposals have helped many students in the past and he is respected.",
+  "options": [
+   "Write the proposal as asked, accepting the arrangement as a normal exchange in her department.",
+   "Agree to write it only if she is named as a co-applicant, and risk disappointing Tesfaye.",
+   "Refuse to ghostwrite and focus on finishing her thesis, looking for other funding options."
+  ],
+  "tension": [
+   "unacknowledged labour vs. opportunity",
+   "institutional norms vs. funder rules"
+  ],
+  "region": "Ethiopia"
+ },
+ {
+  "title": "A Mentor's Unethical Shortcut in a Clinical Trial",
+  "scenario": "Junior physician Dr. Anneliese Roth in Hamburg learns from her mentor, Professor Kessler, that he plans to enrol three patients who slightly miss the inclusion criteria into a trial of a promising cancer drug, since they have no other options. The trial protocol does not allow it. Enrolling them could give them a chance at treatment but could invalidate the data and delay approval for thousands of future patients. The ethics committee only meets in a month, and two of the patients may not survive that long. Kessler has asked Anneliese to prepare the paperwork.",
+  "options": [
+   "Refuse to prepare the paperwork and push Kessler to request expedited ethics committee review for the three patients.",
+   "Prepare the paperwork as requested, trusting Kessler's clinical judgement and the urgency of the patients' condition.",
+   "Prepare it but report the deviation openly in the trial record so that the data can be analysed with and without these patients."
+  ],
+  "tension": [
+   "compassion vs. protocol",
+   "obedience vs. scientific integrity"
+  ],
+  "region": "Germany"
+ },
+ {
+  "title": "Mentoring Someone Who Reports to You",
+  "scenario": "Team leader Nokuthula Sithole at a telecom firm in Gaborone has been informally mentoring junior analyst Thabo, who shares his worries about burnout and secretly job hunting. Last week she was told to compile a list of employees likely to leave, ahead of restructuring that will reduce the team. Thabo's name fits the criteria. Using his private confidences would damage trust and likely cost him his job; omitting him might protect him but leave someone else more vulnerable on the list. The list is due to her director on Monday.",
+  "options": [
+   "Leave Thabo off the list since she learned what she knows in a mentoring conversation held in confidence.",
+   "Include Thabo with the others who meet the criteria, treating all employees by the same standard and separating her roles.",
+   "Tell the director about the conflict between her mentoring and managing roles and ask someone else to prepare the list."
+  ],
+  "tension": [
+   "confidentiality vs. even-handedness",
+   "dual roles vs. trust"
+  ],
+  "region": "Botswana"
+ },
+ {
+  "title": "Teaching the Apprentice a Dangerous Shortcut",
+  "scenario": "Master electrician Joaquim Ferreira in Porto trains apprentice Inês. He teaches her a time-saving trick for testing live circuits that bypasses a safety step; he has used it safely for thirty years and swears by it. Inês is uneasy but has seen him respond coldly to questions. Her apprenticeship assessment requires his signature, and her family cannot afford for her to lose the placement. Another apprentice was injured last year using a similar shortcut, though on a different employer's site. A job is scheduled tomorrow morning.",
+  "options": [
+   "Follow the official safety procedure on the job, even if Joaquim is irritated, and explain politely why she prefers it.",
+   "Do things Joaquim's way while with him, and use the official procedure when working alone.",
+   "Raise the shortcut with the training body's coordinator, describing what she was taught and asking for guidance."
+  ],
+  "tension": [
+   "deference to expertise vs. safety rules",
+   "apprentice's dependency vs. risk"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "A Student's Reliance on the Tutor's Emotional Support",
+  "scenario": "Tutor Dr. Noor Al-Mansouri at a university in Doha has become the main confidant of a lonely first-year student, Rashid, who messages her daily about homesickness and a recent family bereavement. She is touched, but worried that the dependence is growing and cutting into her research time. University counselling exists but Rashid says he does not trust it. She fears that referring him on could feel like rejection at a vulnerable moment. Her workload has already caused her to miss two paper deadlines, and her own promotion review is approaching.",
+  "options": [
+   "Continue to support Rashid personally for now, accepting the toll on her time as part of her role as a mentor.",
+   "Gently set boundaries on when she is available and walk him personally to the counselling service.",
+   "Share her concerns with the head of student welfare and ask the university to arrange a structured support plan."
+  ],
+  "tension": [
+   "care vs. sustainability",
+   "personal trust vs. professional referral"
+  ],
+  "region": "Qatar"
+ },
+ {
+  "title": "The Founder and the Student Intern's Idea",
+  "scenario": "Start-up founder Ravi Menon in Bengaluru mentors university interns through a community programme. One intern, Shreya, pitches a simple scheduling tool that his company could easily build into its product. She has no legal protection and does not realise how valuable it could be. Ravi knows that offering her a paid contract for the idea would cost little but would set a precedent with other interns. Building it quietly would give her only a thank-you. His co-founder says that interns are in the programme to learn, not to be employed.",
+  "options": [
+   "Offer Shreya a fair payment or equity for the idea and credit her publicly, even if it sets a precedent.",
+   "Build the feature and thank her in the programme's closing event, treating the idea as part of the learning exchange.",
+   "Explain the commercial value of her idea to Shreya, and let her choose whether to share it, license it or keep it."
+  ],
+  "tension": [
+   "intellectual credit vs. cost",
+   "mentor's power vs. intern's naivety"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Recommending a Student for a Post You Wanted",
+  "scenario": "Professor Sigrun Halldórsdóttir in Reykjavík mentored two postdocs, Bjarni and Katla. A prestigious fellowship has only one place, and the selection committee has asked her to nominate one. Katla's work is stronger but she is considering leaving academia. Bjarni is weaker, but this fellowship would let him stay in Iceland near his ill father. Sigrun has been quietly hoping to collaborate with Katla's lab abroad and knows the fellowship would help bring her there. She must submit a nomination by Friday.",
+  "options": [
+   "Nominate Katla on the grounds of stronger scholarship, and disclose her own interest in a future collaboration.",
+   "Nominate Bjarni, giving weight to his family circumstances and the fellowship's contribution to his career in Iceland.",
+   "Provide the committee with honest comparative assessments of both, and ask them to decide."
+  ],
+  "tension": [
+   "merit vs. personal circumstances",
+   "mentor's conflict of interest vs. candour"
+  ],
+  "region": "Iceland"
+ },
+ {
+  "title": "Complaint Against a Revered Teacher",
+  "scenario": "Youth orchestra administrator Misaki Fujimoto in Sapporo receives a letter from the parents of a fourteen-year-old violinist alleging that conductor Maestro Ishikawa, their child's beloved teacher, humiliates players in rehearsals and has called the child 'a waste of talent'. Other families describe him as demanding but transformative; several famous alumni credit him for their careers. Misaki knows the orchestra's reputation depends on him, and that the parents are threatening to go to the press. Ishikawa is seventy-six and has no formal complaints in forty years.",
+  "options": [
+   "Launch a formal review of the complaint, including interviews with current and former students, and notify Ishikawa.",
+   "Arrange a private conversation between Ishikawa and the parents, aimed at resolving the matter without a formal process.",
+   "Dismiss the complaint as part of the demanding training culture and thank the parents for their concern."
+  ],
+  "tension": [
+   "respect for achievement vs. child welfare",
+   "reputation vs. accountability"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Referring a Mentee to a Mentor with a Reputation",
+  "scenario": "Journalist Dolores Camacho in Mexico City mentors talented young writer Emiliano. He wants an introduction to the famed editor Octavio Reyes, who could launch his career. Dolores has heard from two women that Reyes makes unwelcome advances toward young writers, though nothing was reported and she cannot confirm it. Emiliano is a young man and may face a different risk, but he may also be exploited in other ways. Declining to make the introduction would hold back his career. Her contacts in the industry value her discretion.",
+  "options": [
+   "Make the introduction, passing on the rumours to Emiliano so he can enter the relationship aware and careful.",
+   "Withhold the introduction and look for another route to publication for Emiliano, without explaining why.",
+   "Make the introduction without mentioning the rumours, as they are unverified and could be damaging if untrue."
+  ],
+  "tension": [
+   "opening doors vs. protecting from risk",
+   "unverified rumour vs. duty to warn"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "Residency Hours and the Attending's Disapproval",
+  "scenario": "Second-year resident Dr. Khadija Sow in Dakar is told by her attending, Dr. Diop, that she must remain beyond her contracted shift to finish teaching rounds, after thirty hours on duty. She is exhausted and fears making an error in the emergency department, where she is next scheduled. Diop says that his generation endured the same and that it builds character. Complaining might be seen as weakness and would affect her evaluation, which determines her specialty placement. Patients are waiting, and the team is short-staffed.",
+  "options": [
+   "Stay and complete the teaching rounds, then go home to rest, accepting the risk to her fatigue and the cost to patients.",
+   "Tell Dr. Diop she is too tired to work safely and leave as scheduled, accepting the effect on her evaluation.",
+   "Ask Dr. Diop to let her skip rounds but to cover the emergency department with a rested colleague."
+  ],
+  "tension": [
+   "patient safety vs. professional deference",
+   "training culture vs. fatigue"
+  ],
+  "region": "Senegal"
+ },
+ {
+  "title": "Selling Lessons to a Mentee's Parents",
+  "scenario": "Violin teacher Mircea Lazar in Cluj mentors a talented twelve-year-old, Ilinca, through a free conservatory scheme. Her parents, well-off and grateful, offer to pay for private lessons from him at triple his usual rate. He is underpaid and has a mortgage. The scheme prohibits teachers from accepting money from mentee families, though others sometimes bend the rule. He suspects that refusing might lead the parents to take Ilinca to another teacher. Equally, accepting might favour her over other free-scheme children who cannot afford private tuition.",
+  "options": [
+   "Accept the paid lessons discreetly, regarding the scheme's rule as unrealistic and the money as legitimate compensation.",
+   "Decline the paid lessons, citing the scheme's rule, and risk the parents moving Ilinca elsewhere.",
+   "Disclose the offer to the scheme's director and ask whether a transparent, regulated arrangement could be created."
+  ],
+  "tension": [
+   "fair pay vs. conflict of interest",
+   "rules vs. practicality"
+  ],
+  "region": "Romania"
+ },
+ {
+  "title": "A Senior Colleague's Slip in Front of Trainees",
+  "scenario": "Charge nurse Folasade Bello in Ibadan supervises two student nurses. During a ward round, she sees senior nurse Mrs. Adeniyi, a revered mentor, give a patient a slightly wrong dose of an anticoagulant. The patient shows no immediate sign of harm, but could in hours. The student nurses saw it too and are watching what Folasade will do. Mrs. Adeniyi taught Folasade herself and has been unwell lately. The hospital has a culture of public shaming for errors that discourages reporting, and a formal incident report triggers a disciplinary review.",
+  "options": [
+   "File a formal incident report and ensure the patient is monitored, modelling transparent error handling for the students.",
+   "Quietly correct the dose and monitor the patient, speaking privately to Mrs. Adeniyi and avoiding a disciplinary process.",
+   "Inform the doctor in charge so the patient can be treated, and let the doctor decide on reporting."
+  ],
+  "tension": [
+   "transparency vs. loyalty",
+   "patient safety vs. protecting a mentor"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Co-Signing a Mentee's Visa Letter",
+  "scenario": "Senior engineer Bongani Khumalo in Calgary is asked by his mentee, Farah, to sign a letter stating she has worked full-time under his supervision for two years, for her permanent residence application. In reality, she worked part-time for the last eight months while caring for her father. Immigration lawyers say such inflation is routine, though technically false. Farah has been a model employee and would face deportation if the application fails. Bongani has a professional licence to protect, and his signature is a legal declaration. Farah's deadline is next Wednesday.",
+  "options": [
+   "Sign a letter stating the exact hours Farah worked and explain the circumstances in a supporting note.",
+   "Decline to sign anything inaccurate and suggest she ask the lawyers for an alternative way to document her experience.",
+   "Sign the letter as drafted, accepting the risk because of the harm that deportation would do to her."
+  ],
+  "tension": [
+   "honesty vs. loyalty to a mentee",
+   "legal risk vs. compassion"
+  ],
+  "region": "Canada"
+ }
+]

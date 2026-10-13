@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Children Found at the Cashew Shelling Shed",
+  "scenario": "Valérie Nkunda is a sourcing manager for a French snack brand, visiting a cashew processor in Ivory Coast. She finds several children, perhaps twelve or thirteen, working in a shelling shed beside their mothers, apparently after school. The processor says the families need the income and would lose it if the brand imposed a strict ban. Her company's code prohibits child labour, and a supply audit is due next month. Dropping the processor would end work for around three hundred adult workers in a region with few other jobs.",
+  "options": [
+   "End the contract with the processor immediately, in line with the company's code, and help find alternative employment for affected workers.",
+   "Keep buying but require a time-bound remediation plan with school support for the children and monitored verification.",
+   "Report the finding to the company's compliance team and let them decide, taking no position herself on the contract."
+  ],
+  "tension": [
+   "child welfare vs. family livelihoods",
+   "code compliance vs. practical harm"
+  ],
+  "region": "Ivory Coast"
+ },
+ {
+  "title": "Overtime Quotas in a Phone Assembly Plant",
+  "scenario": "Zhang Wei is a compliance auditor hired by a Western electronics brand to inspect an assembly plant in Shenzhen. Workers' time records show that during peak weeks, many exceed the legal overtime cap, though the company's own reports show full compliance. Several workers privately tell him they want the extra hours, as the pay is their only chance to support children in their home villages. The plant manager offers him a generous gift. A truthful report would trigger penalties and could shift orders to another factory.",
+  "options": [
+   "Report the overtime violations accurately and decline the gift, even though orders may move elsewhere.",
+   "Report the violations but recommend a phased solution that guarantees workers a living wage on fewer hours.",
+   "Record the overtime as voluntary and compliant, given that workers say they prefer it."
+  ],
+  "tension": [
+   "worker autonomy vs. legal limits",
+   "audit integrity vs. worker income"
+  ],
+  "region": "China"
+ },
+ {
+  "title": "The Subcontractor Nobody Mentioned",
+  "scenario": "Beatriz Santos oversees purchasing for a Portuguese shoe brand that sources leather goods from a Brazilian tannery. During a visit, she realises part of the order is secretly subcontracted to home workers in a nearby favela, who are paid by piece at rates below the minimum wage and have no protective equipment while handling chemicals. The tannery owner admits this and says it keeps costs low enough to keep Beatriz's brand as a client. The brand markets itself as ethical. A launch is scheduled in two months.",
+  "options": [
+   "Insist that all subcontracting be disclosed, formalised and brought up to legal standards, even if prices rise.",
+   "Continue the order and disclose the subcontracting to her company's sustainability team, letting them decide.",
+   "End the relationship with the tannery before launch, finding a replacement supplier at a higher price."
+  ],
+  "tension": [
+   "brand ethics vs. cost",
+   "visibility vs. job loss"
+  ],
+  "region": "Brazil"
+ },
+ {
+  "title": "Recruitment Fees on a Qatar Stadium Site",
+  "scenario": "Ramesh Gurung is a site manager for a contractor building offices in Doha. He learns that many of his Nepalese labourers paid recruiters large fees in Kathmandu and are in debt, working long hours to repay them. His company's policy prohibits worker-paid fees, but recruiting agencies deny charging them. Reimbursing the fees would cost his firm a significant sum and might set a precedent for other sites. Workers fear complaining because their debts and visas depend on their employer.",
+  "options": [
+   "Have the company reimburse workers' fees and sever ties with abusive recruitment agencies, accepting the cost.",
+   "Investigate privately, collect evidence about the agencies, and escalate to senior management with a proposed reimbursement scheme.",
+   "Continue with the current agencies, since the practice is widespread and he cannot prove who charged what."
+  ],
+  "tension": [
+   "cost vs. dignity of workers",
+   "worker fear vs. verifiable evidence"
+  ],
+  "region": "Qatar"
+ },
+ {
+  "title": "A Cobalt Supplier With Unclear Origins",
+  "scenario": "Linnea Åkesson, a procurement specialist for a Swedish battery manufacturer, receives paperwork from a trader in Lubumbashi showing cobalt sourced from an industrial mine. A local contact suggests that part of the supply actually comes from artisanal diggers, including some working in unsafe tunnels. Industrial sourcing would be pricier and slow production. Artisanal miners depend on the trade for income, and a blanket ban would hurt them. Her company's investors and customers demand a clean supply chain, and the audit window is closing in three weeks.",
+  "options": [
+   "Suspend purchases from the trader until independent verification of origin is complete.",
+   "Keep buying from the trader and fund a programme to formalise and make safer the artisanal mining.",
+   "Rely on the trader's documentation, since she cannot independently verify the rumour."
+  ],
+  "tension": [
+   "supply-chain transparency vs. miners' livelihoods",
+   "uncertainty vs. due diligence"
+  ],
+  "region": "Democratic Republic of the Congo"
+ },
+ {
+  "title": "Heat in the Textile Dye House",
+  "scenario": "Fatima Zahra Bennani works for a Moroccan textile exporter in Tangier as a health and safety officer. Over the summer, indoor temperatures in the dye house reach above forty-five degrees, and two women workers have fainted. Cooling would require a costly ventilation upgrade, which the owner says he cannot afford while a major European client demands lower prices. Fatima suggests more breaks, but production targets make this hard. A labour inspector rarely visits. The client's code of conduct covers working conditions and she could alert them.",
+  "options": [
+   "Alert the European client to the conditions, accepting that the owner may lose business and punish her.",
+   "Press the owner to implement mandatory breaks and water immediately, with a timeline for ventilation, before contacting any client.",
+   "Implement small changes within her authority, such as water stations, and avoid conflict with the owner."
+  ],
+  "tension": [
+   "employee safety vs. employer finances",
+   "internal pressure vs. external disclosure"
+  ],
+  "region": "Morocco"
+ },
+ {
+  "title": "Squeezing the Coffee Cooperative's Price",
+  "scenario": "Henrik Vestergaard buys green coffee for a Danish roastery. Prices have dropped globally, and his managing director wants to renegotiate contracts with a cooperative in Honduras to match market prices, even though the agreed fair-trade price was higher. The cooperative's members have invested in processing equipment based on the original price. Contracts allow renegotiation under severe market changes, so the move is legal. The roastery faces competition from cheaper rivals, and Henrik's own job depends on its survival.",
+  "options": [
+   "Honour the original contract price, absorbing the lower margin and defending this to his director.",
+   "Renegotiate to a midpoint price and offer a longer-term purchase commitment to give the cooperative security.",
+   "Invoke the renegotiation clause and pay the market price, since the contract permits it and the roastery's survival is at stake."
+  ],
+  "tension": [
+   "legal right vs. fairness",
+   "company survival vs. partner security"
+  ],
+  "region": "Honduras"
+ },
+ {
+  "title": "Forced Overtime Disguised as Voluntary",
+  "scenario": "Anh Tran is a brand sustainability coordinator for a Dutch furniture company. Documents from a Vietnamese factory show that workers must sign 'voluntary' overtime forms every evening, and those who refuse are moved to lower-paid tasks. Interviews held by the factory manager's staff show workers satisfied. Anh suspects the interviews are staged. The factory is a key supplier, delivering the company's top-selling chair. Auditing more deeply would cost money and risk offending the manager, who has been cooperative on quality.",
+  "options": [
+   "Commission independent worker interviews outside the factory, accepting that the results may force a break with the supplier.",
+   "Accept the interviews at face value, but add a requirement for anonymous worker feedback channels in future audits.",
+   "Discuss concerns candidly with the manager and let him propose changes before escalating internally."
+  ],
+  "tension": [
+   "suspicion vs. cooperative relationship",
+   "audit cost vs. worker voice"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "The Fishing Boats Without Crew Passports",
+  "scenario": "Captain Eliseo Barrientos manages purchasing for a Spanish tuna canning company in Vigo. A supplier fleet operating from Ecuador's coast offers excellent prices, but a union contact tells him that crew members' passports are held by the vessel owners, who say it is for safekeeping against desertion. Crew work long stretches at sea with low pay. The company's competitors buy from the same fleet. Cutting ties would hit many Ecuadorian families, and Eliseo's superiors will want proof before changing suppliers.",
+  "options": [
+   "Suspend purchases until the fleet returns passports to crew members and allows independent inspection.",
+   "Continue purchases while requiring the fleet to return passports within a set period or face termination.",
+   "Wait for the union to present formal evidence before acting, avoiding action based on a single contact's claim."
+  ],
+  "tension": [
+   "evidence vs. precaution",
+   "competitive costs vs. crew freedom"
+  ],
+  "region": "Ecuador"
+ },
+ {
+  "title": "Pregnancy Tests at the Garment Gate",
+  "scenario": "Sarah Okafor leads ethical trade for a British high-street retailer visiting a factory in Phnom Penh. A woman worker whispers that applicants are asked about pregnancy and that pregnant workers are given harder tasks until they quit. The manager says it is for health protection, not discrimination. The retailer's code prohibits discrimination, though local law is vague. The factory pays above average and workers value the job. If Sarah files a formal finding, the retailer may reduce orders, which would affect hundreds of workers.",
+  "options": [
+   "Record a formal non-compliance finding and require the factory to end the practice by a fixed date.",
+   "Raise the issue with the manager as a coaching matter, offering training on maternity rights, before any formal finding.",
+   "Respect the factory's explanation as a safety measure and do not record a finding."
+  ],
+  "tension": [
+   "anti-discrimination vs. local context",
+   "formal findings vs. job security"
+  ],
+  "region": "Cambodia"
+ },
+ {
+  "title": "Cheap Tomatoes, Costly Camps",
+  "scenario": "Giovanni Esposito is a buyer for a regional supermarket chain in Puglia. The chain's tomato supplier offers fantastic prices, and Giovanni's director wants to extend the contract. Local activists have reported that harvest labourers, mostly African migrants, live in a roadside camp without clean water and are paid by the crate at rates under the legal minimum. The supplier calls the claims exaggerated. The supermarket's customers seek low prices, and the chain's margins are thin.",
+  "options": [
+   "Require the supplier to meet minimum wage and housing standards, verified by third parties, as a condition of continuing the contract.",
+   "Visit the camp himself before deciding and base his recommendation on what he sees.",
+   "Extend the contract as planned, given that the supplier denies the allegations and the activists' claims are unverified."
+  ],
+  "tension": [
+   "consumer prices vs. labourer dignity",
+   "unverified claims vs. moral risk"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "Union Organizers Dismissed at a Bottling Plant",
+  "scenario": "Priscila Mendes is a regional procurement director for a beverage company in São Paulo. A bottling contractor in Guatemala has dismissed fifteen workers who tried to form a union, and a local labour group asks her company to demand their reinstatement. The contractor says the dismissals concerned attendance, not union activity, and the labour ministry has not ruled. The contractor is dependable and gives the company a low price. Threatening to withdraw could close the plant, or could strengthen workers' hand.",
+  "options": [
+   "Demand reinstatement pending the ministry's investigation, threatening to withdraw orders if the contractor refuses.",
+   "Commission an independent inquiry and decide on action after its findings, keeping orders unchanged meanwhile.",
+   "Take no position, treating the matter as a dispute between the contractor and the ministry."
+  ],
+  "tension": [
+   "freedom of association vs. disputed facts",
+   "leverage vs. non-interference"
+  ],
+  "region": "Guatemala"
+ },
+ {
+  "title": "Rice Mill Debt Bondage in Punjab",
+  "scenario": "Harpreet Dhillon is a quality manager for an export firm in Amritsar that buys basmati rice from several mills. A visit to one mill reveals that seasonal workers from Bihar are tied to the owner through advances on wages that they cannot repay, preventing them from leaving. The owner says the advances are friendly loans that help workers in hard times. The mill produces premium quality grain, and replacing it would take a harvest. Harpreet's own father once worked under a similar arrangement.",
+  "options": [
+   "Make future purchases conditional on cancelling the advances and giving workers written contracts and freedom to leave.",
+   "Keep buying while working with the mill owner on a gradual shift towards fair wage contracts over two seasons.",
+   "Treat the loans as a customary local arrangement and focus on grain quality, as that is his remit."
+  ],
+  "tension": [
+   "customary practice vs. freedom",
+   "gradual change vs. immediate harm"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Sand From a River Nobody Mentions",
+  "scenario": "Jorge Aguirre works for a construction materials distributor in Medellín. A supplier offers abundant, cheap sand from a river region where, according to a local journalist, extraction is unlicensed, damaging banks and sometimes controlled by armed groups taking a cut. The supplier's papers appear to be in order. Housing projects for low-income families depend on cheap sand, and delays would raise costs. Jorge's firm has no sustainability policy, and nobody in the company has asked where the sand comes from.",
+  "options": [
+   "Refuse the supplier and source licensed sand at higher prices, even if some housing projects slow down.",
+   "Request documentation of licences and site inspections before agreeing, continuing to buy only if both are satisfied.",
+   "Buy the sand since the supplier's paperwork is in order and he is not responsible for the wider region's problems."
+  ],
+  "tension": [
+   "affordable housing vs. environmental and security harm",
+   "paper compliance vs. real conditions"
+  ],
+  "region": "Colombia"
+ },
+ {
+  "title": "Hand-Stitched Footballs Moved Indoors",
+  "scenario": "Imran Chaudhry is the owner of a sporting goods exporter in Sialkot. His buyers require stitching to take place in registered factories, not homes, to avoid child labour. But many of his stitchers are women who cannot work outside their homes for cultural and family reasons, and moving production indoors would force them out of work. He could keep home stitching under an informal monitoring scheme, which his buyers would not accept. He faces losing a major European contract if he is seen to break the rules.",
+  "options": [
+   "Move all stitching into registered centres and help the women with transport and childcare, accepting that some may still leave.",
+   "Maintain home-based stitching with transparent community monitoring and disclose the arrangement to buyers, asking for approval.",
+   "Maintain home-based stitching without telling buyers, arguing that it protects the women's incomes and does not involve children."
+  ],
+  "tension": [
+   "cultural norms vs. buyer rules",
+   "women's income vs. compliance"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "The Hotel Laundry's Seasonal Staff",
+  "scenario": "Rūta Kazlauskienė is the procurement head for a Baltic hotel chain with a linen-service contract with a laundry in Lithuania. A union newsletter reports that the laundry employs agency workers from Uzbekistan at wages below those of locals and charges them for crowded housing. The laundry says all payments are legal. Switching to another laundry would raise linen costs by a fifth and might force the hotel to cut cleaners' hours. Her board has recently publicised its commitment to fair employment practices.",
+  "options": [
+   "Insist on an independent review of the laundry's pay and housing, and change suppliers if it confirms the allegations.",
+   "Switch to the more expensive laundry immediately to align with the board's public statements.",
+   "Continue the contract, as the laundry says everything is legal and she cannot verify union claims."
+  ],
+  "tension": [
+   "public commitments vs. cost",
+   "migrant workers' welfare vs. hotel staff hours"
+  ],
+  "region": "Lithuania"
+ },
+ {
+  "title": "A Gold Refiner's Missing Paperwork",
+  "scenario": "Adaeze Okoro is a compliance officer at a gold refinery in Johannesburg. A long-standing supplier delivers a large shipment of doré with certificates that look slightly irregular, for example identical signatures on documents from different mines. The supplier explains that small mines share an association representative. Rejecting the shipment would hurt small miners whose payments depend on it, and the refinery's finance team is eager to process it. Adaeze knows that gold laundering through false paperwork is a persistent risk in the region.",
+  "options": [
+   "Reject the shipment until each mine's origin is independently verified.",
+   "Process the shipment but place the supplier under enhanced due diligence and request a site visit.",
+   "Accept the explanation and process the shipment, since the supplier has a long record of reliability."
+  ],
+  "tension": [
+   "due diligence vs. small miners' payment",
+   "pressure to process vs. fraud risk"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Slaughterhouse Shift Cuts Under Cost Pressure",
+  "scenario": "Kasper Nielsen negotiates meat contracts for a Copenhagen retailer. A Polish processor offers lower prices after a cost-cutting reorganisation, and Kasper hears from a worker's relative that the plant has cut break times and reduced protective gear. The processor responds that the claims are rumour. A complaint to labour inspectors might lead to inspection, but nothing is certain. Kasper's retailer faces competition from discount chains, and shoppers consistently choose low prices over provenance claims in surveys.",
+  "options": [
+   "Ask for an unannounced third-party safety audit before renewing, and pause the contract if it is refused.",
+   "Renew the contract with a clause allowing audits at any time, and monitor complaints.",
+   "Accept the processor's denial and renew, since rumours through a relative are not evidence."
+  ],
+  "tension": [
+   "price competition vs. worker safety",
+   "rumour vs. due care"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Reporting a Tea Estate's Housing Conditions",
+  "scenario": "Lakshmi Ranasinghe is an inspector for a tea-trading company in Colombo. On a highland estate she visits, workers' families live in cramped line rooms with leaking roofs and unsafe latrines. The estate manager says the housing dates from the colonial era and that investment is impossible given tea prices. Workers fear complaining. Her company wants to maintain certification, which requires housing standards. The estate provides prized high-grown tea. If it loses certification, it may close, and the workers would lose jobs and homes.",
+  "options": [
+   "Report the substandard housing accurately, risking the estate's certification, and propose a repair fund co-financed by buyers.",
+   "Report the conditions but with a recommendation for an improvement plan rather than decertification.",
+   "Overlook the housing in her report, as closure would harm workers more than the poor conditions do."
+  ],
+  "tension": [
+   "certification integrity vs. workers' jobs",
+   "immediate harm vs. long-term closure"
+  ],
+  "region": "Sri Lanka"
+ },
+ {
+  "title": "Mica for the Glittering Car Paint",
+  "scenario": "Nikolai Orlov is a materials engineer at a car paint company in Stuttgart. Sparkle pigments in a new premium line depend on mica, and a supplier from Jharkhand offers a good price. NGOs report that child labour is common in mica mining there, though the supplier insists it has strict policies. Synthetic mica exists, but is more expensive and less distinctive. Nikolai's product launch is scheduled for spring. Choosing synthetic mica would raise unit costs, and competitors probably will not follow.",
+  "options": [
+   "Switch to synthetic mica, accepting higher costs and a less distinctive effect.",
+   "Continue with natural mica, but pay for independent traceability to the specific mine and a community school programme.",
+   "Keep the supplier, relying on its written policy, since certification bodies have not condemned it."
+  ],
+  "tension": [
+   "product appeal vs. child welfare",
+   "traceability vs. cost"
+  ],
+  "region": "Germany"
+ },
+ {
+  "title": "Cooking Oil Drums and Informal Collectors",
+  "scenario": "Cecilia Banda works for a biofuel firm in Lusaka that buys used cooking oil from street vendors through informal collectors, many of them teenagers working through the night with handcarts. The collectors earn little but depend on the trade. Formalising the chain with licensed contractors would improve safety and wages but mean fewer opportunities for children and the poorest adults. The company's investors, based in Europe, want traceable supply to meet green-fuel certification. Her manager says a decision must come within the month.",
+  "options": [
+   "Formalise the supply chain with licensed adult contractors, with a transitional programme for displaced youth.",
+   "Keep the informal system but impose age limits, protective equipment and minimum payments for collectors.",
+   "Keep the system as it is, because the certification requirement does not directly address collectors' age."
+  ],
+  "tension": [
+   "traceability vs. livelihoods of the poorest",
+   "safety vs. access to income"
+  ],
+  "region": "Zambia"
+ },
+ {
+  "title": "Auditors Warned Before They Arrive",
+  "scenario": "Hye-jin Kwon is a sourcing analyst at a Seoul fashion firm. A colleague tells her that the Bangladeshi factory they use is always warned two days before an audit, and the factory hides unregistered workers and unsafe machines. The colleague himself arranged the tip-off through a friendly agent, believing it avoids conflict and allows 'fine-tuning'. The factory's quality is excellent and delivery is reliable. Hye-jin could report to the compliance office, which might end a valued supplier and embarrass her colleague.",
+  "options": [
+   "Report the practice of advance warnings to the compliance office and request unannounced audits.",
+   "Tell her colleague to stop the tip-offs and give him a chance to correct course before reporting.",
+   "Remain silent, because the factory's performance is strong and hidden problems are the auditors' responsibility."
+  ],
+  "tension": [
+   "collegial loyalty vs. audit integrity",
+   "supplier quality vs. real conditions"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "Recycled Plastic, Unrecorded Pickers",
+  "scenario": "Daniela Vargas leads sustainability at a beverage company in Buenos Aires that promises 'packaging from recycled bottles'. Most of the plastic is collected by informal pickers (cartoneros), who sell to middlemen at low prices and work in dangerous conditions. A union of pickers proposes a cooperative that would sell directly to the company at higher prices, which would raise costs and reduce the company's margin. The marketing team wants to publicise the recycling story as it stands. Daniela must decide what to endorse.",
+  "options": [
+   "Contract directly with the pickers' cooperative at higher prices before publicising any recycling claim.",
+   "Publicise the recycling claim as it stands but fund a pickers' safety fund and commit to cooperative sourcing next year.",
+   "Publicise the recycling story as it stands, since the plastic is real and it is not the company's role to restructure the informal sector."
+  ],
+  "tension": [
+   "green claims vs. who bears the cost",
+   "company role vs. social responsibility"
+  ],
+  "region": "Argentina"
+ },
+ {
+  "title": "A Living Wage Audit in Kano",
+  "scenario": "Mariam Waziri works in human resources for a Kano-based leather exporter that supplies a US luxury brand. The brand requires proof that workers earn a living wage. Mariam's firm can meet this only by reducing the workforce by a fifth or raising prices beyond what the brand will pay. Leaders propose laying off the slowest workers, mostly older men, and paying the rest more. Those laid off would struggle to find other jobs. The brand will inspect payroll data in two months.",
+  "options": [
+   "Raise pay for everyone gradually, reduce profits, and ask the brand to accept a phased timeline.",
+   "Lay off the slowest fifth with severance and retraining, and raise pay for the remainder to meet the standard.",
+   "Adjust payroll records to show living wages for the brand's inspection while keeping all workers on current pay."
+  ],
+  "tension": [
+   "living wage vs. job security",
+   "compliance reporting vs. actual conditions"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Vanilla Prices and the Village Collapse",
+  "scenario": "Tiana Rakotoarisoa buys vanilla for a Montreal ice cream maker and visits growers in northeastern Madagascar. Growers harvest pods early because theft is common, and cured quality suffers. Her company could pay a premium for a late-harvest standard, but growers would have to guard fields at night and some fear violence from thieves. The village chief asks her to pay the premium regardless, to keep families fed this season. Her employer wants better quality at the same price, and a rival buyer already offers the old rate.",
+  "options": [
+   "Pay the premium for the current harvest, even if quality is not yet improved, and fund field security jointly with the village.",
+   "Pay the old price now, and offer the premium only for pods that meet the late-harvest standard, with training and security support.",
+   "Switch to another region where theft is less common and the late-harvest standard is already met."
+  ],
+  "tension": [
+   "grower survival vs. quality standards",
+   "fair price vs. employer's demands"
+  ],
+  "region": "Madagascar"
+ }
+]

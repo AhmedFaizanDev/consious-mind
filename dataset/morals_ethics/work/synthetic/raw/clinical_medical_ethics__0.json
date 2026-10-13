@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Jehovah's Witness Teenager Needs Transfusion",
+  "scenario": "Dr. Amara Okafor, a paediatric surgeon in Lagos, is preparing to remove a ruptured spleen from a 16-year-old girl after a motorbike collision. The girl, lucid but weak, says her faith forbids blood and she refuses transfusion. Her parents agree with her. Without transfusion, her chance of dying on the table is perhaps one in three. The hospital's lawyer says the law on mature minors is unclear here. Surgery must start within minutes. Dr. Okafor must decide how to proceed.",
+  "options": [
+   "Operate using blood-conservation techniques only, honouring the girl's and her parents' shared refusal even though it raises the risk of death.",
+   "Operate and transfuse if bleeding becomes life-threatening, treating a 16-year-old's refusal as insufficiently authoritative when her life is at stake.",
+   "Delay briefly to seek an urgent emergency court or ethics-committee opinion, accepting that the delay itself adds bleeding risk."
+  ],
+  "tension": [
+   "autonomy vs. beneficence",
+   "religious liberty vs. protection of minors"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Signature Obtained Through a Family Interpreter",
+  "scenario": "At a district hospital in rural Nepal, nurse practitioner Sunita Thapa notices that an elderly widow is about to consent to a hysterectomy. Her son is translating the form from Nepali into the widow's Tamang dialect, and he seems to be summarising rather than translating, skipping the sterility and risk sections. The widow nods and smiles. No professional interpreter is on site, and the visiting surgeon leaves by helicopter tomorrow, the only chance this season. Sunita must decide what to do before the form is signed.",
+  "options": [
+   "Stop the process and delay surgery until an independent interpreter can be found, even if the visiting surgeon's window is lost.",
+   "Let the son continue, since the widow appears willing and trusts him, and add a note recording the interpreter's limitations.",
+   "Ask the widow privately, using simple gestures and a neighbour who speaks Tamang, what she understands, and proceed only if her answers satisfy her."
+  ],
+  "tension": [
+   "informed consent vs. access to care",
+   "respect for family role vs. individual autonomy"
+  ],
+  "region": "Nepal"
+ },
+ {
+  "title": "Refusing Dialysis Before a Daughter's Wedding",
+  "scenario": "Tomasz Wiśniewski, 58, a retired shipyard welder in Gdańsk, has advanced kidney failure and tells his nephrologist, Dr. Halina Brodzka, he will start dialysis only after his daughter's wedding in six weeks, because he does not want to look frail in the photographs. His potassium is dangerously high and delay might trigger a fatal arrhythmia. He is fully competent and calmly explains his reasoning. His wife begs the doctor to override him. Dr. Brodzka must decide how to respond at this clinic visit.",
+  "options": [
+   "Respect his decision, document thoroughly, and arrange close monitoring and an emergency plan so he can change course at any moment.",
+   "Admit him against his stated wishes under a short urgent-care hold, arguing that his priorities will look different once the risk is real.",
+   "Offer a compromise schedule of minimal-intensity dialysis hidden from view, while telling him plainly that this only partly reduces the danger."
+  ],
+  "tension": [
+   "autonomy vs. beneficence",
+   "patient values vs. clinical judgment"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Chemotherapy Consent Signed Under Pressure",
+  "scenario": "Rahul Verma, an oncology resident in Pune, is asked by his attending to get consent from Mrs. Kulkarni, 64, for a chemotherapy regimen. Her sons sit on either side, answering questions for her and insisting she wants everything done. When Rahul speaks to her alone for a moment in the corridor, she whispers that she is tired and would rather go home to her village, but she is afraid of disappointing them. The sons have paid for the first cycle in advance. Rahul must decide how to proceed with the consent.",
+  "options": [
+   "Tell the family the consent conversation must be held with her alone, and proceed only on what she says without them present.",
+   "Take her whispered words as a passing doubt, continue with the family-supported consent, and revisit her wishes after the first cycle.",
+   "Request a palliative care consult and postpone chemotherapy start by a few days, explaining it as routine, to give her space to decide."
+  ],
+  "tension": [
+   "autonomy vs. family-centred decision-making",
+   "honesty vs. discretion"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Surgery Waiver for an Undocumented Farmworker",
+  "scenario": "Ms. Elena Ruiz, a hospital social worker in Fresno, California, is helping a surgeon obtain consent from Mateo, an undocumented farm labourer with a strangulated hernia. Mateo says he will sign anything but wants to leave tonight because he fears immigration officers and the loss of his job. He does not grasp that surgery done tonight is safer than waiting. The surgeon says discharge risks bowel necrosis. Mateo insists he understands and wants to go. Elena must decide what to recommend to the team.",
+  "options": [
+   "Treat his decision to leave as an informed refusal, give written warnings and return instructions, and help him obtain an outpatient surgical slot.",
+   "Keep explaining through a certified interpreter and offer concrete assurances about privacy until he fully understands, even if that takes hours.",
+   "Argue that his fear distorts his judgment, making his refusal non-voluntary, and ask the team to hold him on an emergency basis."
+  ],
+  "tension": [
+   "autonomy vs. beneficence",
+   "vulnerability vs. voluntariness"
+  ],
+  "region": "United States"
+ },
+ {
+  "title": "A Request Not to Be Told the Diagnosis",
+  "scenario": "Dr. Kwame Mensah, a general physician in Kumasi, has biopsy results showing aggressive lymphoma in Madam Akosua, 71. At the start of the visit she said, 'Whatever it is, tell my eldest son and he will decide, I do not want to hear it.' Her son wants her kept ignorant but wants treatment started. Treatment without understanding the nature of the illness will require many hospital visits and side effects she will notice. Dr. Mensah must decide how to handle consent.",
+  "options": [
+   "Honour her wish not to know, obtain consent for treatment in general terms, and share details only with her designated son.",
+   "Gently explain the diagnosis anyway, reasoning that consent to burdensome treatment is not valid unless she knows what it is for.",
+   "Spend more time checking whether her waiver is genuinely her own choice and what level of information she would accept, then tailor disclosure."
+  ],
+  "tension": [
+   "right not to know vs. informed consent",
+   "cultural norms vs. disclosure duties"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Anticoagulants and a Mountain Pilgrimage",
+  "scenario": "Dr. Ingrid Solheim, a cardiologist in Tromsø, has told Bjørn, 49, that he needs lifelong anticoagulants after a pulmonary embolism. Bjørn says he will take them only until he returns from a six-month solo Arctic crossing next month, and then reconsider. He accepts a high risk of recurrence far from help and will not carry a satellite phone because it spoils the journey. He is entirely lucid. Dr. Solheim must decide how hard to push and what to prescribe at this last appointment.",
+  "options": [
+   "Prescribe the medication he will accept for the trip and give clear written risk information, respecting his adult choice of risk.",
+   "Refuse to sign off a prescription without a safety plan such as a satellite beacon, arguing that unsafe conditions undermine genuine informed choice.",
+   "Strongly recommend that he postpone the expedition until the first months of therapy are complete, and document that he declined."
+  ],
+  "tension": [
+   "autonomy vs. harm to self",
+   "professional integrity vs. patient choice"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "Research Consent in a Sleeping Ward",
+  "scenario": "Dr. Sofia Marchetti, a principal investigator in Naples, runs a trial of a new sedation protocol. A man in the ICU, Luca, was enrolled yesterday under emergency deferred-consent rules and is now awake and angry. He says he would never have agreed and asks to be withdrawn. Withdrawing now would remove him from a regimen that seems to be working, and his data are already included in the interim analysis. The ethics committee has not addressed this. Dr. Sofia must decide what to do.",
+  "options": [
+   "Withdraw him immediately and keep his collected data out of analysis, accepting a possible loss in clinical benefit and study power.",
+   "Withdraw him from further study procedures but keep the data already collected, which the deferred-consent protocol allowed for.",
+   "Explain the benefit he seems to be receiving, offer him time to reconsider, and withdraw him only if he repeats the request calmly later."
+  ],
+  "tension": [
+   "autonomy vs. scientific value",
+   "consent vs. emergency research exemptions"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "Contraceptive Implant Removal Request",
+  "scenario": "Fatima Al-Sayed, a community midwife in Amman, is asked by a 24-year-old Syrian refugee to remove her contraceptive implant, only six months into placement. The woman says her husband wants more children and will be angry otherwise, but she herself is unsure. The clinic's donor-funded programme counts removals as failures and the head nurse hints removals should be discouraged. The woman insists she is the one asking. Fatima must decide how to respond today.",
+  "options": [
+   "Remove the implant promptly, as she has requested, without questioning her motives, since the choice is hers to make.",
+   "Offer a private counselling conversation first, then remove it if she still wants this after discussing safe alternatives and her situation.",
+   "Postpone removal slightly and propose a method her husband cannot detect, protecting her from conflict while preserving her future options."
+  ],
+  "tension": [
+   "reproductive autonomy vs. coercion concerns",
+   "institutional targets vs. patient choice"
+  ],
+  "region": "Jordan"
+ },
+ {
+  "title": "Anti-Psychotic Refusal and a Looming Wedding",
+  "scenario": "Dr. Kenji Nakamura, a psychiatrist in Osaka, treats Haruto, 31, who has schizophrenia and is stable but wishes to stop his medication before his marriage because he feels dulled. His fiancée's family does not know of his illness. Past relapses followed discontinuation within three months, one involving a dangerous delusion about neighbours. He currently has capacity by all measures. His mother begs the doctor to withhold his refill. Dr. Nakamura must choose a course at today's appointment.",
+  "options": [
+   "Respect his decision, taper the dose under supervision, and set up an early-warning plan with a rapid return path to treatment.",
+   "Continue the prescription on the argument that his insight is partial, and negotiate rather than accept a full stop.",
+   "Encourage Haruto to share the diagnosis with his fiancée and her family before the wedding, linking continued care to their support."
+  ],
+  "tension": [
+   "autonomy vs. relapse risk",
+   "privacy vs. relational honesty"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Blood Sugar, Stubbornness, and a Foot Amputation",
+  "scenario": "At a public hospital in Recife, vascular surgeon Dr. Paulo Andrade tells Dona Luzia, 68, that her infected diabetic foot must be amputated below the knee or the infection may reach her bloodstream. She says she will not leave this world 'in pieces' and prefers antibiotics alone, which Dr. Andrade thinks have a low chance of succeeding. Her daughter, who cares for her, says she cannot manage a double-disabled mother plus her own children. Luzia is alert and consistent. He must decide how to respond.",
+  "options": [
+   "Offer maximal conservative treatment as she wishes, document the prognosis, and keep surgery available if she changes her mind.",
+   "Postpone the decision briefly while arranging contact with a prosthetist and an amputee peer, hoping this alters how she sees the surgery.",
+   "Tell her plainly that conservative care will likely fail and refuse to continue it indefinitely because it consumes scarce ward resources."
+  ],
+  "tension": [
+   "autonomy vs. beneficence",
+   "patient wishes vs. resource constraints"
+  ],
+  "region": "Brazil"
+ },
+ {
+  "title": "Caesarean Refusal in a Planned Home Birth",
+  "scenario": "Midwife Ruth Kavanagh in Galway is attending a planned home birth when the fetal heart rate begins to drop. She recommends immediate transfer for caesarean. The mother, Aoife, previously had a traumatic surgical delivery and states firmly that she will not go to hospital or have surgery, even if the baby dies. Her partner is silent. The ambulance is ten minutes away. Ruth has a few seconds of this window to decide what to say and do.",
+  "options": [
+   "Respect Aoife's refusal, stay and support her labour, and keep the ambulance on standby in case she changes her mind.",
+   "Call the ambulance and keep urging transfer, using all persuasion available but not physically moving her without her agreement.",
+   "Prepare for transfer on the assumption that the trauma history and acute distress impair her capacity, and proceed over her protests."
+  ],
+  "tension": [
+   "maternal autonomy vs. fetal welfare",
+   "trauma vs. capacity"
+  ],
+  "region": "Ireland"
+ },
+ {
+  "title": "Experimental Therapy for a Child, Parent Hesitates",
+  "scenario": "Dr. Yusuf Demir in Ankara offers an experimental gene therapy to the parents of Elif, 3, who has a fatal degenerative disease. The parents, a cleaner and a taxi driver, struggle with the written consent, 40 pages in technical Turkish. The father says, 'If you say it helps, we sign.' The therapy has serious known risks, including liver failure. The hospital pressures Dr. Demir to enrol quickly because the slot expires Friday. He must decide how to seek their consent.",
+  "options": [
+   "Sign them up on Friday after a short, plain-language talk, trusting that their desperation and trust reflect a genuine parental decision.",
+   "Slow down and use teach-back sessions and a patient advocate, accepting that the slot may be lost to another family.",
+   "Ask the ethics committee to appoint an independent advocate for the child to join the discussion before any signature."
+  ],
+  "tension": [
+   "informed consent vs. therapeutic hope",
+   "trust vs. understanding"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "A Refused Biopsy in a Remote Community",
+  "scenario": "Nurse Tui Parata staffs a clinic in the Far North of New Zealand. A kaumātua, Mr. Henare, 74, has a suspicious lung shadow. He declines a biopsy because the hospital would retain tissue, which his whānau believe must be returned to the land after death. The respirologist says treatment depends on the biopsy. Tui knows a tissue-return policy exists on paper but the hospital rarely follows it. She must decide what to promise him.",
+  "options": [
+   "Promise to arrange formal tissue return only if she can truthfully guarantee it, otherwise explain honestly that it may not happen.",
+   "Encourage him to accept the biopsy by assuring him that his customs will be respected, trusting the hospital to make it right.",
+   "Support his refusal of biopsy and request empirical treatment on imaging alone, even though this might lead to the wrong therapy."
+  ],
+  "tension": [
+   "cultural integrity vs. diagnostic need",
+   "honesty vs. persuasion"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "The Ward Round Consent Nobody Read",
+  "scenario": "Priya Raman, a final-year medical student in Chennai, is told by her consultant to obtain written consent for a spinal procedure from a labourer, Murugan. The consultant mentions in passing that the patient 'does not read anyway' and just needs a thumbprint. Priya sees Murugan's thumbprint is requested before any explanation has been given, while the queue behind him grows. If she delays, she will be marked down on her assessment. Priya must decide how to act.",
+  "options": [
+   "Explain the procedure aloud in Tamil to Murugan, delaying the thumbprint until he can say in his own words what will happen.",
+   "Follow the consultant's instruction, since she is a student under supervision and the responsibility for consent lies with the team.",
+   "Quietly raise her concern with the consultant first and ask permission to do a proper consent conversation after the round."
+  ],
+  "tension": [
+   "professional hierarchy vs. patient rights",
+   "personal integrity vs. career"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Living Donor Who Wants to Withdraw at the Last Minute",
+  "scenario": "Transplant coordinator Dr. Annika Berg in Stockholm is told on the morning of surgery that a living kidney donor, Daniel, 36, wants to withdraw. His sister, the recipient, has been on dialysis for six years and is already anaesthetised. Daniel says privately he is terrified, yet he asks Annika to tell his family he has a medical reason, and to keep his fear secret. The team could say a minor lab abnormality exists. Annika must decide what to say.",
+  "options": [
+   "Respect his request and tell the family there is a medical reason, protecting him from pressure and blame.",
+   "Tell the family only that he has withdrawn, without giving any reason, and refuse to invent a medical explanation.",
+   "Encourage Daniel to speak with a counsellor for a few minutes and see whether he decides differently, while preparing to cancel."
+  ],
+  "tension": [
+   "donor autonomy vs. honesty",
+   "confidentiality vs. truthfulness"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "Consent for a Cochlear Implant in a Deaf Family",
+  "scenario": "Dr. Miriam Katz, an ENT surgeon in Tel Aviv, meets a Deaf couple whose 14-month-old daughter is a candidate for cochlear implantation. The parents, proud members of the Deaf community, decline, saying their daughter should grow up with sign language and choose later. Evidence suggests that implantation works best before age two or three. Dr. Katz respects the Deaf culture but fears closing a window for the child. She must decide how to advise the parents.",
+  "options": [
+   "Accept the parents' decision, provide complete information, and leave the door open for implantation later while noting the reduced benefits.",
+   "Strongly advocate implantation as a time-limited opportunity for the child, and request a second opinion for the parents.",
+   "Propose a trial period of bimodal language exposure, with sign language at home and hearing support in preparation for a later joint decision."
+  ],
+  "tension": [
+   "parental authority vs. child's future autonomy",
+   "cultural identity vs. medical benefit"
+  ],
+  "region": "Israel"
+ },
+ {
+  "title": "The Surgeon's Preferred Consent Wording",
+  "scenario": "At a private clinic in Dubai, anaesthetist Dr. Rashid Al-Mansoori sees the printed consent form for elective liposuction stating a mortality risk of 'less than 1 in 10,000'. He knows from recent audits that this clinic's own rate is nearer 1 in 800 for this procedure. The clinic director insists the figures come from published literature and do not need updating. The patient, Nadia, is already in a gown and asks him one question: 'Is this safe?' He must decide what to answer.",
+  "options": [
+   "Tell Nadia that the clinic's recent results are less favourable than the form states and give her the chance to reconsider.",
+   "Answer from the published literature, reasoning that the form reflects accepted national figures and that local audits are small and uncertain.",
+   "Say nothing to Nadia but privately demand the clinic correct the form, refusing to anaesthetise future patients under the old wording."
+  ],
+  "tension": [
+   "honesty vs. institutional loyalty",
+   "informed consent vs. commercial pressure"
+  ],
+  "region": "United Arab Emirates"
+ },
+ {
+  "title": "Teenager Wants Gender-Affirming Hormones, Parents Disagree",
+  "scenario": "Dr. Camille Dubois, a paediatric endocrinologist in Montreal, sees Alex, 16, who has lived as a boy for three years and requests testosterone. His mother consents; his father, a church deacon, refuses in writing. Alex's psychologist supports starting. The legal framework allows capable minors to consent, but the father threatens to sue and to withdraw support for Alex's school fees and housing. Dr. Dubois must decide whether to start treatment at this appointment.",
+  "options": [
+   "Start treatment on the strength of Alex's own capable consent and his mother's agreement, documenting the process carefully.",
+   "Delay prescribing and arrange mediated family sessions, aiming for joint agreement even though delay may increase Alex's distress.",
+   "Refer him to a specialised gender clinic with legal support, passing the decision on rather than starting at this clinic."
+  ],
+  "tension": [
+   "adolescent autonomy vs. parental rights",
+   "clinician protection vs. patient need"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "Do Not Resuscitate Tattoo",
+  "scenario": "Paramedic supervisor Leila Haddad in Beirut is dispatched to a collapsed man, around 70, in a market. He has no pulse. On his chest is a faded tattoo reading 'DO NOT RESUSCITATE – Samir', with no paperwork anywhere. A bystander says he is a retired teacher who often talked about not wanting machines. Another bystander, claiming to be a neighbour, says the tattoo is a joke from a drunken youth. Leila must decide immediately whether her crew starts CPR.",
+  "options": [
+   "Start CPR, treating the tattoo as insufficient and uncertain evidence, and review his wishes once circumstances become clearer.",
+   "Withhold CPR, honouring the tattoo as the best available indication of a considered wish, since resuscitation might harm him further.",
+   "Begin CPR while phoning ahead for any records, ready to stop if reliable evidence of his wishes appears quickly."
+  ],
+  "tension": [
+   "respecting wishes vs. preserving life",
+   "uncertainty vs. irreversibility"
+  ],
+  "region": "Lebanon"
+ },
+ {
+  "title": "Refusal of Antibiotics for a Newborn",
+  "scenario": "Neonatologist Dr. Wanjiru Kamau in Nairobi treats a seven-day-old boy with suspected sepsis. His parents, devoted members of a small healing church, decline antibiotics and ask to take him to their pastor for prayer and herbal treatment. The father is polite and says they love their son. Without antibiotics, the baby faces a significant risk of death within a day. The hospital can seek an emergency protection order, but this will rupture the family's trust. Dr. Kamau must decide what to do now.",
+  "options": [
+   "Seek the emergency order and treat the baby, judging that the child's survival outweighs the parents' religious freedom.",
+   "Negotiate a combined plan in which the pastor prays at the bedside while antibiotics are given, seeking the parents' acceptance.",
+   "Respect the parents' choice after a clear warning and a signed refusal, and offer the baby care if he worsens."
+  ],
+  "tension": [
+   "parental religious freedom vs. child welfare",
+   "trust vs. coercion"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Overseas Patient Asks for an Unproven Stem Cell Treatment",
+  "scenario": "Dr. Hana Novak, a neurologist in Prague, consults Gregor, 52, a wealthy Austrian with multiple sclerosis who wants her to administer an unproven stem cell infusion offered by an affiliated private clinic. She believes it likely useless and carrying infection risk, but Gregor has signed lengthy disclosures and will otherwise fly to a less regulated clinic abroad. The fee would fund her department's research. She must decide whether to administer it herself.",
+  "options": [
+   "Decline to give the treatment, explain her reasons, and continue conventional care, accepting that he may seek it elsewhere.",
+   "Give the infusion under careful monitoring, reasoning that a safer setting is better than the unregulated alternative he will otherwise use.",
+   "Offer to enrol him in a registered trial instead, even if it means a long wait and an uncertain chance of acceptance."
+  ],
+  "tension": [
+   "autonomy vs. non-maleficence",
+   "harm reduction vs. complicity"
+  ],
+  "region": "Czech Republic"
+ },
+ {
+  "title": "Consent After a Stroke, With Partial Capacity",
+  "scenario": "Occupational therapist and capacity assessor Malia Faleolo in Auckland is asked whether Mr. Tavita, 66, a Samoan retired pastor recovering from a stroke, can consent to a feeding tube. He understands his condition on good days but forgets it by afternoon. He tells the morning team he wants the tube; in the afternoon he pulls at it and says he never agreed. His children disagree about what he would want. Malia must give her assessment of his capacity.",
+  "options": [
+   "Judge him as having capacity in the morning and treat the morning choice as valid, scheduling decisions for that time.",
+   "Judge that fluctuating capacity means he cannot consent and recommend a best-interests decision involving the family and the care team.",
+   "Recommend delaying the tube for several days with temporary nasogastric feeding, so his abilities can be reassessed as recovery progresses."
+  ],
+  "tension": [
+   "fluctuating capacity vs. consistent choice",
+   "family disagreement vs. individual will"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "Incidental Finding the Patient Never Agreed to Learn",
+  "scenario": "Genetic counsellor Pieter van Dijk in Rotterdam runs exome sequencing for Mirjam, 45, searching for the cause of her infertility. The result reveals a variant strongly linked to early-onset heart disease, which is unrelated to her request. The consent form let her opt out of incidental findings, and she ticked the box 'do not tell me'. Her two grown daughters might carry the same variant and a preventive treatment exists. Pieter must decide what to do with the finding.",
+  "options": [
+   "Honour her opt-out and withhold the finding, accepting that her daughters may miss a chance for prevention.",
+   "Contact her to say there is a significant finding and ask whether she wishes to reconsider, without revealing its nature.",
+   "Disclose the finding anyway, judging that the serious and preventable risk to her family outweighs the weight of her form."
+  ],
+  "tension": [
+   "right not to know vs. duty to prevent harm",
+   "autonomy vs. family interests"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "Clinical Photography for a Teaching Atlas",
+  "scenario": "Dr. Tendai Moyo, a dermatologist in Harare, has been asked by a visiting overseas professor to photograph an unusual disfiguring skin disease affecting a young woman, Rudo, for a prestigious open-access atlas. Rudo agrees quickly, saying she wants to help others, but she has said little else and relies on the doctor for free care. The photographs would be permanent, searchable, and might identify her village. Dr. Moyo must decide how to get her consent.",
+  "options": [
+   "Proceed with photographing after a plain explanation of permanence and public access, accepting her willingness as genuine consent.",
+   "Take only photos that cannot identify her, and explain that she may still decline without any effect on her care.",
+   "Delay the photography until she has had days to talk to family and a community elder, and until her treatment is not in question."
+  ],
+  "tension": [
+   "scientific value vs. privacy",
+   "power imbalance vs. voluntariness"
+  ],
+  "region": "Zimbabwe"
+ }
+]
