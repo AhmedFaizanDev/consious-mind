@@ -52,6 +52,10 @@
     "social_chem": {
       "staged": 49909,
       "valid": 49909
+    },
+    "synthetic": {
+      "staged": 1498,
+      "valid": 1498
     }
   },
   "validation_failures": {
@@ -70,7 +74,7 @@
     "exact_dup:social_chem": 108,
     "label_conflict_dropped": 601,
     "near_dup_trimmed": 15,
-    "socialchem_same_situation_dropped": 617
+    "socialchem_same_situation_dropped": 544
   },
   "quotas": {
     "prior_workbook": 416,
@@ -78,16 +82,16 @@
     "moralchoice": 1367,
     "moralexceptqa": 147,
     "bigbench_moral": 115,
-    "ethics_commonsense": 2455,
-    "ethics_justice": 1276,
-    "ethics_deontology": 1276,
-    "ethics_virtue": 1080,
-    "ethics_util": 1276,
-    "scruples_anecdotes": 4713,
-    "scruples_dilemmas": 2651,
-    "social_chem": 6873
+    "ethics_commonsense": 2284,
+    "ethics_justice": 1188,
+    "ethics_deontology": 1188,
+    "ethics_virtue": 1005,
+    "ethics_util": 1188,
+    "scruples_anecdotes": 4386,
+    "scruples_dilemmas": 2467,
+    "social_chem": 6396
   },
-  "candidates": 32955,
+  "candidates": 32430,
   "topup_after_neardup": 16,
   "final_rows": 25000
 }

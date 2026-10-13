@@ -78,7 +78,7 @@
     "ETHICS-CommonsenseMorality": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 2458,
+      "in_final": 2291,
       "dataset": "ETHICS (Hendrycks et al., 2021)",
       "url": "https://github.com/hendrycks/ethics (data obtained from GitHub mirror christian-machine-intelligence/psalm-alignment/data/ethics)",
       "license": "MIT (hendrycks/ethics repository LICENSE; dataset card also MIT)",
@@ -91,7 +91,7 @@
     "ETHICS-Deontology": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 1376,
+      "in_final": 1289,
       "dataset": "ETHICS (Hendrycks et al., 2021)",
       "url": "https://github.com/hendrycks/ethics (data obtained from GitHub mirror christian-machine-intelligence/psalm-alignment/data/ethics)",
       "license": "MIT (hendrycks/ethics repository LICENSE; dataset card also MIT)",
@@ -104,7 +104,7 @@
     "ETHICS-Justice": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 1379,
+      "in_final": 1290,
       "dataset": "ETHICS (Hendrycks et al., 2021)",
       "url": "https://github.com/hendrycks/ethics (data obtained from GitHub mirror christian-machine-intelligence/psalm-alignment/data/ethics)",
       "license": "MIT (hendrycks/ethics repository LICENSE; dataset card also MIT)",
@@ -117,7 +117,7 @@
     "ETHICS-Utilitarianism": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 1376,
+      "in_final": 1288,
       "dataset": "ETHICS (Hendrycks et al., 2021)",
       "url": "https://github.com/hendrycks/ethics (data obtained from GitHub mirror christian-machine-intelligence/psalm-alignment/data/ethics)",
       "license": "MIT (hendrycks/ethics repository LICENSE; dataset card also MIT)",
@@ -130,7 +130,7 @@
     "ETHICS-Virtue": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 1182,
+      "in_final": 1105,
       "dataset": "ETHICS (Hendrycks et al., 2021)",
       "url": "https://github.com/hendrycks/ethics (data obtained from GitHub mirror christian-machine-intelligence/psalm-alignment/data/ethics)",
       "license": "MIT (hendrycks/ethics repository LICENSE; dataset card also MIT)",
@@ -195,7 +195,7 @@
     "Scruples-Anecdotes": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 4717,
+      "in_final": 4390,
       "dataset": "Scruples Anecdotes (Lourie et al., 2021)",
       "url": "https://github.com/allenai/scruples (data: storage.googleapis.com/ai2-mosaic-public/projects/scruples/v1.0/data/)",
       "license": "Not stated in the distributed archive README; code repo is Apache-2.0. Underlying text is public Reddit user content. Verify terms with the authors before redistribution.",
@@ -208,7 +208,7 @@
     "Scruples-Dilemmas": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 2653,
+      "in_final": 2468,
       "dataset": "Scruples Dilemmas (Lourie et al., 2021)",
       "url": "https://github.com/allenai/scruples (data: storage.googleapis.com/ai2-mosaic-public/projects/scruples/v1.0/data/)",
       "license": "Not stated in the distributed archive README; code repo is Apache-2.0. Underlying text is public Reddit user content. Verify terms with the authors before redistribution.",
@@ -221,7 +221,7 @@
     "SocialChem101-amitheasshole": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 1758,
+      "in_final": 1637,
       "dataset": "Social Chemistry 101 (Forbes et al., 2020)",
       "url": "https://storage.googleapis.com/ai2-mosaic-public/projects/social-chemistry/data/social-chem-101.zip",
       "license": "Not stated in the distributed README; dataset page is https://maxwellforbes.com/social-chemistry/ - verify (commonly reported as CC BY-SA 4.0).",
@@ -235,7 +235,7 @@
     "SocialChem101-confessions": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 1666,
+      "in_final": 1545,
       "dataset": "Social Chemistry 101 (Forbes et al., 2020)",
       "url": "https://storage.googleapis.com/ai2-mosaic-public/projects/social-chemistry/data/social-chem-101.zip",
       "license": "Not stated in the distributed README; dataset page is https://maxwellforbes.com/social-chemistry/ - verify (commonly reported as CC BY-SA 4.0).",
@@ -249,7 +249,7 @@
     "SocialChem101-dearabby": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 1615,
+      "in_final": 1497,
       "dataset": "Social Chemistry 101 (Forbes et al., 2020)",
       "url": "https://storage.googleapis.com/ai2-mosaic-public/projects/social-chemistry/data/social-chem-101.zip",
       "license": "Not stated in the distributed README; dataset page is https://maxwellforbes.com/social-chemistry/ - verify (commonly reported as CC BY-SA 4.0).",
@@ -263,7 +263,7 @@
     "SocialChem101-rocstories": {
       "imported_staged": 0,
       "valid_after_validation": 0,
-      "in_final": 1836,
+      "in_final": 1718,
       "dataset": "Social Chemistry 101 (Forbes et al., 2020)",
       "url": "https://storage.googleapis.com/ai2-mosaic-public/projects/social-chemistry/data/social-chem-101.zip",
       "license": "Not stated in the distributed README; dataset page is https://maxwellforbes.com/social-chemistry/ - verify (commonly reported as CC BY-SA 4.0).",
@@ -272,6 +272,19 @@
       "label_types": [
         "human_annotation",
         "human_vote_plurality"
+      ]
+    },
+    "Synthetic-AppliedEthics": {
+      "imported_staged": 0,
+      "valid_after_validation": 0,
+      "in_final": 1498,
+      "dataset": "ConsciousMind synthetic applied-ethics set (this project)",
+      "url": "n/a (synthetic)",
+      "license": "Generated by this project; no third-party license. Not human-authored.",
+      "citation": "This project (ConsciousMind); generated with Claude",
+      "origin": "synthetic_this_project",
+      "label_types": [
+        "none"
       ]
     }
   },
@@ -327,6 +340,10 @@
     "social_chem": {
       "staged": 49909,
       "valid": 49909
+    },
+    "synthetic": {
+      "staged": 1498,
+      "valid": 1498
     }
   }
 }
