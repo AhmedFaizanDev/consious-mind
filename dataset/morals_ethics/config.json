@@ -25,5 +25,6 @@
   "quotas": {},
   "bigbench": {
     "include_moral_permissibility": false
-  }
+  },
+  "include_synthetic": false
 }

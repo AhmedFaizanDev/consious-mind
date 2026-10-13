@@ -174,7 +174,7 @@ def main():
                 ok.append(r)
         pool[name] = ok
         stats["stage"][name] = {"staged": len(rows), "valid": len(ok)}
-    if synth.exists():
+    if synth.exists() and cfg.get("include_synthetic", False):
         rows = [json.loads(l) for l in open(synth, encoding="utf-8")]
         pool["synthetic"] = [r for r in rows if not validate(r)]
         stats["stage"]["synthetic"] = {"staged": len(rows), "valid": len(pool["synthetic"])}

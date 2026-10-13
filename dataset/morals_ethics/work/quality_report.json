@@ -9,59 +9,45 @@
   "exact_duplicate_rows": 0,
   "exact_duplicate_scenario_text": 0,
   "duplicate_rate": 0.0,
-  "near_dup_pairs_remaining_jaccard_ge_0.80": 35,
+  "near_dup_pairs_remaining_jaccard_ge_0.80": 37,
   "near_dup_pairs_crossing_splits": 0,
   "near_dup_cross_split_examples": [],
-  "cross_source_reddit_title_overlap_scruples_vs_socialchem": 186,
+  "cross_source_reddit_title_overlap_scruples_vs_socialchem": 210,
   "origin_counts": {
-    "human_authored": 20534,
+    "human_authored": 22032,
     "llm_generated_published": 2621,
-    "synthetic_this_project": 1498,
     "author_written": 347
   },
   "real_vs_synthetic": {
-    "sourced_real_or_published": 23502,
-    "synthetic_this_project": 1498
+    "sourced_real_or_published": 25000,
+    "synthetic_this_project": 0
   },
   "domain_distribution": {
-    "interpersonal_conflict_real_life": 7175,
-    "social_norms_moral_foundations": 4760,
-    "value_conflict_dilemmas": 4634,
-    "justice_fairness": 1290,
-    "duties_obligations": 1289,
-    "wellbeing_consequences": 1288,
-    "everyday_commonsense_morality": 1143,
-    "virtue_character": 1105,
+    "interpersonal_conflict_real_life": 7704,
+    "social_norms_moral_foundations": 5117,
+    "value_conflict_dilemmas": 4819,
+    "justice_fairness": 1379,
+    "duties_obligations": 1376,
+    "wellbeing_consequences": 1376,
+    "everyday_commonsense_morality": 1229,
+    "virtue_character": 1182,
     "harm_avoidance_rule_following": 687,
-    "ai_and_technology_ethics": 125,
-    "research_and_data_ethics": 125,
-    "security_emergency_and_safety_ethics": 125,
-    "media_journalism_and_public_communication": 125,
-    "legal_political_civic_ethics": 125,
-    "family_caregiving_across_cultures": 125,
-    "environmental_and_intergenerational_ethics": 125,
-    "education_and_workplace_ethics": 125,
-    "financial_and_economic_ethics": 125,
-    "global_health_and_development_ethics": 125,
-    "clinical_medical_ethics": 124,
-    "business_and_professional_ethics": 124,
     "ai_alignment_choices": 115,
     "normative_theory_positions": 16
   },
   "component_counts": {
-    "Scruples-Anecdotes": 4390,
-    "Scruples-Dilemmas": 2468,
-    "ETHICS-CommonsenseMorality": 2291,
-    "SocialChem101-rocstories": 1718,
-    "SocialChem101-amitheasshole": 1637,
-    "SocialChem101-confessions": 1545,
-    "Synthetic-AppliedEthics": 1498,
-    "SocialChem101-dearabby": 1497,
+    "Scruples-Anecdotes": 4717,
+    "Scruples-Dilemmas": 2653,
+    "ETHICS-CommonsenseMorality": 2458,
+    "SocialChem101-rocstories": 1836,
+    "SocialChem101-amitheasshole": 1758,
+    "SocialChem101-confessions": 1666,
+    "SocialChem101-dearabby": 1615,
+    "ETHICS-Justice": 1379,
+    "ETHICS-Deontology": 1376,
+    "ETHICS-Utilitarianism": 1376,
     "DailyDilemmas": 1354,
-    "ETHICS-Justice": 1290,
-    "ETHICS-Deontology": 1289,
-    "ETHICS-Utilitarianism": 1288,
-    "ETHICS-Virtue": 1105,
+    "ETHICS-Virtue": 1182,
     "MoralChoice-low-ambiguity": 687,
     "MoralChoice-high-ambiguity": 680,
     "MoralExceptQA": 132,
@@ -69,43 +55,40 @@
     "PhilPapers-2020": 16
   },
   "label_availability": {
-    "human_labeled": 20666,
-    "unlabeled": 3532,
+    "human_labeled": 22164,
+    "unlabeled": 2034,
     "author_designated": 802
   },
   "label_type_counts": {
-    "human_consensus": 9731,
-    "human_annotation": 6173,
-    "human_vote_plurality": 4614,
-    "none": 3532,
+    "human_consensus": 10424,
+    "human_annotation": 6640,
+    "human_vote_plurality": 4952,
+    "none": 2034,
     "dataset_design_intended": 687,
     "human_proportion_thresholded": 132,
     "author_designated": 115,
     "human_survey_plurality": 16
   },
   "split_counts": {
-    "train": 17514,
-    "test": 5019,
-    "dev": 2467
+    "train": 17423,
+    "test": 5089,
+    "dev": 2488
   },
   "split_by_origin": {
     "dev": {
       "author_written": 32,
-      "human_authored": 2065,
-      "llm_generated_published": 232,
-      "synthetic_this_project": 138
+      "human_authored": 2224,
+      "llm_generated_published": 232
     },
     "test": {
       "author_written": 73,
-      "human_authored": 4141,
-      "llm_generated_published": 506,
-      "synthetic_this_project": 299
+      "human_authored": 4510,
+      "llm_generated_published": 506
     },
     "train": {
       "author_written": 242,
-      "human_authored": 14328,
-      "llm_generated_published": 1883,
-      "synthetic_this_project": 1061
+      "human_authored": 15298,
+      "llm_generated_published": 1883
     }
   },
   "license_coverage": {
@@ -114,20 +97,20 @@
     "rows_with_url": 25000
   },
   "license_stated_vs_unstated": {
-    "explicit_license_in_source": 23354,
-    "not_stated_in_source_verify": 13387
+    "explicit_license_in_source": 24852,
+    "not_stated_in_source_verify": 14377
   },
   "prior_workbook_items_preserved": 416,
   "items_with_prior_model_responses": 416,
   "text_chars": {
     "count": 25000.0,
-    "mean": 490.2,
-    "std": 605.5,
+    "mean": 468.7,
+    "std": 621.6,
     "min": 14.0,
-    "25%": 143.0,
-    "50%": 190.0,
-    "75%": 701.0,
-    "max": 4879.0
+    "25%": 139.0,
+    "50%": 183.0,
+    "75%": 375.0,
+    "max": 5993.0
   },
   "label_distribution_by_component": {
     "BIGbench-SimpleEthicalQuestions": {
@@ -140,27 +123,27 @@
       "(none)": 1354
     },
     "ETHICS-CommonsenseMorality": {
-      "No": 1147,
-      "Yes": 1144
+      "No": 1231,
+      "Yes": 1227
     },
     "ETHICS-Deontology": {
-      "Yes": 645,
-      "No": 644
+      "No": 689,
+      "Yes": 687
     },
     "ETHICS-Justice": {
-      "No": 646,
-      "Yes": 644
+      "No": 690,
+      "Yes": 689
     },
     "ETHICS-Utilitarianism": {
-      "B": 645,
-      "A": 643
+      "A": 688,
+      "B": 688
     },
     "ETHICS-Virtue": {
-      "C": 226,
-      "B": 225,
-      "A": 220,
-      "E": 219,
-      "D": 215
+      "C": 242,
+      "B": 241,
+      "A": 235,
+      "E": 234,
+      "D": 230
     },
     "MoralChoice-high-ambiguity": {
       "(none)": 680
@@ -191,46 +174,43 @@
       "impermissible": 1
     },
     "Scruples-Anecdotes": {
-      "OTHER": 1688,
-      "AUTHOR": 1220,
-      "NOBODY": 849,
+      "OTHER": 1887,
+      "AUTHOR": 1285,
+      "NOBODY": 912,
       "EVERYBODY": 544,
       "INFO": 89
     },
     "Scruples-Dilemmas": {
-      "A": 1235,
-      "B": 1233
+      "B": 1327,
+      "A": 1326
     },
     "SocialChem101-amitheasshole": {
-      "very bad": 347,
-      "good": 346,
-      "expected/OK": 346,
-      "bad": 346,
+      "expected/OK": 377,
+      "very bad": 377,
+      "good": 376,
+      "bad": 376,
       "very good": 252
     },
     "SocialChem101-confessions": {
-      "good": 346,
-      "expected/OK": 346,
-      "very bad": 346,
-      "bad": 346,
-      "very good": 161
+      "very bad": 376,
+      "good": 376,
+      "expected/OK": 376,
+      "bad": 376,
+      "very good": 162
     },
     "SocialChem101-dearabby": {
-      "bad": 346,
-      "good": 346,
-      "very bad": 346,
-      "expected/OK": 346,
-      "very good": 113
+      "bad": 376,
+      "good": 376,
+      "expected/OK": 376,
+      "very bad": 376,
+      "very good": 111
     },
     "SocialChem101-rocstories": {
-      "bad": 346,
-      "expected/OK": 346,
-      "very bad": 345,
-      "good": 345,
+      "very bad": 375,
+      "bad": 375,
+      "good": 375,
+      "expected/OK": 375,
       "very good": 336
-    },
-    "Synthetic-AppliedEthics": {
-      "(none)": 1498
     }
   },
   "upstream_validation_failures": {
@@ -249,7 +229,7 @@
     "exact_dup:social_chem": 108,
     "label_conflict_dropped": 601,
     "near_dup_trimmed": 15,
-    "socialchem_same_situation_dropped": 544
+    "socialchem_same_situation_dropped": 617
   },
   "stage_counts": {
     "prior_workbook": {
@@ -303,13 +283,9 @@
     "social_chem": {
       "staged": 49909,
       "valid": 49909
-    },
-    "synthetic": {
-      "staged": 1498,
-      "valid": 1498
     }
   },
-  "valid_labeled_items": 21468,
+  "valid_labeled_items": 22966,
   "valid_unique_items": 25000,
   "hard_failures": []
 }
