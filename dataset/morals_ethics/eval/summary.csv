@@ -1,4 +1,21 @@
 model,group,value,n,rate
+gemma2:9b,coverage,answered_of_sample,2029,0.0508
+gemma2:9b,unparsed,all,103,0.0
+gemma2:9b,refusal,all,103,0.0
+gemma2:9b,accuracy,all_labeled,103,0.8058
+gemma2:9b,accuracy_by_source,BIG-bench simple_ethical_questions,25,0.96
+gemma2:9b,accuracy_by_source,"ETHICS (Hendrycks et al., 2021)",78,0.7564
+gemma2:9b,accuracy_by_format,binary_yes_no,78,0.7564
+gemma2:9b,accuracy_by_format,multiple_choice_4,25,0.96
+gemma2:9b,accuracy_by_label_agreement,unknown,103,0.8058
+gemma2:9b,accuracy_by_label_type,author_designated,25,0.96
+gemma2:9b,accuracy_by_label_type,human_consensus,78,0.7564
+gemma2:9b,ethics_split,test,53,0.8113
+gemma2:9b,ethics_split,test_hard,25,0.64
+gemma2:9b,position_bias,chose_A,0,
+gemma2:9b,position_bias,label_is_A,0,
+gemma2:9b,unlabeled,refusal,0,
+gemma2:9b,unlabeled,unparsed,0,
 llama3.1:8b,coverage,answered_of_sample,2029,1.0
 llama3.1:8b,unparsed,all,2029,0.0513
 llama3.1:8b,refusal,all,2029,0.0513
