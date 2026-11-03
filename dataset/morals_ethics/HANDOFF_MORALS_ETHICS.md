@@ -30,7 +30,22 @@ Labels: 20,666 human-derived, 802 author-designated, 3,532 unlabeled.
   (on a machine with normal internet the extra sources in the README's "reviewed and excluded" list can also be tried).
 
 ## Open items / next steps
-1. **Local-model evaluation (discussed, not built):** write `scripts/eval_ollama.py` - fixed prompt per `response_format`, temperature 0 + seed, resumable JSONL output, scoring on labeled rows only (accuracy by source/domain/`label_agreement`, ETHICS `test_hard` vs `test`, A/B position bias); refusal/hedge rates for the unlabeled dilemmas; start with a ~2,000-row stratified sample. Candidate models: Llama 3.1 8B, Qwen 2.5 7B/14B, Gemma 2 9B, Mistral 7B. Can be compared with the Claude answers already in the prior-workbook responses (416 items). The cloud sandbox cannot run Ollama (blocked, no GPU); run locally.
+1. **Local-model evaluation - script BUILT 2026-11-03, models not yet run:** `scripts/eval_ollama.py` (stdlib only, talks to Ollama at `localhost:11434`).
+   The stratified sample is committed: `eval/sample.csv` (2,029 test-split rows, seed 20261103, >=25 per source x format). The script uses temperature 0 with a fixed seed, writes resumable JSONL to `eval/responses/<model>.jsonl`, and scores into `eval/summary.csv`, covering:
+   - accuracy on labeled rows, broken down by source, format, `label_agreement` band and `label_type`
+   - ETHICS `test` vs `test_hard`
+   - A/B position bias
+   - refusal and unparsed rates, including on the unlabeled dilemmas
+   - prior-workbook Claude accuracy on the same items, for comparison
+
+   It was verified end to end against a stub Ollama server (`selftest` + run/resume/score). To run:
+   ```
+   ollama pull llama3.1:8b && ollama pull qwen2.5:7b && ollama pull gemma2:9b
+   python3 scripts/eval_ollama.py run --model llama3.1:8b --limit 50   # smoke test
+   python3 scripts/eval_ollama.py run --model llama3.1:8b --model qwen2.5:7b --model gemma2:9b
+   python3 scripts/eval_ollama.py score
+   ```
+   Commit `eval/responses/` + `eval/summary.csv` after each run so results are saved.
 2. **Licenses:** Scruples, Social Chemistry 101, MoralExceptQA state no data license in the retrieved files - verify before any public release.
 3. **Verify arXiv IDs** in `papers/PAPERS.md`; download PDFs with `papers/fetch_papers.sh`.
 4. **Possible extensions** (hosts blocked here): Moral Stories, MIC, Delphi/Commonsense Norm Bank, ValuePrism, MFRC.
