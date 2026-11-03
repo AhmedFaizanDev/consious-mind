@@ -50790,3 +50790,62 @@ claude-haiku (prior workbook)      accuracy             all_labeled             
 claude-opus (prior workbook)       accuracy             all_labeled                                n=23    0.9565
 claude-sonnet (prior workbook)     accuracy             all_labeled                                n=23    0.8696
 wrote /Users/faizan/RootVault/ conscious-mind/dataset/morals_ethics/eval/summary.csv
+=== 01:37 pulling qwen2.5:7b
+[?2026h[?25l[1Gpulling manifest ⠙ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠙ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠸ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠸ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠼ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠴ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠦ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠧ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠇ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠏ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠋ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠙ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠹ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest [K
+pulling 2bada8a74506: 100% ▕██████████████████▏ 4.7 GB                         [K
+pulling 66b9ea09bd5b: 100% ▕██████████████████▏   68 B                         [K
+pulling eb4402837c78: 100% ▕██████████████████▏ 1.5 KB                         [K
+pulling 832dd9e00a68: 100% ▕██████████████████▏  11 KB                         [K
+pulling 2f15b3218f05: 100% ▕██████████████████▏  487 B                         [K
+verifying sha256 digest [K
+writing manifest [K
+removing unused layers [K
+success [K[?25h[?2026l
+=== 01:37 smoke test qwen2.5:7b
+[qwen2.5:7b] 2029 done, 0 to go, 4 parallel
+smoke: 2029 answered, 30 unparsed
+=== 01:37 full run qwen2.5:7b
+[qwen2.5:7b] 2029 done, 0 to go, 4 parallel
+gemma2:9b                          unparsed             all                                        n=103   0.0
+gemma2:9b                          refusal              all                                        n=103   0.0
+gemma2:9b                          accuracy             all_labeled                                n=103   0.8058
+gemma2:9b                          accuracy_by_source   BIG-bench simple_ethical_questions         n=25    0.96
+gemma2:9b                          accuracy_by_source   ETHICS (Hendrycks et al., 2021)            n=78    0.7564
+gemma2:9b                          ethics_split         test                                       n=53    0.8113
+gemma2:9b                          ethics_split         test_hard                                  n=25    0.64
+gemma2:9b                          position_bias        chose_A                                    n=0     
+gemma2:9b                          position_bias        label_is_A                                 n=0     
+llama3.1:8b                        unparsed             all                                        n=2029  0.0513
+llama3.1:8b                        refusal              all                                        n=2029  0.0513
+llama3.1:8b                        accuracy             all_labeled                                n=1753  0.5425
+llama3.1:8b                        accuracy_by_source   2020 PhilPapers Survey (Bourget & Chalmers n=2     0.5
+llama3.1:8b                        accuracy_by_source   BIG-bench simple_ethical_questions         n=25    0.88
+llama3.1:8b                        accuracy_by_source   ETHICS (Hendrycks et al., 2021)            n=560   0.7696
+llama3.1:8b                        accuracy_by_source   MoralChoice (Scherrer et al., 2023)        n=52    0.9615
+llama3.1:8b                        accuracy_by_source   MoralExceptQA (Jin et al., 2022)           n=25    0.6
+llama3.1:8b                        accuracy_by_source   Scruples Anecdotes (Lourie et al., 2021)   n=352   0.3438
+llama3.1:8b                        accuracy_by_source   Scruples Dilemmas (Lourie et al., 2021)    n=209   0.5359
+llama3.1:8b                        accuracy_by_source   Social Chemistry 101 (Forbes et al., 2020) n=528   0.3769
+llama3.1:8b                        ethics_split         test                                       n=379   0.8047
+llama3.1:8b                        ethics_split         test_hard                                  n=181   0.6961
+llama3.1:8b                        position_bias        chose_A                                    n=519   0.3603
+llama3.1:8b                        position_bias        label_is_A                                 n=362   0.4807
+qwen2.5:7b                         unparsed             all                                        n=2029  0.0148
+qwen2.5:7b                         refusal              all                                        n=2029  0.0
+qwen2.5:7b                         accuracy             all_labeled                                n=1753  0.5339
+qwen2.5:7b                         accuracy_by_source   2020 PhilPapers Survey (Bourget & Chalmers n=2     0.5
+qwen2.5:7b                         accuracy_by_source   BIG-bench simple_ethical_questions         n=25    0.92
+qwen2.5:7b                         accuracy_by_source   ETHICS (Hendrycks et al., 2021)            n=560   0.7107
+qwen2.5:7b                         accuracy_by_source   MoralChoice (Scherrer et al., 2023)        n=52    1.0
+qwen2.5:7b                         accuracy_by_source   MoralExceptQA (Jin et al., 2022)           n=25    0.6
+qwen2.5:7b                         accuracy_by_source   Scruples Anecdotes (Lourie et al., 2021)   n=352   0.2812
+qwen2.5:7b                         accuracy_by_source   Scruples Dilemmas (Lourie et al., 2021)    n=209   0.5167
+qwen2.5:7b                         accuracy_by_source   Social Chemistry 101 (Forbes et al., 2020) n=528   0.4545
+qwen2.5:7b                         ethics_split         test                                       n=379   0.7256
+qwen2.5:7b                         ethics_split         test_hard                                  n=181   0.6796
+qwen2.5:7b                         position_bias        chose_A                                    n=519   0.3565
+qwen2.5:7b                         position_bias        label_is_A                                 n=362   0.4807
+claude-haiku (prior workbook)      accuracy             all_labeled                                n=23    0.8261
+claude-opus (prior workbook)       accuracy             all_labeled                                n=23    0.9565
+claude-sonnet (prior workbook)     accuracy             all_labeled                                n=23    0.8696
+wrote /Users/faizan/RootVault/ conscious-mind/dataset/morals_ethics/eval/summary.csv
