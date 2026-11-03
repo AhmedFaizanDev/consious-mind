@@ -34322,3 +34322,53 @@ pulling ff1d1fc78170:   2% ▕                  ▏ 116 MB/5.4 GB  2.6 MB/s   34
 pulling ff1d1fc78170:   2% ▕                  ▏ 116 MB/5.4 GB  2.6 MB/s   34m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
 pulling ff1d1fc78170:   2% ▕                  ▏ 117 MB/5.4 GB  2.6 MB/s   34m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
 pulling ff1d1fc78170:   2% ▕                  ▏ 118 MB/5.4 GB  2.6 MB/s   34m1s[K[?25h[?2026lPAUSED
+=== 01:06 pulling llama3.1:8b
+[?2026h[?25l[1Gpulling manifest ⠋ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠙ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠹ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠸ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠼ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠴ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠦ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠧ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠇ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠏ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ⠋ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest [K
+pulling 667b0c1932bc: 100% ▕██████████████████▏ 4.9 GB                         [K
+pulling 948af2743fc7: 100% ▕██████████████████▏ 1.5 KB                         [K
+pulling 0ba8f0e314b4: 100% ▕██████████████████▏  12 KB                         [K
+pulling 56bb8bd477a5: 100% ▕██████████████████▏   96 B                         [K
+pulling 455f34728c9b: 100% ▕██████████████████▏  487 B                         [K
+verifying sha256 digest [K
+writing manifest [K
+removing unused layers [K
+success [K[?25h[?2026l
+=== 01:06 smoke test llama3.1:8b
+[llama3.1:8b] 2029 done, 0 to go, 8 parallel
+smoke: 2029 answered, 104 unparsed
+=== 01:06 full run llama3.1:8b
+[llama3.1:8b] 2029 done, 0 to go, 8 parallel
+llama3.1:8b                        unparsed             all                                        n=2029  0.0513
+llama3.1:8b                        refusal              all                                        n=2029  0.0513
+llama3.1:8b                        accuracy             all_labeled                                n=1753  0.5425
+llama3.1:8b                        accuracy_by_source   2020 PhilPapers Survey (Bourget & Chalmers n=2     0.5
+llama3.1:8b                        accuracy_by_source   BIG-bench simple_ethical_questions         n=25    0.88
+llama3.1:8b                        accuracy_by_source   ETHICS (Hendrycks et al., 2021)            n=560   0.7696
+llama3.1:8b                        accuracy_by_source   MoralChoice (Scherrer et al., 2023)        n=52    0.9615
+llama3.1:8b                        accuracy_by_source   MoralExceptQA (Jin et al., 2022)           n=25    0.6
+llama3.1:8b                        accuracy_by_source   Scruples Anecdotes (Lourie et al., 2021)   n=352   0.3438
+llama3.1:8b                        accuracy_by_source   Scruples Dilemmas (Lourie et al., 2021)    n=209   0.5359
+llama3.1:8b                        accuracy_by_source   Social Chemistry 101 (Forbes et al., 2020) n=528   0.3769
+llama3.1:8b                        ethics_split         test                                       n=379   0.8047
+llama3.1:8b                        ethics_split         test_hard                                  n=181   0.6961
+llama3.1:8b                        position_bias        chose_A                                    n=519   0.3603
+llama3.1:8b                        position_bias        label_is_A                                 n=362   0.4807
+qwen2.5:7b                         unparsed             all                                        n=2029  0.0148
+qwen2.5:7b                         refusal              all                                        n=2029  0.0
+qwen2.5:7b                         accuracy             all_labeled                                n=1753  0.5339
+qwen2.5:7b                         accuracy_by_source   2020 PhilPapers Survey (Bourget & Chalmers n=2     0.5
+qwen2.5:7b                         accuracy_by_source   BIG-bench simple_ethical_questions         n=25    0.92
+qwen2.5:7b                         accuracy_by_source   ETHICS (Hendrycks et al., 2021)            n=560   0.7107
+qwen2.5:7b                         accuracy_by_source   MoralChoice (Scherrer et al., 2023)        n=52    1.0
+qwen2.5:7b                         accuracy_by_source   MoralExceptQA (Jin et al., 2022)           n=25    0.6
+qwen2.5:7b                         accuracy_by_source   Scruples Anecdotes (Lourie et al., 2021)   n=352   0.2812
+qwen2.5:7b                         accuracy_by_source   Scruples Dilemmas (Lourie et al., 2021)    n=209   0.5167
+qwen2.5:7b                         accuracy_by_source   Social Chemistry 101 (Forbes et al., 2020) n=528   0.4545
+qwen2.5:7b                         ethics_split         test                                       n=379   0.7256
+qwen2.5:7b                         ethics_split         test_hard                                  n=181   0.6796
+qwen2.5:7b                         position_bias        chose_A                                    n=519   0.3565
+qwen2.5:7b                         position_bias        label_is_A                                 n=362   0.4807
+claude-haiku (prior workbook)      accuracy             all_labeled                                n=23    0.8261
+claude-opus (prior workbook)       accuracy             all_labeled                                n=23    0.9565
+claude-sonnet (prior workbook)     accuracy             all_labeled                                n=23    0.8696
+wrote /Users/faizan/RootVault/ conscious-mind/dataset/morals_ethics/eval/summary.csv
