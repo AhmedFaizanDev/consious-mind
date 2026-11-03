@@ -30,22 +30,25 @@ Labels: 20,666 human-derived, 802 author-designated, 3,532 unlabeled.
   (on a machine with normal internet the extra sources in the README's "reviewed and excluded" list can also be tried).
 
 ## Open items / next steps
-1. **Local-model evaluation - script BUILT 2026-11-03, models not yet run:** `scripts/eval_ollama.py` (stdlib only, talks to Ollama at `localhost:11434`).
-   The stratified sample is committed: `eval/sample.csv` (2,029 test-split rows, seed 20261103, >=25 per source x format). The script uses temperature 0 with a fixed seed, writes resumable JSONL to `eval/responses/<model>.jsonl`, and scores into `eval/summary.csv`, covering:
-   - accuracy on labeled rows, broken down by source, format, `label_agreement` band and `label_type`
-   - ETHICS `test` vs `test_hard`
-   - A/B position bias
-   - refusal and unparsed rates, including on the unlabeled dilemmas
-   - prior-workbook Claude accuracy on the same items, for comparison
+1. **Local-model evaluation - DONE 2026-11-04** (Ollama on Apple M5 GPU, temperature 0, fixed seed; 2,029 items x 3 models, all answered).
+   Results: `eval/summary.csv`; raw replies: `eval/responses/*.jsonl`; all three models side by side: `eval/responses_side_by_side.csv`.
 
-   It was verified end to end against a stub Ollama server (`selftest` + run/resume/score). To run:
-   ```
-   ollama pull llama3.1:8b && ollama pull qwen2.5:7b && ollama pull gemma2:9b
-   python3 scripts/eval_ollama.py run --model llama3.1:8b --limit 50   # smoke test
-   python3 scripts/eval_ollama.py run --model llama3.1:8b --model qwen2.5:7b --model gemma2:9b
-   python3 scripts/eval_ollama.py score
-   ```
-   Commit `eval/responses/` + `eval/summary.csv` after each run so results are saved.
+   | Accuracy vs human label | llama3.1:8b | qwen2.5:7b | gemma2:9b |
+   |---|---|---|---|
+   | Overall (1,753 labeled) | 54.3% | 53% | **59.5%** |
+   | ETHICS test / test_hard | 80 / 70% | 73 / 68% | 86 / 78% |
+   | Social Chemistry 101 | 38% | 45% | 46% |
+   | Scruples Anecdotes | 34% | 28% | 27% |
+   | MoralChoice / BIG-bench | 96 / 88% | 100 / 92% | 100 / 96% |
+   | Refusal / unparsed | 5.1% | 0% / 1.5% | 0% / 0% |
+
+   For reference, prior-workbook Claude on the 23 overlapping items scored: haiku 83%, sonnet 87%, opus 96%.
+
+   **Reading the results:** all three models are near ceiling on clear-cut items (MoralChoice, BIG-bench, ETHICS). They are weak where humans disagree: Scruples Anecdotes (vote plurality, 27-34%) and Social Chemistry's 5-point ordinal. Accuracy drops on rows with label agreement under 0.8, so low scores there partly reflect label noise, not only model error.
+
+   Next: a matched human baseline on the low-agreement subset. Optionally, run larger local models.
+
+   Re-run any time with `bash scripts/run_ollama_eval.sh`; it resumes from where it stopped. On a 16 GB machine, use `WORKERS=4` for gemma2:9b.
 2. **Licenses:** Scruples, Social Chemistry 101, MoralExceptQA state no data license in the retrieved files - verify before any public release.
 3. **Verify arXiv IDs** in `papers/PAPERS.md`; download PDFs with `papers/fetch_papers.sh`.
 4. **Possible extensions** (hosts blocked here): Moral Stories, MIC, Delphi/Commonsense Norm Bank, ValuePrism, MFRC.

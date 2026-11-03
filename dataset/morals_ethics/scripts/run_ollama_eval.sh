@@ -7,7 +7,7 @@ set -uo pipefail
 cd "$(dirname "$0")/../../.."
 EVAL=dataset/morals_ethics/scripts/eval_ollama.py
 MODELS=(llama3.1:8b qwen2.5:7b gemma2:9b)
-WORKERS=8
+WORKERS=${WORKERS:-8}
 
 if ! curl -s localhost:11434/api/version >/dev/null; then
   OLLAMA_NUM_PARALLEL=$WORKERS OLLAMA_MAX_LOADED_MODELS=1 OLLAMA_FLASH_ATTENTION=1 OLLAMA_KV_CACHE_TYPE=q8_0 \

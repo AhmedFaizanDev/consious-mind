@@ -50953,3 +50953,4 @@ claude-haiku (prior workbook)      accuracy             all_labeled             
 claude-opus (prior workbook)       accuracy             all_labeled                                n=23    0.9565
 claude-sonnet (prior workbook)     accuracy             all_labeled                                n=23    0.8696
 wrote /Users/faizan/RootVault/ conscious-mind/dataset/morals_ethics/eval/summary.csv
+=== 03:07 ALL DONE
