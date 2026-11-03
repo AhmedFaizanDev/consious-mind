@@ -204,3 +204,6 @@ is judgment calls, not missing engineering:
    now that both categories have real data — but it's a separate
    deliverable from "the dataset exists and is well-sourced," which is now
    true.
+
+---
+**2026-11-03 addendum:** the Morals & Ethics 25k dataset work is documented in `dataset/morals_ethics/HANDOFF_MORALS_ETHICS.md`.
