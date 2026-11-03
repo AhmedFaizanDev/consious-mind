@@ -20,6 +20,7 @@ import sys
 import time
 import urllib.request
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -141,24 +142,31 @@ def cmd_run(args):
             with open(out, encoding="utf-8") as f:
                 done = {json.loads(l)["item_id"] for l in f if l.strip()}
         todo = [r for r in rows if r["item_id"] not in done]
-        print(f"[{model}] {len(done)} done, {len(todo)} to go")
-        with open(out, "a", encoding="utf-8") as f:
-            for i, r in enumerate(todo, 1):
-                t0 = time.time()
-                try:
-                    raw = ollama_chat(args.host, model, build_prompt(r), args.num_predict)
-                except Exception as e:  # keep going; failed items are retried on the next run
-                    print(f"  {r['item_id']}: {e}", file=sys.stderr)
-                    continue
-                parsed = parse_answer(raw, options(r))
-                f.write(json.dumps({
-                    "item_id": r["item_id"], "model": model, "raw": raw, "parsed": parsed,
-                    "refusal": parsed is None and bool(REFUSAL.search(raw)),
-                    "seconds": round(time.time() - t0, 2),
-                }, ensure_ascii=False) + "\n")
-                f.flush()
-                if i % 25 == 0 or i == len(todo):
-                    print(f"  {i}/{len(todo)}")
+        print(f"[{model}] {len(done)} done, {len(todo)} to go, {args.workers} parallel")
+
+        def ask(r):
+            t0 = time.time()
+            try:
+                return r, ollama_chat(args.host, model, build_prompt(r), args.num_predict), time.time() - t0
+            except Exception as e:  # keep going; failed items are retried on the next run
+                print(f"  {r['item_id']}: {e}", file=sys.stderr)
+                return r, None, 0
+
+        start = time.time()
+        # temperature 0 + fixed seed, so answers don't depend on request order or parallelism
+        with open(out, "a", encoding="utf-8") as f, ThreadPoolExecutor(args.workers) as pool:
+            for i, (r, raw, secs) in enumerate(pool.map(ask, todo), 1):
+                if raw is not None:
+                    parsed = parse_answer(raw, options(r))
+                    f.write(json.dumps({
+                        "item_id": r["item_id"], "model": model, "raw": raw, "parsed": parsed,
+                        "refusal": parsed is None and bool(REFUSAL.search(raw)),
+                        "seconds": round(secs, 2),
+                    }, ensure_ascii=False) + "\n")
+                    f.flush()
+                if i % 50 == 0 or i == len(todo):
+                    rate = i / (time.time() - start)
+                    print(f"  {i}/{len(todo)}  {rate:.1f} items/s  eta {(len(todo) - i) / rate / 60:.0f} min", flush=True)
 
 
 def same(parsed, label):
@@ -255,6 +263,7 @@ def main():
     r.add_argument("--host", default="http://localhost:11434")
     r.add_argument("--limit", type=int, default=0, help="only the first N sample rows (smoke test)")
     r.add_argument("--num-predict", type=int, default=120)
+    r.add_argument("--workers", type=int, default=4, help="parallel requests; match OLLAMA_NUM_PARALLEL")
     sub.add_parser("score")
     sub.add_parser("selftest")
     a = ap.parse_args()
