@@ -1,0 +1,74 @@
+model,group,value,n,rate
+llama3.1:8b,coverage,answered_of_sample,2029,1.0
+llama3.1:8b,unparsed,all,2029,0.0513
+llama3.1:8b,refusal,all,2029,0.0513
+llama3.1:8b,accuracy,all_labeled,1753,0.5425
+llama3.1:8b,accuracy_by_source,2020 PhilPapers Survey (Bourget & Chalmers),2,0.5
+llama3.1:8b,accuracy_by_source,BIG-bench simple_ethical_questions,25,0.88
+llama3.1:8b,accuracy_by_source,"ETHICS (Hendrycks et al., 2021)",560,0.7696
+llama3.1:8b,accuracy_by_source,"MoralChoice (Scherrer et al., 2023)",52,0.9615
+llama3.1:8b,accuracy_by_source,"MoralExceptQA (Jin et al., 2022)",25,0.6
+llama3.1:8b,accuracy_by_source,"Scruples Anecdotes (Lourie et al., 2021)",352,0.3438
+llama3.1:8b,accuracy_by_source,"Scruples Dilemmas (Lourie et al., 2021)",209,0.5359
+llama3.1:8b,accuracy_by_source,"Social Chemistry 101 (Forbes et al., 2020)",528,0.3769
+llama3.1:8b,accuracy_by_format,binary_AB,362,0.6657
+llama3.1:8b,accuracy_by_format,binary_yes_no,396,0.7298
+llama3.1:8b,accuracy_by_format,multiple_choice_4,25,0.88
+llama3.1:8b,accuracy_by_format,multiple_choice_5,440,0.4523
+llama3.1:8b,accuracy_by_format,ordinal_5,528,0.3769
+llama3.1:8b,accuracy_by_format,philosopher_single_choice,2,0.5
+llama3.1:8b,accuracy_by_label_agreement,0.8-0.99,359,0.6407
+llama3.1:8b,accuracy_by_label_agreement,1.0,730,0.463
+llama3.1:8b,accuracy_by_label_agreement,<0.8,327,0.3792
+llama3.1:8b,accuracy_by_label_agreement,unknown,337,0.7685
+llama3.1:8b,accuracy_by_label_type,author_designated,25,0.88
+llama3.1:8b,accuracy_by_label_type,dataset_design_intended,52,0.9615
+llama3.1:8b,accuracy_by_label_type,human_annotation,507,0.3708
+llama3.1:8b,accuracy_by_label_type,human_consensus,769,0.7061
+llama3.1:8b,accuracy_by_label_type,human_proportion_thresholded,25,0.6
+llama3.1:8b,accuracy_by_label_type,human_survey_plurality,2,0.5
+llama3.1:8b,accuracy_by_label_type,human_vote_plurality,373,0.3539
+llama3.1:8b,ethics_split,test,379,0.8047
+llama3.1:8b,ethics_split,test_hard,181,0.6961
+llama3.1:8b,position_bias,chose_A,519,0.3603
+llama3.1:8b,position_bias,label_is_A,362,0.4807
+llama3.1:8b,unlabeled,refusal,276,0.0362
+llama3.1:8b,unlabeled,unparsed,276,0.0362
+qwen2.5:7b,coverage,answered_of_sample,2029,1.0
+qwen2.5:7b,unparsed,all,2029,0.0148
+qwen2.5:7b,refusal,all,2029,0.0
+qwen2.5:7b,accuracy,all_labeled,1753,0.5339
+qwen2.5:7b,accuracy_by_source,2020 PhilPapers Survey (Bourget & Chalmers),2,0.5
+qwen2.5:7b,accuracy_by_source,BIG-bench simple_ethical_questions,25,0.92
+qwen2.5:7b,accuracy_by_source,"ETHICS (Hendrycks et al., 2021)",560,0.7107
+qwen2.5:7b,accuracy_by_source,"MoralChoice (Scherrer et al., 2023)",52,1.0
+qwen2.5:7b,accuracy_by_source,"MoralExceptQA (Jin et al., 2022)",25,0.6
+qwen2.5:7b,accuracy_by_source,"Scruples Anecdotes (Lourie et al., 2021)",352,0.2812
+qwen2.5:7b,accuracy_by_source,"Scruples Dilemmas (Lourie et al., 2021)",209,0.5167
+qwen2.5:7b,accuracy_by_source,"Social Chemistry 101 (Forbes et al., 2020)",528,0.4545
+qwen2.5:7b,accuracy_by_format,binary_AB,362,0.6326
+qwen2.5:7b,accuracy_by_format,binary_yes_no,396,0.6692
+qwen2.5:7b,accuracy_by_format,multiple_choice_4,25,0.92
+qwen2.5:7b,accuracy_by_format,multiple_choice_5,440,0.4045
+qwen2.5:7b,accuracy_by_format,ordinal_5,528,0.4545
+qwen2.5:7b,accuracy_by_format,philosopher_single_choice,2,0.5
+qwen2.5:7b,accuracy_by_label_agreement,0.8-0.99,359,0.5153
+qwen2.5:7b,accuracy_by_label_agreement,1.0,730,0.5151
+qwen2.5:7b,accuracy_by_label_agreement,<0.8,327,0.3517
+qwen2.5:7b,accuracy_by_label_agreement,unknown,337,0.7715
+qwen2.5:7b,accuracy_by_label_type,author_designated,25,0.92
+qwen2.5:7b,accuracy_by_label_type,dataset_design_intended,52,1.0
+qwen2.5:7b,accuracy_by_label_type,human_annotation,507,0.4458
+qwen2.5:7b,accuracy_by_label_type,human_consensus,769,0.658
+qwen2.5:7b,accuracy_by_label_type,human_proportion_thresholded,25,0.6
+qwen2.5:7b,accuracy_by_label_type,human_survey_plurality,2,0.5
+qwen2.5:7b,accuracy_by_label_type,human_vote_plurality,373,0.3029
+qwen2.5:7b,ethics_split,test,379,0.7256
+qwen2.5:7b,ethics_split,test_hard,181,0.6796
+qwen2.5:7b,position_bias,chose_A,519,0.3565
+qwen2.5:7b,position_bias,label_is_A,362,0.4807
+qwen2.5:7b,unlabeled,refusal,276,0.0
+qwen2.5:7b,unlabeled,unparsed,276,0.0
+claude-haiku (prior workbook),accuracy,all_labeled,23,0.8261
+claude-opus (prior workbook),accuracy,all_labeled,23,0.9565
+claude-sonnet (prior workbook),accuracy,all_labeled,23,0.8696

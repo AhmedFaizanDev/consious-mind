@@ -37,7 +37,7 @@ SYSTEM = (
     "Then give one short sentence of justification."
 )
 
-REFUSAL = re.compile(r"\b(i can(?:no|')t|i'm not able|i am not able|i won't|as an ai|i'm unable|i am unable)\b", re.I)
+REFUSAL = re.compile(r"\b(i can(?:no|'|’)t|i'm not able|i am not able|i won['’]t|as an ai|i'm unable|i am unable)\b", re.I)
 
 
 def read_csv(path):
@@ -195,6 +195,8 @@ def cmd_score(args):
     for path in files:
         resp = [json.loads(l) for l in open(path, encoding="utf-8") if l.strip()]
         resp = [x for x in resp if x["item_id"] in items]
+        for x in resp:  # recompute so detector fixes apply to old runs too
+            x["refusal"] = x["parsed"] is None and bool(REFUSAL.search(x["raw"]))
         model = resp[0]["model"] if resp else path.stem
         add(model, "coverage", "answered_of_sample", len(resp), len(items))
         add(model, "unparsed", "all", sum(x["parsed"] is None for x in resp), len(resp))
@@ -248,7 +250,7 @@ def cmd_selftest(_):
     assert parse_answer("I can't help with that.", ["A", "B"]) is None
     assert parse_answer("Answer: virtue ethics", ["deontology", "consequentialism", "virtue ethics", "Other"]) == "virtue ethics"
     assert same("No (not permissible)", "No") and not same(None, "No")
-    assert REFUSAL.search("I can't help with that.")
+    assert REFUSAL.search("I can't help with that.") and REFUSAL.search("I can’t answer that.")
     print("selftest ok")
 
 

@@ -6,3 +6,6 @@ data/raw_sources/
 __pycache__/
 *.pyc
 dataset/morals_ethics/work/staged/
+
+# Ollama server log (hundreds of MB)
+dataset/morals_ethics/eval/ollama_server.log
