@@ -1,21 +1,39 @@
 model,group,value,n,rate
-gemma2:9b,coverage,answered_of_sample,2029,0.0508
-gemma2:9b,unparsed,all,103,0.0
-gemma2:9b,refusal,all,103,0.0
-gemma2:9b,accuracy,all_labeled,103,0.8058
+gemma2:9b,coverage,answered_of_sample,2029,1.0
+gemma2:9b,unparsed,all,2029,0.0
+gemma2:9b,refusal,all,2029,0.0
+gemma2:9b,accuracy,all_labeled,1753,0.595
+gemma2:9b,accuracy_by_source,2020 PhilPapers Survey (Bourget & Chalmers),2,0.5
 gemma2:9b,accuracy_by_source,BIG-bench simple_ethical_questions,25,0.96
-gemma2:9b,accuracy_by_source,"ETHICS (Hendrycks et al., 2021)",78,0.7564
-gemma2:9b,accuracy_by_format,binary_yes_no,78,0.7564
+gemma2:9b,accuracy_by_source,"ETHICS (Hendrycks et al., 2021)",560,0.8321
+gemma2:9b,accuracy_by_source,"MoralChoice (Scherrer et al., 2023)",52,1.0
+gemma2:9b,accuracy_by_source,"MoralExceptQA (Jin et al., 2022)",25,0.72
+gemma2:9b,accuracy_by_source,"Scruples Anecdotes (Lourie et al., 2021)",352,0.2699
+gemma2:9b,accuracy_by_source,"Scruples Dilemmas (Lourie et al., 2021)",209,0.6938
+gemma2:9b,accuracy_by_source,"Social Chemistry 101 (Forbes et al., 2020)",528,0.4583
+gemma2:9b,accuracy_by_format,binary_AB,362,0.779
+gemma2:9b,accuracy_by_format,binary_yes_no,396,0.8005
 gemma2:9b,accuracy_by_format,multiple_choice_4,25,0.96
-gemma2:9b,accuracy_by_label_agreement,unknown,103,0.8058
+gemma2:9b,accuracy_by_format,multiple_choice_5,440,0.4023
+gemma2:9b,accuracy_by_format,ordinal_5,528,0.4583
+gemma2:9b,accuracy_by_format,philosopher_single_choice,2,0.5
+gemma2:9b,accuracy_by_label_agreement,0.8-0.99,359,0.6657
+gemma2:9b,accuracy_by_label_agreement,1.0,730,0.5603
+gemma2:9b,accuracy_by_label_agreement,<0.8,327,0.3486
+gemma2:9b,accuracy_by_label_agreement,unknown,337,0.8338
 gemma2:9b,accuracy_by_label_type,author_designated,25,0.96
-gemma2:9b,accuracy_by_label_type,human_consensus,78,0.7564
-gemma2:9b,ethics_split,test,53,0.8113
-gemma2:9b,ethics_split,test_hard,25,0.64
-gemma2:9b,position_bias,chose_A,0,
-gemma2:9b,position_bias,label_is_A,0,
-gemma2:9b,unlabeled,refusal,0,
-gemma2:9b,unlabeled,unparsed,0,
+gemma2:9b,accuracy_by_label_type,dataset_design_intended,52,1.0
+gemma2:9b,accuracy_by_label_type,human_annotation,507,0.4497
+gemma2:9b,accuracy_by_label_type,human_consensus,769,0.7945
+gemma2:9b,accuracy_by_label_type,human_proportion_thresholded,25,0.72
+gemma2:9b,accuracy_by_label_type,human_survey_plurality,2,0.5
+gemma2:9b,accuracy_by_label_type,human_vote_plurality,373,0.2922
+gemma2:9b,ethics_split,test,379,0.8575
+gemma2:9b,ethics_split,test_hard,181,0.779
+gemma2:9b,position_bias,chose_A,519,0.4528
+gemma2:9b,position_bias,label_is_A,362,0.4807
+gemma2:9b,unlabeled,refusal,276,0.0
+gemma2:9b,unlabeled,unparsed,276,0.0
 llama3.1:8b,coverage,answered_of_sample,2029,1.0
 llama3.1:8b,unparsed,all,2029,0.0513
 llama3.1:8b,refusal,all,2029,0.0513
