@@ -43,3 +43,47 @@ h, l = ax.get_legend_handles_labels()
 ax.legend(h[1:] + h[:1], l[1:] + l[:1], fontsize=6.2, frameon=False, ncol=4, loc="lower center", bbox_to_anchor=(0.45, 1.0), handlelength=1.1, columnspacing=0.7)
 fig.tight_layout(); fig.savefig("fig2_by_source.png"); plt.close(fig)
 print("ok")
+
+# Figure: dataset composition by source (single series, one hue)
+comp = [("Synthetic applied ethics*", 1498), ("PhilPapers 2020", 16), ("BIG-bench ethical qs", 115), ("MoralExceptQA", 132),
+        ("DailyDilemmas", 1354), ("MoralChoice", 1367), ("Scruples Dilemmas", 2468), ("Scruples Anecdotes", 4390),
+        ("Social Chemistry 101", 6397), ("ETHICS", 7263)]
+fig, ax = plt.subplots(figsize=(4.2, 2.6), dpi=200)
+names, vals2 = zip(*comp)
+ax.barh(names, vals2, color=C[0], height=0.62)
+for i, v in enumerate(vals2):
+    ax.text(v + 90, i, f"{v:,}", va="center", fontsize=7, color=INK)
+ax.spines[["top", "right"]].set_visible(False)
+ax.xaxis.grid(True, color=GRID, lw=0.8); ax.set_axisbelow(True)
+ax.set_xlim(0, 8400); ax.tick_params(axis="y", labelsize=7); ax.tick_params(axis="x", labelsize=7)
+ax.set_xlabel("Items in the dataset")
+fig.tight_layout(); fig.savefig("fig_composition.png"); plt.close(fig)
+
+# Figure: accuracy by label agreement
+bands = ["Unanimous\n(n=223)", "0.8-0.99\n(n=359)", "Below 0.8\n(n=327)", "Single annotator\n(n=507)"]
+agr = {"Llama 3.1 8B": [67.3, 64.1, 37.9, 37.1], "Qwen 2.5 7B": [67.3, 51.5, 35.2, 44.6], "Gemma 2 9B": [81.2, 66.6, 34.9, 45.0]}
+fig, ax = plt.subplots(figsize=(4.2, 2.6), dpi=200)
+for i, m in enumerate(models):
+    xs = [k + (i - 1) * 0.27 for k in range(len(bands))]
+    ax.bar(xs, agr[m], width=0.25, color=C[i], label=m)
+ax.set_xticks(range(len(bands))); ax.set_xticklabels(bands, fontsize=6.8)
+style(ax)
+ax.legend(fontsize=6.4, frameon=False, ncol=3, loc="lower center", bbox_to_anchor=(0.5, 1.0), handlelength=1.1)
+fig.tight_layout(); fig.savefig("fig_agreement.png"); plt.close(fig)
+
+# Figure: Scruples Anecdotes verdicts, people vs models (share of 352 posts)
+cats = ["AUTHOR", "OTHER", "EVERYBODY", "NOBODY", "INFO"]
+dist = {"People (label)": [95, 122, 48, 78, 9], "Llama 3.1 8B": [246, 35, 0, 70, 0],
+        "Qwen 2.5 7B": [223, 79, 2, 10, 8], "Gemma 2 9B": [93, 65, 40, 7, 147]}
+cols = ["#6b6b6b"] + C
+fig, ax = plt.subplots(figsize=(4.4, 2.6), dpi=200)
+for i, (k, v) in enumerate(dist.items()):
+    xs = [j + (i - 1.5) * 0.2 for j in range(len(cats))]
+    ax.bar(xs, [100 * a / 352 for a in v], width=0.18, color=cols[i], label=k)
+ax.set_xticks(range(len(cats))); ax.set_xticklabels(cats, fontsize=7)
+ax.spines[["top", "right"]].set_visible(False)
+ax.yaxis.grid(True, color=GRID, lw=0.8); ax.set_axisbelow(True)
+ax.set_ylim(0, 80); ax.set_ylabel("Share of the 352 posts (%)")
+ax.legend(fontsize=6.4, frameon=False, ncol=4, loc="lower center", bbox_to_anchor=(0.5, 1.0), handlelength=1.1, columnspacing=0.8)
+fig.tight_layout(); fig.savefig("fig_scruples_verdicts.png"); plt.close(fig)
+print("all figures ok")

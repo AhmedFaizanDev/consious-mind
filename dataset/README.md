@@ -1,3 +1,7 @@
+> **Earlier ConsciousMind work (September 2026), kept for reference and unchanged.** The current deliverable is the Morals and Ethics
+> dataset and evaluation in `dataset/morals_ethics/` (see the root `README.md`). Root-level documents mentioned below
+> (`PROJECT_STATUS.md`, `RESEARCH_NOTES.md`, `HANDOFF.md`) now live in `archive/earlier_work/`.
+
 # ConsciousMind — Human-Advantage Benchmark Dataset (final, 2026-09-23)
 
 **Deliverable:** a research-grade dataset of categories/tasks for which

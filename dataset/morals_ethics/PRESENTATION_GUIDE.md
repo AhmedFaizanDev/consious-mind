@@ -9,7 +9,7 @@ A single CSV of **25,000 distinct moral/ethical scenarios** for testing how AI m
 how many people labeled it (when the source tells us), and under what license. It also keeps the 416 items from your earlier workbook.
 
 ## 2. Why it exists / what question it serves
-Your project (see `PROJECT_STATUS.md`) looks for areas where humans outperform AI. This file is the **Morals & Ethics test pool**:
+ConsciousMind (see the root `README.md`) looks for areas where human and AI judgment diverge and where humans may still judge better. This file is the **Morals & Ethics test pool**:
 a large, documented set of items you can put in front of models and compare with human judgments. It is a *pool of items*, not a finding.
 By itself it does **not** prove a human advantage: most items record what a crowd said, not a matched human-vs-AI experiment.
 

@@ -59,3 +59,11 @@ Labels: 20,666 human-derived, 802 author-designated, 3,532 unlabeled.
 - Labels are crowd/author conventions, not moral truth; Social Chemistry was sampled label-balanced (not natural rates).
 - Almost all published items are well-known benchmarks (contamination risk). I did not read the original papers (hosts blocked); source-method descriptions come from READMEs/repo code and the prior workbook.
 - DailyDilemmas being GPT-4-generated is my understanding from the repo, not read in the paper.
+
+## 2026-11-26: submission clean-up
+- Detailed research progress report: `report/ConsciousMind_Morals_Ethics_Research_Progress_Report.pdf` (9 pages; source `report/report.html`, figures `report/make_figures.py`, render `report/render_pdf.py`).
+- Data card `DATA_CARD.md`; published-only and synthetic-only files via `scripts/export_release.py`.
+- Fixed evaluation workbook stored in `eval/` (position-bias wording, refusal denominators, cached formula values).
+- `eval/run.log` cleaned of model-download progress bars (50,956 -> 458 lines; content otherwise unchanged).
+- Repository: new root `README.md`; outdated root documents of the earlier phase moved to `archive/earlier_work/` (unchanged). Earlier category code and `reference/` left in place and untouched.
+- All arXiv references verified by web search.

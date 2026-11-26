@@ -11,6 +11,9 @@ Companion files: `PRESENTATION_GUIDE.md` (dataset detail, all 36 columns), `READ
 
 ## 0. Before you walk in (checklist)
 
+> **Update 26 Nov 2026:** items 1 to 3 below are fixed in the copy stored at `eval/ConsciousMind_LLM_Evaluation_Results_Explained.xlsx`
+> (position-bias wording corrected, refusal column out of 2,029 for every model, and all formulas saved with values, so `all_3_wrong` shows 430 in any viewer). Use that copy.
+
 1. **Open the workbook in Microsoft Excel and let it recalculate.** The Summary sheet and the `all_3_wrong` column are formulas
    with no stored values. In Excel they compute; in Preview/Quick Look, some web viewers or pandas they show blank or 0.
    After recalculation, "Labeled items all three models got wrong" should read **430**.
