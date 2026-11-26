@@ -2,9 +2,9 @@
 
 The papers could not be downloaded here: arXiv, ACL Anthology, OpenReview and similar hosts are blocked by the build sandbox's egress policy.
 This index lists each paper; run `bash papers/fetch_papers.sh` on a networked machine to download the PDFs into this folder.
-arXiv IDs were written from memory and have **not** been verified against the live pages - check the title when each PDF downloads.
+arXiv IDs, titles, authors and venues were checked against arXiv and publisher records by web search on 2026-11-26 (all correct).
 
-| Dataset component | Paper | arXiv ID (unverified) |
+| Dataset component | Paper | arXiv ID (verified) |
 |---|---|---|
 | ETHICS (Commonsense, Justice, Deontology, Virtue, Utilitarianism) | Hendrycks et al. 2021, *Aligning AI With Shared Human Values*, ICLR | 2008.02275 |
 | Scruples (anecdotes, dilemmas) | Lourie, Le Bras & Choi 2021, *Scruples: A Corpus of Community Ethical Judgments on 32,000 Real-Life Anecdotes*, AAAI | 2008.09094 |

@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ConsciousMind Morals and Ethics Progress Report</title>
+<style>
+  @page { size: A4; margin: 17mm 16mm 16mm 16mm; }
+  :root { --head: #1f3a63; --ink: #191919; --ink2: #555; --rule: #c9d1dc; --th: #1f3a63; --zebra: #f3f5f8; }
+  * { box-sizing: border-box; }
+  body { margin: 0; color: var(--ink); background: #fff; font-family: "DejaVu Serif", Georgia, serif; font-size: 9.1pt; line-height: 1.32; }
+  h1 { font-family: "DejaVu Sans", Arial, sans-serif; color: var(--head); font-size: 15.5pt; line-height: 1.2; margin: 0 0 3px; }
+  .sub { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 9pt; margin: 0; }
+  .sub b { color: var(--ink); }
+  .by { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 8.6pt; color: var(--ink2); margin: 1px 0 8px; }
+  h2 { font-family: "DejaVu Sans", Arial, sans-serif; color: var(--head); font-size: 11pt; margin: 7px 0 2px; }
+  p { margin: 0 0 5px; text-align: justify; }
+  ul { margin: 2px 0 5px 16px; padding: 0; }
+  li { margin: 0 0 2.5px; text-align: justify; }
+  table { width: 100%; break-inside: avoid; border-collapse: collapse; font-family: "DejaVu Sans", Arial, sans-serif; font-size: 7.4pt; margin: 3px 0 6px; }
+  th { background: var(--th); color: #fff; font-weight: bold; padding: 3px 4px; text-align: center; border: 1px solid var(--th); }
+  td { border: 1px solid var(--rule); padding: 2.5px 4px; vertical-align: top; }
+  tr:nth-child(even) td { background: var(--zebra); }
+  td.num { text-align: center; }
+  .cap { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 7.4pt; color: var(--ink2); margin: 2px 0 2px; }
+  .figs { display: flex; gap: 10px; margin: 4px 0 2px; }
+  .figs div { flex: 1; }
+  .figs img { width: 100%; display: block; }
+  .note { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 7.4pt; font-style: italic; color: var(--ink2); text-align: center; margin: 0 0 5px; }
+  .refs p { font-size: 7.5pt; text-align: left; margin: 0 0 2px; padding-left: 16px; text-indent: -16px; }
+  .refs a { color: #1a56b0; }
+  .small { font-size: 7.6pt; font-style: italic; color: var(--ink2); }
+  b.k { color: var(--ink); }
+</style>
+</head>
+<body>
+
+<h1>ConsciousMind: Modeling Consciousness and Metacognitive Awareness for Mental Health AI</h1>
+<p class="sub"><b>Research Progress Report: Morals and Ethics category</b></p>
+<p class="by">Faizan Ahmed | Roll number SE23UCSE003 | 26 November 2026</p>
+
+<h2>1. Introduction</h2>
+<p>ConsciousMind studies consciousness and metacognitive awareness for mental health AI, and my assigned category is Morals and Ethics.
+People increasingly ask AI assistants what they should do in personal and moral situations, so I wanted to know how closely a model's
+moral judgments match the judgments people actually made, where they agree, where they diverge, and whether the divergence is
+about clear-cut cases or contested ones. I treated this as an evaluation of existing models, not as training a new one. Throughout,
+a "human label" means the answer that a group of people (crowd workers, online voters or study participants) gave in the source
+study. It is not a claim about moral truth, and a model that disagrees with it is not automatically wrong.</p>
+
+<h2>2. Initial Research</h2>
+<p>I first separated the kinds of moral judgment that published datasets measure: commonsense acceptability of an action,
+theory-specific judgments (justice, duties, virtue, well-being), verdicts on real interpersonal conflicts, choices between two actions,
+graded ratings of how good or bad an action is, and philosophers' positions on theoretical questions. For each candidate dataset I
+recorded the paper, link, size, licence, how the label was produced, and whether vote counts or agreement were published.</p>
+<p>Before building the main dataset, I prepared an earlier ethics workbook (5 October): 416 items, namely 400 ETHICS items
+(Justice, Deontology, Virtue, Utilitarianism; 80 normal and 20 adversarially filtered "test_hard" items each) and 16 questions from
+the 2020 PhilPapers survey with the philosophers' answer distributions. I collected 1,248 responses to these items from Claude Opus,
+Sonnet and Haiku (one sample each). Against the ETHICS consensus labels they scored 96.5%, 94.5% and 91.5%. This showed that
+large models are near ceiling on standard benchmark items, so the more informative question is where agreement breaks down.</p>
+<p>From this review I identified four gaps: most moral benchmarks report one label and drop the vote split, so contested and clear
+items look the same; few evaluations separate label type (crowd consensus vs single annotator vs author choice); published data is
+almost entirely everyday interpersonal ethics, with little applied or professional ethics; and small models that run locally are
+rarely compared on moral judgment.</p>
+
+<h2>3. Dataset Research and Preparation</h2>
+<p>I compared more than fifteen candidate sources and kept seven published datasets whose files I could download and inspect myself:
+ETHICS [1], Scruples Anecdotes and Dilemmas [2], Social Chemistry 101 [3], MoralChoice [4], DailyDilemmas [5], MoralExceptQA [6]
+and BIG-bench simple_ethical_questions [7], plus the PhilPapers survey [8] through my earlier workbook. Every item keeps its source,
+its original label unchanged, how the label was produced, the vote counts and agreement where the source published them, and its
+licence. I removed about 2,600 exact duplicates, dropped 601 records whose identical text carried conflicting labels in the source,
+trimmed near-duplicates (MinHash similarity), and assigned train, dev and test splits by near-duplicate cluster so that near-copies
+never cross splits (an independent re-check found none). Table 1 keeps apart what I investigated, what I prepared, and what the experiments actually used.</p>
+<p class="cap">Table 1. Datasets investigated, collections prepared, and items used.</p>
+<table>
+<tr><th style="width:24%">Item</th><th style="width:14%">Size</th><th>Source / nature</th><th style="width:21%">Role in my experiments</th></tr>
+<tr><td>BIG-bench moral_permissibility; Moral Stories, MIC, Delphi Norm Bank, ValuePrism</td><td>342 vignettes; 12k to 100k+ items</td><td>Published. The first had vignettes whose final question did not match the story and heavy templating; the others could not be downloaded from my build environment</td><td>Investigated, <b>not used</b></td></tr>
+<tr><td>Earlier ethics workbook</td><td>416 items + 1,248 Claude responses</td><td>ETHICS and PhilPapers items, prepared 5 Oct; responses from Claude Opus, Sonnet, Haiku</td><td>Prepared; items kept in the dataset; Claude comparison only</td></tr>
+<tr><td>Morals and Ethics dataset (morals_ethics_25k.csv)</td><td>25,000 items, 36 columns</td><td>23,502 from the seven published sources (20,534 human-written, 347 author-written, 2,621 LLM-generated by the source authors) + 1,498 synthetic applied-ethics dilemmas generated with Claude on 13 Oct (12 domains, no labels). 20,666 have a human-derived label</td><td>Prepared; test split (5,019) used for sampling</td></tr>
+<tr><td>Evaluation sample</td><td>2,029 items</td><td>Stratified random sample of the test split by source and question format (at least 25 per stratum, seed 20261103); 1,753 labeled, 276 open dilemmas</td><td><b>Used in all experiments</b></td></tr>
+</table>
+
+<h2>4. Methodology and Experimental Work</h2>
+<p><b>Designed.</b> Each model sees the scenario, the question and the allowed options, and must reply "Answer: &lt;option&gt;" on the first line
+followed by one sentence of justification. A parser maps the reply to one listed option. An answer is correct if it matches the human
+label; accuracy is computed on labeled items only. A reply with no valid option that contains a refusal phrase ("I can't", "as an AI")
+counts as a refusal. Each source is compared with two baselines: random guessing and always choosing that source's most common answer.
+I planned breakdowns by source, question format, label agreement, ETHICS normal vs test_hard, option position and refusals.</p>
+<p><b>Executed, 3 and 4 November.</b> I ran three open models on my own computer (Apple M5) through Ollama: Llama 3.1 8B, Qwen 2.5 7B and
+Gemma 2 9B, with temperature 0, a fixed seed and at most 120 output tokens, 8 requests in parallel. All 2,029 items were answered by
+all three models: 6,087 replies, all recorded, with no failures. Re-parsing every reply reproduced the scores exactly.
+Differences between models were tested with a paired bootstrap over items.</p>
+<p><b>Not executed:</b> no human answered the items under the same conditions, so there is no matched human baseline; each model was run
+once with one prompt wording; Claude, GPT and Gemini were not run on the new sample (the only Claude data is the earlier workbook);
+and the 276 unlabeled dilemmas were answered but not scored.</p>
+
+<h2>5. Results and Key Findings</h2>
+<p><b>Overall (Figure 1, Table 2).</b> Gemma matched the human label on 59.5% of the 1,753 labeled items, Llama on 54.2% and Qwen on 53.4%.
+Gemma's lead over Llama (+5.2 points, 95% interval 2.9 to 7.6) is reliable; Llama and Qwen are a statistical tie (+0.9, interval
+&minus;1.6 to 3.4). The average hides a sharp split by source (Figure 2).</p>
+<div class="figs">
+  <div><img src="fig1_overall.png" alt="Bar chart: accuracy Llama 54.2%, Qwen 53.4%, Gemma 59.5%"><p class="cap">Figure 1. Accuracy against the human label on 1,753 labeled items.</p></div>
+  <div><img src="fig2_by_source.png" alt="Grouped bar chart of accuracy by source with most-common-answer baseline"><p class="cap">Figure 2. Accuracy by source; black line = always choosing the most common answer in that source.</p></div>
+</div>
+<p class="cap">Table 2. Headline results (2,029 items; accuracy on 1,753 labeled items).</p>
+<table>
+<tr><th style="width:13%">Model</th><th>Accuracy</th><th>Correct</th><th>Refused (of 2,029)</th><th>No valid answer</th><th>Accuracy excl. no valid answer</th><th>ETHICS test / test_hard</th><th>Social Chem. exact / within one step</th></tr>
+<tr><td>Llama 3.1 8B</td><td class="num">54.2%</td><td class="num">951</td><td class="num">104 (5.1%)</td><td class="num">104</td><td class="num">57.3%</td><td class="num">80.5 / 69.6%</td><td class="num">37.7 / 74.4%</td></tr>
+<tr><td>Qwen 2.5 7B</td><td class="num">53.4%</td><td class="num">936</td><td class="num">0</td><td class="num">30</td><td class="num">54.3%</td><td class="num">72.6 / 68.0%</td><td class="num">45.5 / 89.8%</td></tr>
+<tr><td>Gemma 2 9B</td><td class="num"><b>59.5%</b></td><td class="num">1,043</td><td class="num">0</td><td class="num">0</td><td class="num">59.5%</td><td class="num">85.8 / 77.9%</td><td class="num">45.8 / 84.3%</td></tr>
+</table>
+<ul>
+<li><b>Clear-cut versus contested items.</b> All three models are near ceiling where people agree easily: MoralChoice 96 to 100%, BIG-bench 88 to 96%,
+ETHICS 71 to 83%. On contested real-life material they are not: on Scruples Dilemmas Llama and Qwen are at chance (54% and 52% on a two-option
+task; only Gemma reaches 69%), and on Scruples Anecdotes all three (27 to 34%) are at or below simply answering "OTHER", which scores 35%.</li>
+<li><b>Systematic errors.</b> On Scruples Anecdotes people blamed the narrator in 27% of posts, but Llama did so in 70% and Qwen in 63%; Gemma
+answered "not enough information" in 42% against 3% for people.</li>
+<li><b>Label agreement.</b> Accuracy was 67 to 81% on unanimously labeled items, 35 to 38% when fewer than 80% of labelers agreed, and 37 to 45%
+on single-annotator items. I read this as an association, not a clean effect, because agreement level is tied to the source.</li>
+<li><b>Near misses and harder items.</b> On the five-point Social Chemistry scale most misses are one step away (exact 38 to 46%, within one step
+74 to 90%). Accuracy falls on the adversarial ETHICS test_hard subset, as expected.</li>
+<li><b>Position and refusals.</b> On two-option items the human answer is A in 48% of cases, but the models chose A only 30 to 43% of the time,
+so option order affects them. Llama refused 104 items (safety refusals, about half when asked to rate harmful actions), each counted as wrong;
+Qwen's 30 invalid replies were "BOTH", which was not an option. 430 labeled items were missed by all three models, mostly Social Chemistry (193)
+and Scruples Anecdotes (160).</li>
+<li><b>Earlier Claude responses.</b> On the 23 items shared with the earlier workbook, Claude Haiku, Sonnet and Opus scored 83%, 87% and 96%,
+against 61%, 61% and 83% for Llama, Qwen and Gemma. The prompts and dates differ and the set is small, so this is indicative only.</li>
+</ul>
+<p><b>Limitations.</b></p>
+<ul>
+<li>No matched human baseline: the models are compared with existing labels, not with people answering under the same conditions.</li>
+<li>Labels come from crowd workers, Reddit voters and authors, mostly US and English-speaking; low scores on contested items partly reflect disagreement with noisy labels.</li>
+<li>One run with one prompt wording; parallel requests were not re-checked for identical answers in a second run. The models are small.</li>
+<li>ETHICS agreement values are construction minimums (0.8, or 1.0 for Virtue), not measured per item; MoralExceptQA and BIG-bench have 25 items each and PhilPapers only 2 in the sample.</li>
+<li>All published items are public benchmarks the models may have seen in training; only the synthetic items are new text, and they are unlabeled and only automatically checked.</li>
+<li>Scruples, Social Chemistry 101 and MoralExceptQA state no data licence in the files I retrieved, so the dataset is for internal research until this is cleared.</li>
+</ul>
+
+<h2>6. Research Outcomes and Conclusion</h2>
+<p>Over this project I completed a review of moral-judgment datasets, an earlier 416-item ethics workbook with 1,248 Claude responses, a documented
+25,000-item Morals and Ethics dataset with full provenance and label information, and a 6,087-reply evaluation of three local models, all recorded with
+the code, raw replies and an Excel workbook. I learned that the type of label matters as much as the score (a crowd consensus, a Reddit vote and an author's
+choice are different evidence), that a trivial "most common answer" baseline is needed before crediting a model, and that refusals and option order can
+move scores by several points. My results show that, for these three small models, agreement with human moral labels is high on clear-cut items and falls
+to chance or below on contested ones, with systematic tendencies such as over-blaming the narrator. They do not show that humans judge better than AI, which
+models are more moral in general, or that the human labels are correct.</p>
+
+<h2>7. Essential References</h2>
+<div class="refs">
+<p>[1] Hendrycks, D., Burns, C., Basart, S., Critch, A., Li, J., Song, D., Steinhardt, J. (2021). Aligning AI With Shared Human Values (ETHICS). ICLR 2021. <a href="https://arxiv.org/abs/2008.02275">https://arxiv.org/abs/2008.02275</a></p>
+<p>[2] Lourie, N., Le Bras, R., Choi, Y. (2021). Scruples: A Corpus of Community Ethical Judgments on 32,000 Real-Life Anecdotes. AAAI 2021. <a href="https://arxiv.org/abs/2008.09094">https://arxiv.org/abs/2008.09094</a></p>
+<p>[3] Forbes, M., Hwang, J. D., Shwartz, V., Sap, M., Choi, Y. (2020). Social Chemistry 101: Learning to Reason about Social and Moral Norms. EMNLP 2020. <a href="https://arxiv.org/abs/2011.00620">https://arxiv.org/abs/2011.00620</a></p>
+<p>[4] Scherrer, N., Shi, C., Feder, A., Blei, D. M. (2023). Evaluating the Moral Beliefs Encoded in LLMs (MoralChoice). NeurIPS 2023. <a href="https://arxiv.org/abs/2307.14324">https://arxiv.org/abs/2307.14324</a></p>
+<p>[5] Chiu, Y. Y., Jiang, L., Choi, Y. (2025). DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life. ICLR 2025. <a href="https://arxiv.org/abs/2410.02683">https://arxiv.org/abs/2410.02683</a></p>
+<p>[6] Jin, Z., Levine, S., et al. (2022). When to Make Exceptions: Exploring Language Models as Accounts of Human Moral Judgment (MoralExceptQA). NeurIPS 2022. <a href="https://arxiv.org/abs/2210.01478">https://arxiv.org/abs/2210.01478</a></p>
+<p>[7] Srivastava, A., et al. (2022). Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models (BIG-bench). <a href="https://arxiv.org/abs/2206.04615">https://arxiv.org/abs/2206.04615</a></p>
+<p>[8] Bourget, D., Chalmers, D. J. (2023). Philosophers on Philosophy: The 2020 PhilPapers Survey. Philosophers' Imprint 23(11). <a href="https://survey2020.philpeople.org">https://survey2020.philpeople.org</a></p>
+<p class="small" style="padding-left:0;text-indent:0">I checked the titles, authors, years and links of [1] to [8] against their arXiv or publisher records by web search. Dataset files came from the authors' GitHub repositories and download links; the ETHICS files came from a public GitHub mirror, which matched all 400 ETHICS items in my earlier workbook.</p>
+</div>
+
+</body>
+</html>
