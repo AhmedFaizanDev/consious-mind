@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Choosing Forty Names Out of Four Hundred",
+  "scenario": "Operations director Folke Strandberg at a paper mill in Örnsköldsvik must cut forty jobs by month's end after a buyer cancelled a contract. The union agreement prescribes last-in-first-out, which would remove many younger workers with young families, while retaining older employees close to retirement who have reduced productivity. Management would prefer to keep high performers. Folke can follow the agreement strictly or negotiate an exception with the union, which could take weeks the mill's cash flow may not allow. Whatever he chooses, colleagues will read the list as a statement of values.",
+  "options": [
+   "Apply last-in-first-out strictly as agreed with the union, accepting the consequences for the younger workers and productivity.",
+   "Negotiate with the union to weight performance and family circumstances, risking delay and a breach of trust if talks fail.",
+   "Offer generous early-retirement packages to older workers first, and use seniority-based cuts only for any remaining shortfall."
+  ],
+  "tension": [
+   "contractual fairness vs. business performance",
+   "seniority vs. need"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "Telling Staff Before the Press Does",
+  "scenario": "Plant manager Leocadia Quintanilla in Monterrey has been told confidentially that the parent company will close her factory in four months, affecting nine hundred workers. The parent company wants the announcement delayed until a major contract is complete, to avoid defections and sabotage. A local newspaper has a rumour and has asked her for comment. Workers are currently signing mortgages and car loans on the assumption of stable work. If she leaks the news, she will violate her contract and may trigger quality problems. If she waits, workers will make costly commitments unaware.",
+  "options": [
+   "Tell the workforce now, honouring her duty to the people who will lose their jobs, and accept sanctions from the parent company.",
+   "Keep the closure confidential until the agreed date, concentrating on preparing severance and placement programmes in advance.",
+   "Tell the union leaders in confidence and ask them to advise members about financial caution without revealing the closure."
+  ],
+  "tension": [
+   "loyalty to employer vs. duty to workers",
+   "confidentiality vs. foreseeable harm"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "A Layoff Spreadsheet With a Name She Knows",
+  "scenario": "HR analyst Katarzyna Wójcik, working remotely from Kraków for a Dublin software firm, is preparing the redundancy scoring matrix. Her best friend Magda scores slightly below the threshold, partly due to a performance rating given by a manager who has since left. Magda has just bought a flat and her husband is unemployed. Katarzyna could subtly adjust one rating without anyone noticing, but another employee, whom she barely knows, would then fall below the line instead. Her manager reviews the final spreadsheet only briefly.",
+  "options": [
+   "Submit the scores exactly as the scoring rules produce them and disclose her friendship with Magda to her manager.",
+   "Flag the departed manager's rating as unreliable and ask for a formal re-evaluation of everyone on the borderline.",
+   "Adjust Magda's score quietly, judging that the original rating was unfair and the harm to the other employee is uncertain."
+  ],
+  "tension": [
+   "friendship vs. impartiality",
+   "fair process vs. personal loyalty"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Cutting the Night Cleaners, Not the Executives",
+  "scenario": "Chief financial officer Aminata Diallo at a hotel group in Abidjan must close a revenue gap after tourism fell sharply. The cheapest cuts are the outsourced night cleaning crew of thirty low-paid workers, who have no savings. The alternative is a temporary twenty percent pay cut for the thirty senior managers, including herself, which would likely drive two or three of them to rival groups. The board favours the cleaners' option and wants a recommendation by Friday. Aminata must present figures and a stance.",
+  "options": [
+   "Recommend cutting the cleaning crew, since the hotel's survival depends on retaining scarce managerial talent.",
+   "Recommend the senior pay cut and accept the possible loss of a few managers, protecting the lowest-paid workers.",
+   "Recommend a blend, with smaller pay cuts across all levels and a reduced night shift rather than its elimination."
+  ],
+  "tension": [
+   "protecting the vulnerable vs. organisational survival",
+   "retention of talent vs. solidarity"
+  ],
+  "region": "Ivory Coast"
+ },
+ {
+  "title": "The Layoff Notice and the Pregnancy Announcement",
+  "scenario": "Shop-floor supervisor Tuan Anh Nguyen at a garment factory in Ho Chi Minh City has been told to hand layoff notices to twelve workers on Friday. One of them, Lan, whom he has known for years, told him last week, privately, that she is pregnant, though she has not told HR. Lan's family relies on her wages. Laws protect pregnant workers from dismissal, but only if the employer is informed. Telling HR would protect Lan, but would break her confidence and may lead to another worker being chosen instead.",
+  "options": [
+   "Tell HR about Lan's pregnancy without her permission so that the protection applies, even though it breaks her confidence.",
+   "Urge Lan to inform HR herself before Friday, and keep her confidence if she refuses.",
+   "Deliver the notices as instructed and say nothing, given that the list was drawn up by management according to the criteria."
+  ],
+  "tension": [
+   "confidentiality vs. protection",
+   "autonomy vs. paternalism"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "Severance Pay Written in Fine Print",
+  "scenario": "Corporate counsel Isadora Whitcombe in Wellington drafts the severance terms for a department closing in a company she serves. The legal minimum is two weeks per year of service; the firm's executives want a clause that waives any right to sue in exchange for four weeks per year. Many affected employees are older and not fluent in legal English. Isadora knows that a clear, accessible explanation would make some employees seek advice and refuse, while a dense contract is lawful. Her instruction is to protect the company, and she is not allowed to advise staff.",
+  "options": [
+   "Draft the agreement in plain language and encourage the company to recommend independent legal advice for employees.",
+   "Draft the agreement as the executives requested, in standard legal terms, as it is lawful and serves her client.",
+   "Draft in standard terms but add a short, plain-language summary of rights and the waiver as a cover page."
+  ],
+  "tension": [
+   "duty to client vs. informed consent",
+   "legal compliance vs. fairness"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "Who Keeps Working From Home After the Cuts",
+  "scenario": "Team leader Rahel Tadesse in Addis Ababa learns that her department's layoffs will be decided partly by 'visibility', in effect favouring those who come to the office. During the pandemic, several of her team worked remotely because of caring duties or because they live far away, and delivered excellent results. Rahel can submit her own ranking within the department's guidelines or advocate for a different standard. She is aware that office staff have more informal contact with senior management, which colours how they are perceived.",
+  "options": [
+   "Rank staff on measured output only, and explain in writing why visibility should not factor in the decision.",
+   "Follow the department's guidelines including visibility, since these are the rules her superiors set.",
+   "Request a pause on the ranking and ask leadership to clarify and publish the criteria before anyone is scored."
+  ],
+  "tension": [
+   "objective output vs. institutional norms",
+   "remote workers' disadvantage vs. managerial expectations"
+  ],
+  "region": "Ethiopia"
+ },
+ {
+  "title": "A Ten-Minute Termination Meeting",
+  "scenario": "Manager Colm Brannigan at a call centre in Belfast has been told to dismiss fifty staff in group video calls of ten minutes each, with security badges deactivated beforehand, and no chance for questions. He believes this is humiliating, especially for those with fifteen years of service. HR says the format minimises legal risk and the chance of employees damaging systems. Colm could follow the script or insist on individual conversations, which would delay the process by a week and cost the company money. His own job is not safe if he is seen as resisting.",
+  "options": [
+   "Follow the script, understanding that the company's legal and security concerns outweigh the formality of the process.",
+   "Insist on individual conversations with each employee, accepting the delay and the risk to his position.",
+   "Follow the group format but follow up with each person personally afterwards, offering references and information."
+  ],
+  "tension": [
+   "dignity vs. risk management",
+   "obedience vs. conscience"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "The Last Hired and the First Fired",
+  "scenario": "Owner-manager Ramón Echeverría runs a family hardware chain with six stores in Valencia. A drop in sales means one store must close. The store manager there, Soledad, has been with the company for twenty years, but the staff are mostly recent immigrants hired during the previous year with temporary contracts. Closing the store lets Ramón end temporary contracts without compensation, but moving Soledad's team to other stores would mean dismissing his own nephew, who is the least productive staff member elsewhere. The decision must be made by the end of the month.",
+  "options": [
+   "Close the store and let the temporary contracts expire, as the law permits, relocating only Soledad.",
+   "Move the store's staff to other shops, and dismiss his nephew, treating all staff by the same standard.",
+   "Close the store and offer temporary workers first priority for any new openings over the next year."
+  ],
+  "tension": [
+   "legal permission vs. moral obligation",
+   "family favouritism vs. fairness"
+  ],
+  "region": "Spain"
+ },
+ {
+  "title": "Redeploy the Whistleblower or Lay Her Off",
+  "scenario": "Division head Ngaire Paewai in Auckland is cutting a team of eight. One of the lowest-scoring positions belongs to Hemi, who reported safety violations at the company's depot six months ago, leading to a costly audit. Nobody has said anything about retaliation, but several colleagues quietly note the coincidence. Hemi's score is honestly low on recent output, partly because he was moved to administrative tasks after the report. Retaining him may cost another employee their job, while letting him go may look like punishment.",
+  "options": [
+   "Retain Hemi, judging that his low score is distorted by the reassignment that followed his report.",
+   "Proceed with the scores as calculated, documenting the process thoroughly to show the decision was not retaliatory.",
+   "Ask an external reviewer to re-score the team with the reassignment accounted for, then follow the outcome."
+  ],
+  "tension": [
+   "protecting whistleblowers vs. fairness to others",
+   "appearance of retaliation vs. objective scoring"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "Cutting the Research Lab That Funded the Company",
+  "scenario": "CEO Evelina Marchetti of a pharmaceutical firm in Basel must find savings of thirty million francs. The most obvious cut is the rare-disease research lab of forty scientists: it produces no revenue, though a candidate drug might help a few thousand children in a decade. Alternatively, she could close two profitable sales offices, ending jobs for sixty, including many in Latin America who would find it hard to get work. Investors are pressing for a decision at the shareholder meeting next week, and she knows that either choice will define the company's culture.",
+  "options": [
+   "Close the rare-disease lab, preserving the sales jobs that fund current operations and are certain.",
+   "Close the two sales offices, protecting a long-term research effort that could benefit vulnerable children.",
+   "Reduce both by smaller amounts and seek external grants for the rare-disease work, accepting more total job losses than planned."
+  ],
+  "tension": [
+   "present jobs vs. future benefit",
+   "shareholder pressure vs. mission"
+  ],
+  "region": "Switzerland"
+ },
+ {
+  "title": "The Employee Who Will Lose His Housing",
+  "scenario": "Estate manager Yohannes Gebre-Egziabher at a tea plantation in Darjeeling must reduce headcount after a poor harvest. Workers live in employer-provided housing and dismissal means eviction within thirty days. Yohannes could dismiss the youngest twenty workers, who could find other work, but contributes the least to future planting. He could also dismiss the twenty least productive, many of them older and with families who have been on the estate for generations. The owner, abroad, has told him to 'use judgement' and asks to see the list within days.",
+  "options": [
+   "Dismiss the youngest workers, who have better prospects, to protect the older workers and families from displacement.",
+   "Dismiss the least productive workers, since this best serves the plantation's survival and everyone else's jobs.",
+   "Reduce hours across all workers rather than dismissing anyone, accepting lower wages for all."
+  ],
+  "tension": [
+   "capability vs. vulnerability",
+   "company survival vs. housing security"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "A Company Town Loses Its Only Employer",
+  "scenario": "Mayor Odile Rakotomalala of a coastal town in Madagascar learns that the town's largest employer, a seafood processing plant, will lay off half its workers unless the municipality waives environmental fees that fund a water treatment facility. The plant's owner says this is the only way to stay open. Waiving the fees would put clean water at risk for the whole town, notably children, and the plant has a history of pollution. Refusing could cost seven hundred jobs. She also faces an election in a year, with both sides making loud arguments.",
+  "options": [
+   "Refuse to waive the fees and prepare a support programme for the laid-off workers.",
+   "Waive the fees for a limited time with strict monitoring, to preserve jobs while water quality is protected.",
+   "Waive the fees only if the plant commits to a binding timetable for upgrading its wastewater treatment."
+  ],
+  "tension": [
+   "jobs vs. public health",
+   "short-term relief vs. long-term harm"
+  ],
+  "region": "Madagascar"
+ },
+ {
+  "title": "Offering Voluntary Buyouts to Everyone",
+  "scenario": "HR vice-president Henrietta Mbeki-Larsen at a bank in Oslo announces a voluntary buyout programme to cut two hundred roles. The terms will be most attractive to experienced employees who are confident of finding work elsewhere, risking the loss of the bank's best people, while the least employable may stay. Henrietta can cap participation by approving applications selectively, which defeats the word 'voluntary'. She knows that some employees will accept because they fear being forced out later anyway. The deadline for applications is in ten days.",
+  "options": [
+   "Run the programme openly on a first-come basis and accept the departure of whoever chooses to go.",
+   "Approve applications selectively to keep key talent, and explain frankly that approval is at the bank's discretion.",
+   "Run a combined process in which key employees are offered retention incentives before the buyout opens."
+  ],
+  "tension": [
+   "voluntariness vs. organisational need",
+   "transparency vs. control"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "Friday Afternoon Announcement for a Midnight Shift",
+  "scenario": "Site manager Obaseki Eromosele at a bottling plant in Port Harcourt must tell the night-shift crew of sixty that their shift is ending permanently in two weeks. The crew meets only at midnight, while senior management is present during day hours. Telling them at the midnight shift change would mean delivering the news with no HR support and no daytime services open for those who are shaken. Delaying the announcement until the daytime would make the crew hear it through rumour first. Several workers have recently had accidents on the line due to fatigue.",
+  "options": [
+   "Announce it at the midnight shift change with himself present, so the crew hears it directly from him without delay.",
+   "Hold the announcement until the daytime, when HR and counselling staff are available, and accept the risk of rumours.",
+   "Bring the whole crew in by day with paid time, for a dignified announcement with support in place."
+  ],
+  "tension": [
+   "immediacy vs. support",
+   "candour vs. care"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Keeping the Veteran Whose Skills Are Obsolete",
+  "scenario": "Print shop owner Ilhan Yilmaz in Izmir must lay off two of five employees as digital printing erodes demand. Selim has been with the shop for thirty-one years and is the last master of letterpress printing, a niche that produces little profit but has loyal customers. Two younger staff are skilled in the digital technology on which the future depends, but one is an unreliable timekeeper. Selim is sixty-three and unlikely to find other work. Ilhan fears that the shop would lose its soul without Selim, but also that it will not survive without the digital team.",
+  "options": [
+   "Retain Selim and lay off two of the other staff, honouring his service and the craft that gave the shop its identity.",
+   "Lay off Selim with generous compensation, retaining the digital staff who represent the business's future.",
+   "Reduce Selim to part-time and lay off only one other employee, spreading the burden but weakening everyone's position."
+  ],
+  "tension": [
+   "loyalty to long service vs. future viability",
+   "craft preservation vs. profit"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "Cutting Contractors First, Despite the Law",
+  "scenario": "Programme manager Beatriz Ocampo at a development agency in Bogotá must cut budgets by one-fifth. The simplest way is to end the contracts of eighteen 'consultants', who work full-time for the agency, have worked for years without benefits, and, under local labour law, may legally be employees. Dismissing them as consultants avoids severance. Ending the contracts of permanent staff would cost three times more. Beatriz knows that a labour inspection would likely rule against the agency, but such inspections are rare. Her donors urge swift action.",
+  "options": [
+   "End the consultants' contracts as proposed, since it is the legal classification the agency has used so far.",
+   "Recognise the consultants as employees and pay appropriate severance, even though it will cost more and mean deeper cuts elsewhere.",
+   "Cut permanent staff and consultants proportionately, giving equal notice and a modest payment to the consultants."
+  ],
+  "tension": [
+   "legal formalism vs. substantive fairness",
+   "cost vs. obligation"
+  ],
+  "region": "Colombia"
+ },
+ {
+  "title": "A Warning Given Too Late",
+  "scenario": "Union representative Shamsul Alam in Chittagong learns from a friend in management that the factory where he works will cut one hundred and twenty workers in a month. If he alerts members now, many will leave before the severance date and take the benefits of other jobs, while some will pressure management, risking an earlier closure. If he waits, workers lose time to prepare, find new jobs or negotiate. His friend asked him to keep this confidential, and breaking that trust would end the source of information that has helped the union before.",
+  "options": [
+   "Share the information with members now, putting their interests ahead of the confidence of his source.",
+   "Keep the confidence and quietly begin to negotiate for stronger severance terms and retraining for workers.",
+   "Tell a small group of union committee members and ask them to decide jointly whether and when to alert everyone."
+  ],
+  "tension": [
+   "trust in a source vs. duty to members",
+   "early warning vs. stability"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "A Surviving Employee's Guilt Bonus",
+  "scenario": "Team lead Anneke de Boer in Utrecht survives a round of layoffs at a media company that cut twenty-two of her colleagues, including her close friend. Management offers her a retention bonus to keep morale up among those who remain, and promises that the work of the departed will be absorbed by the remaining staff without extra pay. Anneke thinks that accepting would feel like profiting from her friends' losses. Refusing would not help anyone, and the bonus would help her family. Her team is watching how she responds.",
+  "options": [
+   "Accept the bonus, reasoning that refusing would help nobody, and use some of it to help laid-off colleagues.",
+   "Decline the bonus and tell management that the surviving team needs fair pay for the added workload instead.",
+   "Accept the bonus and negotiate for it to be shared with her team, who are carrying the additional burden."
+  ],
+  "tension": [
+   "personal gain vs. solidarity",
+   "symbolic gestures vs. practical help"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "Dismissing a Worker for Union Organising Disguised as Redundancy",
+  "scenario": "Regional HR officer Priscilla Chanda in Kitwe is asked by the mine owner's representative to include two union organisers in the redundancy list, giving reasons of 'low productivity' that she knows are weak. The mine does need to reduce numbers. Including the organisers would weaken a growing movement for better safety conditions, which she privately supports. Refusing would likely lead to the owner replacing her with someone who will comply. She also fears that if the organisers remain, the owner may close the mine entirely and cost everyone their job.",
+  "options": [
+   "Refuse to include the organisers and document her objection, accepting that she may be replaced.",
+   "Include them as instructed, reasoning that she can better protect other workers by staying in her post.",
+   "Include a larger list with selection based on transparent criteria, which may or may not include the organisers."
+  ],
+  "tension": [
+   "complicity vs. influence from within",
+   "workers' rights vs. job security"
+  ],
+  "region": "Zambia"
+ },
+ {
+  "title": "An Algorithm Chooses Who Goes",
+  "scenario": "Analytics lead Takumi Okada at a retailer in Nagoya has built a model to rank store employees for redundancy based on sales, attendance and customer ratings. In testing, it ranks part-time mothers and workers with chronic illnesses disproportionately low, because of absences. Managers like the model for its speed and apparent neutrality, and they plan to use it next week. Takumi can adjust the weighting to reduce the disparity, which would reduce the model's predictive accuracy for sales, or release it as it is. The company's lawyers have not reviewed it.",
+  "options": [
+   "Release the model as designed for objectivity and accuracy, leaving human managers to review any outcomes.",
+   "Adjust the weights to reduce disparity in outcomes, accepting a loss in predictive accuracy.",
+   "Withhold the model until the lawyers and an independent reviewer have examined its effects on affected groups."
+  ],
+  "tension": [
+   "accuracy vs. equity",
+   "efficiency vs. human judgement"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Cutting Hours Instead of Heads",
+  "scenario": "Cafe chain owner Marisol Gutiérrez in San Juan faces a slump after a hurricane damaged tourism. She could lay off five of twenty baristas or reduce everyone's hours by a quarter, which would drop several below a living wage and leave some without health insurance tied to full-time status. The baristas have discussed this among themselves and are split, with some willing to share the pain and others, who have dependents, asking to keep full hours. Marisol cannot predict how long the downturn will last.",
+  "options": [
+   "Reduce everyone's hours equally, preserving the team and sharing the burden, even though some will fall below a living wage.",
+   "Lay off five workers selected by seniority and keep the rest on full hours and benefits.",
+   "Let the workers vote on the approach, and abide by the outcome even if it is not what she would choose."
+  ],
+  "tension": [
+   "shared sacrifice vs. concentrated harm",
+   "paternalism vs. participation"
+  ],
+  "region": "Puerto Rico"
+ },
+ {
+  "title": "A Layoff List That Includes the Interpreter",
+  "scenario": "Hospital administrator Tshering Dorji in Thimphu must cut costs, and the least clinical role listed is a medical interpreter who supports patients from remote villages who speak minority languages. Official language policy treats these services as optional. Laying her off saves little, but the administrator's board wants a visible cut that does not touch clinical staff. The interpreter, Pema, has helped avoid dangerous misunderstandings, though her impact does not appear in the hospital's metrics. Alternatively, Tshering could cut a managerial post, which would be expensive to fill again.",
+  "options": [
+   "Retain Pema and cut a managerial post, since patient communication is closely tied to safe care.",
+   "Lay off Pema as the board prefers, as she is not a clinical role and the savings are needed.",
+   "Retain Pema but redefine her role to include some administrative tasks, so that the board sees her as a multi-purpose position."
+  ],
+  "tension": [
+   "measurable value vs. unmeasured care",
+   "budget realities vs. patient safety"
+  ],
+  "region": "Bhutan"
+ },
+ {
+  "title": "The Founder Who Lays Off His Own Cofounder's Wife",
+  "scenario": "Startup founder Cormac Lyons in Cork must let go of a third of his thirty-person team after investors withdrew. The weakest position by objective measures is held by Siobhan, the wife of his cofounder and closest friend, Eamon. Eamon says he will not interfere, but Cormac knows the friendship and the company could be damaged either way. Retaining her would be seen as favouritism and would demoralise the others. Letting her go would put Eamon's household under heavy strain. The team will be told on Monday morning.",
+  "options": [
+   "Include Siobhan on the list on the same terms as everyone else, and tell Eamon beforehand.",
+   "Remove her from the list in order to protect the cofounder relationship, accepting that it may look like favouritism.",
+   "Ask an independent advisor to apply the criteria and announce the list, and accept the result for all."
+  ],
+  "tension": [
+   "impartiality vs. loyalty to a friend",
+   "appearance of favouritism vs. relationship"
+  ],
+  "region": "Ireland"
+ },
+ {
+  "title": "Rehiring Promises After a Shutdown",
+  "scenario": "Brewery owner Gerhard Pretorius in Windhoek closed his plant for a drought-related water shortage and told thirty workers he would rehire them when rain returned. Now a buyer offers to take over the brewery on condition that it starts with a leaner crew of twenty, drawn from whoever he chooses. Accepting would save the business and twenty jobs. Declining may mean permanent closure and no jobs at all. The former workers have trusted his word for eight months, and some have turned down work elsewhere. The buyer needs an answer by Friday.",
+  "options": [
+   "Accept the buyer's offer and use the proceeds to give the ten workers who are not rehired a fair payment.",
+   "Decline the offer and wait for the water supply to recover, honouring his promise to all thirty even if the business fails.",
+   "Accept the offer after negotiating that the buyer rehires from the original thirty first, using seniority as the criterion."
+  ],
+  "tension": [
+   "promises vs. business survival",
+   "all vs. some"
+  ],
+  "region": "Namibia"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Contract Nobody Read",
+  "scenario": "Procurement officer Chidi Nwosu-Hartmann in Lagos is reviewing bids for a hospital equipment contract when his director, who hired him, hints that a bidder owned by the director's brother-in-law should win. That bid is only slightly more expensive but meets every technical requirement. Chidi's supervisor controls his probation review next week. Rejecting the bid would stall equipment that clinics urgently need, and a formal complaint could take months. He has to submit his scoring sheet by five o'clock.",
+  "options": [
+   "Score the bids strictly on the published criteria, even if that outcome embarrasses his director and endangers his probation.",
+   "Score honestly but declare the family relationship in writing, letting the committee decide whether to proceed.",
+   "Score the favoured bid as top since it meets requirements and the price difference is small, prioritising speedy delivery of equipment."
+  ],
+  "tension": [
+   "impartiality vs. job security",
+   "speed of public service vs. integrity"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Gift of Two Goats",
+  "scenario": "District officer Tsegaye Bekele in Ethiopia's Oromia region is handed two goats by a village elder whose land-title application he has just approved. The elder insists it is custom, not bribery, and that refusing will insult the community and undermine the officer's standing in future disputes. Government rules forbid accepting any gifts from applicants. Several villagers stand watching. Tsegaye has seconds to decide how to respond without causing offence or breaching his code.",
+  "options": [
+   "Decline politely and explain the rule, accepting the risk of offending the elder and complicating relations.",
+   "Accept the goats on behalf of the community and immediately donate them to the village school, with a written record.",
+   "Accept and report the gift to his superior afterward, letting them decide how it should be handled."
+  ],
+  "tension": [
+   "cultural custom vs. official code",
+   "relational trust vs. rule-following"
+  ],
+  "region": "Ethiopia"
+ },
+ {
+  "title": "The Minister's Unsigned Order",
+  "scenario": "Permanent secretary Annelise Kroonenberg-Osei in the Netherlands receives a verbal instruction from the minister to delay publishing a flood-risk report until after a coastal housing development vote. The report shows greater risk than previously estimated. Publication rules allow discretion over timing, but not concealment. Delay could affect three hundred families' decisions to buy homes. The minister is sympathetic to developers and warns the secretary that insubordination ends careers. The vote is in nine days.",
+  "options": [
+   "Publish on the normal schedule despite the instruction, treating the public's right to risk information as paramount.",
+   "Follow the minister's instruction and delay, relying on the formal discretion and avoiding conflict with elected leadership.",
+   "Seek the instruction in writing and, if it is given, forward it to the independent oversight body for review before acting."
+  ],
+  "tension": [
+   "political accountability vs. public safety",
+   "civil service loyalty vs. transparency"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "Leaking the Water Tests",
+  "scenario": "Environmental inspector Marisol Quintanilla-Rojas in Peru has results showing arsenic in a river town's drinking supply at levels above the legal limit. Her agency head asks her to keep them internal until a treatment plan is funded, to avoid panic and protect a negotiation with the mining company. Residents are drinking the water daily. Public disclosure would breach a confidentiality directive. A funding decision is expected in two months. She must decide what to do this week.",
+  "options": [
+   "Release the results to the public immediately, accepting disciplinary action for breaching the directive.",
+   "Follow the directive but press internally for emergency bottled-water supplies in the interim, avoiding public panic.",
+   "Share the results only with the town's health clinic and mayor, who can advise residents quietly and responsibly."
+  ],
+  "tension": [
+   "public right to know vs. institutional discipline",
+   "panic avoidance vs. protection of health"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Mayor Tanaka and the Failing Dam",
+  "scenario": "Mayor Kenji Tanaka-Reyes of a small Philippine municipality learns from an engineer that the town's irrigation dam may fail in the coming typhoon season. Repairs cost more than the municipal budget. Diverting money earmarked for a scholarship fund and a feeding programme is illegal without council approval, and the council is deadlocked until after the season. Downstream rice fields and about four hundred homes depend on the dam. He needs to act in the next week.",
+  "options": [
+   "Divert the funds immediately for repairs, accepting censure for exceeding his authority to prevent potential disaster.",
+   "Wait for council approval while preparing evacuation plans, respecting the legal limits on his authority.",
+   "Divert only the minimum needed for emergency reinforcement and openly publish his actions, asking the council to ratify them."
+  ],
+  "tension": [
+   "legal authority vs. public safety",
+   "fiscal responsibility vs. prevention of harm"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "The Retiring Judge's Last Docket",
+  "scenario": "Judge Olufemi Castellano-Brandt will retire at month's end from a provincial court in Ecuador. On his docket is a land dispute where the poorer party has weaker documentation but a long moral claim, while the wealthier party holds a clean legal title. Colleagues hint that a ruling for the wealthy party will bring him a lucrative consultancy; a ruling for the poorer family would be reversed on appeal. He wants to leave a clear conscience. The hearing is tomorrow.",
+  "options": [
+   "Rule strictly according to the legal title, accepting that the outcome is harsh for the poorer family.",
+   "Rule in favour of the long-standing occupant using equity principles, knowing that appeal will likely overturn it.",
+   "Rule on title but include a detailed recommendation to the land agency for compensation or resettlement for the occupant."
+  ],
+  "tension": [
+   "law vs. equity",
+   "independence vs. self-interest"
+  ],
+  "region": "Ecuador"
+ },
+ {
+  "title": "Rationing the Vaccines",
+  "scenario": "Health ministry director Sunita Bhattacharjee-Lowe in Bangladesh controls forty thousand doses of a scarce vaccine during an outbreak. Policy prioritises healthcare workers, then elderly citizens. A provincial governor, who funds her department's clinics, requests that his district be served first because his constituents are angry. The outbreak is expanding fastest in a different, poorer district. Sunita must publish the allocation list before dawn.",
+  "options": [
+   "Allocate strictly by the published priority and epidemiological need, even if the governor retaliates against her department.",
+   "Give the governor's district a modest additional share to maintain political cooperation, with the remainder allocated by need.",
+   "Allocate by need and publish the entire reasoning, along with the governor's request, to the public."
+  ],
+  "tension": [
+   "need vs. political pressure",
+   "institutional survival vs. fairness"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "Auditor and the Cousin's Charity",
+  "scenario": "State auditor Gunnar Halvorsen-Mbeki in Namibia discovers that a children's charity run by his cousin has been using government grant money for staff salaries not permitted under the agreement, but the charity feeds six hundred children daily. Reporting the breach would likely freeze funds and end the feeding programme. The audit report is due Friday. His cousin pleads for a softer finding that calls it a 'clerical misclassification'.",
+  "options": [
+   "Report the misuse accurately, accepting that the programme may suffer while the funding is reviewed.",
+   "Classify it as a clerical misclassification with a requirement to repay over time, to keep the programme running.",
+   "Report accurately but recuse himself from the case afterwards and recommend interim emergency funding for the children."
+  ],
+  "tension": [
+   "honest reporting vs. family loyalty",
+   "rules vs. beneficiaries' welfare"
+  ],
+  "region": "Namibia"
+ },
+ {
+  "title": "Overruling the Zoning Board",
+  "scenario": "As county commissioner in rural Kansas, Delphine Okafor-Whitlock holds tie-breaking power on whether to rezone farmland for a battery factory promising two thousand jobs. The county's unemployment is high, but the site sits above an aquifer on which three neighbouring towns depend. Her brother-in-law sells equipment to the developer, which she has disclosed. Opponents demand she abstain. She must cast her deciding vote on Monday.",
+  "options": [
+   "Abstain from the vote because of the family connection, leaving the decision to the tied board and its consequences.",
+   "Vote against rezoning, prioritising long-term water safety over short-term jobs.",
+   "Vote for rezoning with strict binding conditions on groundwater monitoring and shutdowns, balancing jobs and safety."
+  ],
+  "tension": [
+   "conflict of interest vs. duty to decide",
+   "economic need vs. environmental risk"
+  ],
+  "region": "United States"
+ },
+ {
+  "title": "The Quiet Pension List",
+  "scenario": "Clerk Wiremu Tuhiwai-Sandoval in Aotearoa New Zealand's social-welfare office notices that a rule change will cut payments to about two hundred elderly people who failed to file an obscure form. His manager says he cannot proactively contact them, since reaching out only to some people could be seen as favouritism and exceed his role. Letters will arrive after the cutoff date. He has access to the contact list and a free weekend.",
+  "options": [
+   "Contact the affected people personally to help them file in time, acting beyond his formal role to avert hardship.",
+   "Raise the issue formally with his manager and union, abiding by procedure while pressing for an organisational response.",
+   "Forward the list to a community advocacy group, which is outside the agency and can reach out without breaching his role."
+  ],
+  "tension": [
+   "role boundaries vs. compassion",
+   "fair procedure vs. helping"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "Border Guard and the Missing Stamp",
+  "scenario": "Customs officer Anouk Verheyen-Diallo at a Senegalese border crossing finds that an aid convoy carrying medical supplies lacks a required stamp from a ministry that has been closed due to a strike. The supplies are needed at a clinic in an outbreak zone, and spoilage is likely within a day. Her supervisor is unreachable. Releasing the convoy violates procedure; holding it risks lives. The driver is waiting at her window.",
+  "options": [
+   "Release the convoy on her own authority, documenting the reasons and accepting responsibility for the breach.",
+   "Hold the convoy until the stamp or supervisor's approval can be obtained, upholding procedure despite the delay.",
+   "Release a part of the shipment, the perishable items, and hold the rest pending authorisation."
+  ],
+  "tension": [
+   "procedure vs. urgent need",
+   "personal accountability vs. institutional rules"
+  ],
+  "region": "Senegal"
+ },
+ {
+  "title": "A Senator's Tip from the Briefing",
+  "scenario": "Senator Ingrid Solvang-Petrov in Norway's parliament attends a confidential briefing revealing that an upcoming regulation will collapse the value of a shipping company. Her sister-in-law has told her she is about to invest her savings in that company. Disclosing the briefing breaks secrecy rules; staying silent could cost the family's savings. The regulation will be announced in three days. Ingrid must decide what, if anything, to say.",
+  "options": [
+   "Say nothing about the regulation and let her sister-in-law decide, protecting confidentiality at the cost of potential family loss.",
+   "Warn the sister-in-law not to invest without saying why, accepting the risk that the hint breaches the spirit of the rules.",
+   "Tell her the full reason and then report her own disclosure to the ethics committee, choosing candour over strict secrecy."
+  ],
+  "tension": [
+   "confidentiality vs. family care",
+   "public trust vs. private loyalty"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "Registrar and the Dead Man's Name",
+  "scenario": "Civil registrar Thandiwe Mokoena-Fraser in Zimbabwe is asked by a widow to record her husband's death as having occurred in a different district. If recorded truthfully, the widow loses inheritance rights because of a local law that bars those who live outside the district of the death. The widow offers evidence that the law is discriminatory. Falsifying the record is a crime. Her husband's creditors are also pressing. Thandiwe must decide whether to record it.",
+  "options": [
+   "Record the death accurately and help the widow challenge the discriminatory inheritance law through legal aid.",
+   "Record the death in the district the widow requests, prioritising a just outcome over a literal record.",
+   "Decline to alter the record but issue a certified statement of the circumstances supporting her inheritance claim."
+  ],
+  "tension": [
+   "accuracy of records vs. justice",
+   "personal conscience vs. official duty"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "The Inspector and the Cheap Scaffolding",
+  "scenario": "Construction inspector Lorenzo Baptiste-Nakamura in Marseille notices that a school renovation site uses scaffolding slightly under standard, built by the contractor's cousins. Formal rejection would halt work for weeks, pushing the project past the school year and displacing two hundred pupils into overcrowded rooms. The risk of failure is small but real. His supervisor says the standard is guidance, not law. Lorenzo must decide what to write on his form.",
+  "options": [
+   "Reject the scaffolding strictly, enforcing the standard and accepting the disruption to pupils.",
+   "Approve with conditions for added bracing and weekly rechecks, balancing safety and continuity.",
+   "Approve without conditions, trusting the supervisor's reading that the standard is non-binding."
+  ],
+  "tension": [
+   "safety vs. continuity of public service",
+   "literal rules vs. judgement"
+  ],
+  "region": "France"
+ },
+ {
+  "title": "Disclosing the Ambassador's Illness",
+  "scenario": "Chief of staff Rashida Al-Khoury-Lindqvist in Jordan observes that the foreign minister's memory and judgement have declined noticeably, perhaps from early dementia. Delicate peace talks begin in a month. The minister, a friend and mentor, insists he is fine and forbids discussion. Constitutionally, only the prime minister can remove him. Telling the prime minister breaches the minister's trust and may end his career. She must decide whether to raise it.",
+  "options": [
+   "Inform the prime minister confidentially of her concerns, putting the national interest ahead of personal loyalty.",
+   "Encourage the minister to see a doctor voluntarily and give him time, delaying any formal disclosure.",
+   "Remain silent and cover for his lapses, respecting his dignity and the lack of a confirmed diagnosis."
+  ],
+  "tension": [
+   "loyalty vs. national interest",
+   "dignity vs. competence"
+  ],
+  "region": "Jordan"
+ },
+ {
+  "title": "Teacher Inspector and the Ghost Pupils",
+  "scenario": "School inspector Mateus Figueiredo-Ibe in Mozambique discovers a headmaster has been listing eighty non-existent pupils to secure extra funding, which is used to pay for textbooks and a night watchman for the real students. The headmaster is respected and generous. If reported, he will be dismissed and the school's funding cut for months. Mateus's report is due on Friday, and he is aware that no one else checks.",
+  "options": [
+   "Report the false enrolment in full, upholding the integrity of the education budget regardless of the outcome.",
+   "Order the headmaster to correct the roll and repay over time, giving a warning but preserving the school's continuity.",
+   "Leave the figures unchallenged this year while advising the district to reform the funding formula that creates the incentive."
+  ],
+  "tension": [
+   "integrity of public funds vs. practical benefit",
+   "enforcement vs. mercy"
+  ],
+  "region": "Mozambique"
+ },
+ {
+  "title": "The Gift Voucher at the Planning Office",
+  "scenario": "Planning officer Dariusz Wójcik-Amankwah in Edinburgh receives an unsolicited luxury hotel voucher from a developer whose application is yet to be decided. A note says it is thanks for a courteous meeting. Returning it requires paperwork and may embarrass a firm that employs many local people. Declaring it will disqualify him from the file, which he alone understands. Colleagues say nobody will notice either way. Dariusz must decide what to do before the committee meets.",
+  "options": [
+   "Return the voucher and declare it, accepting recusal from the file and the loss of his expertise on it.",
+   "Return the voucher without declaring it, keeping his involvement in the file while sending a polite message to the firm.",
+   "Declare the voucher but argue for his continued involvement under a supervisor's oversight, given his expertise."
+  ],
+  "tension": [
+   "appearance of impropriety vs. expertise",
+   "rule-following vs. practicality"
+  ],
+  "region": "United Kingdom (Scotland)"
+ },
+ {
+  "title": "The Treasury Clerk's Duplicate Payment",
+  "scenario": "Treasury clerk Ayşe Demirtaş-Okoye in Ankara discovers that a duplicate payment of two million lira was wrongly credited to a small private clinic that treats the poor. Returning it would likely bankrupt the clinic, which has already used funds to pay overdue salaries. Repayment is legally required, and her superiors haven't yet noticed. Ayşe alone has the audit trail. She must decide whether to report the error.",
+  "options": [
+   "Report the error immediately, as required, even though the clinic may be forced to close.",
+   "Report the error and propose a structured repayment plan for the clinic, balancing legal duty and mercy.",
+   "Delay reporting while trying to convince the clinic's board to arrange a voluntary return and partial hardship waiver."
+  ],
+  "tension": [
+   "legal duty vs. mercy",
+   "institutional honesty vs. harm to beneficiaries"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "Commissioner's Emergency Powers",
+  "scenario": "Emergency commissioner Folasade Adeniran-Cruz in Trinidad has statutory power to impose a curfew during a gang-violence surge. A curfew would likely reduce killings but would also prevent night-shift nurses and informal vendors from working, harming the poor. Evidence of effectiveness is mixed. The prime minister is demanding visible action by tonight. Folasade has sole authority to invoke the curfew for up to seven days.",
+  "options": [
+   "Impose the curfew for seven days, prioritising the prevention of violence over the economic burdens.",
+   "Impose a limited curfew in the worst affected neighbourhoods with exemptions for essential workers.",
+   "Decline to impose a curfew and instead deploy targeted patrols, accepting political criticism for inaction."
+  ],
+  "tension": [
+   "security vs. liberty and livelihood",
+   "political pressure vs. evidence"
+  ],
+  "region": "Trinidad and Tobago"
+ },
+ {
+  "title": "The Archivist and the Sealed Files",
+  "scenario": "Archivist Bohdan Kovalenko-Mensah in Ukraine's regional archive finds sealed files showing that a revered local war hero ordered the forced relocation of a minority village decades ago. The files are due to be opened to the public next year under law, but the current mayor, who admires the hero, asks Bohdan to catalogue them as 'damaged'. Survivors' descendants are still seeking answers. Bohdan must decide how to catalogue the files this week.",
+  "options": [
+   "Catalogue them accurately so that they open to the public on schedule, regardless of the mayor's displeasure.",
+   "Catalogue them as damaged to delay release, giving local sentiment time to adapt before the revelations.",
+   "Catalogue them accurately and prepare an explanatory context document so that release is handled responsibly."
+  ],
+  "tension": [
+   "historical truth vs. social harmony",
+   "professional integrity vs. political pressure"
+  ],
+  "region": "Ukraine"
+ },
+ {
+  "title": "Colonel Nasser and the Flooded Valley",
+  "scenario": "Army engineer Colonel Hamza Nasser-Tremblay, seconded to a civil emergency agency in Pakistan, must choose which of two valleys to flood by opening a sluice gate to protect a large city from a swollen river. One valley contains a poor farming community with few vehicles; the other, a wealthier hamlet with good roads that can evacuate quickly but contains a heritage temple. Orders offer him discretion. Only six hours remain before the river crest.",
+  "options": [
+   "Flood the wealthier valley, since its residents can evacuate more quickly and thus fewer lives are at risk.",
+   "Flood the poorer valley, preserving the heritage temple and the stronger economy, while arranging emergency evacuation support.",
+   "Delay the decision to allow more evacuation time and risk the city, seeking higher approval for the choice."
+  ],
+  "tension": [
+   "equal concern vs. minimising casualties",
+   "cultural heritage vs. vulnerable people"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "A Whistleblower in the Customs House",
+  "scenario": "Junior customs analyst Siosaia Tuipulotu-Larsen in Tonga notices that shipments linked to a cabinet member's company routinely bypass inspection. His colleagues say the practice is accepted. Reporting internally goes to a superior appointed by that minister; the anti-corruption office in the capital is understaffed and slow, and whistleblowers have been quietly sidelined before. He is the sole earner for his family. Siosaia must decide how, or whether, to report.",
+  "options": [
+   "Report directly to the anti-corruption office with documentary evidence, accepting the risk of retaliation.",
+   "Report to a foreign-funded oversight programme that can protect his identity, though it may not act quickly.",
+   "Keep records securely and wait until he has job security or a safer moment, deferring action."
+  ],
+  "tension": [
+   "duty to expose wrongdoing vs. family security",
+   "effectiveness vs. protection"
+  ],
+  "region": "Tonga"
+ },
+ {
+  "title": "The Magistrate's Weekend Warrant",
+  "scenario": "On a Saturday night, magistrate Eleni Papadakis-Okonjo in Greece is asked by police for an emergency search warrant to enter a flat where a missing teenager may be held. The evidence is thin: an anonymous call and a neighbour's vague account. Granting the warrant infringes privacy rights and could be unlawful if baseless; refusing could be catastrophic if the tip is real. The police captain waits in her kitchen with the file, and she has twenty minutes.",
+  "options": [
+   "Grant the warrant, accepting the lower evidentiary threshold because of the potential risk to a child.",
+   "Refuse until police gather one more piece of independent corroboration, protecting privacy and legal standards.",
+   "Grant a narrower warrant limited to a welfare check by a social worker alongside police, reducing intrusion."
+  ],
+  "tension": [
+   "privacy vs. protection of a child",
+   "legal standards vs. urgency"
+  ],
+  "region": "Greece"
+ },
+ {
+  "title": "The Harbourmaster's Unpaid Tug",
+  "scenario": "Harbourmaster Lars Dahlgren-Mutasa at a Mozambican port discovers that a tug operator, a cousin of the transport minister, has not paid berthing fees for two years. Collecting them would likely bankrupt the operator, which handles every rescue call in bad weather. The ministry has told him to 'be pragmatic'. A fishing fleet is due to sail in a week, and he alone signs the fee ledger.",
+  "options": [
+   "Enforce collection of the fees in full, treating all operators alike regardless of connections.",
+   "Agree an instalment plan on the record, keeping the tug in service while enforcing the debt over time.",
+   "Waive the arrears quietly, since the tug's rescue role matters more than the revenue."
+  ],
+  "tension": [
+   "equal enforcement vs. public safety",
+   "political pressure vs. integrity"
+  ],
+  "region": "Mozambique"
+ },
+ {
+  "title": "Election Observer Reporting Early",
+  "scenario": "Electoral official Pilar Vásquez-Tembo in Costa Rica sees a counting error that gives one party an extra three hundred votes in a close municipal race. The error favours a candidate she supports. Correcting it means reopening a sealed count and publicly embarrassing her own commission before the results are announced at nine tomorrow. Only she and a junior colleague have noticed, and the colleague looks to her for guidance.",
+  "options": [
+   "Report the error at once and reopen the count, even though it may cost her preferred candidate the seat.",
+   "Wait until the official announcement and then file a formal correction request, avoiding a public scandal.",
+   "Ask the junior colleague to review it independently and abide by whatever the colleague concludes."
+  ],
+  "tension": [
+   "impartiality vs. partisanship",
+   "institutional reputation vs. accuracy"
+  ],
+  "region": "Costa Rica"
+ }
+]

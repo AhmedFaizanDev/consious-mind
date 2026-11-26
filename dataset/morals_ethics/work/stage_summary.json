@@ -1,0 +1,22 @@
+{
+  "prior_workbook": {
+    "emitted": 416,
+    "errors": 0,
+    "skipped": {},
+    "seconds": 1.0
+  },
+  "ethics_virtue": {
+    "emitted": 4352,
+    "errors": 0,
+    "skipped": {
+      "virtue_misaligned_block": 16240
+    },
+    "seconds": 1.0
+  },
+  "ethics_util": {
+    "emitted": 22818,
+    "errors": 0,
+    "skipped": {},
+    "seconds": 2.7
+  }
+}

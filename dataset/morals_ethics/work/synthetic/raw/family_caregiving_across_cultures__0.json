@@ -1,0 +1,352 @@
+[
+ {
+  "title": "A Mother's Wish to Stay in the Village",
+  "scenario": "Wei Lin, a 41-year-old engineer in Shenzhen, learns that his widowed mother in rural Hunan has fallen twice in a month. She refuses to leave her house, her garden and the neighbours who check on her daily. Wei's wife is expecting their second child, and their apartment has no spare room. A private care home near Wei costs half his salary. Wei must decide how to respond before the next harvest season.",
+  "options": [
+   "Hire a live-in village caregiver and visit monthly, honouring his mother's attachment to her home despite the fall risk and his distance.",
+   "Move his mother into a care home near him, accepting her distress in exchange for safety and his ability to oversee her care.",
+   "Ask his younger sister, who lives two hours from the village, to move in with the mother and receive a share of his income."
+  ],
+  "tension": [
+   "autonomy vs. safety",
+   "filial duty vs. family resources"
+  ],
+  "region": "China"
+ },
+ {
+  "title": "Dividing the Night Shifts",
+  "scenario": "In Accra, Abena Mensah, a nurse, and her brothers Kofi and Yaw share care of their father, who has advanced dementia. Custom says the eldest daughter leads, so Abena covers every night after her hospital shifts. She is exhausted and recently made a dosing mistake at work that was caught in time. Kofi offers money but says his job in the oil sector leaves no time. Yaw insists a daughter's duty is natural. Abena must decide what to tell her brothers at Sunday's family meeting.",
+  "options": [
+   "Insist the brothers take fixed nights each week, even if they perform poorly, because fairness matters more than convention.",
+   "Accept the customary role but demand the brothers pay for a paid night nurse, preserving family norms while reducing risk.",
+   "Step back from night care entirely and let the family figure it out, prioritising her patients' safety and her own health."
+  ],
+  "tension": [
+   "tradition vs. fairness",
+   "self-care vs. duty"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "The Nursing Home Brochure",
+  "scenario": "Hannah Becker, 58, lives in Stuttgart and has cared for her mother for six years. Her mother, now 89, has moderate heart failure and fears being sent away. Hannah's doctor warns that her own blood pressure and sleep are deteriorating. A well-regarded nursing home has just offered a place that may not return for a year. Hannah's mother, lucid today, says she would rather die at home. Hannah must answer the home by Friday.",
+  "options": [
+   "Decline the place and continue caring at home, respecting her mother's clear wish and accepting the toll on her own health.",
+   "Accept the place and explain honestly to her mother, judging that sustainable care matters more than a preference that may cost Hannah her health.",
+   "Accept the place provisionally for a trial month, knowing her mother may feel betrayed and that the offer may not allow a return."
+  ],
+  "tension": [
+   "autonomy vs. caregiver wellbeing",
+   "promise vs. sustainability"
+  ],
+  "region": "Germany"
+ },
+ {
+  "title": "Selling the Family Shop for Dialysis",
+  "scenario": "Ravi Pillai runs a small hardware shop in Kochi that has been in the family for three generations. His father needs thrice-weekly dialysis costing more than the shop earns, and the government hospital queue is long. Ravi's uncle suggests selling the shop; Ravi's wife points out their daughter's school fees. His father, proud, has said nothing about money. Ravi must decide whether to sell the shop this month to fund private dialysis.",
+  "options": [
+   "Sell the shop and pay for private dialysis, treating his father's life and comfort as the overriding claim on family assets.",
+   "Keep the shop and use the slow government queue, accepting greater risk to his father to protect the family's livelihood and daughter's future.",
+   "Ask his father directly to decide, even though the question may shame him and shift the burden of the choice onto him."
+  ],
+  "tension": [
+   "life vs. livelihood",
+   "dignity vs. honesty"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Grandmother's Language and Her Last Months",
+  "scenario": "Elif Yilmaz, a hospice social worker in Rotterdam, supports a Turkish family whose grandmother has weeks to live. The family wants her moved to her granddaughter's flat so she can die among relatives, but the hospice team believes symptom control would be worse and the flat is unsafe for oxygen equipment. The grandmother speaks only Turkish and her wishes are unclear because translations differ. Elif has one day to advise the family on where care should happen.",
+  "options": [
+   "Recommend the move home with training and equipment support, valuing family presence and cultural expectations of dying among kin.",
+   "Recommend staying in the hospice, valuing professional symptom control and safety, while arranging round-the-clock family visiting.",
+   "Postpone the recommendation to arrange a trusted independent interpreter, accepting delay that may close the window for a home move."
+  ],
+  "tension": [
+   "cultural expectations vs. clinical safety",
+   "autonomy vs. communication"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "The Retired Teacher's Bank Card",
+  "scenario": "Carmen Quispe, 36, works in Lima while her father, a retired teacher in Cusco, grows forgetful. He has twice paid scam callers. Carmen could take over his bank card and pension, but he is deeply proud of paying his own way and treats the card as proof of independence. Her aunt, who lives nearby, says taking it would humiliate him. Carmen is on a flight to Cusco tomorrow and must decide how to handle the money.",
+  "options": [
+   "Take over his accounts with a calm explanation, prioritising protection from further losses over his sense of control.",
+   "Leave the card with him but set a low daily withdrawal limit and ask the aunt to watch, accepting some further risk.",
+   "Propose a shared arrangement where he approves each payment with Carmen by phone, risking friction and slow response to emergencies."
+  ],
+  "tension": [
+   "dignity vs. protection",
+   "autonomy vs. beneficence"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Who Bathes Grandfather",
+  "scenario": "In Amman, Layla Haddad's grandfather needs help bathing after a stroke. His faith and habits make him unwilling to be washed by a female stranger, and the agency's only available male carer is expensive. Layla's brother Samir, 24, is willing but squeamish and has exams. Layla, a pharmacist, could do it herself but her grandfather insists a granddaughter should not. She must decide what arrangement to set up this week.",
+  "options": [
+   "Hire the costly male carer and cut other family expenses, honouring her grandfather's modesty and religious feeling.",
+   "Ask Samir to take the task despite his exams, keeping care within the family and in line with the grandfather's wishes.",
+   "Gently persuade her grandfather to accept a female professional, weighing his comfort against a need for reliable and affordable care."
+  ],
+  "tension": [
+   "modesty vs. cost",
+   "tradition vs. practicality"
+  ],
+  "region": "Jordan"
+ },
+ {
+  "title": "A Promise at the Funeral Pyre",
+  "scenario": "Prakash Thapa, a hotel manager in Pokhara, promised his dying father he would never leave his mother alone. Now a hotel group in Dubai has offered Prakash a posting that triples his income. His mother, 74, is healthy but anxious and says he should go. His sister in Kathmandu is willing to host the mother but has a small flat and a sour marriage. Prakash must answer the offer within two weeks.",
+  "options": [
+   "Decline the posting and stay, treating the deathbed promise as binding regardless of his mother's current permission.",
+   "Accept the posting and arrange the sister's home plus regular visits, concluding the promise's spirit is her wellbeing, not his physical presence.",
+   "Accept the posting but ask the mother to live with him in Dubai, even though she may be isolated and cut off from her community."
+  ],
+  "tension": [
+   "promise-keeping vs. opportunity",
+   "loyalty vs. wellbeing"
+  ],
+  "region": "Nepal"
+ },
+ {
+  "title": "Ana's Aunt and the Eviction Notice",
+  "scenario": "Ana Costa, a 29-year-old paralegal in Porto, discovers that her great-aunt Fernanda, 82, is about to be evicted over arrears the aunt has hidden for months. Fernanda's son in Luxembourg has not called in two years. Ana has savings meant for a house deposit, which would clear the debt but not guarantee Fernanda stays afloat. The aunt begs Ana not to tell the son. Ana must decide whether to contact him and how to use her savings.",
+  "options": [
+   "Pay the arrears from her savings quietly, honouring Fernanda's request and sparing her shame, even if it sets back Ana's own plans.",
+   "Contact the cousin in Luxembourg and push him to pay, breaking Fernanda's confidence to hold the person with primary duty accountable.",
+   "Help Fernanda apply for municipal housing support and negotiate with the landlord, risking eviction if the process is slow."
+  ],
+  "tension": [
+   "confidentiality vs. fairness",
+   "generosity vs. self-interest"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "Camera in the Bedroom",
+  "scenario": "Tomasz Wrona, a 47-year-old bus driver in Gdansk, lives with his father, who has Parkinson's and sometimes falls at night. A neighbour suggests a small camera in the father's bedroom linked to Tomasz's phone. His father, a former union organiser, has always valued privacy and grumbles about being treated like a child. Tomasz has not slept properly in months and fears a fall that goes unnoticed. He must decide whether to install the camera.",
+  "options": [
+   "Install the camera and tell his father it is for emergencies, accepting reduced privacy to enable fast response to falls.",
+   "Skip the camera and use a bed-exit sensor and a call button, accepting that these are less reliable but less intrusive.",
+   "Install it only after his father agrees, even if he refuses and the risk of an unnoticed fall continues."
+  ],
+  "tension": [
+   "privacy vs. safety",
+   "consent vs. protection"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Remittances and a Mother's Stroke",
+  "scenario": "Maricel Dizon, a domestic worker in Hong Kong, receives a call that her mother in Iloilo has suffered a stroke. Her employer is a single father with a toddler and says leaving now would put his job at risk. Maricel's contract allows unpaid leave, but a trip home costs a month's wages, and her siblings expect her income to cover her mother's hospital bills. She has an hour to tell her employer her decision.",
+  "options": [
+   "Leave immediately for Iloilo despite the employer's difficulties, treating her mother's critical condition as the priority over contract and wages.",
+   "Stay a few more weeks to cover costs through wages and let her siblings attend the bedside, accepting guilt and the risk her mother dies before she arrives.",
+   "Negotiate a short leave of ten days with a temporary replacement, risking the employer's refusal and the loss of her post."
+  ],
+  "tension": [
+   "presence vs. provision",
+   "duty to employer vs. duty to family"
+  ],
+  "region": "Hong Kong / Philippines"
+ },
+ {
+  "title": "The Imam, the Doctor and the Feeding Tube",
+  "scenario": "Dr. Sana Rahimi, a geriatrician in Karachi, treats a 91-year-old man who has stopped eating after repeated infections. His sons want a feeding tube, saying it is a duty to preserve life and that refusing food is not his true wish. The patient, intermittently conscious, once told a nurse he was ready to go. Local clerics offer differing views. Dr. Rahimi must advise the family at this evening's meeting on whether to proceed.",
+  "options": [
+   "Recommend the feeding tube, giving weight to the sons' duty to preserve life and the uncertainty about the father's wishes.",
+   "Recommend comfort-focused care without a tube, giving weight to the father's reported words and the burdens of artificial feeding.",
+   "Recommend a time-limited trial of tube feeding with agreed review points, risking prolonged suffering if the review is not honoured."
+  ],
+  "tension": [
+   "preserving life vs. patient wishes",
+   "family authority vs. autonomy"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "The Nine-Hour Drive",
+  "scenario": "Dalia Okonjo, a 33-year-old lawyer in Lagos, is asked by her uncle to bring her aging father from Enugu to live with her. Her father refuses, saying a man should die in his father's compound. Dalia works fifteen-hour days, has no children, and her husband is wary of an in-law moving in. Her half-brother who lives near their father claims he is too poor to give much help. Dalia must decide this month how to arrange her father's care.",
+  "options": [
+   "Fund a caregiver and regular repairs in Enugu while visiting often, respecting her father's attachment to the compound.",
+   "Insist her father moves to Lagos, judging that proximity and medical access outweigh his attachment, and persuade her husband to accept.",
+   "Pay the half-brother a stipend to care for their father, trusting a relative but risking uneven attention and quarrels over money."
+  ],
+  "tension": [
+   "respect for elders vs. risk",
+   "family harmony vs. responsibility"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Mother Who Won't Forgive",
+  "scenario": "Ingrid Solberg, 52, in Bergen, is asked by the municipality whether she will become paid carer for her mother, a woman who was cold and sometimes cruel during Ingrid's childhood. Without Ingrid, the mother would go to a municipal home, which she would tolerate. Ingrid's brother says family is family; her therapist says she owes her mother nothing. The paid role would help Ingrid's finances. She must reply to the municipality by month's end.",
+  "options": [
+   "Accept the paid carer role, choosing to provide dignified care out of a sense of responsibility and practical benefit despite the past.",
+   "Decline and let the municipality provide care, protecting her own wellbeing and affirming that harm in childhood limits what is owed.",
+   "Decline the paid role but remain involved by visiting regularly, offering a limited relationship on her own terms."
+  ],
+  "tension": [
+   "reciprocity vs. past harm",
+   "self-protection vs. duty"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "Too Proud to Move In",
+  "scenario": "Haruka Mori, a 38-year-old teacher in Osaka, has a father who lives alone in Fukui and refuses all help. He insists he does not wish to burden his daughter, as is the habit of his generation. A neighbour tells Haruka that he has stopped cooking and misses meals. Haruka's marriage is strained after a recent miscarriage, and moving home would mean quitting her job. She has a holiday weekend to decide on a plan.",
+  "options": [
+   "Resign and move back to Fukui, treating her father's decline as urgent despite his protests and her own strain.",
+   "Arrange meal deliveries and a community care visitor and respect his refusal to move, monitoring for a clear sign of crisis.",
+   "Ask her father to move into a nearby assisted-living flat, balancing his dignity with some oversight while preserving her job."
+  ],
+  "tension": [
+   "respecting independence vs. neglect",
+   "self vs. duty"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "The Interpreter Child",
+  "scenario": "Eleven-year-old Dina's father, a Syrian refugee in Malmo, has diabetes and a foot ulcer. Dina has been translating at appointments because the family cannot afford an interpreter and the clinic's phone service is often unavailable. Mr. Karam, the clinic's nurse manager, notices Dina missing school and hearing details about her father's amputation risk. The father says Dina is simply helping family. Mr. Karam must decide how to proceed before the next appointment.",
+  "options": [
+   "Insist on a professional interpreter for all visits, even if it delays treatment and offends the father who sees it as shaming the family.",
+   "Allow Dina to continue translating routine matters but use professionals for serious news, accepting an imperfect compromise.",
+   "Contact social services about the child's burden, risking the family's trust and fear of authorities."
+  ],
+  "tension": [
+   "child welfare vs. family interdependence",
+   "timely care vs. protocol"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "Selling Grandmother's Gold",
+  "scenario": "In Dhaka, Nusrat Ahmed's grandmother needs a hip replacement costing the equivalent of a year's family income. Nusrat's mother has kept the grandmother's gold jewellery for Nusrat's wedding dowry. Nusrat, 22, a university student, can ask her mother to sell it, but doing so would leave her with no wedding provision and perhaps lower her prospects in the marriage market. Her grandmother says the surgery is not worth it. Nusrat must decide what to push her mother to do.",
+  "options": [
+   "Urge her mother to sell the gold and fund the surgery, valuing her grandmother's mobility over her own marriage prospects.",
+   "Back her grandmother's refusal and spend the money on medicines and a walker, respecting her wish and keeping the gold.",
+   "Seek a cheaper partial-fix option at a charity hospital, risking a long wait and poorer outcome."
+  ],
+  "tension": [
+   "elder welfare vs. own future",
+   "respecting wishes vs. best interests"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "Weekend Respite or Weekend Guilt",
+  "scenario": "Aroha Ngata, 44, of Rotorua, cares for her kuia, who is 88 and fiercely tied to the marae community. Her whanau expects her to remain at the kuia's side as a matter of mana. A friend offers a respite place at a rest home for a weekend so Aroha can attend her daughter's university graduation in Auckland. The kuia fears being among strangers. Aroha has to decide by tomorrow whether to attend the graduation.",
+  "options": [
+   "Attend the graduation and book respite care, valuing her daughter's milestone and her own need for rest, accepting her kuia's fear.",
+   "Skip the graduation and keep caring, honouring whanau expectations and sparing her kuia the distress of strangers.",
+   "Ask a cousin to stay with the kuia for the weekend, risking a family dispute over who should carry the load."
+  ],
+  "tension": [
+   "obligation to elder vs. obligation to child",
+   "community expectation vs. personal need"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "A Confession on Medication",
+  "scenario": "Pastor Emmanuel Bwalya, 39, in Lusaka, helps care for his mother, who has advanced cancer. A church elder visits and urges the family to stop painkillers and rely on prayer for healing, saying morphine dims her spiritual alertness. His mother, in pain, asks quietly for her medicine but also values the elder's guidance. Emmanuel's wife wants to follow the doctors. Emmanuel must decide tonight what to do about the next dose.",
+  "options": [
+   "Give the prescribed morphine as the doctors advise, prioritising relief of suffering and his mother's request.",
+   "Withhold it for the night and pray with her, honouring her faith community and her expressed desire for spiritual clarity.",
+   "Ask his mother directly, in private, which she wants despite the elder's presence and the weight of the community's expectations."
+  ],
+  "tension": [
+   "relief of pain vs. religious conviction",
+   "communal authority vs. individual wish"
+  ],
+  "region": "Zambia"
+ },
+ {
+  "title": "The Neighbour Who Does More Than the Son",
+  "scenario": "In Buenos Aires, Silvia Ferreyra, a 67-year-old retired nurse, has for two years looked after her neighbour Don Aldo, 86, whose only son lives in Madrid and phones rarely. Aldo has begun calling Silvia his daughter and wants to leave her his flat. The son, learning this, accuses Silvia of exploiting a lonely man. Silvia is tired and wonders whether to continue. Don Aldo's medical decline is accelerating. She must decide how to respond to the son's accusation and Aldo's offer.",
+  "options": [
+   "Decline any inheritance in writing and keep caring, protecting herself from accusation and honouring a bond she values.",
+   "Accept Aldo's wish if he is competent and has a lawyer, viewing it as fair repayment for years of unpaid work.",
+   "Step back from care and urge the son to take over, protecting her reputation and health but leaving Aldo's trust broken."
+  ],
+  "tension": [
+   "gratitude vs. suspicion",
+   "care vs. self-protection"
+  ],
+  "region": "Argentina"
+ },
+ {
+  "title": "Dr. Okafor and the Tired Daughter",
+  "scenario": "Dr. Chidi Okafor, a family physician in Manchester, sees Priya Sharma, 46, who cares for her father-in-law in a joint household. She presents with chest pains that appear stress-related. Priya says it is her duty as daughter-in-law and that asking her husband's sisters for help would shame the family. Her father-in-law's care needs are heavy. Dr. Okafor has a ten-minute consultation to decide what to say and what to put in the notes.",
+  "options": [
+   "Recommend a social care assessment for the father-in-law, framing it as medical necessity for Priya's health even if she hesitates.",
+   "Prescribe only for Priya's symptoms and respect her framing of duty, offering support if she asks later.",
+   "Offer to speak with the extended family himself, with her consent, risking tension if the family sees outside interference."
+  ],
+  "tension": [
+   "cultural respect vs. patient welfare",
+   "privacy vs. intervention"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Return to the Island",
+  "scenario": "Sione Fifita, 55, a plumber in Auckland, is asked by village elders in Tonga to return and take the family's matai title, which carries duties for his ageing aunt and the village. If he declines, the title passes to a cousin Sione considers unreliable who has mismanaged land before. Sione's children are in school and his wife has a steady job in Auckland. He must decide within the month whether to accept.",
+  "options": [
+   "Accept the title and return to Tonga, honouring family and village obligations at the cost of his household's stability.",
+   "Decline and help the aunt financially from Auckland, protecting his wife and children and accepting the cousin's leadership.",
+   "Accept the title but remain in Auckland, delegating daily duties, risking criticism that the role is being treated lightly."
+  ],
+  "tension": [
+   "communal duty vs. nuclear family",
+   "tradition vs. adaptation"
+  ],
+  "region": "Tonga / New Zealand"
+ },
+ {
+  "title": "Four Siblings, One Spare Room",
+  "scenario": "In Mexico City, siblings Gabriela, Hector, Marisol and Luis meet to decide where their widowed mother, 79 and recovering from a hip fracture, will live. Tradition suggests the youngest daughter, Marisol, a single mother of two, but she works two jobs. Gabriela has a large house but a difficult marriage. Hector offers money, Luis is quiet. Gabriela, the eldest and chair of the meeting, must propose a plan before they all leave tonight.",
+  "options": [
+   "Propose their mother live with Marisol, with Hector and Gabriela paying for household help, keeping to custom while sharing costs.",
+   "Propose their mother move into Gabriela's house despite her marriage, using the larger space and seeking marital agreement.",
+   "Propose a rotating schedule of three months per sibling, accepting disruption for the mother in the name of equal sharing."
+  ],
+  "tension": [
+   "custom vs. equity",
+   "stability for elder vs. fairness among siblings"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "The Last Ferry to Hospital",
+  "scenario": "On an island in the Philippines' Visayas, barangay health worker Rosalinda Abad finds that old Lolo Pedring has a fever and confusion. The only boat to the mainland hospital leaves in thirty minutes; the next is tomorrow. Pedring's family say he has often refused hospitals and would want to die at home. His grandson wants the boat. Rosalinda has no phone signal and must recommend a course of action quickly.",
+  "options": [
+   "Put Pedring on the boat with the grandson, prioritising a chance to treat a possibly serious infection over his past stated aversion.",
+   "Keep him at home and treat symptoms with the clinic's supplies, honouring his prior wishes though the illness may be serious.",
+   "Gather the family for a five-minute discussion to decide together, risking missing the boat for a decision that is truly shared."
+  ],
+  "tension": [
+   "life-saving treatment vs. prior wishes",
+   "urgency vs. deliberation"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "Hiding the Diagnosis in Seoul",
+  "scenario": "Kim Ji-ho, a 44-year-old software developer in Seoul, learns that his mother has early-stage pancreatic cancer. His aunts say Korean families commonly withhold such news to preserve hope and strength. The oncologist, Dr. Baek, says patients usually have the right to know but defers to family wishes in some cases. Ji-ho's mother has always taken charge of decisions and recently asked directly whether anything serious was wrong. He must tell Dr. Baek today whether to disclose.",
+  "options": [
+   "Ask Dr. Baek to disclose the diagnosis fully, valuing his mother's right to decide about treatment and her own remaining time.",
+   "Ask Dr. Baek to withhold the diagnosis and describe it as a treatable condition, trying to protect her morale and keep peace in the family.",
+   "Ask Dr. Baek to ask his mother how much she wishes to know and respect her answer, even if it surprises or distresses the family."
+  ],
+  "tension": [
+   "truth-telling vs. protection",
+   "individual right vs. family norm"
+  ],
+  "region": "South Korea"
+ }
+]

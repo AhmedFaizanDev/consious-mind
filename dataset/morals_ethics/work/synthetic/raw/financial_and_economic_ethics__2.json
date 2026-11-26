@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Offshore Trust Question",
+  "scenario": "Anneliese Brandt, a Zurich trust administrator, receives a request from a long-standing client, a retired Argentine surgeon, to restructure his assets through a jurisdiction with low reporting standards. The structure is legal, does not hide income from his home country's authorities if declared, but he has not said whether he will declare. He also funds a clinic in his hometown. Anneliese's firm earns significant fees from such work and competitors would gladly accept him. She must reply to his lawyer by Monday and cannot verify his intentions without asking intrusive questions that could end the relationship.",
+  "options": [
+   "Proceed with the restructuring, since it is lawful on its face and clients are entitled to arrange their affairs within the rules.",
+   "Ask direct questions about his tax declarations and require written confirmation before proceeding, risking the relationship.",
+   "Decline the restructuring but offer a simpler onshore alternative, avoiding any chance of facilitating evasion at a cost to the firm."
+  ],
+  "tension": [
+   "legal compliance vs. suspicion of evasion",
+   "client trust vs. integrity"
+  ],
+  "region": "Switzerland"
+ },
+ {
+  "title": "Street Vendor and the Informal Levy",
+  "scenario": "Councilwoman Adaeze Obi in Enugu is drafting a municipal revenue plan. The city is nearly broke, and traders who pay no tax use roads and markets that need maintenance. A market association offers to pay a collective flat levy through its own collectors, far below statutory amounts, in exchange for protection from harassment by officials. Accepting would bring immediate funds for drains and lighting but treat large and tiny traders alike and set a precedent for negotiating tax rates outside the law. The mayor needs her proposal by Wednesday.",
+  "options": [
+   "Accept the collective levy, since realistic revenue collected is better than unachievable statutory targets and it benefits the markets directly.",
+   "Reject it and enforce the statutory tax scale, preserving legal consistency even if collection stays poor.",
+   "Accept it for one year as a pilot with a graduated scale for larger traders, and revisit the structure with data afterward."
+  ],
+  "tension": [
+   "legality vs. pragmatism",
+   "equal treatment vs. ability to pay"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Transfer Pricing Memo",
+  "scenario": "Rafael Montenegro is a senior tax manager at a mining services company headquartered in Lima. Management asks him to set intercompany service fees to a subsidiary in a low-tax country, moving about eight million dollars of profit out of Peru. The fees follow a defensible valuation method, and competitors do the same. Peru's government needs revenue for rural schools, and local communities near the mine have asked for more public investment. Rafael's bonus depends on the group's effective tax rate. He is asked to sign the transfer pricing documentation by the end of the quarter.",
+  "options": [
+   "Sign the documentation, since the method is defensible, widely used, and his duty is to minimize tax within the law for shareholders.",
+   "Refuse to sign and propose a smaller shift of profits that leaves more taxable income in Peru, accepting the cost to his bonus and standing.",
+   "Sign but write a memo to the audit committee describing the local revenue impact so leadership consciously owns the decision."
+  ],
+  "tension": [
+   "shareholder duty vs. public revenue",
+   "legal vs. fair"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Cash Jobs for the Plumber",
+  "scenario": "Mehmet Aksoy, a plumber in Ankara, is offered a repair job by a wealthy customer who suggests paying in cash with no receipt for a lower price. Mehmet usually declares his income, but a bad winter has left him behind on rent, and the cash would let him pay his apprentice's wage. The customer would also save the tax on the invoice. Mehmet's conscience is troubled because friends in the trade say that everyone does it and the government wastes the money. He must answer the customer before noon.",
+  "options": [
+   "Take the cash job without a receipt, since the pay solves immediate problems and the tax system is widely seen as wasteful.",
+   "Insist on a proper invoice at the normal price and risk losing the job, keeping his records clean.",
+   "Take the job with a proper invoice but at a reduced price, absorbing the tax himself to keep the customer and his integrity."
+  ],
+  "tension": [
+   "survival vs. civic duty",
+   "fairness to honest taxpayers vs. necessity"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "Wealth Tax Referendum Letter",
+  "scenario": "Magdalena Sørensen, a Danish heiress and philanthropist, is asked to sign a public letter by wealthy citizens urging their government to introduce a modest annual wealth tax. Signing could earn criticism from her family firm's board and her cousins, who fear it will trigger capital flight. Her giving to charity is substantial, but she knows voluntary philanthropy reflects her own priorities rather than democratic ones. She is also aware that the proposed tax might harm small family businesses like her own. The letter will be released on Thursday and organisers want her answer tomorrow.",
+  "options": [
+   "Sign the letter, supporting a democratic mechanism to fund public goods even if it costs her family and fortune.",
+   "Decline to sign and keep giving privately, believing that voluntary giving is more targeted and the tax risks harming local businesses.",
+   "Sign only if the letter exempts family-owned operating businesses, supporting the principle while seeking to protect productive enterprises."
+  ],
+  "tension": [
+   "civic duty vs. family loyalty",
+   "philanthropy vs. democratic taxation"
+  ],
+  "region": "Denmark"
+ },
+ {
+  "title": "Trader's Receipt Book",
+  "scenario": "Wei Zhang, who owns three phone-repair stalls in Chengdu, is visited by a tax official who quietly hints that a modest payment would prevent a troublesome audit of the previous year's receipts, which contain minor errors. Wei's records are mostly honest but messy. An audit would take weeks, close the stalls for inspections, and cost a lawyer's fee equal to his month's profit. Paying the official would end the matter and might be seen as routine by neighbors. He must respond when the official returns tomorrow.",
+  "options": [
+   "Pay the official, since the business and his employees' jobs matter more than the principle and others have done the same.",
+   "Refuse and invite the audit, accepting the cost, closure and lawyer's fee to avoid joining a corrupt practice.",
+   "Voluntarily submit corrected filings with a small penalty to the tax bureau directly, hoping to remove the pretext for pressure."
+  ],
+  "tension": [
+   "integrity vs. livelihood",
+   "complicity vs. self-protection"
+  ],
+  "region": "China"
+ },
+ {
+  "title": "Fund Manager's Domicile Choice",
+  "scenario": "Priyanka Joshi manages a small impact investment fund in London and must decide where to register the fund vehicle. A Luxembourg structure would allow investors from several countries to avoid double taxation and keep returns higher for pension-fund investors. A UK registration would cost more in tax but would be fully transparent and signal commitment to paying a fair share. The pension funds' beneficiaries include ordinary retirees. Her partners favor Luxembourg as standard practice. The fund's mission is financing clean energy in East Africa, which also depends on returns. The closing date is next week.",
+  "options": [
+   "Register in Luxembourg, as it is standard, legal, and increases returns for the retirees and for clean energy investment.",
+   "Register in the UK and accept lower returns, aligning the fund's practice with its public-interest mission.",
+   "Register in Luxembourg but publish full tax and beneficial-ownership disclosures and commit part of the savings to local tax capacity programs."
+  ],
+  "tension": [
+   "investor returns vs. contribution to public finance",
+   "standard practice vs. principle"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "A Church Building and the Property Tax",
+  "scenario": "Father Domingo Alcántara of a parish in Manila rents part of the church compound to a bank branch and a fast-food chain. Church property is tax-exempt, and the rents fund the parish school, a feeding program, and clinic. A journalist asks whether the commercial income should be taxed like any business's, and a reform bill in the legislature would do exactly that. A parishioner who owns a small shop and pays full taxes says it is unfair to her. Father Domingo has been invited to testify at a hearing and must prepare his position.",
+  "options": [
+   "Argue for maintaining the exemption, since the income funds social services that the state does not adequately provide.",
+   "Support taxing the commercial rents while preserving exemption for worship and charitable activity, accepting financial strain on the parish programs.",
+   "Voluntarily pay a negotiated amount to the city while remaining silent on the legislation, avoiding a public stance but acting fairly."
+  ],
+  "tension": [
+   "religious mission vs. fairness to taxpayers",
+   "social service vs. equal obligations"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "Digital Nomad's Residency Count",
+  "scenario": "Lucía Fernández, a software contractor, spends most of the year in Medellín, Lisbon and a mountain village in Georgia, tracking her days carefully. She finds that by shifting a few days, she could avoid being tax resident anywhere, paying almost nothing on a high income. She has no intention of exploiting local services and spends money in each place. Her friends say it is smart planning and that governments are inefficient. Her mother, a public-school teacher, says taxes build the places Lucía relies on. Her annual filing is due, and she must choose how to declare residence.",
+  "options": [
+   "Arrange her days to avoid residency anywhere and file accordingly, since the law permits it and she uses little public infrastructure.",
+   "Declare residence in the country where she spends the most time and pay normal tax, accepting a high bill in return for contributing fairly.",
+   "Choose a residence that offers a flat but reasonable tax and contribute extra to a local charity or school fund."
+  ],
+  "tension": [
+   "legal optimisation vs. fair contribution",
+   "benefit principle vs. ability to pay"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "Auditing the Cousin's Business",
+  "scenario": "Aliyu Garba is a revenue inspector in Kaduna assigned to audit a transport company owned by his late father's cousin, who funded his schooling. The books show clear underreporting, enough to threaten the company if assessed in full. The family expects him to find a way out, and a senior colleague quietly suggests reassigning the case. Reporting accurately would hurt the family but follow the rules. Conflict-of-interest rules technically require him to recuse himself, but no one else is trained in this sector, and the case may be handled less rigorously if he does.",
+  "options": [
+   "Recuse himself from the audit and disclose the relationship, letting a less-qualified colleague handle the case.",
+   "Conduct the audit honestly despite the conflict, trusting his expertise to produce a fair and accurate result.",
+   "Warn the cousin privately to amend his filings first so that the audit finds less, reducing harm to the family while giving the state revenue."
+  ],
+  "tension": [
+   "family obligation vs. public duty",
+   "conflict of interest vs. competence"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Tax Holiday for the Factory",
+  "scenario": "Governor's aide Nasrin Karimi in Tehran-adjacent Qom province deals with an automotive parts investor demanding a ten-year tax holiday before building a plant that would employ two thousand people. A neighboring province has offered a similar deal. Small local manufacturers, who pay full tax, protest that this unfairly favors foreign firms. The province's budget is strained and schools are overcrowded. If she recommends the holiday, jobs arrive but the revenue gain is deferred. If she doesn't, the investor will probably go elsewhere. The governor wants her advice at tomorrow's briefing.",
+  "options": [
+   "Recommend the full ten-year holiday to secure two thousand jobs and the associated local spending and supply chain.",
+   "Recommend a shorter holiday with clawbacks if jobs aren't created, risking the investor walking away.",
+   "Recommend refusing special treatment and instead lowering costs for all manufacturers equally, accepting the loss of this plant."
+  ],
+  "tension": [
+   "jobs vs. fiscal fairness",
+   "incentives for outsiders vs. equal treatment for locals"
+  ],
+  "region": "Iran"
+ },
+ {
+  "title": "The Inheritance in a Biscuit Tin",
+  "scenario": "Ruth Abramowitz, a retired schoolteacher in Melbourne, discovers while clearing her late mother's flat that her mother had kept a tin of cash and share certificates never declared to the tax office, totalling about ninety thousand dollars. Declaring it would trigger back taxes and penalties on her mother's estate, leaving less for Ruth's disabled brother, whose care she is arranging. No one else knows. Her accountant says amnesty options exist but require disclosure. Ruth is unsure whether honesty to the authorities outweighs her brother's immediate needs, and the estate must be lodged this month.",
+  "options": [
+   "Declare everything to the tax office and use the amnesty process, accepting reduced funds for her brother's care.",
+   "Include the funds in the estate without explaining their origin, avoiding penalties and protecting her brother's care.",
+   "Declare the funds but apply for hardship consideration on the penalties, arguing the money is needed for a disabled dependant."
+  ],
+  "tension": [
+   "honesty vs. family welfare",
+   "legal obligation vs. compassion"
+  ],
+  "region": "Australia"
+ },
+ {
+  "title": "Carbon Tax Rebate Design",
+  "scenario": "Dr. Oluwaseun Ajayi-Park, an economist advising Ontario's finance ministry, must propose how to return carbon-tax revenue. A flat per-household rebate benefits low-income households and favours people who use less fuel, but rural families with long commutes and no public transport still lose money. A rebate proportional to fuel use blunts the price signal that cuts emissions. The government will announce policy in two weeks, and rural opposition is loud while environmental groups are watching. She must submit a recommendation that she can defend publicly and analytically.",
+  "options": [
+   "Recommend the flat per-household rebate, maintaining the incentive to cut emissions and helping low-income urban households most.",
+   "Recommend a rural supplement based on distance, reducing hardship for isolated families at the cost of a weaker emission-reduction signal.",
+   "Recommend the flat rebate plus a time-limited transition fund for rural households, phasing in the price signal gradually."
+  ],
+  "tension": [
+   "environmental effectiveness vs. fairness",
+   "urban vs. rural burden"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "Crypto Gains on a Dormant Wallet",
+  "scenario": "Tomás Quintero, a twenty-six-year-old Argentine, discovered an old wallet containing cryptocurrency now worth about two hundred thousand dollars. His country's tax rules on such assets are unclear, capital controls restrict moving money, and his friends advise converting through informal channels. Declaring and paying tax would take a large share, but he could use the rest to buy a home for his parents. He worries that unreported conversion could one day expose him to penalties, while the official route carries a poor exchange rate. He must decide before the coin price shifts again.",
+  "options": [
+   "Convert through informal channels without declaring, because the official rules are unclear and the formal route is punitive.",
+   "Declare the holdings and pay the tax, accepting the loss to avoid legal risk and play by the rules.",
+   "Seek a ruling from a tax adviser first and pay what is clearly due, delaying the conversion and risking a fall in the coin's price."
+  ],
+  "tension": [
+   "legal risk vs. financial cost",
+   "unclear rules vs. civic duty"
+  ],
+  "region": "Argentina"
+ },
+ {
+  "title": "The Orphanage Donor's Receipt",
+  "scenario": "Fatuma Hassan, treasurer of a small orphanage charity in Mombasa, is approached by a businessman who offers a large donation and asks for a receipt showing double the amount so he can claim a bigger deduction. The orphanage needs the funds for a new dormitory roof before the rains. The inflated receipt would cost the treasury revenue but harm no one directly. Refusing could send the businessman to a different charity. Fatuma's board chair says it is the donor's responsibility. She is expected to give an answer by the end of the day.",
+  "options": [
+   "Issue the inflated receipt, since the children need the roof and the deception harms only a government that wastes funds.",
+   "Refuse and offer a truthful receipt, risking the donation and leaving the dormitory unfinished.",
+   "Offer to issue a truthful receipt but also recognise the donor publicly and name the dormitory after his company, increasing his benefit legitimately."
+  ],
+  "tension": [
+   "honesty vs. children's welfare",
+   "complicity vs. practicality"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Splitting the Business to Stay Small",
+  "scenario": "Ingvar Magnusson runs a boat repair yard in Reykjavik and has grown to the threshold where compulsory accounting and higher payroll obligations begin. His accountant suggests splitting the business into two companies owned by his wife and brother, which is common and legal on paper but meant to avoid the rules. He worries that heavier obligations would force him to dismiss two workers. The split would also avoid contributions to a collective pension scheme his staff now participate in. He must decide before the new fiscal year starts.",
+  "options": [
+   "Split the business, keeping costs low and protecting jobs, since the structure is legal and widely used.",
+   "Remain a single entity, take on the higher obligations and absorb costs, preserving fairness to staff and the pension scheme.",
+   "Remain whole but raise prices modestly and tell customers why, sharing the burden of compliance with those who use the yard."
+  ],
+  "tension": [
+   "job preservation vs. staff entitlements",
+   "legal form vs. substance"
+  ],
+  "region": "Iceland"
+ },
+ {
+  "title": "VAT on Handmade Goods",
+  "scenario": "Soledad Quispe leads a weavers' cooperative in the Bolivian highlands, selling to tourists and export buyers. A new value-added tax rule would force the cooperative to register, keep formal books and charge a tax that would raise prices by sixteen percent. Competitors in the informal market do not charge it. Soledad could register and probably lose sales, remain unregistered and risk fines, or split members into individual sellers beneath the threshold. The cooperative's forty women depend on the income, and a government inspector comes next month.",
+  "options": [
+   "Register the cooperative and charge the tax, accepting a possible fall in sales in exchange for legal certainty and access to export contracts.",
+   "Split members into individual sellers below the threshold, protecting incomes while formally complying with the letter of the law.",
+   "Stay unregistered and plead for a transition exemption for artisan groups, risking fines while lobbying for change."
+  ],
+  "tension": [
+   "compliance vs. livelihood",
+   "formalisation vs. competitive disadvantage"
+  ],
+  "region": "Bolivia"
+ },
+ {
+  "title": "A Municipal Bond for the Stadium",
+  "scenario": "Councilman Dariusz Kowalczyk in Gdańsk votes this week on a tax-supported bond to build a sports arena with private partners. Supporters promise jobs and tourism, but studies in other cities suggest returns are modest. The bond would raise property taxes slightly on all residents, including pensioners on fixed incomes, while the arena owners would receive tax breaks. The neighbouring district would benefit most from construction. Dariusz's own district gets little. A major donor to his campaign has lobbied heavily in favor, and he has promised to listen to constituents.",
+  "options": [
+   "Vote yes, trusting that the broad economic benefits will outweigh the costs and that growth will help all residents eventually.",
+   "Vote no, refusing to impose taxes on pensioners and constituents for a project that mostly benefits private owners.",
+   "Vote yes only if the tax breaks to the arena owners are removed and pensioners are exempt, risking defeat of the bill."
+  ],
+  "tension": [
+   "public investment vs. burden on the vulnerable",
+   "donor influence vs. constituent interest"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Remittance Tax and the Migrant Cleaner",
+  "scenario": "Rosalind Mahlangu, a Zimbabwean cleaner in Johannesburg, sends money home each month to her mother and children through informal couriers. A new fee on formal transfers would make official channels costly, while the informal route is untraceable but occasionally loses money. Her employer, Mr. Rahman, who withholds no tax from her cash wages, offers to put her on the books, which would reduce her take-home pay but give her documents she needs for a residence permit. She must decide before her permit lapses next month.",
+  "options": [
+   "Accept the formal arrangement, tolerating lower pay for legal documents and the long-term security a permit provides.",
+   "Stay on cash wages and keep the higher take-home pay for her family, risking her legal status.",
+   "Ask Mr. Rahman to formalize her employment while raising her gross pay to offset the tax, negotiating from her position of reliability."
+  ],
+  "tension": [
+   "family support vs. legal security",
+   "short-term income vs. long-term stability"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Lottery Winners and the Windfall Tax",
+  "scenario": "Hiroshi Nakagawa, a municipal clerk in Hokkaido, learns that a local fishing family has won a sizeable prize in a prefectural lottery. By law, a portion goes as tax, but the family says they have debts to settle and a boat to repair, and they plead for him to record the prize as spread over several years, which would lower the tax rate. The rule does not allow this, though a clerical decision could be defended as an interpretation. Hiroshi has known them for years and the form is on his desk.",
+  "options": [
+   "Record the prize accurately in a single year, as the law requires, and explain the rules to the family kindly.",
+   "Record it as spread over several years under a generous reading, helping the family's finances though it stretches the rule.",
+   "Record it accurately but help the family apply for a hardship installment plan, staying within the rules while softening the impact."
+  ],
+  "tension": [
+   "rule of law vs. personal relationships",
+   "discretion vs. consistency"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Billionaire Pledge Strings",
+  "scenario": "Ximena Paredes, chief of staff to a Chilean tech founder, is drafting his public giving pledge to a university. He wants to fund a new research institute but insists on naming rights, board control and a clause directing research toward his industry. The donation would receive substantial tax relief, effectively using public money for a private agenda. The university would gain facilities it could never afford. Faculty are divided. Ximena has the founder's ear and must advise on whether to propose softer terms before drafting begins on Monday.",
+  "options": [
+   "Draft the pledge as the founder wants, since the university can decline and the research institute will bring real benefit.",
+   "Advise the founder to relinquish board control and the industry clause, accepting the risk that he reduces or withdraws the gift.",
+   "Draft the pledge as requested but add a transparency provision publishing all research agreements, leaving university leaders informed and free to refuse."
+  ],
+  "tension": [
+   "public subsidy vs. private control",
+   "benefit vs. independence"
+  ],
+  "region": "Chile"
+ },
+ {
+  "title": "Auditor and the Shell Company",
+  "scenario": "Junior auditor Kwame Asante in Accra notices that a client, a cocoa exporter, routes payments through a shell company in a secrecy jurisdiction with no clear business purpose. The structure may simply reduce taxes legally, or it may hide profits from the revenue authority. His senior, Ms. Boateng, says it is outside the audit's scope and raising it might cost the firm the client. Kwame fears being labelled naive, yet he cannot ignore it. He is writing his working papers tonight and must choose what to record.",
+  "options": [
+   "Note it as outside scope and move on, trusting the senior's judgment and avoiding speculation without evidence.",
+   "Record the concern formally in the working papers and request further inquiry, even if it annoys his senior.",
+   "Raise it quietly with the firm's ethics partner, bypassing his senior but keeping the concern within the firm."
+  ],
+  "tension": [
+   "professional skepticism vs. hierarchy",
+   "firm interest vs. public interest"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Heritage Farm and the Estate Duty",
+  "scenario": "Joaquim Barros inherited his late father's olive farm in Alentejo, which has been in the family for six generations. Estate duty would be due on a valuation inflated by recent land speculation, forcing the sale of half the land to developers. His siblings, who live in cities, want to sell everything and split the money. A scheme exists whereby he could transfer the farm into a foundation, avoiding the duty, though it is designed for charities and the arrangement would stretch its purpose. A deadline from the tax office is two weeks away.",
+  "options": [
+   "Use the foundation structure to preserve the farm and avoid the duty, since it is legally available and keeps the land intact.",
+   "Pay the duty by selling half the land, respecting the tax rules even though it means losing part of the heritage.",
+   "Negotiate with the tax office for a long installment plan secured on the farm, avoiding both the sale and the stretched foundation."
+  ],
+  "tension": [
+   "heritage vs. fiscal obligation",
+   "form vs. purpose"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "Tipped Minimum Wage and the Cafe",
+  "scenario": "Delphine Moreau, owner of a small café in Montreal, learns that her tax advisor suggests recording a share of staff wages as 'tips' to lower payroll contributions. Staff would see little change in take-home pay, but their future pensions and unemployment benefits would shrink. Delphine's margins are thin, and a new competitor has just opened across the street. The staff are young and unlikely to notice. Her bookkeeper will finish the quarterly return this afternoon and needs to know which approach to apply.",
+  "options": [
+   "Use the tip-based approach, since it is a recognised tactic, helps the café survive, and staff take-home pay is unaffected.",
+   "File payroll normally and absorb the extra costs, protecting staff's long-term entitlements at the risk of her business.",
+   "Use the approach only if staff are told and agree, allowing them to trade future benefits for the café's survival knowingly."
+  ],
+  "tension": [
+   "business survival vs. employee entitlements",
+   "informed consent vs. paternalism"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "Cooperative Dividend and the Tax Break",
+  "scenario": "Farid Nazarov chairs a dairy cooperative near Samarkand whose members, mostly smallholders, would pay a reduced tax rate if the cooperative reinvests profit rather than paying dividends. A neighbouring estate owner has joined, buying many shares through relatives to channel his large herd's income through the cooperative's low rate. Farid suspects this arrangement exploits a break meant for the poor, but the rules do not forbid it and his fees help fund the cooperative's vet. Members will vote on admitting the relatives' shares on Sunday.",
+  "options": [
+   "Admit the shares, since the rules allow it and the extra capital and fees strengthen the cooperative for its small members.",
+   "Propose a cap on shares per household to block the estate owner's use of the break, risking his withdrawal and the loss of his contribution.",
+   "Admit the shares but lobby the tax authority to tighten the rule for large herds, accepting the delay and uncertainty."
+  ],
+  "tension": [
+   "legal loophole vs. intended purpose",
+   "small members' interests vs. fairness"
+  ],
+  "region": "Uzbekistan"
+ }
+]

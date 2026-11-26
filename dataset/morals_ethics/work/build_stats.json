@@ -1,0 +1,97 @@
+{
+  "seed": 20261013,
+  "stage": {
+    "prior_workbook": {
+      "staged": 416,
+      "valid": 416
+    },
+    "daily_dilemmas": {
+      "staged": 1360,
+      "valid": 1354
+    },
+    "moralchoice": {
+      "staged": 1367,
+      "valid": 1367
+    },
+    "moralexceptqa": {
+      "staged": 147,
+      "valid": 147
+    },
+    "bigbench_moral": {
+      "staged": 115,
+      "valid": 115
+    },
+    "ethics_commonsense": {
+      "staged": 21759,
+      "valid": 21739
+    },
+    "ethics_justice": {
+      "staged": 26547,
+      "valid": 26547
+    },
+    "ethics_deontology": {
+      "staged": 25296,
+      "valid": 25296
+    },
+    "ethics_virtue": {
+      "staged": 4352,
+      "valid": 4352
+    },
+    "ethics_util": {
+      "staged": 22818,
+      "valid": 22818
+    },
+    "scruples_anecdotes": {
+      "staged": 18726,
+      "valid": 18726
+    },
+    "scruples_dilemmas": {
+      "staged": 28296,
+      "valid": 28296
+    },
+    "social_chem": {
+      "staged": 49909,
+      "valid": 49909
+    },
+    "synthetic": {
+      "staged": 1498,
+      "valid": 1498
+    }
+  },
+  "validation_failures": {
+    "daily_dilemmas:encoding_replacement_char": 6,
+    "ethics_commonsense:scenario_too_short": 2,
+    "ethics_commonsense:scenario_too_long": 18
+  },
+  "dedup": {
+    "exact_dup:ethics_commonsense": 1161,
+    "exact_dup:ethics_justice": 113,
+    "exact_dup:ethics_deontology": 103,
+    "exact_dup:ethics_virtue": 102,
+    "exact_dup:ethics_util": 435,
+    "exact_dup:scruples_anecdotes": 550,
+    "exact_dup:scruples_dilemmas": 2,
+    "exact_dup:social_chem": 108,
+    "label_conflict_dropped": 601,
+    "near_dup_trimmed": 15,
+    "socialchem_same_situation_dropped": 544
+  },
+  "quotas": {
+    "prior_workbook": 416,
+    "daily_dilemmas": 1354,
+    "moralchoice": 1367,
+    "moralexceptqa": 147,
+    "bigbench_moral": 115,
+    "ethics_commonsense": 2284,
+    "ethics_justice": 1188,
+    "ethics_deontology": 1188,
+    "ethics_virtue": 1005,
+    "ethics_util": 1188,
+    "scruples_anecdotes": 4386,
+    "scruples_dilemmas": 2467,
+    "social_chem": 6396
+  },
+  "candidates": 32430,
+  "topup_after_neardup": 16,
+  "final_rows": 25000
+}

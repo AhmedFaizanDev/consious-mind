@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Drowning Neighbour's Bill",
+  "scenario": "Kofi Mensah-Bauer, a mid-level engineer in Munich, earns comfortably and gives about two percent of income to charity. A friend sends him an appeal from a relief group describing a flood in Bangladesh where a donation of two hundred euros could provide clean water to a family for a year. Kofi has a small renovation fund for his aging mother's flat, and he doubts whether charities spend efficiently. His wife thinks the family's priorities should be nearer home. The appeal's matching offer ends tonight at midnight.",
+  "options": [
+   "Donate the two hundred euros now, since the need is urgent and the matching offer doubles the impact of his gift.",
+   "Keep to his usual giving and spend the money on his mother's flat, prioritising those he has personal duties toward.",
+   "Give a smaller amount now and research the charity's efficiency before deciding on a larger regular commitment."
+  ],
+  "tension": [
+   "impartial beneficence vs. special obligations",
+   "urgency vs. due diligence"
+  ],
+  "region": "Germany"
+ },
+ {
+  "title": "Handing Out Cash at the Traffic Light",
+  "scenario": "Lakshmi Pillai drives home through Colombo every evening and passes a woman with a baby begging at a junction. Her colleagues say begging is organised by gangs and that giving sustains it, while a priest in her congregation says charity is a duty and not to judge. She has a little spare cash each week. Lakshmi could give directly, donate the same to a shelter that works with such mothers, or give nothing. The light turns red, and the woman steps toward her car.",
+  "options": [
+   "Give cash directly to the woman, accepting the uncertainty, because the need in front of her is real and immediate.",
+   "Decline to give at the junction and donate the same sum weekly to a shelter that works with homeless mothers.",
+   "Give her food and a card for the shelter instead of cash, trying to help without feeding a possible exploitative system."
+  ],
+  "tension": [
+   "immediate relief vs. systemic effects",
+   "trust vs. skepticism"
+  ],
+  "region": "Sri Lanka"
+ },
+ {
+  "title": "Foundation Board and the Rural Clinic",
+  "scenario": "Dr. Esperanza Vidal chairs a small family foundation in Quito with limited funds. Two proposals are before her. One would pay for cataract surgeries for two hundred elderly people at a modest cost per patient. The other would fund a maternal clinic in a remote Amazonian village, costing more per person but reaching a community with no alternatives and a high risk of maternal death. The board is divided, with cousins backing each. Esperanza holds the deciding vote at tomorrow's meeting.",
+  "options": [
+   "Fund the cataract surgeries, because they restore sight to more people for the same money, maximizing the benefit per dollar.",
+   "Fund the maternal clinic, because it serves a neglected community facing life-threatening risks that no one else will address.",
+   "Split the funds between the two, accepting that neither project will be fully realised but both groups will receive some help."
+  ],
+  "tension": [
+   "maximising benefit vs. serving the neediest",
+   "efficiency vs. equity"
+  ],
+  "region": "Ecuador"
+ },
+ {
+  "title": "Inheritance and the Hungry Cousin",
+  "scenario": "Amir Tehrani, a Toronto dentist, receives a fifty-thousand-dollar inheritance. His cousin Pouya, in Shiraz, writes that his business has collapsed and his children cannot attend school. Amir has his own mortgage and plans to pay down debt. Sending money to Iran involves fees, complex channels and legal grey areas due to sanctions. Pouya has failed in business before and has not repaid an earlier loan. Amir's wife says family obligations should be balanced with what they owe their own children. He must decide before the funds are transferred into his account on Friday.",
+  "options": [
+   "Send a substantial gift to Pouya despite the risks and the past loan, because the children's education is at stake and family comes first.",
+   "Keep the inheritance for his own household's security, offering Pouya only moral support and advice.",
+   "Pay the children's school fees directly through a trusted intermediary, helping the children without handing Pouya cash."
+  ],
+  "tension": [
+   "family duty vs. personal security",
+   "trust vs. help"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "Tithing Versus Paying Off a Neighbour's Rent",
+  "scenario": "Mama Josephine Banda in Lusaka runs a small tailoring shop and tithes ten percent of her income to her church, as she has for twenty years. This month, her neighbour Chola, a widow with three children, is about to be evicted for owing two months' rent. The sum is almost exactly equal to what Josephine would give the church. Her pastor has said tithes should not be diverted and the church is raising funds for a roof. Chola has begged her for help this morning, and the landlord returns tomorrow.",
+  "options": [
+   "Pay the neighbour's rent with her tithe money, since the immediate need of a family facing eviction outweighs the church's roof.",
+   "Give the tithe to the church as usual and help Chola through other means such as small loans and sharing food.",
+   "Divide the sum, paying part of Chola's rent and part of her tithe, and ask the pastor to understand her situation."
+  ],
+  "tension": [
+   "religious commitment vs. immediate neighbourly need",
+   "tradition vs. compassion"
+  ],
+  "region": "Zambia"
+ },
+ {
+  "title": "Billionaire's Offer With Conditions",
+  "scenario": "Dr. Ingeborg Lund directs a Norwegian homeless shelter that has been offered a million-kroner gift by a property tycoon whose firms evicted many tenants. He wishes to have the new wing named after him. Staff are divided: some say clients need beds and tainted money still shelters people, while others say accepting legitimises harmful practices and betrays residents who were evicted by his firms. The tycoon needs a reply by the end of the week, after which he will fund another cause.",
+  "options": [
+   "Accept the donation and the naming, since the beds will help real people who need them now.",
+   "Decline the donation, upholding the shelter's integrity and standing with those harmed by the tycoon's practices.",
+   "Accept the donation but decline naming rights and publicly call for improved tenant protections, taking his money without lending him her endorsement."
+  ],
+  "tension": [
+   "practical good vs. complicity",
+   "integrity vs. need"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "Famine Appeal Overhead",
+  "scenario": "Patricia Odhiambo is finance director of an international relief agency based in Nairobi, preparing for a drought appeal. Donors prefer that ninety percent of their gifts go directly to relief, but meeting that would mean not investing in logistics software and trained staff, which have helped the agency deliver food faster and more safely. She could advertise a low overhead ratio by reclassifying some costs as programme costs, or present honest figures with a persuasive explanation. Her board chair worries that honest figures will reduce donations during a crisis.",
+  "options": [
+   "Reclassify some costs as programme costs to present a favourable overhead ratio, since the real aim is to raise funds for starving people.",
+   "Publish the honest figures with a clear explanation, accepting the risk that donations fall during the crisis.",
+   "Present both the honest ratio and a breakdown showing the effect of overhead on delivery speed, letting donors judge."
+  ],
+  "tension": [
+   "honesty vs. fundraising effectiveness",
+   "ends vs. means"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Donor-Advised Fund and the Patient Billionaire",
+  "scenario": "Wen-Hui Liu, a philanthropic advisor in Taipei, counsels a wealthy client who has parked fifty million dollars in a donor-advised fund for decades while it grows, saying he will give when he finds the best cause. Meanwhile, urgent needs in nearby communities go unmet, and the client enjoys tax deductions. Wen-Hui suspects he is not really intending to give soon. She could press him to commit to a payout schedule, support his patience as prudent, or leave things alone to keep him as a client. A review meeting is next week.",
+  "options": [
+   "Support his strategy of waiting, since larger future gifts may do more good and the choice is his to make.",
+   "Press him to adopt a payout schedule, even at the risk of losing his business or damaging their relationship.",
+   "Suggest a middle path: commit to paying out a fixed percentage each year while retaining the rest for larger bets."
+  ],
+  "tension": [
+   "patience vs. urgency",
+   "client loyalty vs. moral advice"
+  ],
+  "region": "Taiwan"
+ },
+ {
+  "title": "Teacher Who Feeds the Class",
+  "scenario": "Ms. Rukmini Iyer teaches third grade in a Mumbai municipal school where many children arrive hungry. She has been buying biscuits for them from her modest salary, and has begun to struggle with her own bills. Parents have started to rely on her. The headmaster says she should not set a precedent that the state should fund, and he fears jealousy among teachers. A local businessman has offered to supply the biscuits if the school gives him a banner at the gate. Ms. Iyer must reply by the end of the week.",
+  "options": [
+   "Keep paying herself, since the children's hunger is immediate and she doesn't want to entangle the school in commercial arrangements.",
+   "Accept the businessman's offer, with the banner, because sustained supply helps more children and relieves her own finances.",
+   "Stop buying and press the school authority formally to provide meals, accepting that children may go hungry in the meantime."
+  ],
+  "tension": [
+   "personal sacrifice vs. systemic responsibility",
+   "immediate need vs. commercialisation"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Voluntourism Orphanage Trip",
+  "scenario": "Hannah Whitfield, a British university student, has saved four thousand pounds to join a volunteer programme at a children's home in Cambodia. A friend who studied development tells her that these programmes can fuel orphanage tourism, with children kept away from their families to attract donations. The placement staff say the home is well run and the children love visitors. The same money could fund local staff or trained professionals. Hannah's deposit is due this week, and her family is proud of her plan.",
+  "options": [
+   "Go on the trip as planned, since the placement seems well run and she can contribute directly and learn from the experience.",
+   "Cancel and donate the money to a reputable organisation that supports family-based care, accepting that she loses the personal experience.",
+   "Go but spend part of her time and money reviewing how the home operates and report any concerns to child protection authorities."
+  ],
+  "tension": [
+   "personal engagement vs. systemic impact",
+   "good intentions vs. unintended harm"
+  ],
+  "region": "Cambodia"
+ },
+ {
+  "title": "Auctioning a Heirloom for a Stranger's Surgery",
+  "scenario": "Vytautas Kazlauskas, a retired schoolteacher in Vilnius, owns a rare family violin, passed down for four generations, whose sale could fund a lifesaving operation for a young girl featured in a local appeal. He has no children, a modest pension, and plays rarely. His niece urges him to keep the violin as the family's heritage and says there will always be appeals. The girl's family has sixty percent of the needed funds, and the surgery date is in three weeks. A dealer has offered a good price today.",
+  "options": [
+   "Sell the violin and donate the proceeds, since a child's life matters more than an object, even one with sentimental value.",
+   "Keep the violin and donate a smaller sum from his savings, preserving the heritage while still contributing.",
+   "Offer the violin to the niece or museum first for a fair price, then donate those proceeds, seeking to preserve the instrument in the family."
+  ],
+  "tension": [
+   "life vs. heritage",
+   "impartial duty vs. family bonds"
+  ],
+  "region": "Lithuania"
+ },
+ {
+  "title": "Remittance Burden of the Eldest Daughter",
+  "scenario": "Thi Lan Nguyen, a nurse in Houston, sends half her income to her parents and five siblings in Hue. Her sister now asks for money for a motorbike to start a delivery business, and a brother needs university fees. Thi Lan has put off her own marriage and home purchase for years. She has learned that some relatives spend remittances on display rather than need. Her husband-to-be is patient but worried. She must decide how to respond to this latest round of requests before the Lunar New Year, when family expectations peak.",
+  "options": [
+   "Fund both requests as before, honoring her role as eldest daughter and the family expectations that have defined her life.",
+   "Set a fixed monthly budget for family support and decline additional requests, prioritising her own future and marriage.",
+   "Fund the brother's education but ask the sister to repay the motorbike as a loan, distinguishing between investment and need."
+  ],
+  "tension": [
+   "filial duty vs. self-fulfilment",
+   "generosity vs. sustainability"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "Cash Transfers or Seed Grants",
+  "scenario": "Dr. Folasade Adeyinka runs a pilot programme for an NGO in rural Malawi with a fixed budget. She can distribute unconditional cash to three hundred of the poorest households, or give business seed grants and training to one hundred, which research suggests could lift them permanently out of poverty. Cash helps immediately and recipients choose how to spend it. The training may fail for some. Donors are asking for measurable, lasting impact, while village leaders say everyone is in need. Folasade has to confirm the design this week.",
+  "options": [
+   "Give unconditional cash to three hundred households, respecting recipients' choices and reaching more people in need now.",
+   "Provide seed grants and training to one hundred households, aiming for lasting change at the cost of excluding two hundred.",
+   "Offer a smaller cash transfer to all three hundred and a training option for volunteers, blending immediate relief and longer-term opportunity."
+  ],
+  "tension": [
+   "reach vs. depth",
+   "immediate relief vs. lasting change"
+  ],
+  "region": "Malawi"
+ },
+ {
+  "title": "Guilt at the Food Bank Door",
+  "scenario": "Wilhelmina de Jong manages a food bank in Utrecht and has noticed that a few people take far more than their share, perhaps reselling items. Supplies are limited, and some regulars with small children have recently gone away empty-handed. Introducing ID checks and limits would reduce abuse but would deter shy or undocumented families. Volunteers disagree: some say no one should be turned away, others say fairness requires rules. The next distribution is Saturday, and a supermarket partner is monitoring how donations are used.",
+  "options": [
+   "Keep the open, no-questions-asked policy, accepting some misuse to avoid turning away anyone in genuine need.",
+   "Introduce ID checks and quotas to ensure fair sharing, even if some vulnerable people are deterred.",
+   "Introduce quotas based on household size only, with no ID requirement, relying on observation and trust."
+  ],
+  "tension": [
+   "dignity vs. fair allocation",
+   "trust vs. scarcity"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "The Lottery Windfall Pledge",
+  "scenario": "After winning a modest lottery prize, Elena Rojas, a bus driver in Guadalajara, promised her church she would give a quarter to the community. Now her husband has lost his job, her daughter needs braces, and a cousin has asked her for money to open a pharmacy. Reputation in the neighbourhood is at stake, since everyone knows about the pledge. Her priest is gentle but hopeful. A neighbour tells her promises made in a moment of joy should not outweigh family needs. The church committee meets on Sunday.",
+  "options": [
+   "Honour the pledge fully, since she made a promise publicly and keeping it matters to her integrity and community standing.",
+   "Reduce the gift, explain her changed circumstances to the priest, and prioritise her family's urgent needs.",
+   "Honour the pledge but ask the church to direct part of it to families in worse circumstances than her own."
+  ],
+  "tension": [
+   "promise-keeping vs. changed circumstances",
+   "duty to community vs. duty to family"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "Water Pump Versus Ten Scholarships",
+  "scenario": "Councilman Ibrahim Sesay, in Freetown, controls a small ward development grant. A women's group wants a water pump that would save them hours of daily walking, while a headmistress asks for ten scholarships to keep girls in secondary school, who will otherwise be married early. Both causes are valid and the grant can cover only one fully. The women's group is politically influential, whereas the girls have no organised voice. Ibrahim will announce his decision at a ward meeting on Thursday and knows it will be remembered.",
+  "options": [
+   "Fund the water pump, which benefits the whole community immediately and relieves a daily burden on many people.",
+   "Fund the scholarships, which change the lives of ten girls permanently and address a group with little political voice.",
+   "Fund the pump now and commit publicly to seeking outside funding for the scholarships, risking that the promise is not honoured."
+  ],
+  "tension": [
+   "broad benefit vs. deep benefit",
+   "political influence vs. voicelessness"
+  ],
+  "region": "Sierra Leone"
+ },
+ {
+  "title": "Stranger on a Crowdfunding Page",
+  "scenario": "Anders Holm, a Copenhagen software developer, is moved by a crowdfunding page for a young American musician whose family is raising money for a rare cancer treatment. He has seen the same family's page share suspiciously polished updates, and a forum thread alleges the campaign inflates its costs. He cannot verify anything. A small donation costs him little, but pages like this draw funds away from verified charities. He has enough saved to give either a meaningful amount or nothing, and the page shows ten days remaining.",
+  "options": [
+   "Donate a meaningful amount, accepting the risk of fraud, because the possibility of helping a sick person outweighs the chance of being fooled.",
+   "Do not donate to the page and give instead to a verified cancer charity that helps many patients.",
+   "Contact the family directly through the platform to request documentation, and decide based on their response."
+  ],
+  "tension": [
+   "generosity vs. verification",
+   "individual cases vs. institutional giving"
+  ],
+  "region": "Denmark"
+ },
+ {
+  "title": "Sharing the Mining Royalties",
+  "scenario": "Chief Nokuthula Dube presides over a community in Zimbabwe's south where a mining company pays annual royalties to the community trust. Households nearest the mine suffer the most dust and noise, and they want a larger share. Others, far from the mine and poorer, want the funds spread evenly for a clinic and school. Young people suggest investing the money rather than distributing it. Disputes are deepening and she must propose how to allocate this year's funds at the next assembly, which will test her authority.",
+  "options": [
+   "Allocate the larger share to the households nearest the mine as compensation for their harm, applying a principle of compensation.",
+   "Allocate funds evenly for a clinic and school, applying a principle of shared need and community cohesion.",
+   "Divide funds into thirds: compensation for affected households, community services, and an investment fund for the future."
+  ],
+  "tension": [
+   "compensation vs. shared need",
+   "present vs. future"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "Time Versus Money in the Hospice Shift",
+  "scenario": "Pieter Visser, a Cape Town investment banker, earns well and gives to charity but rarely volunteers. His sister, who coordinates a township hospice, invites him to give two evenings a week, which he can do only by cutting back on billable hours worth much more than the cost of the hospice staff he could instead fund. She argues that his presence matters in a way money cannot. His firm is in a competitive stretch with promotions at stake. Pieter has to give her an answer this weekend.",
+  "options": [
+   "Keep working and donate generously enough to hire additional paid caregivers, which does more good than his own limited skills would.",
+   "Volunteer the two evenings, accepting the cost to his career, since presence and care cannot be bought.",
+   "Volunteer one evening a week and increase his donation, balancing contribution of time and money without undermining his career."
+  ],
+  "tension": [
+   "effectiveness vs. personal presence",
+   "career vs. duty"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Selling the Family Land to Fund the Village",
+  "scenario": "Amina Yusuf, a Somali-British accountant in Birmingham, inherits a plot of land in Hargeisa that her family has held for generations. Her village cousins ask her to sell it and use the funds to build a well and a small school, saying the land is idle. Amina's relatives in the UK argue the land is her children's only link to their homeland and a potential asset. Prices are rising, and a buyer is waiting. She feels torn between her ancestors' legacy and the immediate needs of people she grew up near.",
+  "options": [
+   "Sell the land and fund the well and school, because tangible benefits for a community outweigh an idle symbolic asset.",
+   "Keep the land for her children and give smaller regular contributions to the village from her own income.",
+   "Lease the land to the community for the school site, retaining ownership while meeting the community's need."
+  ],
+  "tension": [
+   "legacy vs. present need",
+   "obligation to descendants vs. to community"
+  ],
+  "region": "Somalia"
+ },
+ {
+  "title": "A Surplus Meal Dilemma at the Bakery",
+  "scenario": "Baker Chiara Bellini in Naples has surplus bread at closing time that she could donate to a charity kitchen or sell at a steep discount to a street seller. The seller, Gennaro, resells it at a profit to people who cannot afford shop prices, but he occasionally sells day-old bread as fresh. The charity kitchen accepts donations but is far away and she would have to deliver the bread herself after a fourteen-hour day. Her margins are slim and discounts help pay for flour. She must decide what to do with tonight's leftovers.",
+  "options": [
+   "Sell the surplus to Gennaro at a discount, covering her costs and getting the bread into poor neighbourhoods cheaply.",
+   "Deliver the bread to the charity kitchen, accepting the extra labour and lost income to guarantee it feeds those in need.",
+   "Give half to the charity kitchen and sell the rest to Gennaro, balancing her own needs with those of the hungry."
+  ],
+  "tension": [
+   "self-sacrifice vs. sustainability",
+   "market vs. gift"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "Aid Official's Local Hire",
+  "scenario": "Thandiwe Moyo, a programme officer for an international aid agency in Lilongwe, has a budget to hire drivers for a food distribution. A local driver, Chikondi, offers lower prices but his vehicles are old, while an international firm would charge double with newer trucks and strict safety standards. Choosing Chikondi supports a local business that employs eight people, but one breakdown on a flooded road could strand supplies. The agency values both local economic impact and reliability. She has until Monday to sign the contract.",
+  "options": [
+   "Hire the international firm for reliability, because failed deliveries could cost lives and undermine the agency's reputation.",
+   "Hire Chikondi, supporting the local economy and employing eight people while accepting reliability risk.",
+   "Hire Chikondi for easy routes and the international firm for the difficult flooded roads, splitting the risk and the benefit."
+  ],
+  "tension": [
+   "local empowerment vs. reliability",
+   "cost vs. safety"
+  ],
+  "region": "Malawi"
+ },
+ {
+  "title": "Matching Gift Trick",
+  "scenario": "Henrik Svensson, a fundraiser at a Stockholm environmental charity, learns that a wealthy donor's 'matching gift' of one million kronor was already committed before the campaign and would be given regardless of how much the public contributes. The campaign tells donors their gifts will be doubled. Henrik's director says the message works, and every krona helps the cause. Without it, the public might give less, and rare habitats could be lost. Henrik must write the final copy for the campaign email that goes out tomorrow morning.",
+  "options": [
+   "Use the matching claim as planned, since the money raised will protect habitats and the donor's gift is genuinely part of the campaign.",
+   "Rewrite the message to honestly state that a donor has pledged a gift regardless, accepting that giving may fall.",
+   "Ask the donor to make the match truly conditional on public contributions, delaying the campaign by a few days."
+  ],
+  "tension": [
+   "honesty vs. impact",
+   "means vs. ends"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "What the Widow Owes the Beggar's Child",
+  "scenario": "Fatou Sarr is a widow who owns a small guesthouse in Dakar and has two young children of her own. A boy named Ibrahima, about nine, sleeps in her courtyard most nights and asks for food. A social worker tells her the boy is a talibé who has fled a harsh teacher, and that sheltering him might expose her to anger from the Quranic school. She could give him meals only, let him stay, or hand him to the authorities, who have limited places. Her late husband's family urges her to protect her own household first.",
+  "options": [
+   "Let the boy stay and feed him, accepting the risks and the strain on her own household's resources.",
+   "Provide meals but not lodging, helping him while protecting her family from conflict with the school.",
+   "Hand him to the social worker for placement, trusting formal child protection even though places are scarce."
+  ],
+  "tension": [
+   "duty to a stranger vs. duty to one's own",
+   "personal risk vs. compassion"
+  ],
+  "region": "Senegal"
+ },
+ {
+  "title": "Coffee Cooperative Premium Windfall",
+  "scenario": "Rosa Mamani manages a Bolivian coffee growers' fund that has received an unexpected fair-trade premium of thirty thousand dollars. Members are poor and many want an equal cash payout. A neighbouring village, not in the cooperative, has lost its harvest to frost and asks for a share, saying the premium came from consumers who meant to help poor farmers generally. Rosa's board is split, and a quick answer is needed before the payout meeting this weekend, where members' expectations will be high.",
+  "options": [
+   "Distribute the premium equally among members, since they earned it through their labour and the cooperative's obligations lie with them.",
+   "Share a portion with the neighbouring village, honouring the spirit in which consumers gave the premium even though members receive less.",
+   "Pay members as planned and create a small solidarity fund from future premiums for neighbouring villages, acting on the idea later."
+  ],
+  "tension": [
+   "members' entitlement vs. wider solidarity",
+   "donor intent vs. group interest"
+  ],
+  "region": "Bolivia"
+ }
+]

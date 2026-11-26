@@ -1,0 +1,352 @@
+[
+ {
+  "title": "One Ventilator After a Landslide",
+  "scenario": "Dr. Binod Gurung, the only physician at a hill-town health post in Sikkim after a landslide, has one working ventilator. Two patients need it tonight. One is a 9-year-old with a crushed chest and a fair chance of recovery. The other is the local schoolteacher, 41, with severe pneumonia, who has been caring for many injured villagers and is respected by everyone. Transfer by road is impossible until morning. Dr. Gurung must decide who receives the ventilator.",
+  "options": [
+   "Give the ventilator to the child, whose survival odds are better and who has more years of life ahead.",
+   "Give it to the teacher, as her care for others means more survivors may benefit through her work.",
+   "Start the one who arrived first and keep going unless clinical reassessment in a few hours clearly shows the other is more likely to benefit."
+  ],
+  "tension": [
+   "maximising benefit vs. social worth",
+   "fairness vs. utility"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Allocating Last Doses of a Cancer Drug",
+  "scenario": "Pharmacist Nokuthula Dlamini manages the oncology drug supply at a public hospital in Durban. A shipment shortage leaves enough of a life-extending lymphoma drug for six patients, but eleven are eligible. Six have a good chance of long remission; the other five have less chance but are younger, with young children. The drug committee has not met. The oncologists press her for a quick list by noon. She must decide how to propose allocating the supply.",
+  "options": [
+   "Allocate to the six with the best expected benefit, using clinical criteria only, and tell the others plainly and promptly.",
+   "Hold a random lottery among all eleven eligible patients, so no one is judged on social circumstances.",
+   "Split doses into partial courses for all eleven, accepting that this may reduce each person's chance of remission."
+  ],
+  "tension": [
+   "utility vs. equal chances",
+   "efficacy vs. fairness"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "A Hospital Bed Held for a Politician",
+  "scenario": "Bed manager Gabriela Torres at a public hospital in Bogotá has the last ICU bed free. A stable elderly man from a poor neighbourhood, awaiting heart surgery for weeks, is next in line. Then the hospital director calls saying a regional councillor with a moderate heart attack is arriving by ambulance and should be given the bed. The director hints at the hospital's budget being decided by the council. Gabriela must decide how to handle the bed.",
+  "options": [
+   "Keep the bed for the waiting patient according to the queue and clinical need, and tell the director that status cannot decide it.",
+   "Admit the councillor, reasoning that protecting the institution's funding will benefit many future patients.",
+   "Assess both medically and give the bed to whoever has the greater immediate clinical need, ignoring both the queue and the call."
+  ],
+  "tension": [
+   "justice vs. institutional survival",
+   "impartiality vs. pressure"
+  ],
+  "region": "Colombia"
+ },
+ {
+  "title": "Dialysis Slots in a Camp Clinic",
+  "scenario": "Médecins' field nephrologist Dr. Lars Eriksen, working in a refugee camp clinic in South Sudan, has capacity for twelve haemodialysis patients. Thirteen need it. The thirteenth is a 17-year-old with acute kidney injury who could recover in weeks. Among the twelve is a 63-year-old man with end-stage disease who will need dialysis forever, and the camp will close in two months with no onward care. Dr. Eriksen must decide who is dropped.",
+  "options": [
+   "Take the man with permanent kidney failure off dialysis, since the teen can recover and the man has no sustainable future treatment.",
+   "Keep all current patients and refuse the teenager, avoiding withdrawing treatment already started and discarding a patient.",
+   "Reduce everyone's sessions to the minimum safe level so thirteen can be treated, accepting more risk for each."
+  ],
+  "tension": [
+   "withholding vs. withdrawing",
+   "long-term vs. short-term benefit"
+  ],
+  "region": "South Sudan"
+ },
+ {
+  "title": "Mass Casualty at a Stadium Gate",
+  "scenario": "Emergency physician Dr. Mei-Ling Tan arrives first at a crowd-crush at a football stadium in Kuala Lumpur, with forty casualties and two ambulances. She must triage. A man in his fifties is not breathing but has a pulse, likely to need prolonged resuscitation. A teenage girl is bleeding heavily from the thigh and could be saved fast with a tourniquet. Dr. Tan has only herself and one paramedic for the next ten minutes. She must decide where to focus first.",
+  "options": [
+   "Stop the girl's bleeding first, since it is quick and likely to save her, accepting that the man may die without help.",
+   "Start work on the man's airway, as his time-critical condition may be reversible, and ask a bystander to press on the girl's wound.",
+   "Delegate tourniquet application to a trained bystander over the phone, then split her own attention between the two as needed."
+  ],
+  "tension": [
+   "saving most lives vs. saving the sickest",
+   "duty to each vs. duty to all"
+  ],
+  "region": "Malaysia"
+ },
+ {
+  "title": "A Liver for the Alcoholic or the Newly Sober",
+  "scenario": "Dr. Ines Vargas chairs a liver transplant committee in Madrid and has one donor liver. Candidate A, Pablo, 46, developed cirrhosis from alcohol and has been abstinent for seven months, which is just over the programme's six-month rule. Candidate B, Clara, 29, has acute liver failure from a paracetamol overdose, taken after a bereavement, and will die within days. Both are compatible. The committee is split. Dr. Vargas must cast the deciding vote.",
+  "options": [
+   "Allocate to Clara, since she is the more urgent case and the cause of her illness should not decide who is saved.",
+   "Allocate to Pablo, whose stable record of abstinence suggests the best long-term outcome and lowest risk of graft loss.",
+   "Allocate to whichever candidate the objective scoring system ranks higher, and decline to weigh the cause of illness at all."
+  ],
+  "tension": [
+   "urgency vs. expected outcome",
+   "moral desert vs. need"
+  ],
+  "region": "Spain"
+ },
+ {
+  "title": "A Phone Call About the Last Oxygen Cylinders",
+  "scenario": "Hospital administrator Ravi Chaudhary in a district hospital in Uttar Pradesh gets word that a supply truck is delayed twelve hours. Oxygen cylinders will cover only about half the patients. Dr. Chaudhary can ration by clinical rules, or let ward doctors choose. Ward doctors are exhausted and say rules cannot capture bedside reality. He is told that a minister's relative is among the patients on the second floor. He must decide the rationing approach.",
+  "options": [
+   "Impose a written triage protocol by clinical need, applied equally to all, including the minister's relative.",
+   "Let the senior doctors on each ward make allocation decisions, trusting their judgment and keeping decisions close to the bedside.",
+   "Divert all flexible supply to the patients with the highest chance of survival, even if sicker patients are left on lower flow."
+  ],
+  "tension": [
+   "rules vs. discretion",
+   "transparency vs. flexibility"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "ICU Admission for a Patient With Advanced Dementia",
+  "scenario": "Intensivist Dr. Sipho Ndlovu in Bulawayo has one ICU bed. A 78-year-old woman with advanced dementia and septic shock has been referred by a care home, her family wanting full treatment. A 34-year-old mother with the same illness but a better prognosis is waiting in the emergency room. Both have a reasonable chance of surviving the first days. The hospital policy says frailty can be considered but not age alone. Dr. Ndlovu must decide who gets the bed.",
+  "options": [
+   "Admit the younger mother, as her likelihood of long-term recovery and her dependents outweigh the older patient's claim.",
+   "Admit the older woman, since she arrived first and the family have asked, and avoid discrimination based on dementia.",
+   "Admit the mother and offer the older woman intensive ward care with a clear plan for escalation if the second bed opens."
+  ],
+  "tension": [
+   "age and disability discrimination vs. prognosis",
+   "first-come vs. best outcome"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "A Surgeon Who Has Operated for Fourteen Hours",
+  "scenario": "Anaesthetist Dr. Ewa Kowalczyk in a Warsaw hospital is asked by the on-call surgeon to approve a further emergency operation on a trauma patient. The surgeon, Dr. Lenart, has been operating for fourteen hours and his hands show a slight tremor. The only other surgeon is forty minutes away. The patient, a delivery rider with a liver laceration, may die in that time. Lenart insists he is fine. Dr. Kowalczyk must decide whether to proceed with him.",
+  "options": [
+   "Proceed with Dr. Lenart, as he is skilled and available, and the patient's immediate risk outweighs the fatigue concern.",
+   "Delay and wait for the second surgeon, accepting the risk of rapid deterioration to avoid a fatigue-related surgical error.",
+   "Proceed but ask Lenart to perform only the critical bleeding-control steps, with a plan to hand over to the second surgeon on arrival."
+  ],
+  "tension": [
+   "patient safety vs. immediate need",
+   "colleague trust vs. oversight"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Choosing Which Village Gets the Mobile Clinic",
+  "scenario": "Public health officer Dr. Tariq Hussain in Gilgit-Baltistan has funds for one monthly visit by a mobile surgical team, serving either Hunza Gorge, with 800 residents and a high rate of treatable cleft palates and cataracts, or Skardu Pass, with 3,000 residents but easier road access and other available clinics. The Gorge's need per person is highest but total benefit would be smaller. The district council wants a decision this week. Dr. Hussain must choose.",
+  "options": [
+   "Send the team to Hunza Gorge, where unmet need per person is greatest and fewer alternatives exist.",
+   "Send it to Skardu Pass, where more patients will benefit in total for the same cost.",
+   "Alternate months between the two areas, accepting that both get less than the full benefit and neither gets sustained care."
+  ],
+  "tension": [
+   "equity vs. efficiency",
+   "remote communities vs. numbers served"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "Reallocating a Donor Heart Across Borders",
+  "scenario": "Transplant coordinator Dr. Olivia Brandt in Vienna has a donor heart that matches both a 52-year-old Austrian man, stable on a device, and a 12-year-old Hungarian girl decompensating in a Budapest hospital under a cross-border sharing agreement. Austria's rules favour national patients unless the foreign candidate is far sicker. The girl is sicker, but has only a moderate chance of surviving the flight and surgery. The window is closing. Dr. Brandt must decide who gets the heart.",
+  "options": [
+   "Allocate to the Austrian patient according to national priority and a stronger prospect of a good result.",
+   "Allocate to the Hungarian girl, since she is more urgent and has more potential years of life at stake.",
+   "Convene an emergency panel for a rapid decision, using the sharing agreement's criteria and accepting the time cost to the organ."
+  ],
+  "tension": [
+   "national priority vs. urgency",
+   "age vs. probability of success"
+  ],
+  "region": "Austria"
+ },
+ {
+  "title": "Ambulance Prioritisation by Insurance Card",
+  "scenario": "Dispatcher Mustafa Aydın, working for a private ambulance company in Istanbul, is told by his manager that when units are scarce he should prioritise callers with premium insurance contracts, since the company's profits depend on them. Tonight two calls come in simultaneously. A premium subscriber reports chest pain, and a taxi driver without cover reports a motorcycle collision with severe bleeding. One ambulance is free. Mustafa must decide which call to send it to.",
+  "options": [
+   "Send the ambulance to the apparent most-urgent call regardless of insurance status, and accept the manager's possible reprimand.",
+   "Follow company policy and send the unit to the premium subscriber, reasoning that he must honour contractual obligations.",
+   "Send the free unit to the bleeding man and alert a public ambulance service for the chest pain case, delaying the premium client."
+  ],
+  "tension": [
+   "contract vs. need",
+   "professional duty vs. employer instruction"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "Neonatal Cot for a Very Premature Baby",
+  "scenario": "Neonatologist Dr. Adaeze Eze in Enugu has one remaining incubator. A set of triplets born at 25 weeks arrives from a rural clinic. She can take either the strongest triplet or the other mother's single baby who is slightly more mature at 28 weeks with a much better survival chance. The triplets' parents are present and anxious. The 28-week baby's mother is alone and unconscious after an emergency caesarean. Dr. Eze must choose who is placed in the last incubator.",
+  "options": [
+   "Place the 28-week baby in the incubator, since the survival and health prospects are clearly better.",
+   "Place the strongest of the triplets, since she has already travelled far and delaying could harm her chances.",
+   "Place the 28-week baby, then rotate the triplets in short shifts through any space freed, keeping them warm with skin-to-skin care meanwhile."
+  ],
+  "tension": [
+   "best prospects vs. equal concern",
+   "parental presence vs. absence"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Isolating Beds During a Cholera Surge",
+  "scenario": "Epidemiologist Dr. Marisol Quispe leads a cholera response in Huancavelica. Treatment tents hold forty beds, but eighty people arrive daily. Rehydration works well for most, but a few severe cases need intensive IV support that consumes the same staff resources as ten mild ones. Dr. Quispe must write the admission rule today. A local leader demands that children and pregnant women be prioritised. The community watches closely. She has to decide how the beds will be allocated.",
+  "options": [
+   "Prioritise by severity of dehydration alone, treating the sickest first regardless of age or pregnancy.",
+   "Prioritise children and pregnant women, as the community requests and as widely held moral intuitions support.",
+   "Admit the largest number of moderate cases first, since rapid rehydration saves more lives overall than intensive care for the very sick."
+  ],
+  "tension": [
+   "severity vs. saving the most",
+   "community expectation vs. clinical criteria"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Appeals After a Triage Decision",
+  "scenario": "Dr. Helga Magnusdóttir chairs the hospital ethics committee in Reykjavík during a bad flu season. Intensive care triage guidelines exclude a 71-year-old man with end-stage heart failure from ventilation. His son, a lawyer, files an urgent appeal, saying his father walked his dog yesterday and the heart-failure label is a ruse for rationing. The cardiologist says the prognosis is poor but uncertain. The ICU has two free beds, with more patients expected. Dr. Magnusdóttir must decide how the committee rules.",
+  "options": [
+   "Uphold the guideline exclusion, as consistent rules protect fairness for all patients in the surge.",
+   "Overturn it for now, since beds are currently available and refusing a patient with uncertain prognosis seems premature.",
+   "Admit him on a time-limited trial with explicit criteria for withdrawal if he does not improve or if beds become scarce."
+  ],
+  "tension": [
+   "consistency vs. individual circumstances",
+   "present capacity vs. future demand"
+  ],
+  "region": "Iceland"
+ },
+ {
+  "title": "Waiting-List Queue Jumping by a Colleague",
+  "scenario": "Surgical scheduler Anh Nguyen at a hospital in Hanoi is asked by a senior surgeon to move his friend's husband ahead of twenty patients waiting for joint replacement. The friend says her husband is in great pain and cannot work. Anh knows several patients ahead of him are in equal or worse pain and have waited over a year. Refusing may harm Anh's relationship with the surgeon who decides her contract renewal. She must decide whether to alter the list.",
+  "options": [
+   "Refuse politely and explain that the list is governed by waiting time and clinical priority rules, regardless of friendship.",
+   "Move the husband up, reasoning that the surgeon's goodwill is crucial and one reorder will have only a small effect.",
+   "Ask the surgeon to document a clinical reason for urgency, and move him only if a legitimate clinical ground exists."
+  ],
+  "tension": [
+   "fairness vs. career security",
+   "friendship vs. impartiality"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "Cancelling Elective Surgeries for a Flood Response",
+  "scenario": "Hospital director Dr. Ayesha Rahman in Dhaka learns that floods will bring hundreds of injured and ill to her hospital in two days. To free beds she must cancel scheduled operations, including a child's heart valve repair that has already been delayed twice, and a sixty-year-old's tumour removal. Postponing each may cost months of health. The floods may spare the city. Dr. Rahman must decide how many surgeries to cancel today.",
+  "options": [
+   "Cancel all non-emergency surgeries now to guarantee capacity, accepting certain harm to scheduled patients to prepare for uncertain disaster.",
+   "Cancel only the least time-sensitive operations and keep the valve repair and tumour surgery on schedule.",
+   "Hold off cancelling until the flood forecast is clearer tomorrow, accepting the risk of being unprepared if it worsens."
+  ],
+  "tension": [
+   "certain vs. possible harm",
+   "preparedness vs. individual patients"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "The Last Intensive Care Nurse on the Night Shift",
+  "scenario": "Charge nurse Collins Otieno in Kisumu has three critically ill patients and staff for only two intensive nursing assignments. One is a child with severe malaria needing frequent monitoring, one is a post-operative mother with bleeding, and one is a stroke patient who is currently stable but fragile. The hospital will not bring in extra staff until morning. Collins must decide which patient will be left with only basic ward-level observation overnight.",
+  "options": [
+   "Leave the stable stroke patient on basic observation, since the other two have faster, more reversible threats to life.",
+   "Leave the child on basic observation with the mother as informal helper, since parents can alert staff to changes.",
+   "Rotate staff attention equally among the three, accepting that none will receive full-intensity care at crucial moments."
+  ],
+  "tension": [
+   "reversible harm vs. fairness",
+   "staffing limits vs. duty of care"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "A Vaccine Lottery for Health Workers",
+  "scenario": "Clinical ethics officer Dr. Soo-jin Park in Daegu must advise a regional health office on distributing the first 500 vaccine doses against a new outbreak. Candidates include frontline nurses, elderly nursing-home residents, and cleaners at the hospital who are mostly migrant workers with poor access to care. Supply will increase in three weeks. The council wants a plan this afternoon, and each group's representatives are arguing loudly. Dr. Park must recommend a distribution.",
+  "options": [
+   "Prioritise nursing-home residents, who face the greatest risk of death if infected.",
+   "Prioritise frontline nurses, whose illness would cripple the care system and endanger many patients.",
+   "Use a weighted lottery across all three groups, with extra weight for migrant cleaners who are exposed and under-served."
+  ],
+  "tension": [
+   "risk of death vs. system protection",
+   "equity vs. utility"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "Helicopter Seat for a Mountaineer or a Local",
+  "scenario": "Mountain rescue doctor Dr. Pema Sherpa, based at a lodge near Namche Bazaar, has a helicopter with one free seat before weather closes. A foreign trekker with a suspected cerebral oedema is deteriorating fast; a local porter with an obstructed bowel and a fever is also critical, though less obviously dying. The trekker's insurance guarantees payment; the porter's family cannot pay. The pilot insists that only one can be flown. Dr. Sherpa must pick.",
+  "options": [
+   "Fly the trekker, whose altitude illness is likely to kill within hours and respond quickly to descent.",
+   "Fly the porter, since he is a member of the local community that the clinic exists to serve.",
+   "Fly the one whom she judges, at the bedside, to have the greater chance of benefit from evacuation, ignoring payment and nationality."
+  ],
+  "tension": [
+   "need vs. community obligation",
+   "payment vs. equal worth"
+  ],
+  "region": "Nepal"
+ },
+ {
+  "title": "Rationing Insulin in a Collapsing Economy",
+  "scenario": "Dr. Carolina Mendoza runs a diabetes clinic in Caracas where the monthly insulin allotment now covers 70% of registered patients. She can give each patient 70% of a dose, prioritise children and type 1 patients who die quickly without insulin, or cut off those with the poorest control. Many type 2 patients would suffer complications but not die within weeks. A donor shipment may or may not arrive. Dr. Carolina must decide the distribution this month.",
+  "options": [
+   "Give full doses to type 1 patients and children, and reduce supply to type 2 patients until more arrives.",
+   "Give everyone 70% of the usual dose, spreading both the shortage and the risk evenly across all patients.",
+   "Prioritise patients who have kept consistent follow-up and good control, as they are likely to gain the most from each unit."
+  ],
+  "tension": [
+   "urgency vs. equality",
+   "benefit vs. adherence"
+  ],
+  "region": "Venezuela"
+ },
+ {
+  "title": "Withdrawing a Bed From a Long-Stay Patient",
+  "scenario": "Dr. Fiona McAllister, clinical lead of a high-dependency unit in Glasgow, has a patient, Mr. Brodie, 59, who has been ventilated for ten weeks after complications from surgery, with minimal improvement. A younger patient with severe pneumonia in the emergency department needs the bed urgently. Mr. Brodie's wife wants to continue, believing he squeezed her hand. His prognosis is poor but not hopeless. The bed is needed within the hour. Dr. McAllister must decide what to do.",
+  "options": [
+   "Continue supporting Mr. Brodie and try to move the pneumonia patient to another unit, honouring existing commitments.",
+   "Begin a time-limited process to withdraw ventilation from Mr. Brodie, informing his wife that the decision is driven by prognosis and the competing need.",
+   "Move Mr. Brodie to a lower level of care with a ventilator, if one can be found, while freeing the high-dependency bed."
+  ],
+  "tension": [
+   "existing patient vs. new patient",
+   "prognosis vs. hope"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Anti-Venom for Many, Vials for Few",
+  "scenario": "Rural doctor Dr. Joaquim Mutemba in Cabo Delgado receives five snakebite victims within an hour after workers disturb a nest of puff adders. His clinic has three vials of antivenom; each patient needs at least two for full effect, and a replacement shipment is two days away. One victim is a toddler, another a pregnant woman, and the others are labourers. He must decide how to distribute the antivenom immediately.",
+  "options": [
+   "Give two vials to the toddler and one to the pregnant woman, prioritising the most vulnerable and those with least physiological reserve.",
+   "Give one vial to each of three patients with the most severe symptoms, hoping partial doses will stabilise them until help arrives.",
+   "Give a full two-vial course to one patient with the best chance to benefit and treat the rest supportively, accepting that some may die."
+  ],
+  "tension": [
+   "vulnerability vs. benefit",
+   "partial vs. full treatment"
+  ],
+  "region": "Mozambique"
+ },
+ {
+  "title": "Prioritising Children After a Hospital Strike",
+  "scenario": "Dr. Valentina Rossi, medical coordinator at a public hospital in Palermo, returns after a three-week strike with an enormous backlog. She may use limited theatre time to prioritise urgent cancer operations, children's operations, or those whose waiting time has exceeded the legal maximum, which risks lawsuits. The patients' representatives are phoning daily. Each group has serious claims. Dr. Rossi has to decide how to build the next month's operating list.",
+  "options": [
+   "Prioritise cancer surgery, where delay can directly reduce survival, even if lawsuits mount among the overdue.",
+   "Prioritise children's surgery, since delays during development can have lifelong effects and children cannot advocate for themselves.",
+   "Prioritise those who have exceeded the legal maximum waiting time, on the principle that rights and promises must be honoured."
+  ],
+  "tension": [
+   "clinical urgency vs. legal rights",
+   "children vs. adults"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "Rationing a Single Surgeon's Weekend",
+  "scenario": "Dr. Aroha Tamihana, chief of surgery at a small hospital in Gisborne, learns that her only visiting vascular surgeon can work just one weekend this month. Three patients are waiting: a 55-year-old farmer with a limb-threatening blocked artery, a 70-year-old with a growing aortic aneurysm at moderate risk of rupture, and a 30-year-old with a smaller aneurysm and two young children. Sending any patient to Auckland means a long, costly journey. Dr. Tamihana must decide whom the surgeon operates on first.",
+  "options": [
+   "Operate first on the farmer, since losing the limb within days is the most imminent and certain harm.",
+   "Operate first on the 70-year-old, because a rupture would likely be fatal and cannot be undone later.",
+   "Operate on the farmer and arrange transfer to Auckland for the youngest patient, accepting travel hardship for his family."
+  ],
+  "tension": [
+   "imminent vs. potentially fatal harm",
+   "age vs. dependents"
+  ],
+  "region": "New Zealand"
+ }
+]

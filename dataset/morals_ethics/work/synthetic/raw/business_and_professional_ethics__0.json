@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Falsified Weld Inspections at a Port Crane Maker",
+  "scenario": "Ngozi Adeyemi, a quality technician at a crane manufacturer in Lagos, discovers that her supervisor has been signing off weld inspections without running ultrasonic tests, to meet a shipping deadline for a major port client. The cranes will lift heavy containers over dockworkers for decades. Her supervisor trained her, vouched for her during layoffs, and supports a large extended family. The company has an ethics hotline, but staff say reports leak to managers. Delivery is due in nine days, and a failed contract could cost hundreds of jobs. Ngozi must decide what to do with what she knows.",
+  "options": [
+   "Report the falsified inspections through the ethics hotline right away, accepting the risk to her supervisor, her own standing, and the contract.",
+   "Privately confront her supervisor and demand the tests be run before shipment, holding off on any report unless he refuses.",
+   "Send the evidence anonymously to the port authority's safety regulator, bypassing the company's internal channels entirely."
+  ],
+  "tension": [
+   "loyalty vs. public safety",
+   "personal gratitude vs. professional duty"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "The Quiet Spreadsheet in Tallinn",
+  "scenario": "Mart Kaldre is a junior analyst at a small Estonian fintech. While reconciling accounts, he notices that the founder has been moving customer deposit balances into the company's operating account to cover payroll, intending to repay them after a funding round closes next month. No customer has lost money yet. The founder gave Mart his first job and is openly candid about the shortfall, calling it a bridge. If Mart reports to the financial regulator, the license may be suspended and thirty colleagues lose work. If the round fails, depositors could lose savings.",
+  "options": [
+   "Report the commingling to the financial regulator now, since customer funds are not the company's to borrow.",
+   "Give the founder a firm deadline to restore the funds and document it, reporting only if the deadline passes.",
+   "Say nothing externally but keep careful private records, trusting the funding round to resolve the shortfall."
+  ],
+  "tension": [
+   "loyalty vs. fiduciary protection",
+   "present harm vs. possible future harm"
+  ],
+  "region": "Estonia"
+ },
+ {
+  "title": "A Hospital Billing Pattern in Rajasthan",
+  "scenario": "Dr. Kavita Sharma, a senior physician at a private hospital in Jaipur, notices that the administration encourages repeat diagnostic scans that patients seldom need, because the scanner was bought on expensive loans. Many patients are poor and pay out of pocket. The hospital also runs a free clinic that depends on scan revenue. Her chief, who founded the hospital, has been a mentor to her for twenty years. A local journalist has asked her informally whether she would talk. Kavita has an upcoming board meeting where she could raise the issue directly.",
+  "options": [
+   "Raise the scan overuse openly at the board meeting and push for a policy change, without going to the press.",
+   "Speak to the journalist on the record, since internal channels have protected the practice for years.",
+   "Quietly reduce unnecessary scans in her own department and say nothing more, preserving the free clinic."
+  ],
+  "tension": [
+   "loyalty vs. patient welfare",
+   "institutional good vs. individual harm"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Emission Numbers on the Night Shift",
+  "scenario": "Lars Henriksen, a plant operator at a paper mill in northern Sweden, is told by his shift lead to switch off a wastewater sensor during a malfunction and enter estimated figures in the log instead, so the mill avoids a reportable excursion. The river downstream supplies a small village and an indigenous reindeer-herding community. The mill is the only large employer within eighty kilometres. His shift lead says it happens occasionally, is harmless in small doses, and that the owners will quietly fix the equipment next quarter. Lars has two weeks left on a probationary contract.",
+  "options": [
+   "Refuse to enter estimated figures and report the malfunction accurately, even if it costs him his probationary contract.",
+   "Enter the estimates this once but write his own private note and report the malfunction to the environmental authority later.",
+   "Ask the shift lead to log the excursion honestly and escalate to the plant manager only if the request is refused."
+  ],
+  "tension": [
+   "job security vs. honesty",
+   "community welfare vs. employer loyalty"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "What the Auditor Left Out in Santiago",
+  "scenario": "Camila Rojas, a mid-level compliance officer at a Chilean copper-supply company, reads an internal memo showing that executives knew a contractor's tailings dam had failed inspection and chose not to disclose it to investors before a bond sale. She signed a confidentiality agreement and her bonus is tied to the bond closing. A friend at a rival firm tells her that Chilean law gives some protection to people who report to the securities regulator, though it is untested. The bond sells in four days. Hundreds of pension funds would buy it.",
+  "options": [
+   "Report the memo to the securities regulator before the bond closes, relying on whatever legal protection exists.",
+   "Escalate to the general counsel and the audit committee, giving the company a chance to disclose itself before taking it outside.",
+   "Keep her confidentiality obligations and stay silent, on the view that investors are professionals who can assess their own risk."
+  ],
+  "tension": [
+   "confidentiality vs. investor protection",
+   "legal risk vs. integrity"
+  ],
+  "region": "Chile"
+ },
+ {
+  "title": "A Teacher, a Test Score and a Sponsor",
+  "scenario": "Ayesha Karim runs the examination office at a private university in Dhaka that is partly funded by a donor family. She finds that the dean has been altering entrance-test results so that several donor relatives qualify for scholarships intended for low-income students. The dean says the university would otherwise lose its largest endowment gift, which funds a library and forty other scholarships. Ayesha's brother is a student there on one of those scholarships. A national education commission accepts confidential complaints.",
+  "options": [
+   "File a confidential complaint with the national education commission, accepting that donor funding may be withdrawn.",
+   "Present the altered records to the vice-chancellor privately and ask that the practice stop, without involving outside bodies.",
+   "Decline to act, reasoning that the donor-funded scholarships still help many deserving students and one case is not decisive."
+  ],
+  "tension": [
+   "fairness vs. institutional survival",
+   "personal stake vs. impartial duty"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "The Recall That Wasn't Issued",
+  "scenario": "Tomás Ferreira is a regulatory affairs manager at a mid-sized baby-food producer near Porto. Lab tests on one batch show trace contamination slightly above the legal limit, though the company's scientists say it is unlikely to cause harm. The CEO, who has led the family firm for thirty years, wants to quietly pull the remaining stock rather than announce a recall that would damage the brand and likely close the firm. About a third of the batch is already in homes. Tomás has until Monday before distributors reorder.",
+  "options": [
+   "Insist on a public recall and notify the food safety authority immediately, regardless of the harm to the firm.",
+   "Support the quiet withdrawal of remaining stock while pressing the CEO to notify the authority within the week.",
+   "Notify the authority confidentially himself without telling the CEO first, so the decision is taken out of the company's hands."
+  ],
+  "tension": [
+   "loyalty vs. consumer safety",
+   "proportionality vs. transparency"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "The Dormitory Contract in Nairobi",
+  "scenario": "Wanjiru Kamau, an accountant at a Kenyan construction firm, learns that a student housing block her company is building uses cheaper reinforcement steel than the specifications require, and the invoices are padded to hide it. Her manager, a woman who mentored her, says the structure will remain sound and the savings keep the company afloat after late payments from a government client. Wanjiru is unsure whether the building is actually unsafe. Reporting would trigger an inspection and likely a contract termination. Residents are due to move in within a year.",
+  "options": [
+   "Report the steel substitution to the county building inspectorate and let engineers determine whether it is safe.",
+   "Ask an independent structural engineer for a confidential opinion first, and decide whether to report based on that.",
+   "Take no action on the building but refuse to process the padded invoices, limiting her own involvement."
+  ],
+  "tension": [
+   "uncertainty vs. precaution",
+   "loyalty to mentor vs. public safety"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Reporting a Friend Across the Pacific",
+  "scenario": "Hana Watanabe works in the risk office of a Japanese trading company. A close friend and former classmate, now a regional sales director, has been paying a consultant who passes small cash gifts to procurement officers at a foreign state utility. In Hana's company culture, raising a colleague's wrongdoing publicly is seen as a profound betrayal and may end the friend's career. The company's compliance code requires her to report. Her friend asks her to wait until a big contract is signed, promising to end the practice afterwards.",
+  "options": [
+   "Report the payments through the formal compliance channel immediately, as the code requires.",
+   "Agree to wait until the contract is signed, but set a firm date after which she will report.",
+   "Urge her friend to disclose and self-report to the company, offering to stand beside him, and report only if he refuses."
+  ],
+  "tension": [
+   "friendship vs. rule compliance",
+   "harmony vs. accountability"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Night Shift at the Elder Care Home",
+  "scenario": "Beatrix Nagy, a nurse at a residential care home in Hungary, has seen an experienced colleague, Ilona, repeatedly leave a resident with dementia unattended for hours so she can finish paperwork, and recently tie the person's wrist to a chair rail. Ilona is overworked, covering for three vacancies, and has a sick husband. The home's director has dismissed past concerns about staffing. A report to the county inspectorate could close the home, displacing sixty residents, or lead to Ilona's dismissal. Beatrix worked the same shift last night and saw it again.",
+  "options": [
+   "Report the restraint use to the county inspectorate, since the resident is currently at risk.",
+   "Document the incidents and give them to the director in writing, pressing for staffing changes and for Ilona to be supported, before any external report.",
+   "Speak to Ilona directly and offer to share her workload, hoping the practice ends without any formal complaint."
+  ],
+  "tension": [
+   "compassion for colleague vs. resident safety",
+   "systemic cause vs. individual blame"
+  ],
+  "region": "Hungary"
+ },
+ {
+  "title": "A Cargo Manifest in Rotterdam",
+  "scenario": "Pieter de Wit, a customs broker employed by a mid-sized logistics company in Rotterdam, notices that a long-standing client's shipping manifests regularly understate the weight of their cargo, reducing the duties paid. His boss, who owns the firm, says the client generates a fifth of revenue and that understating is common practice. Pieter has also found that the mismatch could hide restricted chemical components. He has no proof of this, only a pattern. His wife is expecting a child, and he is the sole earner.",
+  "options": [
+   "Report the discrepancies and the pattern to customs authorities, leaving them to investigate the chemical concern.",
+   "Raise it with the owner in writing and require that the manifests be corrected, escalating externally if they are not.",
+   "Stop handling the client's files by asking for reassignment, without reporting anything further."
+  ],
+  "tension": [
+   "family security vs. legal duty",
+   "suspicion vs. evidence"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "The Intern Who Saw the Server Room Fire Log",
+  "scenario": "Diego Morales, a twenty-two-year-old intern at a Mexican data-hosting company in Monterrey, discovers that the backup generator has failed its tests for six months and the failures were left out of the reports sent to hospital clients who rely on the hosting. His manager told him not to touch the logs and that the matter is above his pay grade. If power fails, hospital records could be inaccessible for hours. Diego hopes for a full-time offer next month. He is unsure whether staff in his position are protected at all.",
+  "options": [
+   "Email the compliance department with the test results, copying no one else, and ask for them to be corrected.",
+   "Tell the affected hospital clients' technical contacts directly about the generator risk.",
+   "Do nothing now, completing his internship and raising the concern only after he receives a permanent position."
+  ],
+  "tension": [
+   "junior status vs. responsibility",
+   "job prospects vs. client safety"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "Cutting Corners in the Fishing Fleet Paperwork",
+  "scenario": "Siosaia Taufa, a records clerk for a fishing cooperative in Tonga, is asked by the cooperative's elders to alter catch logs to hide that several boats exceeded quotas in a protected reef area. The cooperative supports many families, and the elders argue the quotas were imposed by outsiders who do not understand local needs. Overfishing has also reduced the catches of neighbouring villages that depend on the same reef. A fisheries officer visiting from the capital will review the logs on Friday. Siosaia respects the elders and also knows the reef is shrinking.",
+  "options": [
+   "Refuse to alter the logs and present the accurate catch figures to the visiting officer.",
+   "Keep the accurate figures but ask the elders to propose a voluntary reduction plan before the officer arrives.",
+   "Alter the logs as requested, then work within the community to change the quota system through legitimate channels."
+  ],
+  "tension": [
+   "community loyalty vs. honesty",
+   "local autonomy vs. shared resources"
+  ],
+  "region": "Tonga"
+ },
+ {
+  "title": "A Pharma Rep Who Knew the Trial Data",
+  "scenario": "Elena Vasquez, a clinical data manager at a contract research organisation in Madrid, notices that a sponsor's final report omits three liver-injury cases from a trial for a new arthritis drug, classifying them as unrelated. She believes at least two are plausibly connected. The sponsor is the biggest client of her employer, and her managing director says the medical reviewers made the classifications. The drug could ease pain for many thousands of patients. Approval submission is scheduled within three weeks.",
+  "options": [
+   "Report the omitted cases to the national medicines agency directly before the submission is made.",
+   "Submit a written dissent to the internal medical review board and request reclassification, accepting the board's final judgement.",
+   "Accept the reviewers' classification, reasoning that medical experts, not data managers, should judge causality."
+  ],
+  "tension": [
+   "professional deference vs. patient safety",
+   "benefit to many vs. risk to some"
+  ],
+  "region": "Spain"
+ },
+ {
+  "title": "The Consultant Who Found Two Sets of Books",
+  "scenario": "Priya Venkataraman, an independent management consultant from Singapore, is hired by a family-owned Vietnamese garment exporter to improve efficiency. While reviewing payroll she finds two sets of books: one shown to buyers' auditors, showing legal wages and hours, and one showing much longer shifts and lower pay. The owner is warm, treats her as a guest, and explains that buyers' price demands leave no alternative. Her contract includes a confidentiality clause. Several international brands buy from the factory, and she could contact one of them. She has two weeks left on the engagement.",
+  "options": [
+   "Inform the largest buyer brand of the double books, accepting the breach of her confidentiality clause.",
+   "Tell the owner she cannot continue unless the practice is disclosed and corrected, and withdraw if he refuses.",
+   "Complete the efficiency work as contracted and leave the payroll findings out of her report, as they fall outside her brief."
+  ],
+  "tension": [
+   "contract confidentiality vs. worker welfare",
+   "scope of role vs. moral responsibility"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "Safety Culture in a Prairie Grain Elevator",
+  "scenario": "Hannah Brandt, a safety coordinator at a grain elevator cooperative in rural Saskatchewan, finds that dust accumulations in a storage tower exceed safe thresholds, raising explosion risk. The cooperative's farmer-members own the elevator and, after two poor harvests, the board has refused cleaning budgets. Her father is a board member and a founding member. Cleaning would require a shutdown during harvest, which would cost members income. Hannah has the authority to file a workplace safety report, but doing so would trigger an inspection and a possible stop-work order within days.",
+  "options": [
+   "File the safety report with the provincial workplace regulator now and accept the shutdown risk.",
+   "Bring the dust readings to the full membership meeting and let the owners decide how to balance risk and cost.",
+   "Arrange a cheaper partial cleaning with the foreman on her own authority and delay any report until after harvest."
+  ],
+  "tension": [
+   "family loyalty vs. worker safety",
+   "collective ownership vs. regulatory duty"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "The Trader Who Heard About the Merger",
+  "scenario": "Sofia Papadakis, an analyst at an Athens brokerage, overhears her manager telling a client's relative about a pending takeover of a listed shipping company, with the clear implication that the relative should buy shares first. She cannot be certain the tip was acted on. The manager has defended her during two rounds of redundancies and is known as generous with younger staff. Reporting would involve the firm's legal department and probably the stock market commission. The takeover announcement is expected within the week, and the share price will jump.",
+  "options": [
+   "Report what she overheard to the firm's compliance officer immediately, with the date and details.",
+   "Ask her manager directly whether the conversation was what it seemed, and report only if the answer is unsatisfactory.",
+   "Say nothing, reasoning that she cannot prove anything and that she may have misunderstood a casual conversation."
+  ],
+  "tension": [
+   "loyalty vs. market fairness",
+   "uncertainty vs. duty to report"
+  ],
+  "region": "Greece"
+ },
+ {
+  "title": "A Mine Safety Report in the Andes",
+  "scenario": "Marisol Quispe, a geotechnical engineer for a mining company in Peru's southern highlands, completes a slope stability survey showing a risk of collapse near a worker access road. Her supervisor, a long-time friend of her family, asks her to revise the risk rating from high to moderate, since a high rating requires halting operations and the company is already behind on its output targets. Communities downstream also depend on the mine for jobs. Marisol believes the data supports high but concedes there is some room for interpretation in the model.",
+  "options": [
+   "Keep the high rating and submit it to the mine safety authority as required by the process.",
+   "Commission an independent second review of the slope data and agree to abide by its rating.",
+   "Change the rating to moderate with added monitoring conditions, as a compromise that keeps the mine operating."
+  ],
+  "tension": [
+   "professional judgement vs. production pressure",
+   "jobs vs. worker safety"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "A Union Rep, a Safety Gap and a Strike Vote",
+  "scenario": "Thandiwe Mokoena is a shop steward at a South African platinum smelter. She learns from a friend in management that a furnace cooling system has had repeated minor failures that were not reported to the regulator, and that a major accident is plausible. A strike vote is scheduled for next week over wages. If she discloses this, the union may use it as leverage, but the information came in confidence and could end her friend's career. Management says repairs are planned for next year. The workers who would face an accident are her own members.",
+  "options": [
+   "Disclose the failures to the regulator and her members, protecting workers even though it betrays her friend's confidence.",
+   "Urge her friend to report the failures himself, and keep her source confidential unless nothing changes within days.",
+   "Keep the information confidential and negotiate for safety improvements as part of the wage talks."
+  ],
+  "tension": [
+   "confidence vs. worker safety",
+   "collective bargaining vs. truth"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "What the Driver App Engineer Saw in Jakarta",
+  "scenario": "Budi Santoso is a backend engineer at a ride-hailing company in Jakarta. While debugging, he finds that the pricing algorithm quietly lowers driver payouts for those who have recently declined trips, a practice not disclosed in driver terms. The drivers are mostly low-income and already stretched. His team lead says the feature raises reliability and is legal as written. Budi's wife is a driver for a competitor. Posting the evidence on social media could prompt a strike and regulatory scrutiny but would break his employment contract and could end his career.",
+  "options": [
+   "Publish the evidence publicly so drivers can see how their pay is calculated, accepting the consequences.",
+   "Submit a formal internal ethics complaint with the code excerpts and give the company a defined time to respond.",
+   "Continue his work but quietly leak the details to a drivers' association that can raise the issue collectively."
+  ],
+  "tension": [
+   "contractual loyalty vs. worker transparency",
+   "personal career risk vs. collective benefit"
+  ],
+  "region": "Indonesia"
+ },
+ {
+  "title": "The Choir Director's Fundraiser Ledger",
+  "scenario": "Fa'amanu Leota is the volunteer treasurer of a large church-affiliated charity in Auckland that collects money for flood relief in the Pacific. She finds that the senior pastor, who founded the charity and is beloved by the community, has used about a fifth of recent donations to cover personal debts, intending to repay. The charity's reputation in the Pacific community is central to its work. The charities regulator publishes reports on misuse. A major fundraising event is next weekend, and donors would likely stop giving.",
+  "options": [
+   "Report the misuse to the charities regulator promptly, accepting the reputational damage to the charity.",
+   "Confront the pastor privately, require full repayment and an independent audit, and hold off on external reporting if both occur.",
+   "Keep the matter within the church leadership and handle it as a pastoral issue of repentance and repayment."
+  ],
+  "tension": [
+   "community trust vs. donor accountability",
+   "faith loyalty vs. transparency"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "A Border Guard Contractor and a Faulty Scanner",
+  "scenario": "Yusuf Demir, a field service technician for a company supplying X-ray cargo scanners to Turkish customs posts, finds that a software update has reduced detection sensitivity for dense metal objects at three busy crossings. His company has known for a month and prefers to fix it silently in the next scheduled release in six weeks, to avoid contractual penalties. The scanners are used to detect smuggled weapons and illegal goods. Customs officials have not been told. Yusuf signed a non-disclosure agreement, and a competitor has hinted at a job.",
+  "options": [
+   "Notify the customs authority directly about the sensitivity reduction, breaching his non-disclosure agreement.",
+   "Push the company in writing to issue an immediate advisory to customs and escalate to the board if it refuses.",
+   "Accept the company's six-week plan and focus on speeding up the fix, since an interim disclosure may be disproportionate."
+  ],
+  "tension": [
+   "contractual duty vs. public security",
+   "speed of fix vs. immediate disclosure"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "Doctored Climate Models at a Consultancy",
+  "scenario": "Mei-Ling Chua is a senior hydrologist at an environmental consultancy in Kuala Lumpur preparing a flood-risk study for a coastal property developer. Her partner pressures her to adjust the sea-level assumptions downward so the project passes approval, saying the numbers are within a defensible range. Mei-Ling thinks the lower figure is optimistic but not fraudulent. Future residents would buy homes on the strength of the report, and insurers would price accordingly. The firm is financially fragile, and a reputation for obstruction would cost it future work.",
+  "options": [
+   "Use the assumptions she believes are most accurate, even if it costs the firm the client.",
+   "Present both the optimistic and conservative scenarios transparently in the report and let the approving authority decide.",
+   "Adopt the lower assumptions as defensible and note the uncertainty in an appendix, preserving the client relationship."
+  ],
+  "tension": [
+   "professional independence vs. firm survival",
+   "optimism vs. precaution"
+  ],
+  "region": "Malaysia"
+ },
+ {
+  "title": "The Surveyor and the Disputed Land Title",
+  "scenario": "Samuel Okonkwo-Reyes, a land surveyor for a firm in Manila, is asked by his employer to certify boundary measurements that enlarge a developer's parcel by several metres into land used by a fishing community with no formal title. The developer promises a community centre and jobs. The community's claim is customary and not documented, and legal aid is scarce. Samuel's firm has a loan to repay, and the developer is a long-standing client. A local land-rights NGO has asked whether any surveyors are willing to share unpublished measurements.",
+  "options": [
+   "Refuse to certify the enlarged boundary and share his accurate measurements with the land-rights NGO.",
+   "Certify only the boundary he can substantiate and note the community's use of the land in the survey remarks.",
+   "Certify the developer's boundary as requested and encourage the developer to honour the community benefits it promised."
+  ],
+  "tension": [
+   "employer duty vs. vulnerable community",
+   "documented rights vs. customary claims"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "Smoke Alarms Sold on a Technicality",
+  "scenario": "Henrik Jørgensen, a lab technician at a Danish product-testing firm, discovers that a batch of smoke alarms from a small Chinese manufacturer, certified by his lab, passed only because a supervisor adjusted test conditions. Real-world activation may be delayed by up to a minute under certain conditions. The alarms are already sold to housing associations across Scandinavia. The lab's accreditation depends on a clean record, and the supervisor is on sick leave with a serious illness. Henrik is uneasy about reporting someone in that situation.",
+  "options": [
+   "Report the adjusted test conditions to the accreditation body and the housing associations immediately.",
+   "Re-test a sample batch himself under proper conditions, and report only if the results confirm the delay.",
+   "Wait until the supervisor returns, so that she can explain and take responsibility herself."
+  ],
+  "tension": [
+   "compassion vs. fire safety",
+   "process vs. urgency"
+  ],
+  "region": "Denmark"
+ }
+]

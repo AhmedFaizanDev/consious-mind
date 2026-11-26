@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Referral Who Is Merely Adequate",
+  "scenario": "Hiring manager Oluwaseun Adeyemi at a logistics firm in Abuja has two finalists for a dispatch supervisor role. One, Chidi, was personally recommended by the managing director, whose approval Oluwaseun needs for his own budget. The other, Halima, has a stronger record, with two years of experience handling a larger fleet, but she has no connections inside the company. Interview scores favour Halima by a small margin. A bad hire would disrupt deliveries to hospitals, but Chidi is capable and would learn fast. The offer must go out by Thursday.",
+  "options": [
+   "Hire Halima on the strength of the interview scores and experience, and explain the reasoning to the managing director.",
+   "Hire Chidi, judging the gap small and valuing the relationship with the managing director who controls resources for the whole team.",
+   "Ask both finalists to complete a paid practical trial week and decide on observed performance, delaying the decision."
+  ],
+  "tension": [
+   "merit vs. loyalty",
+   "organisational politics vs. fairness"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "A Gap in the Résumé",
+  "scenario": "Recruiter Saoirse Gallagher in Dublin is screening candidates for a software testing role. A strong applicant, Kamil, has a three-year gap that he explains, in a private note, was spent in treatment for severe depression. He asks that this not be shared with the hiring team. The hiring manager, Declan, has a habit of rejecting anyone with unexplained gaps and has asked Saoirse to flag them. Withholding the explanation might cost Kamil the interview. Sharing it could expose a protected health condition without his consent.",
+  "options": [
+   "Present Kamil's application without comment on the gap and let him explain it in the interview if he chooses.",
+   "Tell Declan the gap relates to a health matter and ask him to evaluate on skills alone, without detail.",
+   "Challenge Declan's blanket rule on gaps in front of the hiring panel, arguing that the policy itself should change."
+  ],
+  "tension": [
+   "privacy vs. advocacy",
+   "candidate consent vs. fair consideration"
+  ],
+  "region": "Ireland"
+ },
+ {
+  "title": "Promoting the Man Who Can Travel",
+  "scenario": "Regional director Rajesh Iyengar in Pune must choose between two senior engineers for a team-lead role requiring frequent site visits across the Gulf. Anita has the better technical record and the clients prefer her. She has two young children, and her manager assumes she will not want the travel, though she has not been asked. Vikram has fewer results but has said he will accept relocation. Rajesh worries that a lead who declines trips will leave projects exposed. A rival firm is courting Anita, and the decision will be announced at the quarterly meeting.",
+  "options": [
+   "Offer the role to Anita after asking directly what travel arrangements she can commit to, instead of assuming.",
+   "Offer the role to Vikram, judging that stated availability for travel is a legitimate and necessary requirement.",
+   "Restructure the role so that travel is shared across a team, and offer it to Anita with that arrangement."
+  ],
+  "tension": [
+   "assumptions about caregivers vs. operational needs",
+   "merit vs. availability"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Accent Complaints from a Customer-Facing Team",
+  "scenario": "Branch manager Lindiwe Dlamini of a bank in Durban receives repeated complaints from older customers that a teller, Mr. Pieter van Wyk, a Dutch-born employee with a strong accent, is hard to understand. His performance reviews are otherwise excellent, and he is the only one in the branch able to serve Afrikaans-speaking customers fluently. A senior colleague suggests moving him to the back office, where pay is lower. Lindiwe worries that changing his role in response to customer bias would be unfair, while ignoring the complaints could cost the branch clients.",
+  "options": [
+   "Keep him at the counter and offer optional communication coaching, treating the complaints as a matter of customer adjustment.",
+   "Move him to a back-office role at the same pay, protecting customer satisfaction metrics while preserving his income.",
+   "Keep him in place, share the complaints with him, and let him decide whether he wants support or a change of role."
+  ],
+  "tension": [
+   "customer preference vs. non-discrimination",
+   "employee dignity vs. business pressure"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "The Internal Candidate Who Is Past Retirement Age",
+  "scenario": "Director Mei-Hua Lin of a hospital in Kaohsiung must fill the chief radiologist position. The strongest candidate, Dr. Ho, is sixty-eight and has said he intends to work for five more years. A younger candidate, Dr. Chen, is promising but untested in management. Board members privately question whether it is wise to appoint someone who will soon need replacing, and one has suggested the hospital should invest in the next generation. Mei-Hua suspects age is shaping the board's view, yet she also sees a legitimate interest in long-term planning.",
+  "options": [
+   "Recommend Dr. Ho on his qualifications and ask the board to plan succession separately, rejecting age as a criterion.",
+   "Recommend Dr. Chen, accepting that the hospital's long-term leadership pipeline is a legitimate consideration among others.",
+   "Appoint Dr. Ho with a fixed three-year term and a formal mentoring role for Dr. Chen, as a compromise."
+  ],
+  "tension": [
+   "age neutrality vs. succession planning",
+   "individual merit vs. organisational continuity"
+  ],
+  "region": "Taiwan"
+ },
+ {
+  "title": "Blind Auditions and the Quota Debate",
+  "scenario": "Orchestra manager Gunnar Lindqvist in Gothenburg has run blind auditions for years. This season, the final round yielded eight strong players, all men, from similar conservatory backgrounds. The board, which has pledged to diversify the orchestra, suggests that Gunnar offer places to the two best women and to a musician of Somali heritage, even though they ranked lower by a narrow margin. Some current players say this would undermine the blind process they trust. Others argue the process has hidden structural barriers in who has access to elite training.",
+  "options": [
+   "Offer contracts strictly in the order determined by the blind audition and invest separately in outreach programmes for future auditions.",
+   "Follow the board's suggestion and choose among near-equal finalists in a way that advances diversity, explaining the reasoning openly.",
+   "Extend the process with an additional round of ensemble trials, where all finalists are heard in context before choosing."
+  ],
+  "tension": [
+   "procedural fairness vs. corrective justice",
+   "merit vs. representation"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "Criminal Record Box on the Application",
+  "scenario": "Owner Esperanza Quispe runs a bakery with twelve employees in Cochabamba. A skilled applicant, Marco, has told her honestly of a ten-year-old conviction for theft committed when he was nineteen, after which he trained as a pastry chef. Her longest-serving employee, who handles the cash drawer, says she will resign if a person with a theft record is hired. The bakery has struggled to find skilled bakers, and Marco's trial shift went extremely well. Esperanza cannot afford to lose either of them, and the position must be filled before the festival season.",
+  "options": [
+   "Hire Marco and keep him away from cash handling at first, explaining the arrangement to him honestly.",
+   "Hire Marco with full responsibilities and ask the current employee to accept the decision or leave.",
+   "Decline to hire Marco, judging the risk to team cohesion and cash security too high for a small business."
+  ],
+  "tension": [
+   "second chances vs. staff trust",
+   "fairness to the applicant vs. business survival"
+  ],
+  "region": "Bolivia"
+ },
+ {
+  "title": "Two Equal Candidates and a Gut Feeling",
+  "scenario": "Partner Gwendolyn Achterberg at a law firm in Rotterdam has two senior associates up for partnership: Bram and Yasmin. Their numbers are nearly identical. Gwendolyn privately finds Bram easier to work with because they share a background and humour, and recognises this could be bias. Yasmin, who wears a headscarf, is said by one partner to be 'not a fit for our client dinners'. Firm policy allows only one promotion this year. The partners vote next week, and Gwendolyn's recommendation carries weight.",
+  "options": [
+   "Recommend Yasmin and say explicitly that fit-based objections should not influence the vote, challenging the remark in the meeting.",
+   "Recommend Bram, judging that her personal read of team dynamics is a legitimate input, while formally noting the remark was inappropriate.",
+   "Recommend a structured, criteria-based scoring of both candidates by multiple partners and abide by the result."
+  ],
+  "tension": [
+   "bias awareness vs. relational judgement",
+   "speaking up vs. consensus"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "The Pregnant Applicant Asks Directly",
+  "scenario": "Start-up founder Tariq Haddad in Amman is interviewing for a lead designer needed ahead of a crucial product launch in four months. The best candidate, Dalia, volunteers during the interview that she is eight weeks pregnant and will need leave around the launch. Tariq's co-founder points out that the company has no cash reserve to hire a replacement and that the launch decides whether the investors continue. Tariq knows that refusing someone because of pregnancy would be unlawful in many places, and wants to be both honest and responsible to his staff.",
+  "options": [
+   "Offer Dalia the job on its merits and plan the launch timeline and temporary cover around her leave.",
+   "Tell Dalia candidly about the launch constraints and ask whether a modified role or schedule would work for her before deciding.",
+   "Hire the next-best candidate, who has no leave plans, and avoid recording the pregnancy as a reason."
+  ],
+  "tension": [
+   "non-discrimination vs. business viability",
+   "candour vs. legal risk"
+  ],
+  "region": "Jordan"
+ },
+ {
+  "title": "Anonymised CVs Reveal a Pattern",
+  "scenario": "Data analyst Beatrix Nowak at a retailer in Warsaw reviews the outcome of the company's hiring process and finds that applicants with Ukrainian-sounding surnames are less often invited to interviews, despite equal qualifications. No manager has ever expressed prejudice, and the screening is done by a software tool the human resources head, Mr. Zielinski, has championed and just won an award for. Reporting the pattern would embarrass him and might mean pausing hiring during the peak season. Beatrix is on a temporary contract that Zielinski will decide whether to renew.",
+  "options": [
+   "Report the findings formally to the compliance officer and leadership with the supporting data, regardless of the consequences for her contract.",
+   "Share the analysis privately with Zielinski first and give him time to investigate and correct the tool.",
+   "Run a deeper check on the tool's logic before saying anything, to be certain that the pattern is not a statistical artifact."
+  ],
+  "tension": [
+   "speaking up vs. job security",
+   "due diligence vs. urgency"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Choosing the Foreman After the Strike",
+  "scenario": "Site owner Gustavo Ferraz in Belo Horizonte must name a new foreman for a construction crew. The most skilled mason, Elias, was a prominent organiser during a recent wage protest that cost the company two weeks. A less skilled but loyal worker, Rui, did not take part. Other workers are watching closely to see whether protesting carries a penalty. Gustavo has no wish to punish dissent, yet the crew's cohesion is fragile and he fears Elias may press further demands. A major concrete pour is scheduled for Monday and requires an experienced lead.",
+  "options": [
+   "Appoint Elias, treating skill as the sole criterion and sending a signal that organising is not a mark against anyone.",
+   "Appoint Rui, judging that crew stability is the foremost need at this moment and explaining it as a temporary decision.",
+   "Appoint Elias as foreman only for the pour and review the arrangement transparently with the whole crew afterward."
+  ],
+  "tension": [
+   "retaliation concerns vs. operational trust",
+   "merit vs. harmony"
+  ],
+  "region": "Brazil"
+ },
+ {
+  "title": "A Sign-Language Interpreter Costs More Than the Salary Bump",
+  "scenario": "Office manager Ngozi Eze supervises hiring at a design studio in Accra. A Deaf applicant, Kojo, produced the best portfolio of all candidates. Hiring him would require a sign-language interpreter for meetings, costing about a fifth of his salary each year. The studio has no legal duty to provide this, and the owner suggests that the budget could instead fund a second junior designer. Ngozi knows other workplaces in the city rarely hire Deaf employees. The owner will approve whichever recommendation she makes, and the cost has not yet been discussed with Kojo.",
+  "options": [
+   "Recommend hiring Kojo and funding the interpreter, treating access as part of the cost of hiring the best candidate.",
+   "Recommend hiring Kojo and ask him about alternatives, such as written meeting notes and chat tools, to reduce cost.",
+   "Recommend the next-best candidate who needs no extra spending, in line with the studio's limited budget."
+  ],
+  "tension": [
+   "inclusion vs. resource limits",
+   "equal opportunity vs. cost"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "The Caste Question on a Reference Call",
+  "scenario": "Hiring lead Suresh Pillai at a manufacturing company in Kochi receives a reference call about a candidate from the previous employer's manager, who casually remarks, 'He's from one of the lower castes, so you may find the team a bit unwilling.' Suresh recognises this as prejudice, but knows that several of his own senior supervisors would resent working under the candidate, and that tension on the factory floor has hurt productivity before. The candidate is the strongest of three. Suresh must submit his hiring recommendation to the plant head by the weekend.",
+  "options": [
+   "Recommend the candidate on merit, and prepare the team and supervisors for the appointment with clear anti-discrimination expectations.",
+   "Recommend the candidate but report the reference-giver's remark to HR as an example of discriminatory attitudes.",
+   "Recommend the second-ranked candidate to avoid anticipated friction, noting that the decision was made reluctantly."
+  ],
+  "tension": [
+   "anti-discrimination vs. workplace harmony",
+   "principle vs. predicted consequences"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Overqualified and Over Fifty",
+  "scenario": "Principal Liam O'Connell of a vocational school in Christchurch needs a welding instructor. Among applicants is Paora, fifty-eight, who spent thirty years in heavy industry and wants to teach before retiring. Another candidate is Aroha, twenty-nine, with a teaching diploma but only four years in the trade. Some staff worry that Paora will clash with students and not stay long. Students interviewed for the panel responded warmly to Paora's practical stories but followed Aroha's explanations more closely. The school struggles to attract tradespeople, and the term begins in three weeks.",
+  "options": [
+   "Hire Paora, valuing his deep trade experience and treating concerns about his tenure as speculation.",
+   "Hire Aroha, whose teaching qualification better matches the pedagogical demands of the job and the school's long-term plans.",
+   "Hire both on a part-time basis, pairing practical expertise with pedagogy, even though the budget is stretched."
+  ],
+  "tension": [
+   "experience vs. pedagogy",
+   "age fairness vs. long-term planning"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "Salary History and the Pay Gap",
+  "scenario": "Compensation analyst Ilse Brandstätter at an insurer in Zurich is asked to propose a starting salary for a new claims manager, Jovana. Company practice is to base offers on previous salary. Jovana's earlier pay, at a small firm in Belgrade, was far lower than the pay of the male manager she will work beside, though their duties are the same. Following the usual method would save money and match the rules, but perpetuate a gap. Ilse's superior favours consistency, while she suspects the gap will become public when staff discuss pay.",
+  "options": [
+   "Propose a salary matched to the role's internal band and ignore the prior salary, even though it exceeds the standard method.",
+   "Follow the standard practice of basing the offer on previous pay, applying the same rule to everyone.",
+   "Propose a salary in the middle of the band and be transparent with Jovana about how it was determined."
+  ],
+  "tension": [
+   "consistency vs. equity",
+   "cost control vs. pay parity"
+  ],
+  "region": "Switzerland"
+ },
+ {
+  "title": "Nepotism in the Family Farm Cooperative",
+  "scenario": "Cooperative secretary Wanjiru Mwangi in Nyeri is asked by the board to hire a bookkeeper. The chair's niece, Faith, has a diploma but no experience, and the chair hints that approving her would secure the secretary's own contract renewal. Another applicant, Samuel, has twelve years of bookkeeping with a rival cooperative and a spotless record, but he comes from a neighbouring clan with which the community has a history of tension. Members will see the appointment as a statement. Wanjiru depends on the cooperative's goodwill to continue her work.",
+  "options": [
+   "Appoint Samuel on his qualifications and prepare a transparent explanation for members, accepting the political risk.",
+   "Appoint Faith, seeing the clan relationships and the chair's support as essential to the cooperative's cohesion and her own continuity.",
+   "Propose a public, scored selection with an independent member of the board present, and accept the outcome."
+  ],
+  "tension": [
+   "merit vs. kinship obligations",
+   "personal security vs. integrity"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Selecting the Face for the Brochure",
+  "scenario": "Marketing lead Sakura Matsuda at a travel firm in Kyoto is asked to hire a spokesperson for the company's overseas campaign. The agency's shortlist includes a talented Black Japanese actor, Kenji, and a white foreign model whom focus groups rate higher for 'international appeal'. The firm's brand claims to celebrate inclusion, but its Western clients are said to prefer a particular image. Sakura worries that choosing the model would reinforce a narrow idea of who represents Japan, and that choosing Kenji might reduce bookings during a difficult financial year.",
+  "options": [
+   "Choose Kenji, aligning the firm's image with its stated values and the reality of who lives in Japan.",
+   "Choose the model, following the focus group data and the firm's financial exposure this year.",
+   "Test both in a limited pilot campaign and choose based on actual customer response."
+  ],
+  "tension": [
+   "stated values vs. market data",
+   "representation vs. commercial risk"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "A Promotion Based on Unpaid Overtime",
+  "scenario": "Senior manager Karolina Berg in Malmö reviews promotion candidates for team leader. Tobias consistently works evenings and weekends, producing a high volume of output. Annika works regular hours and produces equal quality in fewer hours; she is a single mother of triplets. Several executives openly say that 'commitment' means visible dedication and favour Tobias. Karolina knows the firm's values claim to reward results, not presence, but the promotion committee's habits are different. Salary bands for the role are significant, and only one slot is open.",
+  "options": [
+   "Recommend Annika, arguing that results per hour is the right measure of performance and challenging the presenteeism norm.",
+   "Recommend Tobias, accepting that the team leader role requires availability and that his record reflects commitment.",
+   "Propose that both be evaluated on output metrics agreed in advance, and defer the decision by one month."
+  ],
+  "tension": [
+   "results vs. visible commitment",
+   "family responsibilities vs. role demands"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "The Tester Who Was Passed Over Twice",
+  "scenario": "Team lead Ahmed Khalil in Cairo decides who will take the open senior position. Layla has twice been passed over despite top reviews, and Ahmed suspects it is because she is a woman in a male-dominated engineering department. Hamza, the favourite of the department head, is competent but less accomplished. If Ahmed pushes for Layla, the department head may reject his team's budget request, hurting nine colleagues who rely on a pending equipment upgrade. Ahmed's recommendation is due tomorrow morning.",
+  "options": [
+   "Recommend Layla and document his reasoning, prepared for the budget fallout on his team.",
+   "Recommend Hamza this time and quietly gather evidence to challenge the pattern of promotions later through HR.",
+   "Recommend Layla and escalate the history of her being passed over to HR, requesting an independent promotion review."
+  ],
+  "tension": [
+   "justice for one vs. welfare of many",
+   "immediate action vs. strategic patience"
+  ],
+  "region": "Egypt"
+ },
+ {
+  "title": "Does a Tattoo Disqualify a Teller?",
+  "scenario": "Store manager Isabella Rinaldi at a luxury goods shop in Milan interviews Dario, an exceptional salesperson, whose neck and hands bear traditional Maori-style tattoos from his mother's side. The company dress code does not mention tattoos, but the regional director has verbally discouraged visible ones. Dario says they carry deep family meaning and refuses to cover them. High-end clients are conservative, and sales commissions drive the whole team's bonuses. Isabella has a vacancy to fill before the holiday rush and cannot get direction from the regional director for a week.",
+  "options": [
+   "Hire Dario and let the tattoos stand, treating them as an expression of cultural identity and not a job requirement.",
+   "Hire Dario on condition that he covers the tattoos during working hours, in line with the director's verbal preference.",
+   "Decline to hire, and wait to resolve the dress code question with the director before filling the role."
+  ],
+  "tension": [
+   "cultural expression vs. brand image",
+   "verbal policy vs. formal rules"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "Probation Extended for the Only Veteran",
+  "scenario": "Plant supervisor Aleksandr Volkov in Novosibirsk is reviewing probation outcomes for six new machine operators. One, Igor, a former soldier who has returned from deployment, has had three minor safety slips and arrives irritable after nights of poor sleep. He is otherwise precise and diligent. The others have clean records. Policy permits terminating employees during probation without cause. Aleksandr suspects Igor may be struggling with trauma, but Igor has said nothing and refuses referral to the company clinic. The decision is due by Friday.",
+  "options": [
+   "Confirm Igor's employment with a safety plan and extra supervision, treating the slips as correctable.",
+   "Terminate his probation, since a heavy-machine environment leaves little room for repeated safety lapses regardless of the cause.",
+   "Extend Igor's probation by a month with a clear safety standard and an offer of voluntary support, without making it a condition."
+  ],
+  "tension": [
+   "safety vs. compassion",
+   "employee privacy vs. duty of care"
+  ],
+  "region": "Russia"
+ },
+ {
+  "title": "Choosing Between a Refugee Engineer and a Local Graduate",
+  "scenario": "Project manager Birgit Hansen at a water utility in Aarhus has two finalists for an engineering post. Samir is a Syrian refugee with fifteen years of experience in pipeline design, whose credentials need a long local recognition process, and whose Danish is basic. Mads is a recent graduate with local credentials and fluent Danish. Colleagues worry about safety documentation and communication in a regulated environment. Birgit also knows that skilled refugees often end up in work far below their ability. The post must be filled before a municipal contract begins in two months.",
+  "options": [
+   "Hire Samir and arrange language support and a supervised period while credentials are recognised.",
+   "Hire Mads, reasoning that regulated safety work needs immediate and unambiguous communication and local credentials.",
+   "Hire Mads for this post and actively help Samir to apply for a second, better-matched vacancy opening in the autumn."
+  ],
+  "tension": [
+   "inclusion vs. regulatory compliance",
+   "experience vs. credentials"
+  ],
+  "region": "Denmark"
+ },
+ {
+  "title": "A Reference That Could Sink a Colleague",
+  "scenario": "Director Thandiwe Moyo in Harare is asked for a reference by a rival organisation about a former employee, Blessing. Blessing was a gifted programme officer but was quietly moved after complaints that he belittled junior women staff; no formal finding was made, and he left on good terms. The rival organisation works with young women and has asked if there are 'any concerns'. Thandiwe signed a separation agreement promising a neutral reference. Disclosing the complaints might breach the agreement and defame an unproven allegation. Staying silent may expose young women to harm.",
+  "options": [
+   "Give a neutral reference as promised in the agreement, mentioning only dates and role.",
+   "Disclose that complaints about conduct toward junior staff were raised, without claiming that they were proven.",
+   "Decline to provide a reference at all, and invite the rival organisation to ask Blessing directly about his departure."
+  ],
+  "tension": [
+   "contractual honesty vs. protecting others",
+   "fairness to the accused vs. duty to warn"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "One Seat on the Fishing Crew's Boat",
+  "scenario": "Cooperative leader Kalani Akana in Hilo has one berth open on the co-op's deep-sea fishing boat. Two people want it: Nainoa, a young man from a long-fishing family who has crewed informally for years, and Teresa, a woman who trained at a marine college and holds the safety certifications insurers now require. Elders say the berth traditionally goes to a local family member. Insurance rules tied to the cooperative's licence favour certified crew. Kalani respects both the tradition and the formal safety rules, and the boat sails in a week.",
+  "options": [
+   "Give the berth to Teresa, since the certification protects every crew member and the cooperative's insurance cover.",
+   "Give the berth to Nainoa and arrange for him to complete the certification quickly, honouring the community's custom.",
+   "Open a second paid berth for the season, funded by a small levy, so both can serve."
+  ],
+  "tension": [
+   "tradition vs. formal qualification",
+   "community obligations vs. safety standards"
+  ],
+  "region": "United States (Hawaii)"
+ },
+ {
+  "title": "Hiring a Sibling of a Fired Employee",
+  "scenario": "Farm manager Ivana Horvat in Osijek is hiring seasonal pickers when Zoran's younger brother Luka applies. Zoran was dismissed last month for repeatedly arriving drunk and endangering colleagues on a tractor. Luka has a good reputation, and the village has few jobs. The owner's wife says the family is 'trouble', and two workers have said they would feel uneasy. Luka has done nothing wrong himself. Ivana knows that refusing him might look like collective punishment, while hiring him might create friction in a crew that is already short-handed before the harvest begins on Monday.",
+  "options": [
+   "Hire Luka on the same terms as other applicants, judging him solely by his own record and conduct.",
+   "Decline to hire Luka for this season, prioritising crew comfort and the owner's wishes during a tense period.",
+   "Hire Luka on the normal probation terms and speak openly with the crew about judging people individually."
+  ],
+  "tension": [
+   "individual responsibility vs. group harmony",
+   "fairness vs. workplace comfort"
+  ],
+  "region": "Croatia"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Consultant's Blueprint",
+  "scenario": "Hydrologist Dr. Henrik Larsen, seconded to a Bhutanese district office, has drafted a modern piped irrigation system for a valley of terraced farms. Local farmers' councils have run a centuries-old rotational channel system and propose modest repairs instead. His design would cut water losses in half and serve twice as many fields, but it would remove the councils' role in allocating water and require a paid operator. The funder will approve either plan, and Henrik's recommendation will carry great weight.",
+  "options": [
+   "Recommend the piped system, which brings greater efficiency and benefits to more households despite changing local governance.",
+   "Recommend repairs to the traditional system, preserving community control and tested local knowledge.",
+   "Recommend piping the main trunk lines while keeping the councils in charge of distribution, accepting a design that is less efficient than his own."
+  ],
+  "tension": [
+   "expertise vs. local knowledge",
+   "efficiency vs. self-governance"
+  ],
+  "region": "Bhutan"
+ },
+ {
+  "title": "Latrines Nobody Asked For",
+  "scenario": "Sanitation coordinator Abena Asante in the Volta Region of Ghana has funding to build household latrines in twelve villages. Surveys show residents rank a new school and market road ahead of sanitation, though diarrhoea is a leading cause of child deaths in the area. A donor requires latrine construction, and local chiefs say they will cooperate only if their priorities are also addressed. Abena has authority to renegotiate terms within narrow limits.",
+  "options": [
+   "Build the latrines as planned, giving priority to the health evidence over what residents currently say they want.",
+   "Redirect the funds toward the school and road, letting the community set the priorities even though health risks continue.",
+   "Build latrines with a community-led promotion campaign and persuade the donor to add a small fund for the chiefs' priorities."
+  ],
+  "tension": [
+   "expert assessment vs. stated preferences",
+   "paternalism vs. participation"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Traditional Healers and Maternal Deaths",
+  "scenario": "Midwifery trainer Dr. Svetlana Popescu advises a provincial government in northern Laos where many births are attended by traditional birth attendants. Mortality is high, yet the attendants command deep respect and local women often refuse clinic births. The ministry wants to ban home births and mandate clinic delivery. Others propose training attendants to recognise danger signs and refer. The ban would likely save lives for those who comply but could drive women away from all care.",
+  "options": [
+   "Support the ban on home births, as clinic delivery is the strongest evidence-based protection for mothers and infants.",
+   "Oppose the ban and invest in training and integrating traditional attendants, building on existing trust.",
+   "Support clinic-birth incentives and waiting homes without a ban, accepting that many women will still deliver at home."
+  ],
+  "tension": [
+   "evidence-based practice vs. cultural trust",
+   "coercion vs. persuasion"
+  ],
+  "region": "Laos"
+ },
+ {
+  "title": "Our Own Engineers or Theirs",
+  "scenario": "Project director Murali Krishnan is rebuilding a bridge washed out by floods in a remote region of Nepal. A foreign engineering firm has offered a technically superior design with imported steel, expecting to finish in three months. Local contractors propose a locally sourced timber-and-stone design that will take six months and need more maintenance, but employs 120 villagers and builds skills. During the monsoon, the cut-off villages depend on a risky river crossing that has already claimed lives.",
+  "options": [
+   "Hire the foreign firm for speed and safety, since lives are at risk from the river crossing.",
+   "Hire the local contractors, building capacity and keeping money in the community despite a longer wait.",
+   "Use the foreign firm but require it to train and employ local workers, accepting a higher cost and some inefficiency."
+  ],
+  "tension": [
+   "speed vs. local capacity",
+   "safety vs. self-reliance"
+  ],
+  "region": "Nepal"
+ },
+ {
+  "title": "Expat Doctor, Local Protocol",
+  "scenario": "Dr. Margaux Delacroix, a French emergency physician volunteering in Haiti's Artibonite department, believes the hospital's standard protocol for treating severe dehydration is outdated and dangerous. Her Haitian colleague, Dr. Jean-Baptiste Pierre, who has twenty years' experience in the same setting, says the protocol is adapted to limited supplies and monitoring. She is there for only eight weeks. Overriding him might save patients but undermine his authority, while deferring might allow avoidable errors.",
+  "options": [
+   "Follow Dr. Pierre's protocol and raise her concerns privately, respecting his experience and local conditions.",
+   "Use her preferred protocol for the patients she treats, trusting her training and accepting the friction.",
+   "Propose a joint review of recent outcomes with the hospital team, continuing the current protocol until the data are examined."
+  ],
+  "tension": [
+   "outside expertise vs. local experience",
+   "autonomy vs. patient safety"
+  ],
+  "region": "Haiti"
+ },
+ {
+  "title": "A Dam and the Fishing Villages",
+  "scenario": "Government planner Nasrin Chowdhury in Bangladesh is assessing a proposed embankment that experts say would protect 200,000 people from floods but disrupt seasonal fishing and the tidal cycle that sustains the livelihoods of fourteen villages. Those villages' elders insist that outside engineers do not understand the river's behaviour, citing earlier embankments that failed. Engineers claim modern models show otherwise. The funding window for the project closes this year, and the decision falls to her office.",
+  "options": [
+   "Approve the embankment, since protecting many people from floods outweighs the disruption to fourteen villages.",
+   "Reject or redesign it, giving weight to elders' accumulated knowledge and the harm to livelihoods.",
+   "Approve a version with sluice gates and compensation arrangements developed with the villages, delaying construction by a year."
+  ],
+  "tension": [
+   "majority benefit vs. minority livelihoods",
+   "technical models vs. lived knowledge"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "The Foreign Curriculum",
+  "scenario": "Education adviser Dr. Ifeoma Chukwu is helping a Sierra Leonean ministry choose a reading programme. An imported scripted-lesson model from a US foundation has strong evidence of rapid gains in English literacy, but teaches in English only, while many children speak Mende or Temne at home. A local team proposes a mother-tongue programme, with less evidence and slower gains in English, but stronger comprehension. Parents say they want English for their children's futures.",
+  "options": [
+   "Adopt the scripted English programme, honouring parents' wishes and the strong evidence of measurable gains.",
+   "Adopt the mother-tongue programme, trusting the principle that children learn best in the language they know.",
+   "Start in the mother tongue and transition to English after three years, accepting that neither parents nor evidence strongly support this exact design."
+  ],
+  "tension": [
+   "evidence vs. identity",
+   "parental preference vs. educational theory"
+  ],
+  "region": "Sierra Leone"
+ },
+ {
+  "title": "Solar Pumps and the Women's Group",
+  "scenario": "Rural energy officer Tendai Mutasa in Zimbabwe's Mashonaland is rolling out donated solar water pumps. The donor's consultants recommend placing them under a private operator for reliability. In several villages, women's gardening cooperatives, who have long managed their own wells, ask to run the pumps themselves. They lack technical training, and previous community-run systems in the region have frequently broken down. Both approaches will be funded, but only one per village.",
+  "options": [
+   "Contract private operators for reliability and maintenance, since broken pumps leave villages without water.",
+   "Give management to the women's cooperatives with some training, supporting local ownership despite the higher failure risk.",
+   "Give cooperatives management with a private maintenance contract on call, which reduces income and some of their authority."
+  ],
+  "tension": [
+   "reliability vs. ownership",
+   "expertise vs. empowerment"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "Local Health Workers Replaced by Apps",
+  "scenario": "Digital health lead Kwame Boateng at a Ghanaian ministry has a donor-backed plan to give nurses a diagnostic app that uses AI to triage patients. Consultants say it will cut missed diagnoses in half. Community health volunteers, many of them older women with decades of experience, fear being sidelined, and some villagers trust them more than a phone. The app requires reliable networks, which are patchy. Reallocating funds to the volunteers' training is the alternative.",
+  "options": [
+   "Deploy the app, because the early evidence indicates it improves diagnosis across the board.",
+   "Invest in the volunteers' training and pay instead, retaining trusted relationships and avoiding dependence on unreliable networks.",
+   "Pilot the app in two districts with volunteers as co-users, delaying national rollout while evidence from local conditions is gathered."
+  ],
+  "tension": [
+   "technology vs. human relationships",
+   "innovation vs. local trust"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Whose Language for the Health Poster",
+  "scenario": "Communications officer Dalia Haddad in a Lebanese NGO serving Syrian refugees is preparing hygiene materials. A Western-trained public health specialist insists on direct, blunt messaging about handwashing and diarrhoea, which testing in other settings showed changes behaviour. Syrian community women who reviewed it call it insulting and implying dirtiness. They propose messages built on stories about family honour and care for children. The campaign launches in two weeks, with limited funds to produce just one version.",
+  "options": [
+   "Use the tested direct message, because it has evidence of effectiveness in other settings.",
+   "Use the community-designed message, trusting those who understand the culture to communicate effectively.",
+   "Test both versions quickly in small groups and pick the one that performs better, delaying the launch by a few weeks."
+  ],
+  "tension": [
+   "external evidence vs. cultural fit",
+   "speed vs. consultation"
+  ],
+  "region": "Lebanon"
+ },
+ {
+  "title": "A Deworming Programme the Teachers Distrust",
+  "scenario": "School health coordinator Yasmin Karim in Zanzibar learns that teachers, who must give out the deworming tablets, doubt the programme's value and say pupils feel unwell afterwards. Global experts have recommended universal school deworming, though the strongest recent evidence shows modest benefits. The teachers' union warns that it may refuse to administer the pills. Cancelling the programme would waste a donor-funded supply, and forcing it risks poisoning relationships that other health initiatives depend on.",
+  "options": [
+   "Insist on administering the programme as the expert guidance recommends, using ministry authority if necessary.",
+   "Respect the teachers' concerns and pause the programme to build trust and revisit the evidence together.",
+   "Continue only in schools where the teachers agree and have measurable worm burdens, accepting patchy coverage."
+  ],
+  "tension": [
+   "expert consensus vs. frontline doubt",
+   "authority vs. cooperation"
+  ],
+  "region": "Tanzania"
+ },
+ {
+  "title": "The Elders and the Female Health Worker",
+  "scenario": "Programme lead Dr. Lakshmi Perera in Sri Lanka's eastern province wants to place a young female health worker, Nirmala, in a conservative village where elders object to a woman moving about freely and visiting homes. Evidence shows female community workers greatly improve maternal health. The elders propose instead that an older man from the village do the work, even though women in that village would be uncomfortable discussing intimate health with him. Nirmala herself is willing, but fears for her standing.",
+  "options": [
+   "Place Nirmala as planned, trusting the evidence and her willingness, and expecting the elders to adjust over time.",
+   "Accept the elders' choice of an older man, respecting local norms and preserving cooperation.",
+   "Place Nirmala with an older woman from the village as an escort, accepting that this adds cost and may limit her independence."
+  ],
+  "tension": [
+   "gender equity vs. local norms",
+   "evidence vs. respect"
+  ],
+  "region": "Sri Lanka"
+ },
+ {
+  "title": "The Hospital the Village Wants Built Its Way",
+  "scenario": "Architect Camille Rousseau is designing a village health centre in Mali for a French charity. Her design follows international guidelines with sealed rooms, air conditioning, and tiled floors. The village council asks instead for a courtyard layout with natural ventilation, a space for families to stay with patients, and mud-brick walls that residents can repair. Guidelines would reduce infection risk but cost more to run, while the village design is cheaper and welcomed, but less hygienic. The charity says she has final say.",
+  "options": [
+   "Follow international guidelines for infection control, as the building's health function should outweigh traditional preferences.",
+   "Follow the village's design, which will be maintained and used more readily, even if some risks go up.",
+   "Combine them, adopting village layouts but with hygiene features for treatment rooms, accepting design compromise and extra cost."
+  ],
+  "tension": [
+   "standards vs. appropriateness",
+   "safety vs. community ownership"
+  ],
+  "region": "Mali"
+ },
+ {
+  "title": "Foreign Volunteers and Local Wages",
+  "scenario": "Hospital administrator Dr. Alinafe Phiri in Malawi receives an offer from a US church group to send twenty unpaid medical volunteers for a month. Her paid nurses, many months behind on wages, point out that the volunteers' presence may signal that the hospital does not need to pay for staff. The volunteers would relieve overwork and deliver much-needed surgeries. However, their short-term presence disrupts continuity, and local trainees get fewer chances to operate. The group wants an answer tomorrow.",
+  "options": [
+   "Accept the volunteers for the immediate relief of overstretched wards and surgery backlog.",
+   "Decline the offer and press for funding that supports local salaries and training instead.",
+   "Accept on condition that volunteers train and supervise local staff and that the group contributes to salaries."
+  ],
+  "tension": [
+   "short-term help vs. long-term dependency",
+   "gratitude vs. local capacity"
+  ],
+  "region": "Malawi"
+ },
+ {
+  "title": "Community Health Insurance Rules",
+  "scenario": "Insurance scheme manager Esther Wanjala in Kisumu is told by international advisers that a community health insurance scheme should require everyone in a village to join, to prevent only sick people enrolling. Villagers argue that compulsory membership is unfair to the poorest, who cannot afford premiums, and say they have always supported one another through informal funds. Voluntary enrolment, experts say, will make the scheme collapse; compulsory enrolment may exclude or penalise the poorest.",
+  "options": [
+   "Make membership compulsory with exemptions for the poorest, relying on technical advice for the scheme's financial stability.",
+   "Keep membership voluntary and build on informal solidarity networks, accepting a higher risk of financial instability.",
+   "Make membership compulsory only after a community vote, accepting the possibility that the vote may reject the scheme."
+  ],
+  "tension": [
+   "actuarial soundness vs. voluntariness",
+   "expertise vs. democratic choice"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "A Mining Town's Water Standard",
+  "scenario": "Environmental health officer Dr. Amara Singh in Mongolia's Gobi region is advising a town where residents drink water with arsenic levels above international limits but have done so for generations. The town's herders believe local water is safe, citing healthy elders. Treatment would cost the town more than it can afford, and its authorities prefer to invest in a school. International guidelines are clear about long-term risks including cancers. Singh must advise the town council.",
+  "options": [
+   "Recommend water treatment as the priority, since long-term health harm is serious and residents may not appreciate the risk.",
+   "Recommend providing information and letting the council decide its own priorities, respecting local judgment.",
+   "Recommend a cheaper partial fix, such as treating drinking water at a few central taps, accepting incomplete protection."
+  ],
+  "tension": [
+   "expert risk assessment vs. local priorities",
+   "paternalism vs. self-determination"
+  ],
+  "region": "Mongolia"
+ },
+ {
+  "title": "Accepting a Gift With Strings",
+  "scenario": "Mayor Elvira Contreras of a small Ecuadorian highland municipality is offered a fully equipped telemedicine centre by a foreign technology company. The equipment is modern but uses proprietary software, collecting patient data on company servers abroad, and requires the town to buy licences for ten years. The town's only doctor has already said it would transform care for 8,000 residents. Local IT advisers worry about data control and costs. A council vote is scheduled for next week.",
+  "options": [
+   "Accept the centre, since the immediate benefits for patients are substantial and few other offers exist.",
+   "Decline and pursue slower, locally controlled alternatives, protecting data and avoiding long-term dependence.",
+   "Accept after negotiating data-protection terms and a licence exit clause, knowing the company may withdraw the offer."
+  ],
+  "tension": [
+   "immediate benefit vs. sovereignty",
+   "autonomy vs. dependency"
+  ],
+  "region": "Ecuador"
+ },
+ {
+  "title": "Reading the Weather by Elders or Satellite",
+  "scenario": "Agricultural extension officer Mamadou Sow in the Senegal River valley is promoting a satellite-based seasonal forecast service that donors fund, telling farmers when to plant. Many farmers instead rely on elders who read signs from birds and trees and who accurately predicted a recent late rain that satellite data missed. If farmers ignore the forecast, donor-supported insurance will not pay out. He can encourage the forecast or integrate elders' predictions, but not both with equal weight.",
+  "options": [
+   "Promote the satellite forecast as the official standard, since it is systematically tested and tied to insurance.",
+   "Back the elders' predictions, supporting traditional knowledge that has proven reliable locally.",
+   "Present both forecasts side by side and let farmers choose, while lobbying the insurer to accept either basis."
+  ],
+  "tension": [
+   "scientific method vs. traditional knowledge",
+   "insurance rules vs. farmers' judgement"
+  ],
+  "region": "Senegal"
+ },
+ {
+  "title": "Foreign Midwife Training Standards",
+  "scenario": "Nursing school director Florence Adjei in Liberia is asked by a US university partner to adopt its curriculum, which requires equipment the schools lack, including simulation mannequins and electronic fetal monitors. Her faculty want to retain a curriculum built around skills for the settings graduates will work in: no electricity, manual techniques, and referral decisions. The partner offers scholarships and equipment but expects the curriculum to be recognised internationally. Rejecting the partnership means losing funding.",
+  "options": [
+   "Adopt the partner's curriculum, gaining equipment and international recognition for graduates who may emigrate.",
+   "Keep the locally designed curriculum, preserving relevance to graduates' work even if funding is lost.",
+   "Adopt the partner's curriculum for the theory courses and retain local practical training, with partial funding."
+  ],
+  "tension": [
+   "recognition vs. relevance",
+   "resources vs. context"
+  ],
+  "region": "Liberia"
+ },
+ {
+  "title": "The Shaman and the Surgeon",
+  "scenario": "Hospital liaison Marta Quispe in Peru's Cusco region faces a family request. A patient with severe appendicitis, a young man named Wilber, is being urged by his Quechua-speaking family to delay surgery until a healing ceremony is performed by a respected community healer. The surgeon, Dr. Álvaro Mendes, warns that delay of a day or more could be fatal. Wilber is conscious and says he wants both. The ceremony would take half a day. The hospital has no policy on this.",
+  "options": [
+   "Insist on immediate surgery, as a delay may endanger his life and the surgeon's judgment should prevail.",
+   "Allow the ceremony first at the family's request, respecting Wilber's cultural beliefs and his own wishes.",
+   "Allow the healer to perform a brief ceremony at the bedside before surgery, delaying only an hour or two."
+  ],
+  "tension": [
+   "medical urgency vs. cultural respect",
+   "autonomy vs. beneficence"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Local Brew Versus Imported Supplement",
+  "scenario": "Nutritionist Dr. Chiamaka Obi in Ethiopia's Oromia region is advising on child malnutrition. An imported ready-to-use therapeutic food has strong evidence and straightforward dosing, but must be shipped from abroad. Her local team has developed a cheaper porridge from sorghum, lentils, and peanuts that mothers prepare themselves, with less evidence on recovery rates. Imported food keeps the programme dependent on donors; local food builds household skills. Each severely malnourished child is a high-stakes case.",
+  "options": [
+   "Use the imported therapeutic food for severe malnutrition, since the evidence for saving lives is strongest.",
+   "Use the local porridge for all children, accepting uncertain results for the sake of sustainability and autonomy.",
+   "Use imported food for the most severe cases and the local porridge for moderate malnutrition and recovery."
+  ],
+  "tension": [
+   "proven efficacy vs. self-reliance",
+   "immediate risk vs. long-term resilience"
+  ],
+  "region": "Ethiopia"
+ },
+ {
+  "title": "Village Rules Versus National Law on Child Marriage",
+  "scenario": "Community development officer Rashida Mahmood in northern Pakistan runs a girls' education project. A village council has agreed to keep girls in school until sixteen, a significant achievement, but also insists that families may still arrange marriages from fifteen, which contradicts national law. Reporting the practice would end the council's cooperation and likely end the programme. Staying quiet leaves some girls at risk of early marriage. A donor audit asks her to certify compliance with legal standards.",
+  "options": [
+   "Certify compliance only if the council abandons the exception, risking the loss of the whole programme.",
+   "Continue working within the council's agreement, improving girls' school years while pressing gradually for change.",
+   "Document the exception honestly to the donor and let them decide, even if it ends the funding."
+  ],
+  "tension": [
+   "legal norms vs. incremental progress",
+   "honesty vs. cooperation"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "Modern Seeds and Old Varieties",
+  "scenario": "Agronomist Santiago Alvarado in the Bolivian Altiplano is offered a donor-funded high-yield potato variety that could double harvests and improve incomes. Farmers have cultivated hundreds of native varieties adapted to altitude, frost, and their cultural practices. Past experience shows that when hybrids are introduced, farmers abandon traditional types, reducing biodiversity and leaving them dependent on purchased seed. The yield gain is attractive to families currently struggling. The extension service asks for his recommendation.",
+  "options": [
+   "Promote the high-yield variety widely, since higher incomes directly improve family welfare.",
+   "Support the conservation and improvement of native varieties, accepting lower income gains to protect resilience.",
+   "Introduce the new variety in limited plots alongside native ones, with a farmer seed-saving programme, and review results after three seasons."
+  ],
+  "tension": [
+   "income now vs. resilience",
+   "modern science vs. traditional knowledge"
+  ],
+  "region": "Bolivia"
+ },
+ {
+  "title": "Donor Engineers and Village Boreholes",
+  "scenario": "Volunteer engineer Piotr Zielinski has spent five months in a Tanzanian village at the request of villagers who need a working water system. The village committee wants to site the borehole near the school, while his survey suggests a spot four hundred metres away has better water and longer yield. Committee members decline to move, citing a spiritual association of the site and the convenience of the school. Piotr's agency requires technical justification for any siting.",
+  "options": [
+   "Site the borehole where the survey recommends, taking responsibility for ensuring that the water supply works.",
+   "Site it where the committee wants, respecting their authority over their own community's resources.",
+   "Test both locations and drill where the first test yields adequate water, accepting a delay and added cost."
+  ],
+  "tension": [
+   "technical judgment vs. community authority",
+   "outcome vs. process"
+  ],
+  "region": "Tanzania"
+ },
+ {
+  "title": "Trained in the City, Needed in the Village",
+  "scenario": "Programme manager Dr. Nasima Akter in Bangladesh has funding to train fifty doctors in specialised skills. Evidence suggests that doctors trained in specialties typically stay in cities, whereas those from rural backgrounds trained in basic competencies more often return to underserved areas. The ministry wants prestigious specialist training to show progress. Rural communities lack even basic doctors, and her donors prefer a mixed programme. She needs to choose a design before the next intake.",
+  "options": [
+   "Provide specialist training, building a corps of high-level skills the health system will need.",
+   "Prioritise rural recruits trained in basic skills, targeting the areas of greatest scarcity.",
+   "Offer a mixed programme with bonded service in underserved areas, accepting restrictions on trainees' freedom."
+  ],
+  "tension": [
+   "prestige vs. need",
+   "individual freedom vs. community needs"
+  ],
+  "region": "Bangladesh"
+ }
+]

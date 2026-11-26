@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Wrong Photo on the Flood Front Page",
+  "scenario": "Mariam Diallo, night editor at a Dakar daily, learns that the front-page photo of a drowned market was actually taken in another city two years ago. Thousands of copies are already on stands and shared online, and the regional governor has cited the image to request emergency funds. A correction might embarrass the paper and cast doubt on a real flood that did cause damage. Silence might direct aid to the wrong place. Printing a correction means pulling the next day's lead. She decides how to respond before the presses restart.",
+  "options": [
+   "Run a prominent front-page correction tomorrow, explaining the photo's true origin and confirming the real flood damage with new images.",
+   "Replace the photo online quietly with an editor's note and put the full correction inside the paper, to avoid undermining the flood response.",
+   "Call the governor's office tonight to correct the record privately first, then publish a correction once officials have adjusted."
+  ],
+  "tension": [
+   "accuracy vs. relief effort",
+   "institutional reputation vs. transparency"
+  ],
+  "region": "Senegal"
+ },
+ {
+  "title": "The Viral Video of the Bus Driver",
+  "scenario": "Kenji Watanabe runs a regional news site in Hokkaido. A clip showing a bus driver apparently refusing an elderly passenger has gone viral, and Kenji's site ran it with a critical headline. A new full recording shows the passenger had been aggressive and the driver followed safety rules. The driver has received threats and been suspended by the company. Kenji's headline drove much of the traffic that supported his small site's budget. He has to decide how fully to retract and how to treat the earlier coverage.",
+  "options": [
+   "Publish a full retraction with the same prominence as the original, delete the original, and apologize to the driver by name.",
+   "Add the new recording and update the article with a clear correction while keeping the original in the archive for transparency.",
+   "Contact the driver privately first, offer a statement that he can approve, and publish the correction alongside it."
+  ],
+  "tension": [
+   "restitution to a harmed individual vs. archive integrity",
+   "revenue vs. responsibility"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "A Minister's False Statistic",
+  "scenario": "Fact-checker Lwazi Mbeki at a Harare news agency finds that a health minister's claim of a ninety percent vaccination rate is based on counting doses rather than people. The minister is popular and ill with a cough that rumours say is tuberculosis. Agency owners fear that rating the claim false will provoke licence trouble. The agency's own code requires rating on evidence alone. Meanwhile, rural clinics are using the inflated figure to defend stocks of vaccine that are in fact running low. Lwazi must decide how to rate and present the claim.",
+  "options": [
+   "Rate the claim false with the full explanation, accepting the risk to the agency, since clinics need the real figure.",
+   "Rate it misleading rather than false, explaining the doses-versus-people confusion and giving the minister a chance to clarify.",
+   "Publish the correct figure without a rating, as a neutral data note that avoids the political confrontation."
+  ],
+  "tension": [
+   "truthful rating vs. institutional risk",
+   "public health vs. political safety"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "The Retraction That Might Hurt a Cause",
+  "scenario": "Dr. Elif Yıldız, science editor at an Istanbul weekly, discovers that a study the magazine praised, showing air purifiers reduce asthma in children, was fabricated by its lead author. Advocacy groups have used the article to push a school-air programme that is helping some pupils in practice. Retracting would give opponents ammunition to cut the programme. Other independent studies suggest a smaller benefit. Elif's duty to readers is to correct the record, but she knows the fallout. She must decide the framing of the correction.",
+  "options": [
+   "Retract plainly and without softening, leaving the advocacy groups to rely on the weaker independent evidence.",
+   "Retract, but add context about the independent studies that suggest a smaller benefit, so readers do not infer no benefit.",
+   "Delay the retraction until the journal that published the study acts formally, so the magazine follows rather than leads."
+  ],
+  "tension": [
+   "honesty vs. consequences for a beneficial programme",
+   "framing vs. completeness"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "Rumours During the Water Shutoff",
+  "scenario": "Community radio host Anselmo Quispe in Cusco hears callers say the municipal water is poisoned after a chemical truck spill. Tests are not yet back. If he says on air that the claims are false, he risks telling listeners to drink water that may be unsafe. If he repeats the claims, he may trigger panic buying and hoarding among poorer families who cannot afford bottled water. The municipality is silent. His station is the main information source in several villages. He has to decide what he says on the next live programme.",
+  "options": [
+   "Tell listeners honestly that the cause is unknown, advise boiling water as a precaution, and promise updates when tests return.",
+   "Say the poisoning claim is unverified and unlikely, asking listeners not to spread it until authorities speak.",
+   "Avoid addressing the rumour on air and instead drive to the lab to get results before commenting."
+  ],
+  "tension": [
+   "uncertainty vs. calm",
+   "public safety vs. public panic"
+  ],
+  "region": "Peru"
+ },
+ {
+  "title": "Correcting a Story the Subject Loved",
+  "scenario": "Brigid Nolan, features reporter at a Cork paper, wrote a warm profile of a charity founder who claimed to have sheltered two hundred refugees. Months later she learns the number is closer to thirty. The founder has since won donations and an award based partly on the profile, and now quietly asks Brigid to leave it alone, saying the shelter really does good work. A correction may cut funding for real beneficiaries. Leaving it uncorrected leaves a falsehood attached to her byline and to the founder's public claims.",
+  "options": [
+   "Publish a correction with the real figure and invite the charity's response, accepting the possible funding consequences.",
+   "Update the online article quietly with the corrected number and an editor's note, without a separate news story.",
+   "Ask the founder to correct the claim publicly himself first, and publish only if he refuses within a stated period."
+  ],
+  "tension": [
+   "truth vs. consequences for beneficiaries",
+   "fairness vs. accuracy"
+  ],
+  "region": "Ireland"
+ },
+ {
+  "title": "The Election Night Projection",
+  "scenario": "Valentina Moreau, head of data at a Montreal television network, realises her election model flagged a candidate as winner three minutes before her team found a counting error that reverses the result. The wrong projection was seen by perhaps a million viewers and has already prompted the loser's supporters to concede on social media. A correction now could inflame crowds who believe they won and then lost. The rival network has not yet projected. The anchor waits for her instruction in her earpiece.",
+  "options": [
+   "Correct on air immediately, plainly stating the error and what happened, regardless of reaction from the crowds.",
+   "Hold the correction for a few minutes until the official returns are confirmed, then announce the reversal with the numbers.",
+   "Retract the projection and say only that the race is too close to call, avoiding mention of the earlier mistake until later."
+  ],
+  "tension": [
+   "speed of correction vs. public order",
+   "honesty about error vs. calm"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "AI Image of the Burning Market",
+  "scenario": "Social media editor Tariq Mahmoud in Dhaka notices that an image of a burning garment market, shared by his own outlet's account, was generated by AI. A real fire did occur nearby earlier that day, though smaller. Before he can act, a union leader has used the image to demand a safety inspection, and the factory owners' association is now denying the fire entirely. Deleting the post might look like a cover-up of the real fire. Leaving it spreads a fabricated image. His managing editor is on a plane for the next six hours.",
+  "options": [
+   "Delete the post immediately and publish a clear note that the image was synthetic, linking to authentic coverage of the real fire.",
+   "Keep the post up but add a visible label that the image is AI-generated, preserving the record of what was shared.",
+   "Leave it untouched until the managing editor lands, since a unilateral decision could damage the outlet's credibility either way."
+  ],
+  "tension": [
+   "speed vs. chain of command",
+   "transparency vs. spreading falsehood"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "Quoting a Source Out of Context",
+  "scenario": "Gustavo Ferreira, a Lisbon-trained reporter at a Maputo weekly, quoted a hospital director as saying 'we cannot guarantee safe births' in a story on staff shortages. The director complains that the sentence was preceded by 'with the current budget cuts, and until the new midwives arrive,' which changed its meaning. Women in the district have since avoided the hospital, and two gave birth at home with complications. Gustavo's editor says the quote was technically accurate. Gustavo wonders what he owes the director, the readers and the mothers.",
+  "options": [
+   "Publish a correction restoring the full quote and explaining that the shortened version was misleading, even if technically accurate.",
+   "Run a follow-up story that includes the full statement and the hospital's emergency staffing plans, without labeling the first story as an error.",
+   "Stand by the original reporting as accurate and offer the director a right-of-reply column of equal length."
+  ],
+  "tension": [
+   "technical accuracy vs. fair context",
+   "reputation of the journalist vs. harm to patients"
+  ],
+  "region": "Mozambique"
+ },
+ {
+  "title": "The Ministry's Own Retraction Request",
+  "scenario": "Anastasia Volkova edits a small independent site in Riga. A defence ministry spokesman demands retraction of a story saying a military exercise was cancelled, citing an official denial. Anastasia's source, a serving officer, insists the cancellation was real but the ministry later staged a replacement drill and renamed it. She cannot prove this publicly without exposing him. If she retracts, a true story is buried and a lie about the cancellation becomes the record. If she refuses, the ministry may use the dispute to discredit her site's other reporting.",
+  "options": [
+   "Refuse to retract and publish a statement that the ministry denies the story, while standing by the sourcing without naming the officer.",
+   "Retract with a transparent note that the story could not be confirmed to the standard needed, without conceding it was false.",
+   "Keep the story but add the ministry's denial prominently and request on-record comment from other officers."
+  ],
+  "tension": [
+   "truth vs. proof",
+   "source protection vs. credibility"
+  ],
+  "region": "Latvia"
+ },
+ {
+  "title": "When the Fact-Check Hits a Friend",
+  "scenario": "Hye-won Shin, a Singapore-based fact-checker, is asked by her volunteer team to rate a viral claim that a certain herbal remedy cures dengue. The claim comes from her aunt's well-meaning community group, whose leader is a respected elder. The evidence is poor but not conclusive, and a harsh 'false' rating would shame the elder publicly and might push members away from clinics even more by making them distrust official voices. Hye-won must decide how to rate and word the check, with her family watching.",
+  "options": [
+   "Rate the claim false using direct language, since the risk to people with dengue outweighs the elder's embarrassment.",
+   "Rate it unproven, explaining the lack of evidence and urging clinic visits, and approach the elder first to discuss the findings.",
+   "Recuse herself from the check due to conflict of interest, letting colleagues rate it independently."
+  ],
+  "tension": [
+   "honesty vs. loyalty to family",
+   "bluntness vs. persuasion"
+  ],
+  "region": "Singapore"
+ },
+ {
+  "title": "Correcting the Correction",
+  "scenario": "At a Vienna-adjacent wire service in Bratislava, deputy editor Ondrej Hruska discovers that last week's correction of a story on pension payments was itself mistaken: the original numbers were right. The correction has been cited by a union to defend a strike call, and by the government to dismiss it. Retracting the correction exposes a second newsroom error in a row, as a competitor is already gloating about the first. If he does nothing, the false 'fix' stays on record. His editor in chief is sensitive about the agency's reputation ahead of a funding review.",
+  "options": [
+   "Issue a clear second correction restoring the original numbers and describing exactly how the error occurred.",
+   "Quietly restore the original article and delete the first correction, noting only 'updated' in the metadata.",
+   "Ask an outside auditor to verify the numbers before the agency says anything more, even though this takes several days."
+  ],
+  "tension": [
+   "transparency about errors vs. institutional reputation",
+   "speed vs. certainty"
+  ],
+  "region": "Slovakia"
+ },
+ {
+  "title": "The Rumoured Pandemic Cure",
+  "scenario": "Dr. Chipo Moyo hosts a call-in health show in Lusaka. A caller says a boiled leaf drink cures the new fever sweeping her township, and the studio phones light up. Dr. Moyo suspects the claim is false, but she has also seen hospitals overwhelmed and knows families hesitate to go until too late. Telling listeners to avoid the drink may lose trust if it turns out harmless; leaving it unchallenged risks people delaying care. She has two minutes before the break and no medical reference on hand.",
+  "options": [
+   "State clearly that no evidence supports the drink and urge anyone with high fever to go to a clinic immediately.",
+   "Say the drink is unproven, advise that it should not replace medical care, and promise a fuller check on the next show.",
+   "Cut the call, move on to other callers, and quietly consult a pharmacologist before addressing the matter later."
+  ],
+  "tension": [
+   "caution vs. trust",
+   "urgent advice vs. unverified claims"
+  ],
+  "region": "Zambia"
+ },
+ {
+  "title": "The Anniversary Story Built on a Myth",
+  "scenario": "Lorenzo Bianchi, a veteran columnist in Naples, is preparing an anniversary feature on a beloved local footballer who, according to legend, once refused a transfer for loyalty. Archive research shows the transfer never existed; the story came from the player's own embellished interviews. The player is now elderly, and the neighbourhood draws pride and tourism from the legend. Lorenzo's publisher expects a celebratory piece. The truth, while harmless in one sense, would remove a cherished community story that has comforted many. He must decide how to write.",
+  "options": [
+   "Write the feature with the truth about the myth, presenting it as an affectionate account of how legends form.",
+   "Write the celebratory feature without mentioning the myth's falsity, as the claim is harmless and well known as local lore.",
+   "Interview the player about the story and report his own account in his words, letting readers weigh it."
+  ],
+  "tension": [
+   "truth vs. communal comfort",
+   "harm threshold for falsehood"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "A Retracted Study and a Dying Patient",
+  "scenario": "Rhea Banerjee, health reporter at a Mumbai portal, wrote that a trial showed an experimental drug extended survival in a rare cancer. The journal has now retracted the paper over data irregularities. A patient group that cited her article is lobbying for emergency access, and a father messages her that his daughter will start the drug next week partly because of the story. Rhea knows the drug may still work but the evidence is gone. A prominent correction could panic families; a muted one could let false hope continue. She must write the correction.",
+  "options": [
+   "Publish a front-of-site correction, contact the patient group and the father directly, and urge them to consult oncologists immediately.",
+   "Add an editor's note to the original and send the news to the patient group, without a new headline story.",
+   "Write a full explainer on what the retraction means for the drug and what is still unknown, giving context rather than a bare correction."
+  ],
+  "tension": [
+   "honesty vs. hope",
+   "compassion vs. accuracy"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Mislabelled Mugshot of a Student",
+  "scenario": "Folasade Okoro's student radio station at a Ibadan university aired a bulletin about a robbery and used a photo that, she realises, shows an innocent student with the same surname as the suspect. The photo has been reposted widely. The student, Tunde, has been insulted at his hostel and his parents are phoning the station. Folasade is a volunteer station manager with no lawyer. Correcting could repeat Tunde's name and image once more, spreading it further. Not correcting leaves a slur attached to him. She must decide quickly.",
+  "options": [
+   "Broadcast a prominent apology, naming Tunde as wrongly identified, and ask partners to remove the photo.",
+   "Delete the posts, contact Tunde privately to apologize, and broadcast a brief correction without naming him.",
+   "Seek advice from the faculty dean before saying anything publicly, to ensure the response does not worsen his situation."
+  ],
+  "tension": [
+   "repairing reputation vs. amplifying exposure",
+   "speed vs. consultation"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Whose Casualty Figures?",
+  "scenario": "Okan Bekele, a news editor in Addis Ababa, publishes casualty figures from a regional clash supplied by a local official. Two days later a humanitarian group provides a figure three times higher. Both sources have interests: the official wants to minimise, the group needs funding. Okan has no independent access to the area, and his own earlier report is being quoted as the settled number by diplomats. He cannot verify either figure. Running both without judgment may confuse readers; running a correction implies the first number was false when it might not be.",
+  "options": [
+   "Publish a clear update giving both figures, their sources and their interests, and state that the death toll cannot be independently verified.",
+   "Update the story to lead with the higher figure, citing the group's field presence as more credible than the official's.",
+   "Hold further coverage until a neutral monitor or journalist can reach the area, keeping the original figure online for now."
+  ],
+  "tension": [
+   "uncertainty vs. clarity",
+   "fairness between interested parties"
+  ],
+  "region": "Ethiopia"
+ },
+ {
+  "title": "Deepfake Audio of the Mayor",
+  "scenario": "Katarzyna Mazur, producer at a Gdańsk TV station, receives audio in which the city's mayor seems to admit taking bribes. It spreads online within an hour. A forensic contact says the audio is probably synthetic but cannot be sure for a day. The mayor's office denies it. If the station reports on the audio's existence, it amplifies a possible fake; if it ignores it, the station seems to be shielding the mayor, and an election is days away. Her editor asks for a plan for the evening bulletin.",
+  "options": [
+   "Report on the audio and its viral spread, stating clearly that its authenticity is unverified and forensic checks are under way.",
+   "Do not air the audio's contents; instead report that a suspected fabricated recording is circulating and explain how to spot manipulation.",
+   "Hold the story until the forensic result arrives tomorrow, accepting the risk that other outlets will lead."
+  ],
+  "tension": [
+   "amplification vs. informing",
+   "speed vs. verification before an election"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "The Headline Nobody Read Past",
+  "scenario": "Jamal Whitfield, a copy chief at a Detroit metro daily, sees that a headline claiming 'City Pays $4M to Cover Up Scandal' sits over a story saying the sum settled a lawsuit whose underlying allegations remain unproven. Readers on social media are citing the headline as proof of corruption. The story itself is accurate and carefully hedged. The reporter objects to changing the headline, saying it drives traffic and is defensible. Jamal knows that most readers see only headlines. The city council meets tonight and members are quoting it.",
+  "options": [
+   "Change the headline immediately to match the nuance of the story and append a note explaining the change.",
+   "Leave the headline and promote the story's nuanced text in a follow-up post that clarifies what the settlement does and does not show.",
+   "Convene a quick editorial call with the reporter and city editor, and decide jointly before the council meeting."
+  ],
+  "tension": [
+   "headline accuracy vs. reporter autonomy",
+   "traffic vs. misleading readers"
+  ],
+  "region": "United States"
+ },
+ {
+  "title": "The Elder's Healing Claim",
+  "scenario": "Te Aroha Hēmi, a Māori radio journalist in Rotorua, prepares a segment honouring a respected tohunga whose traditional remedy is said to cure diabetes. A hospital nutritionist warns her that listeners may stop insulin. Te Aroha respects the elder deeply and knows that outsiders have often dismissed Māori knowledge. The elder says only that the remedy 'helps with balance' and has not claimed a cure, but the community rumour has grown beyond his words. She wants to honour the elder without allowing a harmful misunderstanding to spread through the whanau who trust her.",
+  "options": [
+   "Run the segment with the elder's own words and add a clear note from the nutritionist that no one should stop insulin.",
+   "Reframe the segment around cultural practice and balance, not medical effect, and say explicitly that it is not a diabetes treatment.",
+   "Invite the elder and the nutritionist onto the show together, so the community hears both views from people it trusts."
+  ],
+  "tension": [
+   "cultural respect vs. medical safety",
+   "correcting rumour vs. honouring authority"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "The Intern's Fabricated Quote",
+  "scenario": "Senior editor Hoang Minh Tri in Hanoi discovers that a young intern invented a quote from a taxi driver in a story on fuel prices, to fill a gap before deadline. The story is minor, and the intern is the sole income for a sick mother. The quote supports a point that other real interviews also support. Publishing a correction would reveal the fabrication, and the newspaper's policy is to dismiss anyone who invents material. The intern comes forward himself, tearful, begging for another chance. Hoang must decide what to do about the correction and the intern.",
+  "options": [
+   "Publish a correction admitting a quote was fabricated and follow the dismissal policy, applying the rule consistently to all staff.",
+   "Publish the correction but retain the intern on probation with supervision, treating the voluntary confession as a mitigating factor.",
+   "Remove the quote quietly, keep the intern, and tighten editing controls, treating the fabrication as an internal matter."
+  ],
+  "tension": [
+   "consistency vs. mercy",
+   "honesty with readers vs. harm to a young journalist"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "The Hospital Wait-Time Chart",
+  "scenario": "Data journalist Sunniva Berg at an Oslo outlet realises her chart on emergency room wait times used the median for one hospital and the mean for another, making a rural hospital seem far worse. Local politicians have quoted it in a funding debate, and the hospital's staff are angry and demoralised. The corrected chart still shows the rural hospital as slower, but by much less. Sunniva's editor wonders whether a correction is necessary since the overall conclusion holds. Sunniva worries about both the staff and the political decision.",
+  "options": [
+   "Publish a visible correction and replace the chart, explaining the methodological mistake and the smaller true gap.",
+   "Quietly swap in the corrected chart with an edit note, as the main conclusion remains directionally valid.",
+   "Contact the hospital and politicians directly with the corrected data first, then publish the correction publicly afterwards."
+  ],
+  "tension": [
+   "accuracy vs. proportionality of correction",
+   "fairness to staff vs. newsroom image"
+  ],
+  "region": "Norway"
+ },
+ {
+  "title": "A Prophecy Broadcast as News",
+  "scenario": "Station manager Amadou Traoré in Bamako runs a news bulletin that included a pastor's claim that a coming eclipse will cause the river to dry up. Listeners have started stockpiling water and withdrawing children from school on the day. The pastor has a large following and threatens to pull his lucrative advertising if the station contradicts him. Amadou's science presenter wants to explain the eclipse and refute the claim. Others in the newsroom worry about angering the pastor's followers, who are also the station's core listeners.",
+  "options": [
+   "Broadcast a clear science explainer refuting the river claim, accepting the loss of the pastor's advertising.",
+   "Invite the pastor on air to discuss the claim alongside an astronomer, aiming to inform without attacking him.",
+   "Say only that the station reported the pastor's statement and is not endorsing it, avoiding a direct contradiction."
+  ],
+  "tension": [
+   "public welfare vs. commercial pressure",
+   "confronting belief vs. respect for community"
+  ],
+  "region": "Mali"
+ },
+ {
+  "title": "Student Journalist Corrects the Dean",
+  "scenario": "Priyanka Rao, a final-year editor at a university paper in Pune, wrote that the dean had cut scholarship funding by half, relying on a leaked budget. The dean shows her an updated budget revealing that the cut applied to only one department and was later reversed. The paper has already been sharply criticised by students and has fuelled a protest. The dean now demands a front-page apology. Priyanka thinks the original story was fair at the time but that the update changes things. Student protesters rely on her story as their rallying point.",
+  "options": [
+   "Print a front-page correction and update that explains the reversal, accepting that it may weaken the protest.",
+   "Run a follow-up on page three reporting the reversal and keep the original story's framing, arguing the dean was not forthcoming.",
+   "Report the update alongside protesters' responses, and ask the dean for the budget documents to publish in full."
+  ],
+  "tension": [
+   "fairness to the dean vs. solidarity with students",
+   "accuracy vs. activism"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "The Podcast Host's Misattributed Quote",
+  "scenario": "Podcast host Ebru Kaplan in Gaziantep tells listeners that a regional water-board chief once said farmers should 'pray for rain instead of complaining'. A listener points out that the line came from a satirical sketch, not from the chief. Farmers' groups have used the clip in a petition. The chief is furious and demands an on-air retraction. Ebru believes the chief's real record on drought is poor and her main point stands. She has a new episode due tomorrow and must decide how to deal with the error.",
+  "options": [
+   "Open the next episode with a plain retraction of the quote, explain how the mix-up happened, and note the petition's other grounds.",
+   "Correct the quote in the show notes and in a short spoken note, without dwelling on it, and keep the focus on the drought record.",
+   "Invite the chief on air to respond to the real record and correct the quote in the same conversation."
+  ],
+  "tension": [
+   "accuracy vs. advocacy",
+   "fairness to an official vs. a sound underlying point"
+  ],
+  "region": "Turkey"
+ }
+]

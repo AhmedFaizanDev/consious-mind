@@ -1,0 +1,49 @@
+{
+  "archives": {
+    "scruples_anecdotes": {
+      "bytes": 25191142,
+      "sha256": "0d7872b802dcf6f7982dd308caa2d247f4d144739350ac606f77730e07c4d2b3",
+      "url": "https://storage.googleapis.com/ai2-mosaic-public/projects/scruples/v1.0/data/anecdotes.tar.gz"
+    },
+    "scruples_dilemmas": {
+      "bytes": 9227858,
+      "sha256": "71c32cea28a7f455463dea0f458771854378748f1f5c164bb90e9ada500fa182",
+      "url": "https://storage.googleapis.com/ai2-mosaic-public/projects/scruples/v1.0/data/dilemmas.tar.gz"
+    },
+    "social_chem_101": {
+      "bytes": 27610699,
+      "sha256": "ebaa524280c53aa3dbfb2b73502b120eeb71d03523a557c659275aebb2afd95a",
+      "url": "https://storage.googleapis.com/ai2-mosaic-public/projects/social-chemistry/data/social-chem-101.zip"
+    }
+  },
+  "repos": {
+    "BIG-bench": {
+      "commit": "092b196c1f8f14a54bbc62f24759d43bde46dd3b",
+      "url": "https://github.com/google/BIG-bench.git"
+    },
+    "MoralCoT": {
+      "commit": "15fa453f9442e79c72bc992023ef4b6435c1aa2e",
+      "url": "https://github.com/feradauto/MoralCoT.git"
+    },
+    "daily_dilemmas": {
+      "commit": "31c448625593fcaebbe428a12cc4a1bed21ff0e6",
+      "url": "https://github.com/kellycyy/daily_dilemmas.git"
+    },
+    "ethics": {
+      "commit": "fa022dbc62dc6736c2f3780ced6412cae97efb90",
+      "url": "https://github.com/hendrycks/ethics.git"
+    },
+    "moralchoice": {
+      "commit": "9f1dbced7ecf70e334af9a88c3d93be5af0f37b8",
+      "url": "https://github.com/ninodimontalcino/moralchoice.git"
+    },
+    "psalm-alignment": {
+      "commit": "24aae6a57f8d7ab78cbbf226f8a5ca6708adac2b",
+      "url": "https://github.com/christian-machine-intelligence/psalm-alignment.git"
+    },
+    "scruples": {
+      "commit": "c79697e97d24f5b43b5ff030a9b16011a32e4a5f",
+      "url": "https://github.com/allenai/scruples.git"
+    }
+  }
+}

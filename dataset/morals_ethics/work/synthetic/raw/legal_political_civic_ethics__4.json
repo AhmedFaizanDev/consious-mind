@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Juror Seven and the Sympathetic Defendant",
+  "scenario": "Juror Hiroshi Aoyama-Brennan, a bus mechanic in Osaka, sits on a lay-judge panel hearing a case against a young woman who stole medicine for her dying father. The law is clear that the theft occurred, and the mandatory sentence is a prison term. The other lay judges seem inclined to apply it; two professional judges signal approval. Hiroshi finds the sentence disproportionate. Deliberations resume in the morning, and he must settle his stance.",
+  "options": [
+   "Vote to convict and apply the statutory sentence, since his oath is to apply the law as written.",
+   "Argue for the lightest sentence the law allows and press colleagues to consider the circumstances.",
+   "Vote to acquit despite the clear facts, treating the verdict as a moral check on a harsh law."
+  ],
+  "tension": [
+   "oath to the law vs. mercy",
+   "jury conscience vs. legal duty"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "The Witness Who Recognised the Judge",
+  "scenario": "Witness Nomvula Dlamini-Reyes, giving evidence in a Johannesburg fraud trial, notices that a member of the assessor panel is a man she once saw meeting the defendant in a restaurant. She is unsure whether it matters; they may have been acquaintances. Speaking up may derail the trial for months and put her under suspicion; silence may allow a biased tribunal. She is on the stand and the question is being asked now.",
+  "options": [
+   "Mention the encounter in open court, giving the judge the chance to assess bias.",
+   "Say nothing during testimony and raise the matter privately with the prosecutor afterward.",
+   "Answer only the questions asked and not volunteer observations outside her testimony's scope."
+  ],
+  "tension": [
+   "duty of candour vs. disruption",
+   "fairness of trial vs. self-protection"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "The Client's Buried Confession",
+  "scenario": "Defence attorney Ottoline Vasquez-Abiodun in Mexico City learns from her client Jorge, during a private meeting, that he committed a hit-and-run that killed a cyclist, for which another man, an innocent delivery driver, has been arrested. Jorge insists she keep it confidential. The trial of the delivery driver begins soon. Professional confidentiality is strict. She can't undo the information, and she must decide what to do about it.",
+  "options": [
+   "Preserve confidentiality as required by her professional duty, while urging Jorge strongly to come forward.",
+   "Break confidentiality to inform the authorities, preventing an innocent man's conviction.",
+   "Encourage Jorge to confess and withdraw from the case if he refuses, without disclosing his confidences."
+  ],
+  "tension": [
+   "client confidentiality vs. innocent person's liberty",
+   "professional duty vs. justice"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "A Prosecutor's Late Discovery",
+  "scenario": "Prosecutor Eamon Chukwuemeka-Lindholm in Dublin discovers, two days before closing arguments, a witness statement in the police files that casts doubt on the strongest part of his case. The defence has not seen it, and the deadline for disclosure passed. Disclosing it now would probably cause a mistrial and release a defendant he believes is guilty of a serious assault. His superiors have made clear they want a conviction.",
+  "options": [
+   "Disclose the statement to the defence immediately, accepting a mistrial and the risk to the prosecution.",
+   "Withhold it, reasoning that the missed deadline excuses disclosure and the statement is of limited reliability.",
+   "Disclose it to the judge privately and ask for guidance on how and whether to proceed."
+  ],
+  "tension": [
+   "duty to disclose vs. securing a conviction",
+   "fairness of trial vs. public safety"
+  ],
+  "region": "Ireland"
+ },
+ {
+  "title": "Bearing Witness Against a Neighbour",
+  "scenario": "Farmer Tolga Yıldız-Moreau, living in a Turkish border village, saw his neighbour Kadir, a kind man who once saved his harvest, take part in a local clash that left a stranger with a serious injury. Police ask for witnesses. Kadir has young children and no prior record. Tolga is the only person who saw clearly. Refusing to testify risks contempt; testifying could ruin Kadir's family. The police ask again for his answer tomorrow.",
+  "options": [
+   "Testify truthfully about what he saw, fulfilling his duty as a citizen despite the personal cost.",
+   "Refuse to testify, accepting the legal consequences to remain loyal to a neighbour who helped him.",
+   "Testify truthfully while also telling the court about Kadir's good character and the circumstances, hoping for leniency."
+  ],
+  "tension": [
+   "civic duty vs. personal loyalty",
+   "truth vs. compassion"
+  ],
+  "region": "Turkey"
+ },
+ {
+  "title": "The Expert Who Wasn't Certain",
+  "scenario": "Forensic analyst Sigrid Albrecht-Nwosu in Vienna is asked by a prosecutor to state in court that a fibre match from a crime scene 'definitively' links the accused to the scene. In truth, the technique is probabilistic, and she would say 'consistent with'. The prosecutor warns that hedged language may lead the jury to acquit a man he is convinced committed a violent robbery. Her testimony begins in an hour.",
+  "options": [
+   "Testify exactly as the evidence supports, using the phrase 'consistent with' and explaining the limits.",
+   "Use the stronger wording, since she believes the match is likely and the accused seems guilty.",
+   "Testify with the hedged language but add a calibrated statement of probability that jurors can weigh."
+  ],
+  "tension": [
+   "scientific honesty vs. pressure to convict",
+   "accuracy vs. persuasion"
+  ],
+  "region": "Austria"
+ },
+ {
+  "title": "Jury Foreperson and the Googled Fact",
+  "scenario": "Foreperson Delphine Mukamana-Whitfield, on a jury in Ottawa, learns during deliberations that a fellow juror researched the accused online and found a prior conviction not presented at trial. The juror says it confirms the verdict they are leaning toward. The judge had warned against outside research. Reporting the juror may lead to a mistrial after three weeks of testimony; ignoring it risks a tainted verdict. The jury waits for her direction.",
+  "options": [
+   "Report the misconduct to the judge immediately, accepting that this might cause a mistrial.",
+   "Instruct the juror to disregard the information and continue deliberating without reporting it.",
+   "Ask all jurors to affirm that they will decide solely on the trial evidence and then notify the judge after the verdict."
+  ],
+  "tension": [
+   "trial integrity vs. waste of effort",
+   "duty to the court vs. group pressure"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "Legal Aid Lawyer and the Guilty Plea Bargain",
+  "scenario": "Public defender Amara Kamau-Lindqvist in Kampala represents Peter, a teenager charged with robbery who maintains his innocence. The prosecutor offers a plea to a lesser charge with a three-month sentence; trial risks a ten-year term if convicted, and the evidence against him is moderate. Peter's mother pleads with the lawyer to push him to accept. Amara must advise him tonight, knowing that the choice is his to make.",
+  "options": [
+   "Advise him to take the plea, given the significant risk of a long sentence and the moderate evidence.",
+   "Advise him to go to trial, as he maintains his innocence and she believes in the right to be acquitted.",
+   "Lay out the risks and probabilities neutrally and let him choose without expressing her own preference."
+  ],
+  "tension": [
+   "client autonomy vs. paternalistic advice",
+   "innocence vs. risk management"
+  ],
+  "region": "Uganda"
+ },
+ {
+  "title": "A Judge's Past Friendship with the Defendant",
+  "scenario": "Judge Radhika Menon-Eriksen in Mumbai is assigned a corruption case against a businessman whom she knew in her youth but had not seen for decades. No one has objected, and she is among the few judges with expertise in complex financial crime; the court is heavily backlogged. Disclosing the connection might lead to her removal from the case and a delay of years for the many other accused. She must decide at the first hearing.",
+  "options": [
+   "Disclose the past friendship in open court and invite parties to object, accepting potential recusal.",
+   "Say nothing, reasoning that the relationship is remote and her expertise serves the public interest.",
+   "Recuse herself without waiting for any objection, preferring to avoid any appearance of bias."
+  ],
+  "tension": [
+   "appearance of impartiality vs. court efficiency",
+   "transparency vs. expertise"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "The Whistleblowing Associate",
+  "scenario": "Associate Tobias Kruger-Adeyinka at a Frankfurt law firm discovers that a senior partner has been billing a major client for hours never worked. The client is a pension fund serving thousands of retirees. Reporting could cost Tobias his career, since the partner controls promotions; the firm's ethics channel feeds back to the partner's allies. A bar association hotline exists but offers only limited protection. He has a mortgage and a newborn.",
+  "options": [
+   "Report the over-billing to the bar association, accepting the risks to his position.",
+   "Raise it internally with the firm's ethics committee first, giving the firm the chance to correct itself.",
+   "Say nothing for now and look for a new job before deciding whether to expose the practice."
+  ],
+  "tension": [
+   "professional integrity vs. career and family",
+   "loyalty to firm vs. duty to client"
+  ],
+  "region": "Germany"
+ },
+ {
+  "title": "Reluctant Witness in a Blood-Feud Case",
+  "scenario": "Schoolteacher Besnik Krasniqi-Obuya in northern Albania witnessed a killing linked to a family feud. Under customary law, informing on the killer to the state would make Besnik's own family targets. The state offers weak protection. The victim's relatives beg for his testimony to prevent more revenge. The prosecutor has summoned him for Monday. His wife and two daughters live in his house.",
+  "options": [
+   "Testify to the prosecutor, trusting the state and accepting the danger to his family.",
+   "Refuse to testify and risk legal penalties, in order to protect his family from retaliation.",
+   "Testify only after negotiating relocation and witness protection for his family, delaying the hearing."
+  ],
+  "tension": [
+   "duty to justice vs. family safety",
+   "state law vs. customary threat"
+  ],
+  "region": "Albania"
+ },
+ {
+  "title": "A Barrister's Cross-Examination Dilemma",
+  "scenario": "Barrister Imogen Okoro-Halvorsen in London is defending a man accused of rape. His account depends on suggesting that the complainant was untruthful about her past. Rules permit tough cross-examination within limits, and her instructions say the questions are legitimate. She believes the lines of questioning may crush the complainant while having little factual basis. The trial is tomorrow, and the client expects a vigorous defence.",
+  "options": [
+   "Pursue the cross-examination fully within the rules, since a robust defence is essential to a fair trial.",
+   "Limit the cross-examination to questions with a real evidential basis, even if this weakens the defence.",
+   "Decline the specific questions that she considers baseless and explain her reasons to the client, risking his dismissal of her."
+  ],
+  "tension": [
+   "zealous advocacy vs. dignity of witnesses",
+   "client instructions vs. professional conscience"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Notebook of the Court Interpreter",
+  "scenario": "Court interpreter Lwazi Bhengu-Castellanos in Cape Town finds that a defendant, Sipho, cannot understand the charge because an earlier interpreter used a dialect Sipho does not speak. Raising it would stop the hearing and force a restart, likely extending Sipho's detention by weeks. Sipho himself insists on continuing, saying he wants it over. The judge is impatient. Lwazi must decide whether to speak up.",
+  "options": [
+   "Inform the judge about the dialect problem at once, protecting Sipho's right to understand despite his wishes.",
+   "Continue the hearing as Sipho asks, respecting his choice and avoiding further detention.",
+   "Quietly tell Sipho's lawyer so that they can decide whether to apply for a postponement."
+  ],
+  "tension": [
+   "right to understand vs. client's wishes",
+   "procedural fairness vs. speedy release"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "The Paralegal and the Shredded Memo",
+  "scenario": "Paralegal Quynh Nguyen-Bergström in Melbourne is asked by her supervising lawyer to 'tidy' the files before a regulator's document request, including a memo that shows the company knew about a product defect. The request is phrased innocently, but she understands its meaning. Destroying documents after a request is a crime. Her supervisor is a mentor who helped her through law school. The files are due to be produced on Wednesday.",
+  "options": [
+   "Refuse to destroy the memo and produce all documents as the request requires.",
+   "Follow her supervisor's instruction, trusting her mentor's judgement and assuming there is a legitimate reason.",
+   "Refuse to destroy the memo and report the instruction to the firm's general counsel."
+  ],
+  "tension": [
+   "obedience to mentor vs. legality",
+   "loyalty vs. integrity"
+  ],
+  "region": "Australia"
+ },
+ {
+  "title": "Alternate Juror and the Hung Panel",
+  "scenario": "Alternate juror Patrice Mbeki-Dubois in Brussels is called back after a juror falls ill, joining deliberations on a murder case that others have discussed for days. The eleven others are split, nine to two. They urge him to side with the majority to finish. Patrice sat through all the testimony and has doubts that the majority's reasoning ignores. Hours of pressure remain, with the judge threatening a retrial.",
+  "options": [
+   "Hold to his own doubts and vote for acquittal, even if it prolongs the case or forces a retrial.",
+   "Join the majority to end the matter, trusting that the larger group probably judged correctly.",
+   "Ask the group to walk through the evidence again with him, and then decide based on what persuades him."
+  ],
+  "tension": [
+   "individual conscience vs. group pressure",
+   "finality vs. reasonable doubt"
+  ],
+  "region": "Belgium"
+ },
+ {
+  "title": "Witness to a Judge's Bribe",
+  "scenario": "Court clerk Yevgenia Pavlenko-Adu in Accra overhears a conversation in which a judge accepts envelope money from a litigant's agent. Reporting goes to the judicial council, headed by the judge's longtime friend. Two earlier clerks who complained were transferred to remote courts. Yevgenia supports her widowed mother. The case in question concerns a land dispute affecting a hundred smallholders. The judge is already calling the room to order.",
+  "options": [
+   "Report to the judicial council with her account, accepting the risk of retaliation.",
+   "Report to an independent anti-corruption agency or the press, bypassing the judicial council.",
+   "Stay silent for now and keep a private record of what she heard, waiting for a safer moment."
+  ],
+  "tension": [
+   "duty to justice vs. personal security",
+   "institutional channels vs. effectiveness"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "A Lawyer's Duty to the Unwanted Client",
+  "scenario": "Attorney Maximilian Odunsi-Takahashi in Honolulu is appointed to defend a man accused of abusing children, a charge that horrifies the community. Colleagues and friends urge him to withdraw, and his firm worries about reputation and clients leaving. The evidence is contested, and no other lawyer is willing to take the case at short notice. The judge will hear his response to the appointment tomorrow morning.",
+  "options": [
+   "Accept the appointment, believing everyone deserves a vigorous defence regardless of how the community feels.",
+   "Decline the appointment on the grounds that the case would harm his firm and the relationships he depends on.",
+   "Accept but seek the court's permission to hire a co-counsel to share the burden, ensuring the defendant is represented."
+  ],
+  "tension": [
+   "right to counsel vs. personal and professional cost",
+   "public sentiment vs. fair trial"
+  ],
+  "region": "United States (Hawaii)"
+ },
+ {
+  "title": "Perjury in the Custody Hearing",
+  "scenario": "Social worker Dalia Haddad-Ferreira in Beirut is called to testify in a custody dispute. She knows a father's account of his stable home is exaggerated, but also that the mother's household is unsafe due to unpaid rent and a partner with a temper. Her report was supposed to be neutral. The judge asks pointed questions; the father's lawyer has hinted at defamation action if she is negative. She is next on the stand.",
+  "options": [
+   "Testify to everything she observed, both the father's exaggerations and the mother's circumstances.",
+   "Focus her testimony on the mother's unsafe situation, since the child's immediate safety matters most.",
+   "Testify truthfully on all points and recommend a supervised arrangement that addresses risks on both sides."
+  ],
+  "tension": [
+   "impartial testimony vs. child's welfare",
+   "honesty vs. fear of retaliation"
+  ],
+  "region": "Lebanon"
+ },
+ {
+  "title": "Mediator Learns of the Hidden Asset",
+  "scenario": "Mediator Josefina Mkhize-Laurent in Montevideo guides a divorcing couple through a settlement. In a confidential side session, the husband reveals he has an undisclosed overseas account worth several times the declared assets and says he will deny it if raised. The wife is about to sign an agreement that gives up claims in exchange for a modest sum. Mediation confidentiality is a core principle. The signing is scheduled for tomorrow morning.",
+  "options": [
+   "Maintain strict confidentiality, but warn the wife generally that she should seek independent financial disclosure before signing.",
+   "Disclose the account to the wife, putting fairness to her above the confidentiality of the session.",
+   "Refuse to continue as mediator unless the husband discloses the account, without telling the wife what he said."
+  ],
+  "tension": [
+   "mediator confidentiality vs. fairness",
+   "neutrality vs. protection of the weaker party"
+  ],
+  "region": "Uruguay"
+ },
+ {
+  "title": "Cross-Border Witness at Risk",
+  "scenario": "Investigator Bashir Qureshi-Lund works for a war-crimes tribunal in The Hague and has a protected witness, Marta, whose testimony could convict a militia commander. Marta wants to withdraw after receiving threats against her sister back home. Without her, the case collapses. The tribunal's protection programme offers relocation for Marta but not for her sister. Bashir must advise Marta tonight, before the court's deadline for confirming the witness.",
+  "options": [
+   "Encourage Marta to testify and promise to press for protection for her sister, valuing accountability for atrocities.",
+   "Support her decision to withdraw, prioritising her family's safety over the prosecution.",
+   "Present all the risks and options honestly and leave the decision entirely to Marta, refusing to push in either direction."
+  ],
+  "tension": [
+   "accountability for atrocities vs. a witness's family safety",
+   "duty to the tribunal vs. duty of care"
+  ],
+  "region": "Netherlands / international"
+ },
+ {
+  "title": "Bailiff and the Courtroom Outburst",
+  "scenario": "Bailiff Esperanza Rojas-Mahlangu in Santiago watches a grieving father lunge to the witness stand and shout at the man accused of killing his daughter. She is authorised to restrain him forcefully and remove him; the judge has not yet reacted. The father is not armed and seems more broken than dangerous. A tense hush has fallen. Removing him roughly could prompt a public backlash, while hesitating might encourage disorder. She has seconds to decide.",
+  "options": [
+   "Restrain and remove him immediately, maintaining order and safety in the courtroom.",
+   "Approach and calmly guide him back to his seat, using minimum force and a human tone.",
+   "Wait for the judge's instruction before acting, deferring to the court's authority."
+  ],
+  "tension": [
+   "order vs. compassion",
+   "initiative vs. deference"
+  ],
+  "region": "Chile"
+ },
+ {
+  "title": "Defence Investigator and the Alibi That Cracked",
+  "scenario": "Defence investigator Gustavo Wanyama-Petrescu in Bucharest interviews a woman whose testimony supplies his client's alibi. Over coffee, she lets slip that she was not with the client that night but agreed to lie out of friendship. The client, accused of arson that destroyed a family shop, has insisted on innocence. The alibi witness is to testify on Thursday. Gustavo reports to the defence lawyer, who relies on him.",
+  "options": [
+   "Tell the defence lawyer exactly what the witness said, so the lawyer can decide how to handle it.",
+   "Persuade the witness to withdraw quietly, without giving the lawyer details, protecting both her and the case.",
+   "Keep the conversation to himself because the witness was not under oath and may have been speaking loosely."
+  ],
+  "tension": [
+   "candour with the lawyer vs. protecting a witness",
+   "truth vs. client's defence"
+  ],
+  "region": "Romania"
+ },
+ {
+  "title": "The Elder on the Customary Court",
+  "scenario": "Elder Tamati Wiremu-Osei sits on a Maori community court in Aotearoa reviewing a dispute in which a young man damaged a marae carving. Custom suggests a restorative hui with reparation; state law suggests a criminal referral. The young man's family fears the stigma of a record, and the carving's carver demands a public apology and a formal sanction. The elders are split, and Tamati holds the deciding view. They meet at dusk.",
+  "options": [
+   "Favour the restorative hui with reparation and no state referral, honouring the community's traditions.",
+   "Favour referral to the state criminal process, recognising the seriousness of damaging a sacred object.",
+   "Favour the hui, with a clear agreement that failure to complete it would trigger referral to the state."
+  ],
+  "tension": [
+   "customary justice vs. state law",
+   "restoration vs. punishment"
+  ],
+  "region": "Aotearoa New Zealand"
+ },
+ {
+  "title": "Court Stenographer's Altered Transcript",
+  "scenario": "Court stenographer Alinta Fernando-Kovács in Colombo is asked by a senior counsel to correct a transcript of a witness's testimony, replacing a phrase that sounded like a damaging admission with a more neutral word. She is fairly certain what was said but concedes the audio was unclear. The counsel is influential and could influence her future assignments. The correction would help a defendant she thinks is probably innocent. The transcript is due by noon.",
+  "options": [
+   "Refuse and leave the transcript as she heard it, noting the unclear audio in a margin comment.",
+   "Make the change, since the audio is unclear and the correction may reflect what the witness meant.",
+   "Offer to submit the audio to a formal review procedure rather than altering the transcript herself."
+  ],
+  "tension": [
+   "accuracy of record vs. influence",
+   "fairness to defendant vs. integrity of transcription"
+  ],
+  "region": "Sri Lanka"
+ },
+ {
+  "title": "Translator for the Silent Defendant",
+  "scenario": "Legal clerk Oksana Bondar-Mensah in Kyiv notices that a defendant who has been silent through three hearings communicates freely in sign language with a relative in the gallery, and the court has no signing interpreter. The relative offers to interpret informally but is also a witness for the defence. Asking the judge to appoint an interpreter would halt proceedings for weeks. The hearing resumes in ten minutes.",
+  "options": [
+   "Alert the judge now so a qualified interpreter can be appointed, accepting the delay for a fair hearing.",
+   "Let the relative interpret informally to keep the hearing moving, since the defendant clearly trusts her.",
+   "Tell the defence lawyer and let her choose whether to request a pause, rather than acting herself."
+  ],
+  "tension": [
+   "fair hearing vs. speed",
+   "independence of interpretation vs. trust"
+  ],
+  "region": "Ukraine"
+ }
+]

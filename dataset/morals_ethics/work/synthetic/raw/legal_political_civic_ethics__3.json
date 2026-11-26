@@ -1,0 +1,352 @@
+[
+ {
+  "title": "A Visa Clerk and the Forged Birth Certificate",
+  "scenario": "Consular officer Beatrix Hallström-Okpara in Nairobi interviews a Congolese widow applying for family reunification with her children in Norway. The birth certificates look forged, but she explains that the originals were destroyed in a fire, and that local fixers made replacements. Rejecting the application may leave the children in an unstable camp for years; accepting a forgery violates the rules. A DNA test would take months. She must decide whether to approve, reject, or defer the file today.",
+  "options": [
+   "Reject the application on the basis of the apparent forgery, upholding the integrity of the system.",
+   "Approve provisionally given the plausible explanation, using discretion to avoid separating a family indefinitely.",
+   "Defer the decision and request a DNA test at the state's expense, accepting the delay in exchange for certainty."
+  ],
+  "tension": [
+   "integrity of process vs. family unity",
+   "rule-following vs. compassion"
+  ],
+  "region": "Kenya / Norway"
+ },
+ {
+  "title": "The Asylum Judge and the Inconsistent Story",
+  "scenario": "Immigration judge Ravi Subramanian-Eklund in Sweden is hearing the case of Ahmad, a Syrian man whose account of fleeing conscription contains contradictions about dates and routes. His lawyer says trauma explains the inconsistencies. Return to Syria could mean forced service or imprisonment. The state's counsel argues that credibility is central. The judge must write the decision this week, with no further evidence available and a heavy docket behind him.",
+  "options": [
+   "Deny asylum on credibility grounds, since the law requires a coherent and reliable account.",
+   "Grant asylum, giving the benefit of the doubt due to trauma and the general conditions in Syria.",
+   "Grant subsidiary protection based on country conditions without relying on the applicant's personal account."
+  ],
+  "tension": [
+   "credibility standards vs. risk of grave harm",
+   "consistency vs. benefit of the doubt"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "Boat at the Maritime Border",
+  "scenario": "Coast guard commander Teuta Hoxha-Nakamura in Albania sights a small, overcrowded dinghy in her waters carrying about forty people, some visibly unwell. Her government has instructed her to turn boats back to prevent new arrivals. Weather is deteriorating and the engine seems weak. Another vessel could take hours to arrive. Taking the passengers aboard triggers an asylum process she was told to avoid. She has a minute or two to give orders.",
+  "options": [
+   "Follow the push-back instruction and escort the boat out of territorial waters, complying with her chain of command.",
+   "Take everyone aboard and bring them ashore for processing, prioritising their safety over her orders.",
+   "Provide food, water, and fuel and a tow to calm waters, and request further instruction while keeping the boat in sight."
+  ],
+  "tension": [
+   "orders vs. duty of rescue",
+   "sovereignty vs. human life"
+  ],
+  "region": "Albania"
+ },
+ {
+  "title": "A Caseworker and the Duplicate Name",
+  "scenario": "Caseworker Imelda Fonseca-Wright in Canada's immigration office notices that a pending deportation order for a man called Marcus Hsu appears to target the wrong person: a Marcus Hsu with a criminal record, but her file's Marcus Hsu is a nurse's aide with a spotless history. Correcting the file requires admitting an error that may expose her department to a lawsuit. The deportation flight is booked for Thursday. Her supervisor asks her to leave the file alone.",
+  "options": [
+   "Flag the mistaken identity formally and demand a halt to the deportation, regardless of institutional embarrassment.",
+   "Raise the issue quietly with her supervisor and let him resolve it, accepting the risk that it will be buried.",
+   "Contact the man's lawyer with the information so that the court can intervene, bypassing her supervisor."
+  ],
+  "tension": [
+   "institutional loyalty vs. preventing wrongful harm",
+   "procedure vs. urgency"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "Detention of the Unaccompanied Boy",
+  "scenario": "Reception centre manager Rosario Castellanos-Eze in Sicily is told by the interior ministry to transfer a fifteen-year-old Eritrean boy to an adult facility because his age is disputed after a bone scan. His documents are missing; he insists he is fifteen. Adult facilities lack child protection, but the scan indicates he may be eighteen. If she resists, her centre may lose its licence. The transfer van arrives in the morning.",
+  "options": [
+   "Comply with the transfer order, relying on the scan and the legal framework for age assessments.",
+   "Refuse the transfer and keep the boy in the child facility pending a more reliable age assessment, risking sanctions.",
+   "Delay the transfer by requesting a second independent age assessment, while documenting her concerns formally."
+  ],
+  "tension": [
+   "protection of minors vs. legal process",
+   "institutional risk vs. conscience"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "The Interpreter Who Knew the Village",
+  "scenario": "In a hearing room in Auckland, interpreter Tevita Fifita-Rosen realises that the Fijian asylum claimant before him comes from the village where Tevita's own family lives. He knows that the claimant's story about a local dispute is exaggerated, though not entirely false. Telling the officer risks breaching impartiality and harming the claimant; staying silent allows an embellished claim to proceed. The hearing is already underway. Tevita can interrupt now or continue.",
+  "options": [
+   "Disclose the relationship and withdraw from the hearing, leaving the case to another interpreter.",
+   "Continue interpreting accurately without sharing his private knowledge, treating his role as purely linguistic.",
+   "Disclose his knowledge to the officer, even at the cost of harming the claimant, to ensure an accurate hearing."
+  ],
+  "tension": [
+   "impartiality vs. truth",
+   "personal knowledge vs. professional role"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "Quota Day at the Border Office",
+  "scenario": "Border officer Zeynep Arslan-Cohen, working at a land crossing in Greece, is told that only fifty asylum claims can be processed today due to limited staff. A hundred and twenty people wait outside, many with children, in cold rain. Her supervisor says the extras must return in a week. She could process the first fifty in order, prioritise the most vulnerable, or stay late unpaid to take more. Evening is approaching.",
+  "options": [
+   "Process the first fifty in the order of arrival, respecting fairness and the rules of the queue.",
+   "Prioritise the most vulnerable cases, such as children and the ill, even if it means skipping those who waited longest.",
+   "Stay beyond official hours to process as many as she can, ignoring her supervisor's directive."
+  ],
+  "tension": [
+   "fairness vs. vulnerability",
+   "institutional limits vs. personal sacrifice"
+  ],
+  "region": "Greece"
+ },
+ {
+  "title": "A Sponsor's Doubtful Promise",
+  "scenario": "Sponsorship assessor Wanjala Odhiambo-Lindgren in Australia reviews a private sponsor's application to host a refugee family. The sponsor, a retired teacher, promises accommodation and support, but her finances are modest and her health fragile. Rejecting her could leave the family in an overcrowded camp; accepting may leave them destitute if she cannot cope. Other applicants are waiting. Wanjala must decide whether to approve, reject, or ask for more.",
+  "options": [
+   "Approve the sponsorship, trusting the sponsor's commitment and the community's likely support.",
+   "Reject the application on the basis that the sponsor's means are insufficient to meet her obligations.",
+   "Approve conditionally on a community co-sponsor group joining, shifting some of the risk onto a wider support network."
+  ],
+  "tension": [
+   "opportunity vs. risk of harm",
+   "trust vs. prudence"
+  ],
+  "region": "Australia"
+ },
+ {
+  "title": "Return Flight on Christmas Eve",
+  "scenario": "Escort supervisor Gideon Falk-Mwangi, an official in Germany's deportation service, is tasked with returning a Georgian family whose asylum claim failed. The family includes a child with a scheduled surgery two days later. The legal order is valid and the flight leaves tonight. A doctor's note suggests that the surgery can be delayed, but not indefinitely. The family's lawyer pleads for a postponement. Gideon has discretion to delay by forty-eight hours.",
+  "options": [
+   "Proceed with the removal as scheduled, since the order is lawful and the medical note does not demand a halt.",
+   "Delay by forty-eight hours so the child can have the surgery, extending the family's stay modestly.",
+   "Proceed but arrange a medical handover to a hospital in Georgia, ensuring continuity of care after arrival."
+  ],
+  "tension": [
+   "lawful removal vs. child's health",
+   "consistency of enforcement vs. compassion"
+  ],
+  "region": "Germany / Georgia"
+ },
+ {
+  "title": "The Sham Marriage Interview",
+  "scenario": "Registrar Naledi Sithole-Brandão in Lisbon conducts interviews to detect sham marriages. She is questioning a Portuguese man and a Moroccan woman whose answers about daily routines are contradictory, though they seem affectionate and nervous. Rejecting could deny them a genuine marriage; approving a fake one undermines the immigration system. They have a baby on the way, according to a hospital letter. The decision is hers, signed within the hour.",
+  "options": [
+   "Reject the marriage application on the grounds of contradictions, given that the law requires a good-faith union.",
+   "Approve it, weighing the signs of genuine affection and the pregnancy over the contradictory answers.",
+   "Defer the decision and arrange a follow-up interview with each partner separately, accepting a delay for a clearer picture."
+  ],
+  "tension": [
+   "system integrity vs. right to family life",
+   "suspicion vs. presumption of good faith"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "The Lawyer Who Coached the Claimant",
+  "scenario": "Legal aid attorney Lucinda Abara-Petersen in London discovers that her asylum client, a young Eritrean woman, has memorised a rehearsed narrative given by an acquaintance, which includes incidents she did not experience. Her real story, of unspoken family persecution, is harder to prove and less dramatic. The hearing is tomorrow. Lucinda's duty as an officer of the court conflicts with her duty to her client. She must decide how to proceed.",
+  "options": [
+   "Persuade the client to abandon the rehearsed narrative and present only her true account, accepting a weaker case.",
+   "Withdraw from representation, since she cannot knowingly present false evidence, leaving the client to find new counsel.",
+   "Present the case without leading the false parts and let the client testify, avoiding active deception while not exposing her."
+  ],
+  "tension": [
+   "duty to client vs. duty to court",
+   "truth vs. successful outcome"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Camp Doctor's Medical Report",
+  "scenario": "Dr. Ibrahim Sesay-Lehtonen, working in an immigration detention centre in Finland, is asked by a detainee, Kaveh, to write a report documenting scars from torture, which could support his asylum claim. Kaveh's scars are old and could be consistent with other causes. The centre's management dislikes medical reports that appear to favour detainees. The report would have to state a level of certainty that Ibrahim cannot honestly reach. He must write it now.",
+  "options": [
+   "Write an honest report stating that the scars are consistent with Kaveh's account but not conclusive.",
+   "Write the report with stronger language than the evidence warrants, given the stakes of a refusal for Kaveh.",
+   "Decline to write the report in favour of referring Kaveh to an independent torture-documentation clinic."
+  ],
+  "tension": [
+   "professional honesty vs. compassion",
+   "medical neutrality vs. advocacy"
+  ],
+  "region": "Finland"
+ },
+ {
+  "title": "Employer's Letter and the Visa Extension",
+  "scenario": "Immigration adviser Soledad Ximénez-Obuya in Dubai reviews a worker's request to change employers after her passport was withheld and her wages delayed for months. The law permits change only with the employer's consent, which he refuses. Evidence is limited to text messages. The worker will be considered illegal if her visa lapses next week. Soledad can approve the exceptional transfer, deny it, or refer it to a tribunal with no guarantee of timing.",
+  "options": [
+   "Deny the transfer in line with the employer-consent rule, and urge the worker to file a complaint.",
+   "Approve the exceptional transfer on the basis of the text messages, protecting the worker from exploitation.",
+   "Refer the matter to the tribunal and grant a short visa extension in the meantime, allowing time for review."
+  ],
+  "tension": [
+   "rule of consent vs. protection of exploited workers",
+   "evidence standards vs. urgency"
+  ],
+  "region": "United Arab Emirates"
+ },
+ {
+  "title": "The Island Quota and the Climate Family",
+  "scenario": "Resettlement officer Maile Kauhane-Sorensen in New Zealand has one remaining place in a climate-migration programme for Pacific islanders, and two applicants. A young carpenter, Lopeti, has skills in demand; an elderly couple, the Tauas, have lost their home to sea-level rise and have relatives already settled. The criteria give weight to both skills and family ties. There is no appeal. She must pick one application by Friday.",
+  "options": [
+   "Select the carpenter, since the programme values contribution to the labour market and he is likely to thrive.",
+   "Select the elderly couple, since their need is greater and they have family to support them.",
+   "Ask the ministry for an additional place, delaying the decision and taking the risk that none is granted."
+  ],
+  "tension": [
+   "economic contribution vs. humanitarian need",
+   "hard choice vs. refusal to choose"
+  ],
+  "region": "New Zealand / Pacific"
+ },
+ {
+  "title": "Detainee Phone Call to the Consulate",
+  "scenario": "Detention centre guard supervisor Hyun-woo Park-Delgado in Seoul is informed that an undocumented detainee from Nepal is requesting to call his consulate, a right under international law. Standing orders prohibit calls in the first seventy-two hours during certain investigations. A senior officer insists on following the standing orders. The detainee seems anxious and claims he has been mistreated. Hyun-woo controls the phone room key and has a few minutes.",
+  "options": [
+   "Follow the standing order and deny the call until the seventy-two hours have passed.",
+   "Allow the call, treating consular access as a right that overrides internal orders.",
+   "Allow the call under supervision and report the matter to his senior officer, being transparent about his decision."
+  ],
+  "tension": [
+   "standing orders vs. legal rights",
+   "obedience vs. protection of detainee"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "A Mayor and the Camp on the Edge of Town",
+  "scenario": "Mayor Ekaterina Zielińska-Bamba of a small Hungarian town faces a government instruction to refuse all municipal services to a makeshift migrant camp on the town's edge, including water. Local volunteers, including her own deputy, are bringing water in secret. Violation of the instruction could lead to the suspension of town funding. A sudden heatwave has arrived. She is asked by a journalist to state publicly whether she will allow services.",
+  "options": [
+   "Follow the government instruction, protecting the funds for her residents and leaving relief to NGOs.",
+   "Provide water openly as a basic humanitarian duty and accept the consequences for the municipality.",
+   "Allow the volunteers to continue without comment, neither enforcing the ban nor publicly defying it."
+  ],
+  "tension": [
+   "loyalty to residents vs. humanitarian duty",
+   "legal compliance vs. basic needs"
+  ],
+  "region": "Hungary"
+ },
+ {
+  "title": "The Appeals Officer's Cheap Shortcut",
+  "scenario": "Appeals officer Folake Adeyemi-Sorokin in Moscow's migration service has two hundred files to clear before the end of the quarter, otherwise her team's funding will be reduced. She realises that she can reject most appeals quickly by using a standard template without reading details. A handful may be meritorious. Thorough review would mean missing the target and risking her colleagues' jobs. The pile sits on her desk, and her supervisor expects results.",
+  "options": [
+   "Use the template for quick rejections and reserve detailed review for files with obvious flags, meeting the target.",
+   "Review each file thoroughly, missing the target and risking funding cuts for her team.",
+   "Review each file as thoroughly as possible and formally report the unreasonable workload to higher authorities."
+  ],
+  "tension": [
+   "efficiency vs. fairness to individuals",
+   "team welfare vs. individual justice"
+  ],
+  "region": "Russia"
+ },
+ {
+  "title": "Statelessness and the Missing Papers",
+  "scenario": "Registry judge Ammar Haidari-Lopes in Malaysia hears the case of Suriya, a young woman born in an estate village to parents from a stateless community. She has no birth certificate and cannot attend university or work legally. Granting her a late registration contradicts the strict wording of a statute, but denying it leaves her without any nationality. Government lawyers argue that a ruling in her favour would open floodgates. The judgment is due Monday.",
+  "options": [
+   "Deny the registration on a strict reading of the statute, leaving the matter for legislative reform.",
+   "Grant the registration, reading the statute in light of the child's right to a nationality.",
+   "Grant a limited residence document and formal recognition of her identity, short of full registration."
+  ],
+  "tension": [
+   "statutory text vs. human rights",
+   "precedent vs. individual justice"
+  ],
+  "region": "Malaysia"
+ },
+ {
+  "title": "Camp Lottery Under the Tarp",
+  "scenario": "Aid coordinator Chinwe Ogunleye-Hartmann at a transit site in Libya is asked by a government liaison to run a lottery for the few seats available on a humanitarian evacuation flight. The liaison also hints that names of certain nationalities must be excluded to keep a bilateral agreement. One hundred and ninety people hope for thirty seats. Chinwe controls the registration list. She is under pressure to produce the final roster by morning.",
+  "options": [
+   "Run a fair lottery among all registered people, and refuse to exclude any nationality.",
+   "Exclude the named nationalities to preserve the agreement, which secures future flights for others.",
+   "Prioritise the most medically vulnerable people from all nationalities, rather than relying on a lottery or the exclusion request."
+  ],
+  "tension": [
+   "fairness vs. diplomatic pragmatism",
+   "chance vs. need"
+  ],
+  "region": "Libya"
+ },
+ {
+  "title": "An Immigration Lawyer's Overbooked Day",
+  "scenario": "Pro bono immigration lawyer Soraya Taheri-Mulgrew in Dublin has capacity for one more client this month. Two people await her decision: Bogdan, who faces deportation next week and could win with her help; and Amira, whose appeal is next year and whose case is novel and could set a precedent protecting many others. She cannot refer them to anyone else in time. She has until the afternoon to tell both.",
+  "options": [
+   "Take Bogdan's urgent case, since his need is immediate and the outcome is more certain.",
+   "Take Amira's precedent-setting case, since it could help many future applicants.",
+   "Take Bogdan's case and prepare a thorough briefing pack for Amira to bring to another firm or a self-representation hearing."
+  ],
+  "tension": [
+   "immediate need vs. broader impact",
+   "individual vs. systemic justice"
+  ],
+  "region": "Ireland"
+ },
+ {
+  "title": "The Orphanage Without a Registry",
+  "scenario": "Orphanage director Mercy Banda-Eriksson in Malawi receives a request from a Dutch couple for a swift adoption of a four-year-old, Chikondi. The paperwork shows gaps in the child's family records: a living aunt might exist but cannot be located. An international adoption agency offers to bypass the long tracing process in return for a generous donation to the orphanage. The couple seems kind. She must decide whether to proceed or insist on tracing first.",
+  "options": [
+   "Insist on completing the family tracing before any adoption, even if the couple withdraws and funding is lost.",
+   "Proceed with the adoption using the fast-track route, as the child's immediate stable home outweighs a speculative aunt.",
+   "Proceed with an interim foster arrangement with the couple, while tracing continues in parallel."
+  ],
+  "tension": [
+   "child's best interest vs. family rights",
+   "institutional funding vs. integrity"
+  ],
+  "region": "Malawi"
+ },
+ {
+  "title": "Visa Officer and the Journalist's Shadow",
+  "scenario": "Visa officer Eszter Molnár-Achebe in Budapest gets an application from a foreign investigative journalist hoping to attend a conference. A foreign-ministry instruction tells her to decline anyone whose coverage 'harms national interest'. The journalist's work criticised her government but is factually accurate. Her supervisor will check the file. A refusal letter requires only a vague reason. She must submit her recommendation by the end of the day.",
+  "options": [
+   "Recommend approval, since the application meets the formal criteria and the instruction is vague and politically motivated.",
+   "Recommend refusal as instructed, deferring to the ministry's authority on national interest.",
+   "Recommend approval and attach a note to her supervisor stating that the instruction seems unlawful and requesting clarification."
+  ],
+  "tension": [
+   "bureaucratic obedience vs. press freedom",
+   "neutral application of rules vs. political direction"
+  ],
+  "region": "Hungary"
+ },
+ {
+  "title": "Granting Asylum to the Persecutor",
+  "scenario": "Asylum panel member Kasia Dłuska-Rahman in a Swiss canton hears a case from Anselm, a former prison guard from a collapsed regime who now fears revenge killings at home. Credible evidence shows he participated in mistreatment of detainees, although less severely than others. International refugee law excludes those involved in serious abuses; Anselm's risk of death if returned appears real. The panel is split, and Kasia holds the deciding vote.",
+  "options": [
+   "Vote to exclude him from refugee protection due to his participation in abuses, regardless of the risk he faces.",
+   "Vote to grant protection, emphasising the absolute prohibition on returning anyone to likely death.",
+   "Vote to exclude him from refugee status but grant a temporary non-removal status on human rights grounds."
+  ],
+  "tension": [
+   "accountability for abuse vs. protection from harm",
+   "legal exclusion vs. non-refoulement"
+  ],
+  "region": "Switzerland"
+ },
+ {
+  "title": "Rescinding a Residence After a Pardon",
+  "scenario": "Case officer Dmitri Alexandrou-Banerjee in Cyprus is reviewing a long-term resident, Farid, who was convicted of a minor theft twenty years ago and later pardoned. A new rule says any past conviction triggers revocation of residence for non-citizens, with no exception for pardons. Farid now runs a bakery employing five locals and has three citizen children. Colleagues say the rule is clear. Dmitri must send his recommendation to the director.",
+  "options": [
+   "Recommend revocation as the rule requires, leaving any relief to the political process.",
+   "Recommend against revocation, arguing that the pardon and Farid's life here justify an exceptional reading.",
+   "Recommend revocation but flag the case for ministerial discretion with a full account of the family's circumstances."
+  ],
+  "tension": [
+   "rule application vs. proportionality",
+   "finality of pardon vs. new policy"
+  ],
+  "region": "Cyprus"
+ },
+ {
+  "title": "Hotel Clerk Who Saw the Passports",
+  "scenario": "Hotel manager Pushpa Gurung-Hanssen in Kathmandu is visited by an immigration inspector who demands copies of the passports of all guests from a particular neighbouring country, saying it is a routine check. Several guests are activists who have fled threats at home and booked under caution. Refusing a lawful request risks her hotel's licence. The inspector waits at the front desk while she considers.",
+  "options": [
+   "Provide the copies as requested, trusting the inspector's authority and protecting her business.",
+   "Refuse, saying the request is unclear and that she needs a written order, while quietly warning the guests.",
+   "Provide copies only after receiving a written order, buying time without openly obstructing the inspector."
+  ],
+  "tension": [
+   "compliance with officials vs. protecting guests",
+   "business survival vs. conscience"
+  ],
+  "region": "Nepal"
+ }
+]

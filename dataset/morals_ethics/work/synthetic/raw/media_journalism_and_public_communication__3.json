@@ -1,0 +1,352 @@
+[
+ {
+  "title": "The Airline's Free Press Trip",
+  "scenario": "Travel editor Lucía Fernández at a Madrid daily is offered a free business-class trip to a new Andean route for review. The paper's budget has been slashed and has no travel allowance, so without the trip no review will run. The airline asks for no promised verdict but wants a feature published within a month. Lucía knows readers trust her honest reviews, and that competitors accept such trips routinely. A union rep at the paper warns that freebies erode independence. She must decide whether to go and how to present it.",
+  "options": [
+   "Accept the trip, disclose it prominently in the piece, and write the review freely, including criticism where earned.",
+   "Decline the trip and instead pay for a cheaper flight herself, accepting that the piece may not run.",
+   "Accept only if the editor-in-chief formally approves and an independent fact-checker reviews the draft before publication."
+  ],
+  "tension": [
+   "independence vs. editorial resources",
+   "disclosure vs. avoiding influence"
+  ],
+  "region": "Spain"
+ },
+ {
+  "title": "Native Ads in the Health Section",
+  "scenario": "Digital manager Folake Adewale at a Lagos health magazine has a contract from a supplement maker for articles that look like editorial, labelled only with a small grey 'partner content' tag. The deal would cover a year of salaries during a downturn. The product has no strong evidence behind it but is not dangerous. The editorial team is divided. Readers often follow the magazine's health advice. Folake can negotiate the format but the sponsor insists on similar styling to normal articles to ensure engagement.",
+  "options": [
+   "Accept with a large, clear label and different layout, and require that claims be limited to what evidence supports.",
+   "Reject the deal and look for other revenue, protecting the section's credibility at the cost of jobs.",
+   "Accept the sponsor's styling with the small tag, reasoning that readers are adults and the product is harmless."
+  ],
+  "tension": [
+   "financial survival vs. reader trust",
+   "labelling vs. engagement"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "The Mine's Community Radio Grant",
+  "scenario": "Station director Nandi Khumalo at a rural community radio in KwaZulu-Natal receives a three-year funding offer from a mining company that wants to open nearby. The grant would double the station's budget and support training for young presenters. No conditions are written, but the company's liaison mentions hoping for 'balanced' coverage of the proposed mine. Residents are split on the mine, and the station is their main platform for debate. Nandi knows other stations that took such money and slowly softened their coverage.",
+  "options": [
+   "Accept the grant with a public funding disclosure and a written editorial independence clause approved by the station board.",
+   "Refuse the grant, preserving the station's autonomy on the mine debate, and seek smaller donors instead.",
+   "Accept it but create a separate fund for non-mine programming, firewalled from any coverage of the mining proposal."
+  ],
+  "tension": [
+   "community service vs. independence",
+   "funding vs. perceived capture"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "The Press Officer's Gift Basket",
+  "scenario": "Court reporter Yuki Matsumoto in Nagoya has been sent annually a gift hamper by a leading law firm at New Year, a long-standing local custom, which she has always shared with the newsroom. This year, the firm is representing a defendant in a case she covers. The hamper arrives with a polite card. Returning it could cause offence in a culture of reciprocal courtesy, but keeping it may look improper. Her bureau chief says the paper has no clear policy. Yuki must decide what to do before the trial's opening.",
+  "options": [
+   "Return the hamper politely with a note citing the paper's ethics, even at the cost of offending an important local contact.",
+   "Donate the hamper to a charity and send the firm a note of thanks that mentions the donation.",
+   "Keep covering the case but disclose the gift in her next report, and share the hamper with the newsroom as before."
+  ],
+  "tension": [
+   "cultural courtesy vs. appearance of impartiality",
+   "transparency vs. reciprocity"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "Influencer Disclosure Gone Wrong",
+  "scenario": "Producer Imogen Clarke runs a morning TV segment in Sydney featuring local business owners. A bakery owner, who is also a major advertiser on the channel, asks to be featured with a segment on his new range. The sales team says the invitation would solidify a lucrative relationship. Imogen worries that audiences will not realise that the segment is a favour, and that other bakeries who do not advertise will be ignored. The segment would be accurate and the bakery is good. She must decide how to handle the request.",
+  "options": [
+   "Run the segment with an on-screen disclosure that the bakery is a channel advertiser, treating it as honest and transparent.",
+   "Decline the segment, telling sales that advertiser status cannot determine editorial choices.",
+   "Run a wider segment on local bakeries including the advertiser and two non-advertisers chosen independently."
+  ],
+  "tension": [
+   "commercial relationships vs. editorial fairness",
+   "disclosure vs. neutrality"
+  ],
+  "region": "Australia"
+ },
+ {
+  "title": "Think Tank Study, Corporate Money",
+  "scenario": "Economics writer Henrik Larsen in Copenhagen finds a study from a respected think tank concluding that deregulating ride-hailing benefits consumers. He later learns the study was part-funded by a ride-hailing company, a fact in a footnote. The authors insist their findings were independent. Henrik's story would be balanced and useful, but the study's headline findings are the most recent academic-seeming data available, and rivals will cite it. His editor says the footnote suffices; Henrik isn't sure readers will see it.",
+  "options": [
+   "Report on the study and prominently state the company's funding in the opening paragraphs, alongside independent criticism.",
+   "Skip the study altogether and wait for independent research, even though readers will see the claims elsewhere.",
+   "Use the study but ask the authors to explain their funding safeguards publicly and include their response."
+  ],
+  "tension": [
+   "prominence of funding disclosure vs. availability of evidence",
+   "trust in experts vs. sponsor influence"
+  ],
+  "region": "Denmark"
+ },
+ {
+  "title": "The Tourism Board's Documentary",
+  "scenario": "Documentary maker Amara Okeke in Accra is offered a generous commission from the national tourism board to film a series on coastal heritage. The board retains approval of the final cut. She believes the series would employ twelve local crew and preserve forgotten stories. But the board has also tried to hide the erosion of beaches and displacement of fishing families. Amara could include that material and risk veto, or keep it out. She wants to retain her integrity and the crew's work, and the board needs an answer within a week.",
+  "options": [
+   "Accept with a written agreement that she holds final editorial control, and walk away if the board refuses.",
+   "Accept the board's approval right, making the series a celebration of heritage, and tackle erosion in a separate independent film.",
+   "Decline the commission and seek independent funding, even if the project takes years and the crew loses work."
+  ],
+  "tension": [
+   "employment vs. editorial control",
+   "truth-telling vs. sponsorship"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Advertorial for the Governor",
+  "scenario": "Sales head Kwabena Asante at a regional newspaper in Kumasi is offered a large sum by a state governor's office to publish a four-page 'special report' praising infrastructure projects, styled like the paper's own journalism. The paper is months behind on salaries, and journalists will quit if unpaid. The editor-in-chief is away. The governor's office demands that no 'advertisement' label be shown, saying readers dislike labels. Kwabena has the authority to sign the deal but knows some of the projects are far behind schedule.",
+  "options": [
+   "Sign the deal only with a clear 'paid government advertisement' label, rejecting the no-label demand.",
+   "Decline the deal outright, preferring staff unrest over publishing disguised propaganda.",
+   "Sign the deal as requested to pay the staff, and ask the editor to commission an independent critical piece later."
+  ],
+  "tension": [
+   "staff livelihoods vs. integrity",
+   "disguised persuasion vs. survival"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "Pharma-Funded Patient Podcast",
+  "scenario": "Podcast host Marisol Vega in Medellín runs an independent show interviewing people with rare diseases. A pharmaceutical firm offers to sponsor the series, with no editorial control, but asks that its logo appear and that the show avoids attacking drug pricing. The money would let her pay a producer and sustain the show. Listeners are mostly patients and carers who trust her advocacy. She is not asked to promote a particular drug, yet a price-related story she is researching might embarrass the sponsor.",
+  "options": [
+   "Accept the sponsorship with a public disclosure, and refuse the no-pricing request in writing, ready to lose the deal.",
+   "Decline the sponsorship entirely and ask listeners for direct small donations instead.",
+   "Accept the money and the pricing request, reasoning that she can cover pricing in a separate, unsponsored show later."
+  ],
+  "tension": [
+   "sustainability vs. editorial freedom",
+   "patient trust vs. sponsor interests"
+  ],
+  "region": "Colombia"
+ },
+ {
+  "title": "Wedding Photographer or Reporter?",
+  "scenario": "Freelancer Dilnoza Rakhimova in Samarkand makes most of her living photographing weddings, but also writes for a local news site. A prominent official's son hires her to photograph his wedding for a high fee, at the same time she is researching an inquiry into the official's land dealings. She would gain access, goodwill and income. Declining would cost her a month's earnings. The news site's editor does not know about either role. If she accepts, she wonders whether she must tell the editor, the official, or neither.",
+  "options": [
+   "Decline the wedding job and keep the investigation clean, accepting the lost income.",
+   "Accept the job, disclose it to her editor, and step back from the investigation, letting another reporter continue it.",
+   "Accept and continue both roles without disclosure, reasoning that photographing a wedding is private work."
+  ],
+  "tension": [
+   "livelihood vs. conflict of interest",
+   "disclosure vs. discretion"
+  ],
+  "region": "Uzbekistan"
+ },
+ {
+  "title": "The Shopping Mall's Sports Sponsorship",
+  "scenario": "Sports desk head Ricardo Pires in Porto Alegre learns that the club's new main sponsor is a shopping mall chain that also advertises heavily in his newspaper. The club has been struggling, and Ricardo's reporters have been critical of the manager. The advertising director hints at fewer harsh pieces, saying the paper's revenue and the club's health are linked. No explicit demand is made. Ricardo's reporters wait for his guidance on the next week's coverage of the manager's likely dismissal.",
+  "options": [
+   "Tell the reporters to continue coverage exactly as before and notify the ad director that editorial decisions are separate.",
+   "Add a standing disclosure note to club coverage about the mall's dual relationships, and carry on as before.",
+   "Ask the editor to arbitrate, and agree to a firewall policy between advertising and sports coverage in writing."
+  ],
+  "tension": [
+   "commercial pressure vs. editorial independence",
+   "implicit threats vs. clarity"
+  ],
+  "region": "Brazil"
+ },
+ {
+  "title": "Government Training for Journalists",
+  "scenario": "Journalism lecturer Mutesi Uwimana in Kigali is asked by a European foundation to run paid workshops for reporters on investigative techniques, funded partly by the government's media commission, which also licenses outlets. Participants would gain valuable skills, but the commission wants a list of attendees. Mutesi thinks the list may be used to track who is critical. Declining would deprive about forty journalists of training. She must propose a response to the foundation and the commission this week.",
+  "options": [
+   "Run the workshops but refuse to share the attendee list, accepting that the commission may withdraw funding.",
+   "Decline the workshops entirely, concluding that any association with the licensing body compromises participants.",
+   "Share the attendee list as requested, trusting the commission's stated purpose of administrative reporting."
+  ],
+  "tension": [
+   "capacity building vs. surveillance risk",
+   "independence vs. access to training"
+  ],
+  "region": "Rwanda"
+ },
+ {
+  "title": "The Sponsored Election Guide",
+  "scenario": "Digital editor Sofia Papadaki in Athens receives an offer from a bank to sponsor the site's voter guide for the coming elections, which draws huge traffic. The bank asks only for its logo and a 'brought to you by' line. The guide is neutral, but one party has promised bank taxes, and its supporters will notice the sponsorship. The site's other revenue streams are thin, and the guide's quality depends on money for researchers. Sofia worries about the appearance more than any real influence, and about donors withdrawing if she declines.",
+  "options": [
+   "Accept the sponsorship with transparent disclosure and a published policy that the sponsor has no input into content.",
+   "Decline the bank, and fund the guide through crowdfunding with a smaller team and narrower scope.",
+   "Accept sponsorship from several competing companies at once, so that no single sponsor appears to shape the guide."
+  ],
+  "tension": [
+   "perceived bias vs. quality of civic information",
+   "appearance vs. substance"
+  ],
+  "region": "Greece"
+ },
+ {
+  "title": "Hosting a Show for the Telecom Giant",
+  "scenario": "Radio presenter Kwame Boateng's friend, the head of marketing at a big telecom firm in Abidjan, invites him to host a paid corporate event and to record a few short product announcements for local ads. Kwame hosts a morning consumer-rights show on air and has criticised the telecom's billing practices in recent months. The fee equals three months' pay. Kwame says he could separate the roles; his station manager feels it is a clear conflict. Listeners trust his consumer-champion persona. He has to answer his friend by Thursday.",
+  "options": [
+   "Decline the event and ads, and keep his consumer advocacy credible, accepting the financial loss.",
+   "Accept the event but not the ads, and publicly disclose the engagement to listeners on his show.",
+   "Accept both and step off the consumer-rights show for the duration of the contract."
+  ],
+  "tension": [
+   "personal finances vs. credibility",
+   "role separation vs. conflict of interest"
+  ],
+  "region": "Ivory Coast"
+ },
+ {
+  "title": "The Charity Ball's Media Partner",
+  "scenario": "Features editor Orla Kavanagh at a Dublin magazine is asked to become 'media partner' of a charity ball for children's cancer research, offering free coverage, in return for tickets, branding and a table. The ball's main sponsor is a developer under investigation by the magazine's own news desk. The magazine would gain prestige and the charity would gain publicity. The news desk worries that the partnership will compromise its investigation or appear to. The charity itself is uncontroversial. Orla must choose whether and how to partner.",
+  "options": [
+   "Decline the partnership because of the developer, and offer neutral standalone coverage of the charity instead.",
+   "Accept, but publicly disclose the developer's sponsorship and inform readers that the news desk operates independently.",
+   "Accept and ask the charity to drop the developer's branding from the magazine's materials only."
+  ],
+  "tension": [
+   "supporting a good cause vs. independence",
+   "association vs. integrity"
+  ],
+  "region": "Ireland"
+ },
+ {
+  "title": "Sponsor's Man on the Editorial Board",
+  "scenario": "Founder Mehmet Kaya runs a Turkish fintech-news start-up in Berlin. An investor offers a significant round of funding on condition that one of its partners joins the editorial advisory board. The investor also owns stakes in firms the site covers. The money would double the team. Mehmet could write in firewalls and the advisory role is non-binding on paper. Some staff would quit if the deal is done; others would lose jobs if it isn't. He has to answer the investor before the term sheet expires on Friday.",
+  "options": [
+   "Accept the investment but refuse the board seat, offering the investor a financial stake only.",
+   "Accept the board seat with public disclosure of the investor's holdings and a firewall policy on covered firms.",
+   "Reject the deal and look for slower funding, such as subscriptions and grants, even if that means layoffs."
+  ],
+  "tension": [
+   "growth vs. editorial independence",
+   "firewalls vs. perception"
+  ],
+  "region": "Germany"
+ },
+ {
+  "title": "Product Placement in the Newsroom Drama",
+  "scenario": "Executive producer Thandi Mokoena in Cape Town runs a daily factual programme about local business. A bottled-water brand proposes to pay for its products to appear throughout the set, with hosts casually using them. This would underwrite a new field-reporting team. No spoken endorsement is requested. The broadcaster's code requires on-screen disclosure of product placement, but the brand wants it removed in post. Thandi must decide how to balance the programme's finances, the code and viewers' trust.",
+  "options": [
+   "Accept the placement with the code-required disclosure on screen, even if the brand objects.",
+   "Reject the placement because a news-like show should keep products off the set entirely.",
+   "Accept the placement with only a closing credit disclosure, considering it sufficient for viewers who want to know."
+  ],
+  "tension": [
+   "funding vs. viewer awareness",
+   "code compliance vs. commercial relationship"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Freebie Reviewer's Honest Verdict",
+  "scenario": "Gadget reviewer Piotr Zielinski in Kraków receives a free laptop from a manufacturer for review, as is standard practice. After weeks he finds a serious battery defect. The manufacturer's PR manager calls, offering an exclusive early look at their next flagship if he waits until the next software patch before publishing. The defect could pose a fire risk in rare cases, he suspects, though testing is incomplete. His channel's income depends on early access. He must decide how to handle the review and the offer.",
+  "options": [
+   "Publish the defect warning now with the available evidence, forgoing the exclusive.",
+   "Wait for the patch as offered, while privately notifying the manufacturer's safety team and a consumer regulator.",
+   "Publish a review that mentions the defect gently, noting that the manufacturer is investigating, and accept the early look."
+  ],
+  "tension": [
+   "consumer safety vs. access",
+   "exclusive deals vs. honest reviewing"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Ministry-Funded Fact-Checking Unit",
+  "scenario": "Media entrepreneur Daniyar Omarov in Bishkek is offered a grant from a foreign embassy to establish a fact-checking unit. The embassy's priority list suggests that claims from one neighbouring state should be checked first. Daniyar knows misinformation from that state is genuinely a problem, but he also sees falsehoods from his own government and from the embassy's country. He worries that the grant might nudge the unit toward geopolitical aims. Rejecting means no unit at all. He needs to decide before the funding window closes.",
+  "options": [
+   "Accept the grant and publish an independence charter, checking claims from all sides including the embassy's own.",
+   "Accept the grant but negotiate a clause to remove the priority list, and walk away if the embassy insists.",
+   "Decline and build a smaller unit from local donations and volunteers, even if it takes longer to launch."
+  ],
+  "tension": [
+   "funding vs. geopolitical neutrality",
+   "fact-checking priority vs. freedom to choose"
+  ],
+  "region": "Kyrgyzstan"
+ },
+ {
+  "title": "Sponsored Disaster Relief Segment",
+  "scenario": "News director Rosalind Fairweather in Christchurch is approached by a supermarket chain after an earthquake. The chain proposes a nightly segment, 'Helping Hands', listing relief points and volunteers, sponsored by the chain, which has also been giving food. The service is valuable for those affected. But the chain is also being criticised for price rises on staples, which the newsroom has been investigating. Rosalind's team feels the segment may soften their reporting. She needs to decide before tonight's bulletin, with an urgent public need.",
+  "options": [
+   "Run the relief segment without sponsorship branding, and keep investigating the chain separately.",
+   "Run it with the chain's sponsorship disclosed, and carry the price investigation in the main bulletin as planned.",
+   "Decline the chain's offer and compile the relief information within the news itself, funded by the station."
+  ],
+  "tension": [
+   "public service vs. conflicts of interest",
+   "urgency vs. independence"
+  ],
+  "region": "New Zealand"
+ },
+ {
+  "title": "The Anonymous Donor's Condition",
+  "scenario": "Nonprofit newsroom director Hawa Barry in Conakry is offered a substantial donation by an anonymous donor through a lawyer. The donor requires that the newsroom not investigate certain mining licences. The condition is not recorded in writing, only described in a call. The donation would fund a team for two years and train young reporters. Hawa suspects the donor has an interest in the licences. A board member favours accepting and quietly avoiding the topic. She has not yet replied to the lawyer, and the board meets tomorrow.",
+  "options": [
+   "Reject the donation outright and report the attempted condition to the newsroom's board and public funders.",
+   "Accept the donation but refuse any condition, putting this in writing to the lawyer and publishing donor transparency rules.",
+   "Accept and avoid the licences, since the newsroom has many other topics and the training would help young reporters."
+  ],
+  "tension": [
+   "opaque funding vs. independence",
+   "wide benefit vs. restricted coverage"
+  ],
+  "region": "Guinea"
+ },
+ {
+  "title": "Gaming Streamer's Ambiguous Sponsorship",
+  "scenario": "Young streamer and news-commentary host Aarav Shah in Bengaluru reviews politics and technology on video. A betting app has offered him a large payment for a 'casual mention' of its service. Betting apps are legal but heavily criticised for harming young viewers with addiction risks. Aarav's audience is mostly teenagers. The fee would cover his family's medical bills. The app says no explicit encouragement is needed, only exposure. Aarav has considered a disclosure but knows many viewers skip captions. He must decide what to do before the weekend stream.",
+  "options": [
+   "Decline the sponsorship and look for other income, citing the risk to his young viewers.",
+   "Accept it with a clear spoken disclosure and a warning about gambling risks in the stream.",
+   "Accept it but redirect part of the fee to a gambling-addiction charity and disclose both facts."
+  ],
+  "tension": [
+   "family need vs. audience harm",
+   "disclosure vs. endorsement effect"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Think-Piece or Brand Content?",
+  "scenario": "Editor Rukhsana Hashmi at a Dhaka magazine commissions an essay from a professor on urban cycling. She later learns the professor's research centre is financed by a bicycle manufacturer that the essay praises in passing. The piece is already designed and printed in the next issue. The professor says the mention is factual. The sponsor never asked for it. Pulling the essay will cost money and anger the professor; running it as is risks readers' perception. Rukhsana thinks the essay is good otherwise. She has to decide today, since printing begins tomorrow.",
+  "options": [
+   "Run the essay with an author's note disclosing the funding relationship and keep the mention as it is.",
+   "Ask the professor to remove the manufacturer's mention, and run the essay with the funding disclosure.",
+   "Pull the essay from this issue and ask the professor to rewrite it without any reference to the manufacturer."
+  ],
+  "tension": [
+   "disclosure vs. suppression",
+   "quality of content vs. perceived influence"
+  ],
+  "region": "Bangladesh"
+ },
+ {
+  "title": "Lobbying Group's Op-Ed Ghostwriter",
+  "scenario": "Opinion editor Louise Tremblay in Quebec City receives a well-argued op-ed from a retired farmer attacking new pesticide restrictions. A reader tip reveals the piece was drafted by a lobbying firm for the agrochemical industry, and the farmer only signed it. The farmer confirms this when asked, but argues that the views are genuinely his. The piece makes legitimate points that rarely appear in the paper. Louise must decide whether to publish, and what to tell readers about its origins.",
+  "options": [
+   "Publish the op-ed with a note disclosing that it was drafted with help from an industry lobbying firm.",
+   "Reject the op-ed, since the real author is an undisclosed lobbyist and the byline misleads readers.",
+   "Ask the farmer to rewrite the piece in his own words and publish it with a disclosure of the lobbying contact."
+  ],
+  "tension": [
+   "diversity of views vs. authorship honesty",
+   "disclosure vs. exclusion"
+  ],
+  "region": "Canada"
+ },
+ {
+  "title": "The Supermarket Magazine Review",
+  "scenario": "Editor-in-chief Ivana Petrović of a free Zagreb consumer magazine, funded by one supermarket chain, wants to review fairly the prices across chains. Her publisher says the magazine's role is to promote the chain's offers and not to compare. Ivana thinks a price comparison would genuinely help readers on tight budgets. She could do it with a disclosure that the magazine is funded by the chain, or skip it. If she insists, the publisher may close the magazine, which employs six people.",
+  "options": [
+   "Publish the comparison with a prominent funding disclosure, and risk the publisher's reaction.",
+   "Skip the comparison and focus on the chain's offers, being clear in the masthead that the magazine is a marketing product.",
+   "Offer the comparison data to an independent consumer group to publish, outside the magazine."
+  ],
+  "tension": [
+   "reader benefit vs. employment",
+   "being clear about the nature of the publication"
+  ],
+  "region": "Croatia"
+ }
+]

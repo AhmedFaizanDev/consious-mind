@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Grandfather's Switch",
+  "scenario": "Yaw Asante, 38, a software developer in Kumasi, returns from the UK with his wife and five-year-old daughter Adwoa to live near his parents. His father, a retired headmaster, corrects Adwoa with light switch taps on the legs when she is rude. Yaw was raised the same way, but his wife, Claire, finds it unacceptable and has threatened to move out. His father says Yaw is raising a spoilt child. Yaw must speak to both tonight.",
+  "options": [
+   "Ask his father to stop all physical correction in his daughter's presence, prioritising Claire's and his own values on discipline.",
+   "Tell Claire that mild physical correction is part of the family's culture and ask her to tolerate it, preserving his father's authority.",
+   "Propose that the grandfather uses other methods in Yaw's home but may follow his own ways when Adwoa visits him, accepting an uneasy split."
+  ],
+  "tension": [
+   "cultural discipline norms vs. child protection",
+   "spousal agreement vs. elder authority"
+  ],
+  "region": "Ghana"
+ },
+ {
+  "title": "The School Bag Left at Home",
+  "scenario": "Principal Mei Ling Chow of a primary school in Singapore is approached by Jasmine Koh, 9, who shows bruises on her calves after refusing extra tuition. Her mother, Mrs. Koh, tells the school it was a light caning, typical of her own childhood, and that Jasmine's results matter for the family's future. Mei Ling knows school staff are required to report suspected abuse. She has until the end of the day to decide whether to make a formal report.",
+  "options": [
+   "File a formal report to child protection services as policy requires, putting the child's safety ahead of the mother's cultural framing.",
+   "Meet the mother first, warn her and offer parenting support, delaying a report to see whether the practice stops.",
+   "Record the incident and monitor Jasmine without reporting, judging the severity as insufficient for escalation."
+  ],
+  "tension": [
+   "child protection vs. parental authority",
+   "mandatory duty vs. cultural understanding"
+  ],
+  "region": "Singapore"
+ },
+ {
+  "title": "Sleeping Together at Seven",
+  "scenario": "Pediatric nurse Emma Schroeder in Minnesota counsels the Taufa family, Tongan immigrants whose seven-year-old son Mosese sleeps in the parents' bed with his two siblings. The parents see separate rooms as lonely and cold. A school counsellor has called the arrangement unhealthy and referred them. Emma finds the children well-adjusted but the family's home is cramped and the parents are exhausted. She must decide what to advise at the visit.",
+  "options": [
+   "Reassure the parents that family co-sleeping is acceptable and report to the school that there is no concern.",
+   "Encourage a gradual move toward independent sleep to match local expectations and ease the parents' exhaustion.",
+   "Ask the parents what they hope for and help them design a plan around their goals, without recommending either path."
+  ],
+  "tension": [
+   "cultural practice vs. majority norms",
+   "child's wellbeing vs. parental values"
+  ],
+  "region": "United States / Tonga"
+ },
+ {
+  "title": "A Boy Raised by the Village",
+  "scenario": "In a Maasai community near Narok, Naserian Sankale's twelve-year-old son Lemayian has been selected to attend a boarding school as part of a scholarship. According to custom, the boy is due to enter the warrior-age initiation next year and herd cattle. The elders say that without him the family's herd will suffer. Naserian, a widow, believes school may open new paths. She must tell the elders and the scholarship officer her decision.",
+  "options": [
+   "Send Lemayian to boarding school, accepting the elders' disapproval and the loss of his labour for the sake of his future.",
+   "Keep him in the community for initiation and herding, honouring custom and the family's immediate needs.",
+   "Delay the schooling by a year to let him complete the initiation first, trying to satisfy both but risking the scholarship."
+  ],
+  "tension": [
+   "tradition vs. opportunity",
+   "child's future vs. family livelihood"
+  ],
+  "region": "Kenya"
+ },
+ {
+  "title": "Screen Time at Grandma's",
+  "scenario": "Lars Eriksen, 40, a Danish pediatric dentist in Aarhus, notices that his daughters' Turkish-born grandmother, who cares for them after school, keeps them near the television for hours and feeds them sweets as expressions of love. Lars's wife, Selin, defends her mother and says the girls are loved and safe. Lars worries about their health and Danish expectations at school. The grandmother is hurt by any hint of criticism. He must decide how to raise the issue this weekend.",
+  "options": [
+   "Speak to the grandmother directly about limits on screens and sweets, valuing the girls' health over her feelings.",
+   "Leave the matter and accept the grandmother's style, valuing family closeness and Selin's trust over strict routines.",
+   "Have Selin raise it, in Turkish and in private, hoping to reduce the sense of foreign criticism, though Selin may not agree."
+  ],
+  "tension": [
+   "health norms vs. love and respect",
+   "cultural difference vs. parental authority"
+  ],
+  "region": "Denmark"
+ },
+ {
+  "title": "The Tiger Mother's Tutor",
+  "scenario": "Sheng Li, a 42-year-old Chinese-American surgeon in San Jose, schedules her daughter Grace, 12, for seven hours a week of math tutoring. Grace has begun to lose hair and says she wants to quit the violin and tutoring entirely. Sheng's husband, Peter, thinks Grace is overwhelmed; Sheng's mother insists that the pressure is the foundation of success. Sheng must decide before the semester begins what to cut and what to keep.",
+  "options": [
+   "Cut the tutoring and violin sharply and let Grace rest, prioritising her health and emotional wellbeing.",
+   "Keep the schedule but add counselling and rest days, believing that the benefits justify manageable stress.",
+   "Let Grace choose one activity to keep, giving her agency while preserving some discipline and structure."
+  ],
+  "tension": [
+   "achievement vs. wellbeing",
+   "parental ambition vs. child's voice"
+  ],
+  "region": "United States"
+ },
+ {
+  "title": "Who May Correct the Child",
+  "scenario": "Pilar Mendez, 31, in Oaxaca, shares a compound with her sisters-in-law and her husband's family, where any adult may scold any child. Her son Diego, six, is scolded harshly by an uncle for breaking a window. Pilar worries about Diego's confidence; her mother-in-law says scolding by the whole family teaches respect. Pilar's husband avoids the conflict. She must decide whether to tell the uncle to stop.",
+  "options": [
+   "Tell the uncle directly to leave discipline to the parents, protecting Diego and risking a conflict with her in-laws.",
+   "Let the family practice continue, valuing harmony and the belief that shared discipline strengthens belonging.",
+   "Ask the grandmother to set a standard for how scolding is done, shifting the norm without confronting any one person."
+  ],
+  "tension": [
+   "parental authority vs. communal upbringing",
+   "child's confidence vs. family harmony"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "Teaching Respect with Silence",
+  "scenario": "Teacher Nikoloz Beridze in Tbilisi notices that eight-year-old Mariam answers no questions and flinches when called on. Her father, a former soldier, tells Nikoloz that he teaches respect through silence and cold treatment when she misbehaves, and does not hit her. Mariam's mother, in tears, says it is breaking the child. Nikoloz is unsure whether this is neglect, cultural parenting or ordinary strictness. He must decide how to respond at tomorrow's parent meeting.",
+  "options": [
+   "Tell the father plainly that withdrawing affection is harmful and urge change, even if he becomes defensive and withdraws Mariam from the school.",
+   "Support the mother in private and share resources about child development, leaving the father out for now.",
+   "Refer the matter to the school psychologist for an assessment before saying anything to the parents."
+  ],
+  "tension": [
+   "parenting autonomy vs. child welfare",
+   "intervention vs. cultural humility"
+  ],
+  "region": "Georgia"
+ },
+ {
+  "title": "No Birthday Parties",
+  "scenario": "Amina Yusuf, 35, of Minneapolis belongs to a religious community that does not celebrate birthdays. Her ten-year-old son Idris has been invited to a classmate's party and begs to go. Her husband sees no harm in cake and games; Amina's mother and religious teacher disagree. Idris tells her he is excluded and lonely. Amina must give him an answer by tonight.",
+  "options": [
+   "Let Idris attend, reasoning that belonging among peers matters and that the party is not an act of worship.",
+   "Say no and explain the family's values, helping him feel pride in difference while accepting his disappointment.",
+   "Offer an alternative family celebration without calling it a birthday, trying to give him joy without breaking the rule."
+  ],
+  "tension": [
+   "religious practice vs. child's belonging",
+   "parental values vs. child's wishes"
+  ],
+  "region": "United States / Somalia"
+ },
+ {
+  "title": "Shared Beds and Shared Chores",
+  "scenario": "Olumide Bakare, 45, a Nigerian head of household in Ibadan, has taken in his sister's daughter, Temi, 11, to live with his family as is customary. Temi does heavy housework before school, while his own daughters do less. His wife calls this training and sees it as typical for relatives in the house. A teacher notes that Temi is often tired. Olumide must decide whether to reallocate the chores.",
+  "options": [
+   "Redistribute chores equally among all the girls, treating Temi as one of his own children and her schooling as a priority.",
+   "Keep the arrangement but ensure Temi has time to study and rest, working within the household's expectations.",
+   "Send Temi back to her mother with funds for school, feeling the arrangement is inadequate but not wishing to alter his household."
+  ],
+  "tension": [
+   "fostering custom vs. equal treatment",
+   "child's education vs. household labour"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Cold Showers and Early Mornings",
+  "scenario": "Hiroshi Aoki, 44, in Sapporo, sends his son Takeru, 8, to a juku after school and wakes him at five for exercise in the cold. Takeru cries often and begs for rest. Hiroshi's own father raised him similarly, and he believes it forms gaman, endurance. Takeru's teacher gently suggests this may be too much. Hiroshi's wife, Naomi, fears Takeru will resent them. Hiroshi must decide this weekend whether to modify the schedule.",
+  "options": [
+   "Keep the routine, trusting that endurance training will help Takeru in the long term and that tears are a normal part of growing.",
+   "Cut the early morning exercise and reduce juku, accepting that a gentler approach may suit Takeru better.",
+   "Let Takeru help design a lighter routine with a few agreed challenges, hoping he will take ownership."
+  ],
+  "tension": [
+   "discipline vs. emotional wellbeing",
+   "tradition vs. responsiveness"
+  ],
+  "region": "Japan"
+ },
+ {
+  "title": "A Child Interpreter for the Doctor",
+  "scenario": "Dr. Sofia Marin, a paediatrician in Turin, treats a sick two-year-old, Alin, whose Romanian Roma parents ask that their twelve-year-old daughter Bianca translate. They refuse a hospital interpreter, wary of officials. Bianca has missed school to attend appointments and is now being told grim news about her brother's condition. Dr. Marin has to decide how to proceed in the consultation before her.",
+  "options": [
+   "Insist on a professional interpreter before sharing serious news, protecting Bianca from the burden and ensuring accuracy.",
+   "Allow Bianca to translate, respecting the parents' trust in her and avoiding rupture with a family wary of authority.",
+   "Ask a trusted cultural mediator from a local nonprofit to join by phone, accepting a delay that may postpone treatment."
+  ],
+  "tension": [
+   "child protection vs. family trust",
+   "accuracy vs. rapport"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "The Lock on the Bedroom Door",
+  "scenario": "Fiona MacLeod, 46, a Scottish social worker, visits the Hussain family in Glasgow after a school flags that their fifteen-year-old daughter Sana is not allowed to go out except to school. Sana's father says he is protecting her and that she is content; Sana quietly says she wants to join a football club. There is no violence or threats. Fiona must decide whether to push for change or accept this as a family's chosen approach.",
+  "options": [
+   "Press the parents to allow Sana more freedom, framing it as a legal and developmental necessity.",
+   "Support the father's protective approach while offering Sana alternative supervised activities, taking a gradual path.",
+   "Speak privately with Sana about her options and wait for her to say what she wants, avoiding any family confrontation for now."
+  ],
+  "tension": [
+   "parental protection vs. adolescent autonomy",
+   "cultural respect vs. child's rights"
+  ],
+  "region": "Scotland"
+ },
+ {
+  "title": "Naming the Unwanted Daughter",
+  "scenario": "Savitri Devi, 28, in Bihar, has given birth to her third daughter. Her mother-in-law urges her to give the baby to a childless relative in a distant village so Savitri can try for a son. Savitri's husband says nothing. The relative is kind and wealthy; Savitri loves the baby. Refusing will risk her place in the household. The relative is arriving tomorrow. Savitri must decide whether to hand over the baby.",
+  "options": [
+   "Refuse to give up the baby, accepting the consequences within the household for the sake of her child.",
+   "Give the baby to the relative with an agreement to visit often, believing the child will have a good life and the household will stay intact.",
+   "Ask the relative to support her daughters' education instead, offering a different form of help without separation."
+  ],
+  "tension": [
+   "maternal bond vs. household pressure",
+   "child's welfare vs. family norms"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "The Rite of Passage in the Bush",
+  "scenario": "Tshepo Molefe, 34, in Soweto, is expected to send his fifteen-year-old son Lwazi to a traditional initiation school in the Eastern Cape, a rite of manhood for his clan. Lwazi has a heart murmur, and the doctor warns about exposure and dehydration during the weeks of seclusion. Tshepo's father says that a man who skips initiation is never considered a man. Lwazi wants to go. Tshepo must decide before the winter session begins.",
+  "options": [
+   "Allow Lwazi to go with arrangements for medication and a trusted guardian, honouring his wish and the clan's expectation.",
+   "Forbid it this year and seek approval from the elders for a delay, prioritising Lwazi's health.",
+   "Seek a cardiologist's second opinion before deciding, delaying the decision and possibly missing the session."
+  ],
+  "tension": [
+   "rite of passage vs. health risk",
+   "tradition vs. child safety"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Spare the Rod in Seoul?",
+  "scenario": "Daniel Joo, 37, a Korean-American pastor in Atlanta, is asked at a parenting workshop by an older congregant to endorse corporal punishment, citing scripture. Daniel himself was spanked and has mixed feelings. A young mother in the group says that spanking has made her child fear her. The group looks to him. Daniel must decide what to say in his remarks and how to interpret the texts for his flock.",
+  "options": [
+   "Endorse measured corporal discipline as biblically grounded, offering guidelines on restraint.",
+   "Discourage physical discipline and interpret scripture to emphasise guidance and compassion.",
+   "Present multiple interpretations and encourage each family to pray over it, avoiding a single recommendation."
+  ],
+  "tension": [
+   "scriptural authority vs. child wellbeing",
+   "pastoral leadership vs. diversity of conscience"
+  ],
+  "region": "United States"
+ },
+ {
+  "title": "Letting Go of the Teenager's Hand",
+  "scenario": "Ingeborg Haugen, 41, a Norwegian physician, spent a year in Cairo with her husband's family and has returned to Oslo with her fourteen-year-old son Mikkel, who has been raised to share all decisions with extended family. Mikkel's school expects teens to manage independently and says he is overly dependent. Ingeborg's mother-in-law in Cairo phones daily with instructions. Ingeborg must decide whether to push Mikkel toward independence or keep the family closeness.",
+  "options": [
+   "Encourage Mikkel to make decisions on his own, aligning with local expectations of adolescent independence.",
+   "Maintain the close family involvement, valuing interdependence as a legitimate and healthy approach.",
+   "Ask Mikkel what he wants and help him craft a hybrid, giving him a chance to shape his own balance."
+  ],
+  "tension": [
+   "independence vs. interdependence",
+   "cultural integration vs. heritage"
+  ],
+  "region": "Norway / Egypt"
+ },
+ {
+  "title": "Boarding School at Six",
+  "scenario": "Sir Alistair Pembroke-Hart's niece, Cordelia, 33, in Surrey, is asked by her own mother to send her six-year-old son Hugo to the prep school where generations of the family were educated. Hugo is anxious and clingy. Cordelia's husband is working abroad and she herself felt abandoned at that age. The headmaster says Hugo will adapt. The deposit is due on Monday. Cordelia must decide.",
+  "options": [
+   "Enrol Hugo, trusting the school and valuing its academic and social advantages, despite her own childhood experience.",
+   "Decline and keep Hugo home, prioritising his emotional security and her own memory of hurt.",
+   "Enrol him as a day pupil instead, seeking a middle path though it is less traditional and more costly."
+  ],
+  "tension": [
+   "family tradition vs. child's emotional needs",
+   "opportunity vs. security"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Cousins as Siblings",
+  "scenario": "In Port Moresby, Papua New Guinea, Kila Vagi, 36, and her husband have been asked by his clan to adopt his brother's two children, in keeping with custom, after the brother's death. The couple already have three children and a small income. The grandmother wants the children to remain in the clan. A cousin in Brisbane has offered to adopt one child and pay for schooling. Kila must tell the clan how she wants to proceed.",
+  "options": [
+   "Take both children into their home, honouring clan expectations and keeping the siblings together.",
+   "Accept the Brisbane cousin's offer for one child and keep the other, accepting the separation for the sake of educational chances.",
+   "Ask the clan to share the children's care across several households, keeping them in the community but spreading the burden."
+  ],
+  "tension": [
+   "kin obligation vs. household capacity",
+   "siblings together vs. opportunity"
+  ],
+  "region": "Papua New Guinea"
+ },
+ {
+  "title": "A Bedtime of Fear",
+  "scenario": "Branka Petrovic, 39, in Belgrade, recently saw her mother tell her four-year-old that the 'night man' will take her if she leaves her bed. The child now refuses to sleep alone. Branka's mother used the same stories on her, and says they keep children safe and obedient. Branka's husband is amused. Branka dislikes frightening the child but does not want to insult her mother, who provides free child care. She must decide how to speak to her mother.",
+  "options": [
+   "Tell her mother clearly to stop the scary stories, even if it strains the relationship and the child care arrangement.",
+   "Replace the story gently with a positive alternative without criticising, hoping her mother adapts.",
+   "Let the stories continue for now and soothe the child afterwards, valuing the family help she receives."
+  ],
+  "tension": [
+   "fear-based discipline vs. child emotional safety",
+   "honesty vs. dependence on caregiver"
+  ],
+  "region": "Serbia"
+ },
+ {
+  "title": "Working Child, Proud Father",
+  "scenario": "Social worker Alicia Torres in El Alto, Bolivia, meets ten-year-old Marcelo, who works selling sweets after school with his father's blessing. His father, a bricklayer, says working teaches responsibility, as it did for him, and the family needs the income. Local Aymara tradition values children contributing from a young age. A national law prohibits work under fourteen. Alicia must decide whether to report or support the family informally.",
+  "options": [
+   "Report the child labour to the authorities as the law requires, despite the family's need and the cultural context.",
+   "Help the family find scholarship support and limit Marcelo's work hours, taking an incremental approach.",
+   "Take no action beyond advice, judging that the work is limited and the family's autonomy and economic need should be respected."
+  ],
+  "tension": [
+   "child labour law vs. economic survival",
+   "cultural values vs. children's rights"
+  ],
+  "region": "Bolivia"
+ },
+ {
+  "title": "The Therapist and the Silent Teenager",
+  "scenario": "Therapist Chidera Nwankwo in Atlanta works with Kwame Mensah, 16, a Ghanaian-American who has stopped speaking at home after his father slapped him for talking back. Kwame's parents say that they will not accept being told how to raise a child by outsiders. Chidera sees warmth in the family too. She is bound to confidentiality. Kwame asks her not to tell them what he says. Chidera must decide how to structure the next session.",
+  "options": [
+   "Hold a joint session and share the harm Kwame feels, aiming for family change even if it breaches Kwame's expectation of privacy.",
+   "Continue seeing Kwame alone, preserving his trust, while coaching him on how to talk with his parents himself.",
+   "Meet the parents separately to build rapport and discuss discipline in general terms, without revealing Kwame's disclosures."
+  ],
+  "tension": [
+   "confidentiality vs. family intervention",
+   "adolescent trust vs. parental authority"
+  ],
+  "region": "United States / Ghana"
+ },
+ {
+  "title": "Eating With Hands or Spoons",
+  "scenario": "Priyanka Nair, 33, in Perth, Australia, hosts her in-laws from Kerala for six months. Her mother-in-law insists on feeding her three-year-old grandson Kiran by hand, sometimes forcing food, which she says is how love is shown. Priyanka's childcare centre advises letting children self-feed and not forcing meals. Kiran is a picky eater and often resists. Priyanka must decide whether to ask her mother-in-law to stop.",
+  "options": [
+   "Ask her mother-in-law to stop forced feeding, explaining the childcare guidance and prioritising Kiran's autonomy.",
+   "Allow the hand-feeding to continue during the visit, valuing the grandmother's bond with Kiran and the short duration.",
+   "Offer a compromise in which her mother-in-law feeds him at one meal each day and he self-feeds at the others."
+  ],
+  "tension": [
+   "child autonomy vs. grandmotherly care",
+   "expert advice vs. family custom"
+  ],
+  "region": "Australia / India"
+ },
+ {
+  "title": "A Cousin's Child at the Door",
+  "scenario": "Late one night, Rutendo Moyo, 48, a teacher in Harare, finds her niece's seven-year-old son Tafara on her doorstep. The niece, ill and unemployed, says she cannot feed him. Rutendo already supports her ageing mother and two teenagers on a teacher's salary. A church group offers to place Tafara in an orphan-care programme. Rutendo's husband says family should take him in. She has to decide before morning whether to keep him.",
+  "options": [
+   "Take Tafara in permanently, treating kinship as binding even if it strains the household's budget and space.",
+   "Take him in temporarily while helping her niece find work and treatment, with the aim of reunion.",
+   "Accept the church programme's offer, ensuring he is fed and schooled when her household cannot afford it."
+  ],
+  "tension": [
+   "kinship duty vs. household capacity",
+   "child's best interests vs. family identity"
+  ],
+  "region": "Zimbabwe"
+ },
+ {
+  "title": "The Lullaby in the Wrong Language",
+  "scenario": "Anneke de Vries, 35, a Dutch mother in Utrecht, married to a Moroccan Berber man, Hassan, has been told by her day-care teacher that their three-year-old daughter Nour is behind in Dutch because the family speaks Tamazight and Arabic at home. Hassan's mother wants Nour to learn the family languages. Anneke fears for Nour's school readiness. She and Hassan must decide on a language policy for the household before school starts.",
+  "options": [
+   "Switch to Dutch at home to support school readiness, accepting some loss of heritage language transmission.",
+   "Keep the heritage languages at home and trust that Dutch will come through day-care and school.",
+   "Use a clear division such as Dutch with Anneke and heritage languages with Hassan and grandparents, accepting the effort and uneven results."
+  ],
+  "tension": [
+   "school readiness vs. heritage",
+   "integration vs. identity"
+  ],
+  "region": "Netherlands"
+ }
+]

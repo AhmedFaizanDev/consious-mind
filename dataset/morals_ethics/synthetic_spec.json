@@ -1,0 +1,18 @@
+{
+  "items_per_cell": 25,
+  "generator_note": "Scenarios are written by a Claude model; they are NOT human-authored and carry NO answer key. They only fill the applied/professional-ethics gap left by the sourced human datasets.",
+  "domains": {
+    "clinical_medical_ethics": ["informed consent and patient refusal", "triage and scarce resources", "end-of-life and palliative decisions", "confidentiality and duty to warn", "disclosure of errors and uncertainty"],
+    "research_and_data_ethics": ["human-subjects research and consent", "scientific integrity and misconduct", "data privacy and re-identification", "authorship, credit and peer review", "dual-use findings and publication"],
+    "ai_and_technology_ethics": ["algorithmic bias and fairness in decisions", "surveillance and workplace monitoring", "automation, jobs and responsibility", "content moderation and speech", "deception, deepfakes and persuasion by AI systems"],
+    "business_and_professional_ethics": ["whistleblowing and loyalty", "conflicts of interest", "honesty in marketing and sales", "supply-chain labor and sourcing", "auditing, accounting and fiduciary duty"],
+    "environmental_and_intergenerational_ethics": ["climate trade-offs between present and future people", "conservation versus local livelihoods", "animal welfare and use", "resource allocation and commons", "pollution, siting and environmental justice"],
+    "legal_political_civic_ethics": ["civil disobedience and unjust laws", "duties of public officials", "policing and use of discretion", "immigration and asylum decisions", "jury, witness and legal-profession duties"],
+    "education_and_workplace_ethics": ["academic integrity and grading fairness", "hiring, promotion and discrimination", "mentorship and power imbalance", "layoffs and treatment of employees", "accommodations and fairness among peers"],
+    "media_journalism_and_public_communication": ["source protection and public interest", "misinformation and correction", "privacy of public and private persons", "sponsored content and independence", "satire, harm and responsibility"],
+    "family_caregiving_across_cultures": ["elder care and filial duty", "inheritance and family obligation", "religious or traditional practice versus individual choice", "migration and remittance obligations", "child-rearing and discipline norms"],
+    "global_health_and_development_ethics": ["aid allocation and effectiveness", "vaccine and drug distribution", "clinical trials in low-resource settings", "local autonomy versus outside expertise", "humanitarian access and neutrality"],
+    "security_emergency_and_safety_ethics": ["disaster response and prioritization", "proportionality and risk to bystanders", "intelligence, secrecy and disclosure", "first responders and duty of care", "public-safety rules versus individual liberty"],
+    "financial_and_economic_ethics": ["debt, lending and exploitation", "gig work and platform labor", "taxation, avoidance and fairness", "gambling, loot boxes and manipulative design", "poverty, charity and obligation to help"]
+  }
+}

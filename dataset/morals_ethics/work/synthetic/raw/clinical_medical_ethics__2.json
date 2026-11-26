@@ -1,0 +1,352 @@
+[
+ {
+  "title": "Sedation for a Dying Fisherman's Restlessness",
+  "scenario": "Palliative nurse Maria Santos in a hospice near Cebu City cares for Mang Rodel, 67, a fisherman with end-stage lung cancer. He is agitated and breathless, begging for relief. Morphine and midazolam at current doses have not settled him. His family is gathered and wants him calm but also hopes he can speak a few last words to his grandchildren, arriving tomorrow. The doctor has authorised stronger sedation if needed. Maria must decide whether to give the higher dose tonight.",
+  "options": [
+   "Give the higher dose now to relieve his distress, accepting that he will probably not speak with the grandchildren.",
+   "Keep the current dose and use non-drug comfort measures, aiming to keep him alert for the grandchildren even if his suffering persists a while.",
+   "Ask Mang Rodel directly, as clearly as he can answer, whether he prefers comfort or clarity, and follow his answer."
+  ],
+  "tension": [
+   "relief of suffering vs. meaningful final moments",
+   "autonomy vs. beneficence"
+  ],
+  "region": "Philippines"
+ },
+ {
+  "title": "Stopping Dialysis for a Man with Dementia",
+  "scenario": "Geriatrician Dr. Alessandro Greco in Turin has a patient, Signor Fabbri, 82, with moderate dementia and kidney failure, on dialysis three times weekly. He often becomes distressed, pulls out his lines, and needs restraint. Years ago, while well, he told his wife he would never want to live 'tied to a machine'. His daughter says he still enjoys visits from the grandchildren and wants dialysis to continue. Dr. Greco must advise on continuing treatment.",
+  "options": [
+   "Continue dialysis, giving weight to his present enjoyment of life and to the family's wish, and use sedation to reduce distress.",
+   "Stop dialysis and move to comfort care, following his earlier clearly expressed values over his current confused state.",
+   "Try a reduced schedule or conservative management trial for a month, reviewing his comfort and the family's views at the end."
+  ],
+  "tension": [
+   "advance wishes vs. current interests",
+   "family disagreement vs. best interests"
+  ],
+  "region": "Italy"
+ },
+ {
+  "title": "A Request for Medically Assisted Dying in Early Dementia",
+  "scenario": "Dr. Willem Jansen, a general practitioner in Utrecht, has long treated Anneke, 70, recently diagnosed with early Alzheimer's. She wrote a clear advance directive asking for euthanasia 'before I no longer recognise my children'. Now she asks him to arrange it within three months, while she can still speak for herself. She is cheerful, active, and not in pain. Her husband is supportive; her son is horrified. Dr. Jansen must decide how to respond to her request.",
+  "options": [
+   "Proceed with the formal assessment process, treating her capable current request as valid and meeting the legal criteria if they are satisfied.",
+   "Decline, since she is not currently suffering unbearably, and propose planning around her wishes should her condition worsen.",
+   "Postpone for now and offer repeated discussions over several months, while documenting her wishes more fully and involving her son."
+  ],
+  "tension": [
+   "autonomy vs. sanctity of life",
+   "present wellbeing vs. future suffering"
+  ],
+  "region": "Netherlands"
+ },
+ {
+  "title": "Artificial Feeding Against a Muslim Family's Wishes",
+  "scenario": "Dr. Nur Aisyah, a palliative physician in Kuala Terengganu, is asked by the family of Haji Ismail, 84, with advanced stroke, to insert a feeding tube. Haji Ismail previously told his imam he did not want 'to be kept alive by tubes'. The family is divided: his wife wants the tube, while his eldest son says Haji's wish must be honoured. Without feeding he will likely die in a couple of weeks. The religious teacher has offered no clear ruling. Dr. Aisyah must decide how to proceed.",
+  "options": [
+   "Insert the tube, treating nutrition as basic care and respecting his wife's wishes as the closest relative.",
+   "Withhold the tube, giving priority to his previously expressed wish, and focus on comfort and mouth care.",
+   "Place a short trial of tube feeding with a family meeting in a week, to decide whether to continue as his condition becomes clearer."
+  ],
+  "tension": [
+   "prior wishes vs. family consensus",
+   "religious norms vs. medical judgment"
+  ],
+  "region": "Malaysia"
+ },
+ {
+  "title": "Terminal Sedation Request from a Young Mother",
+  "scenario": "Oncologist Dr. Katarzyna Nowicka in Kraków treats Joanna, 36, with metastatic breast cancer and severe bone pain no longer fully controlled. Joanna asks for sedation until death, saying she wants no more pain but also wants to attend her six-year-old's first communion in ten days. She might live a few weeks. Her husband begs her to wait until after the ceremony. Joanna is lucid and says she is torn. Dr. Nowicka must decide how to advise her.",
+  "options": [
+   "Offer intermittent sedation that allows her to wake for the ceremony, even though pain breakthrough may return between periods.",
+   "Begin continuous sedation now as requested, since her suffering is the immediate concern and the ceremony is not guaranteed.",
+   "Encourage her to delay sedation until after the communion, intensifying other pain measures, while making clear that she may change her mind at any time."
+  ],
+  "tension": [
+   "relief of suffering vs. meaningful goals",
+   "autonomy vs. family pressure"
+  ],
+  "region": "Poland"
+ },
+ {
+  "title": "Family Insists the Patient Not Be Told",
+  "scenario": "Hospice doctor Dr. Emeka Obi in Port Harcourt is asked by the sons of Chief Adeyemi, 79, not to tell their father that he is dying of pancreatic cancer. They say it would destroy his spirit and that in their culture such news is carried by the family. The Chief has repeatedly asked Dr. Obi, 'Am I getting better?' and seems to sense something. Time is short. Dr. Obi must decide how to answer when the Chief asks again.",
+  "options": [
+   "Respect the family's request and respond with comforting but non-committal language, avoiding a direct lie.",
+   "Answer the Chief honestly and gently when he asks directly, even though the sons will be angry.",
+   "Ask the Chief what he wants to know and who he would like to hear it from, and follow his lead."
+  ],
+  "tension": [
+   "truth-telling vs. family-centred culture",
+   "patient's right to know vs. protection"
+  ],
+  "region": "Nigeria"
+ },
+ {
+  "title": "Turning Off a Pacemaker",
+  "scenario": "Cardiac nurse specialist Hannah Weiss in Zurich is asked by Herr Brunner, 88, in the last stage of heart failure and cancer, to deactivate his pacemaker, which keeps his heart beating when it would otherwise stop. He says he is tired and wants to die. His cardiologist is unavailable and the hospital has no policy. Switching it off would likely lead to death within hours. His daughter, a nurse, supports him. Hannah must decide whether to take the action.",
+  "options": [
+   "Deactivate the pacemaker as requested, regarding this as withdrawal of an unwanted treatment, not an act of killing.",
+   "Decline to deactivate it, regarding this as too close to ending his life, and refer him to a colleague who will.",
+   "Delay until the cardiologist and ethics team can review, explaining to Herr Brunner that she will act quickly but not alone."
+  ],
+  "tension": [
+   "withdrawing treatment vs. ending life",
+   "personal conscience vs. patient request"
+  ],
+  "region": "Switzerland"
+ },
+ {
+  "title": "Morphine Doses and the Fear of Hastening Death",
+  "scenario": "Dr. Thandiwe Mokoena, a junior doctor at a hospice in Johannesburg, finds that a dying patient, Mrs. Pretorius, 90, has moaning pain despite her current opioid dose. The night nurse, Sizwe, fears that increasing the dose might shorten her life and be seen as euthanasia. Her daughter says to 'do whatever is needed'. The senior doctor is unreachable for another two hours. Dr. Mokoena must decide whether to authorise a higher dose now.",
+  "options": [
+   "Increase the dose now to relieve pain, based on established principles of proportionate symptom control.",
+   "Wait for the senior doctor to arrive, using non-drug measures meanwhile, to avoid acting beyond her authority.",
+   "Increase the dose by a modest step and reassess in thirty minutes, documenting her reasoning and the daughter's request."
+  ],
+  "tension": [
+   "comfort vs. fear of hastening death",
+   "junior authority vs. patient suffering"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Brain-Dead Teen and a Mother Who Wants More Time",
+  "scenario": "Intensivist Dr. Shahid Mirza in Karachi has declared a 15-year-old boy brain dead after a fall from a rooftop. His mother, kneeling by the bed, says the boy's heart is still beating and he is warm; she begs for more time and refuses to let the ventilator be turned off. The ward is full and a critically ill patient needs the ventilator. A local religious scholar has said that brain death is not widely accepted as death. Dr. Mirza must decide how to proceed.",
+  "options": [
+   "Continue ventilating the boy for a fixed period of days, giving the mother time to accept the death while the other patient waits elsewhere.",
+   "Explain the diagnosis firmly and withdraw the ventilator today, giving priority to the patient who can still benefit.",
+   "Invite the scholar and an independent doctor to meet the mother and confirm the finding, deciding the timing after that discussion."
+  ],
+  "tension": [
+   "family grief vs. resource needs",
+   "medical definition of death vs. religious interpretations"
+  ],
+  "region": "Pakistan"
+ },
+ {
+  "title": "Reviving a Patient with a Disputed Directive",
+  "scenario": "Emergency physician Dr. Sven Lindqvist in Gothenburg treats Margareta, 76, brought in unconscious after an overdose of her own sedatives. A neighbour hands over a typed note signed by Margareta stating she wants no resuscitation if found in such a state. The note is undated and unwitnessed; her son calls from abroad saying she was depressed since his father died last year. Dr. Lindqvist has minutes before her breathing fails. He must decide whether to intubate and ventilate her.",
+  "options": [
+   "Intubate and treat her, because the note's authenticity and current validity are uncertain and the harm of death is irreversible.",
+   "Withhold intubation and provide comfort care, respecting what appears to be a considered written refusal.",
+   "Intubate now to gain time, then assess her capacity and her wishes properly once she can be woken and spoken with."
+  ],
+  "tension": [
+   "respecting prior refusal vs. preventing irreversible loss",
+   "suicide risk vs. autonomy"
+  ],
+  "region": "Sweden"
+ },
+ {
+  "title": "A Hospital Chaplain and an Unbaptised Dying Child",
+  "scenario": "Hospital chaplain Father Dominic Tran in Ho Chi Minh City sits with a Catholic couple whose three-year-old daughter is dying of leukaemia. The parents ask the child to be baptised, but the father, who is an atheist, objects, saying their daughter should not be given a religion before she can choose. Mother insists the baptism matters deeply for her peace and the child's soul. The child may live only hours. Father Dominic must decide whether to perform the baptism.",
+  "options": [
+   "Baptise the child, as the mother requests, honouring a sacrament that is meaningful to her in her grief.",
+   "Decline to baptise without the father's agreement, supporting both parents in a shared decision instead.",
+   "Offer a non-sacramental blessing both parents can accept, explaining that it is the one thing he can offer without consensus."
+  ],
+  "tension": [
+   "parental disagreement vs. spiritual care",
+   "religious rites vs. respect for belief"
+  ],
+  "region": "Vietnam"
+ },
+ {
+  "title": "Compassionate Extubation in an Overstretched Ward",
+  "scenario": "Nurse Dimitra Papadaki in a hospital in Thessaloniki is told by the intensivist that a ventilated patient with irreversible multi-organ failure will have life support withdrawn at noon. The patient's brother, a priest, arrives at 10 a.m. wanting the withdrawal postponed until the feast day on Sunday, three days away, for a special liturgy. The family is otherwise in agreement. Another patient's relatives are waiting for this bed. Dimitra must decide whether to convey the request and support delay.",
+  "options": [
+   "Support the delay and ask the intensivist to postpone for three days, given that the patient's condition is stable and the family needs ritual closure.",
+   "Stay with the noon plan, explaining to the brother that continued ventilation offers the patient no benefit and the bed is urgently needed.",
+   "Propose a compromise of a shorter delay of a day, so the priest can hold a service at the bedside first."
+  ],
+  "tension": [
+   "family ritual vs. resource stewardship",
+   "non-beneficial treatment vs. compassion"
+  ],
+  "region": "Greece"
+ },
+ {
+  "title": "A Hidden Sedative at a Nursing Home",
+  "scenario": "Care assistant Bongani Khumalo in a nursing home near Pietermaritzburg notices that a night nurse, Gloria, has quietly started giving a dying resident, Mr. Sithole, doses of morphine from a stock meant for other patients. Mr. Sithole is screaming in pain, and no prescriber has been reached despite many calls. Gloria says she will take responsibility. Bongani knows the unauthorised use could cost Gloria her licence and could be unsafe. He must decide whether to report it.",
+  "options": [
+   "Report Gloria immediately to the manager, since unauthorised drug use is dangerous and rules protect everyone.",
+   "Say nothing tonight while pressing again for a doctor to be reached, prioritising Mr. Sithole's immediate relief.",
+   "Tell Gloria he will support her if she records exactly what she gave and why, and report this openly in the morning."
+  ],
+  "tension": [
+   "rule-following vs. relieving suffering",
+   "loyalty vs. accountability"
+  ],
+  "region": "South Africa"
+ },
+ {
+  "title": "Feeding Tubes in the Late Stage of Parkinson's",
+  "scenario": "Neurologist Dr. Lakshmi Iyer in Bengaluru follows Mr. Gopal, 69, with advanced Parkinson's, who now chokes on most food. His wife wants a percutaneous feeding tube to continue nutrition; his son argues that it will prolong a life his father once described as 'not worth living if I can't eat'. Mr. Gopal can communicate only in short phrases and says, 'I don't know.' Dr. Iyer must decide how to proceed at a family meeting.",
+  "options": [
+   "Recommend placing the tube, because it restores nutrition and his unclear answer is not a refusal of treatment.",
+   "Recommend supported oral feeding for comfort only, even though it carries aspiration risk and will probably shorten his life.",
+   "Suggest a time-limited trial of tube feeding with a plan to review whether it matches his goals and quality of life."
+  ],
+  "tension": [
+   "prolonging life vs. quality of life",
+   "uncertain wishes vs. family disagreement"
+  ],
+  "region": "India"
+ },
+ {
+  "title": "Taking a Dying Baby Home to the Hebrides",
+  "scenario": "Paediatric palliative nurse Eilidh Murray in a children's hospital in Aberdeen supports the parents of a six-week-old with a severe, untreatable brain condition, on a ventilator. The parents wish to take him to their croft in the Hebrides for his last days, a long journey by ferry. The consultant fears the baby might die in transit or be deprived of rapid medical help. The parents say that even an uncomfortable end at home is better than hospital. Eilidh must decide whether to advocate for the plan.",
+  "options": [
+   "Advocate for the journey, arranging a portable ventilator and escort, because dying at home matters deeply to the family.",
+   "Argue against the journey, since the baby's comfort and the risk of a distressing death in transit take precedence.",
+   "Propose a hospice near the family's island with local nursing support, as a compromise closer to home than the hospital."
+  ],
+  "tension": [
+   "family wishes vs. clinical safety",
+   "place of death vs. comfort"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Life Support Withdrawn While a Relative Is in Transit",
+  "scenario": "Intensivist Dr. Rosa Mendes in Luanda has agreed with a patient's husband to withdraw ventilation from Dona Teresa, 55, after a catastrophic haemorrhage. As they prepare, a call arrives from her only son, a soldier, trapped by floods three hours away, begging them to wait so he can say goodbye. The husband, torn, says he is willing to wait. Dona Teresa is unconscious but may deteriorate. Dr. Mendes must decide whether to hold off.",
+  "options": [
+   "Wait the three hours, respecting the son's need to say goodbye, as there is no suffering for the patient.",
+   "Proceed as planned, since the agreed decision was made by the surrogate and delay risks cardiac arrest with a more distressing death.",
+   "Wait, but set a clear limit of three hours and prepare for sudden deterioration with an agreed contingency plan."
+  ],
+  "tension": [
+   "family closure vs. clinical timing",
+   "surrogate decision vs. wider family"
+  ],
+  "region": "Angola"
+ },
+ {
+  "title": "A Dying Patient Wants to Return to Tokyo Alone",
+  "scenario": "Social worker Yuki Fujimoto at a Hong Kong hospice meets Mr. Takeda, 62, a Japanese businessman with end-stage liver failure and a few weeks to live. He wants to fly home to Tokyo, alone and unannounced, to see a daughter he has not spoken to for fifteen years. He is weak and at risk of bleeding en route. The airline requires a medical certificate, and the hospice doctor is hesitant. Yuki must decide whether to help him arrange the trip.",
+  "options": [
+   "Help him plan the trip with medical escort and emergency equipment, supporting his need to reconcile despite the risk.",
+   "Discourage the trip as unsafe, and offer to contact the daughter on his behalf so she can visit him instead.",
+   "Support his plan, but insist that the daughter be informed before he leaves so that she can meet him and help if he becomes ill."
+  ],
+  "tension": [
+   "autonomy and meaning vs. safety",
+   "privacy vs. protective notification"
+  ],
+  "region": "Hong Kong"
+ },
+ {
+  "title": "A Soldier Refuses Further Treatment of His Wounds",
+  "scenario": "Field surgeon Major Dr. Olena Kovalenko, at a trauma stabilisation point in eastern Ukraine, treats Sergeant Taras, 33, with extensive burns and a grim prognosis. After several operations, he refuses further surgery and asks for pain control and for his unit comrades to be allowed to visit. Medical staff believe he has perhaps a 20% chance of survival with grafts. His commander urges treatment, saying his unit needs him. Dr. Kovalenko must decide how to respond.",
+  "options": [
+   "Honour his refusal and focus on comfort and the visit, respecting his considered decision about his own body.",
+   "Continue to recommend surgery strongly and delay the visit, hoping that he will see the prospect of recovery more clearly.",
+   "Offer a limited further operation focused on pain relief and wound care, with the comrades' visit beforehand, and continue to discuss the rest."
+  ],
+  "tension": [
+   "autonomy vs. institutional pressure",
+   "quality of dying vs. chance of survival"
+  ],
+  "region": "Ukraine"
+ },
+ {
+  "title": "Spiritual Healer at the Bedside",
+  "scenario": "Hospital nurse manager Lerato Molefe in Maseru is asked by the family of a dying patient, a woman with advanced AIDS-related illness, to allow a traditional healer to perform a night ritual involving burning herbs and drumming in her room. Neighbouring patients are on oxygen and some are very ill. The patient herself, drifting in and out of awareness, has previously asked for the healer. Lerato must decide whether to allow the ritual in the ward.",
+  "options": [
+   "Allow the ritual in the room with precautions such as turning off oxygen nearby, honouring the patient's cultural and spiritual needs.",
+   "Refuse because of the fire and oxygen hazard and the disturbance, and offer a quieter ritual without burning.",
+   "Move the patient to a side room or outdoor courtyard where the ritual can take place safely, even if this requires staff effort and stretches the rules."
+  ],
+  "tension": [
+   "cultural care vs. safety of others",
+   "patient wishes vs. ward rules"
+  ],
+  "region": "Lesotho"
+ },
+ {
+  "title": "Time-Limited Trial for a Frail Man's Pneumonia",
+  "scenario": "Hospital doctor Dr. Joon-ho Kim in Busan admits Mr. Baek, 91, with severe pneumonia, who has told his daughter he wants no hospital ventilator. His daughter, however, believes he would want a chance, as he surprised everyone by recovering from a stroke last year. The ICU has capacity. Mr. Baek is confused and can only say, 'Don't hurt me.' The pneumonia is potentially treatable. Dr. Kim must decide whether to offer a trial of non-invasive ventilation.",
+  "options": [
+   "Offer non-invasive ventilation as a time-limited trial, with a plan to stop if it is burdensome or clearly failing.",
+   "Respect his earlier statement, avoid ventilation of any kind, and provide oxygen and comfort treatment on the ward.",
+   "Admit him to ICU for the full range of treatment, since pneumonia is reversible and his earlier statement was general, not specific to this situation."
+  ],
+  "tension": [
+   "prior wishes vs. daughter's judgment",
+   "reversible illness vs. frailty"
+  ],
+  "region": "South Korea"
+ },
+ {
+  "title": "A Child Asks Whether She Is Dying",
+  "scenario": "Play therapist Zainab Ibrahim at a children's hospital in Khartoum sits with Salma, 8, who has relapsed bone cancer. Her parents have told staff never to mention that Salma may die. That afternoon Salma asks her quietly, 'Am I going to die like my cousin did?' The oncology team is unavailable and the parents are out for prayer. Zainab must decide how to respond to the child at this moment.",
+  "options": [
+   "Redirect with comfort and promise to find someone to talk with her, respecting the parents' wishes while not lying outright.",
+   "Answer honestly in child-appropriate language that her illness is very serious, because Salma has asked sincerely and deserves truth.",
+   "Ask Salma what she is thinking and feeling and listen carefully, saying nothing definite but making space for her worries and passing them on to the parents."
+  ],
+  "tension": [
+   "child's right to truth vs. parental authority",
+   "honesty vs. protection"
+  ],
+  "region": "Sudan"
+ },
+ {
+  "title": "Funding Last-Resort Treatment from Community Donations",
+  "scenario": "Dr. Rafael Ortiz, a cardiologist in Guadalajara, treats Don Anselmo, 74, whose town has raised enough money by a fundraiser for a risky valve replacement in a private hospital. Dr. Ortiz thinks that the operation has under a 15% chance of a good outcome and probably a long, painful decline if it fails. Don Anselmo wants it, and the community expects the surgery. Dr. Ortiz must decide whether to refer him.",
+  "options": [
+   "Refer him for surgery, since he is informed, wants the chance, and the funds are freely given.",
+   "Decline to refer, explaining that the surgery offers little realistic benefit and may worsen his final months.",
+   "Refer him to a second cardiac surgeon for an independent opinion, with the family told honestly about the odds."
+  ],
+  "tension": [
+   "patient autonomy vs. non-beneficial treatment",
+   "community expectation vs. honest prognosis"
+  ],
+  "region": "Mexico"
+ },
+ {
+  "title": "Dignity in the Last Bath",
+  "scenario": "Healthcare assistant Ngozi Eze at a care home in Birmingham is told by a night manager that an actively dying resident, Mr. Campbell, 85, must still be turned and washed on schedule, as the inspectors check turning charts. Turning clearly causes him pain and distress; his Jamaican-born family has asked that he be left in peace, with the hymns they sing. Failing the chart could mean a poor rating for the home. Ngozi must decide whether to turn him tonight.",
+  "options": [
+   "Leave Mr. Campbell undisturbed and document his comfort-focused care plan, risking the manager's displeasure.",
+   "Follow the schedule and turn him gently, since it is the rule and inspectors may penalise the home for gaps.",
+   "Ask the on-call doctor to write an explicit comfort-care order that formally replaces the turning schedule, then act on it."
+  ],
+  "tension": [
+   "dignity vs. compliance",
+   "institutional rules vs. individual comfort"
+  ],
+  "region": "United Kingdom"
+ },
+ {
+  "title": "Request to Discontinue Insulin in Late Cancer",
+  "scenario": "Dr. Beatriz Lopes, a family doctor in Porto, treats Senhor Almeida, 77, with metastatic pancreatic cancer and type 1 diabetes. He has weeks left and asks to stop insulin, saying injections are a bother and he wants to eat whatever he likes. His wife fears he will fall into diabetic coma and suffer. Stopping insulin may cause distressing symptoms before death, though they can be managed. Dr. Lopes must decide how to advise him.",
+  "options": [
+   "Agree to stop insulin, providing comfort measures for symptoms, as the injections no longer serve his goals.",
+   "Persuade him to keep a simplified, minimal insulin regimen that avoids severe symptoms while letting him eat more freely.",
+   "Refuse to stop altogether and insist on keeping insulin, because stopping it is likely to cause a distressing death sooner."
+  ],
+  "tension": [
+   "autonomy vs. avoidance of suffering",
+   "burden of treatment vs. benefit"
+  ],
+  "region": "Portugal"
+ },
+ {
+  "title": "Waking a Sedated Patient to Decide",
+  "scenario": "Intensivist Dr. Bahar Karimi in Tabriz has kept Mr. Rostami, 73, sedated on a ventilator for nine days with end-stage lung fibrosis. Weaning attempts have failed twice. His wife says he once told her he would rather die than live on machines, but his brother insists he would fight to the end. Lightening sedation would let Mr. Rostami communicate but would likely cause him fear and breathlessness for hours. Dr. Karimi must decide whether to wake him to ask his wishes.",
+  "options": [
+   "Lighten the sedation and ask him directly, accepting hours of distress, because only his own answer can settle the disagreement.",
+   "Keep him sedated and decide with the wife and brother, relying on what he said earlier and avoiding needless suffering.",
+   "Hold a joint family meeting with the palliative team first, and wake him only if the relatives cannot reach agreement within a day."
+  ],
+  "tension": [
+   "autonomy vs. avoiding suffering",
+   "family disagreement vs. patient's own voice"
+  ],
+  "region": "Iran"
+ }
+]
